@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "title": "VSTEP B1-B2-C1 Mastery Hub",
+  "updated_at": "2026-10-02T13:30:25.808207",
+  "modules": [
+    {
+      "id": "1-2",
+      "name": "Quy Tắc Phối Thì & Mốc Thời Gian",
+      "doc_path": "./docs/1-2-quy-tac-phoi-thi-va-moc-thoi-gian.md",
+      "episodes": [
+        {
+          "id": "1-2-a",
+          "title": "Tập 1.2A: Bản Chất Ngôn Ngữ & Từ Vựng Học Thuật",
+          "audio_file": "lesson-1-2-a.mp3",
+          "duration_target": "15-20 mins",
+          "script_path": "./podcast-scripts/script-1-2-a.txt"
+        },
+        {
+          "id": "1-2-b",
+          "title": "Tập 1.2B: Bẫy Đề Thi & Kỹ Năng Sản Xuất Writing/Speaking",
+          "audio_file": "lesson-1-2-b.mp3",
+          "duration_target": "15-20 mins",
+          "script_path": "./podcast-scripts/script-1-2-b.txt"
+        }
+      ],
+      "cards": [
+        {
+          "title": "BY THE TIME",
+          "grammar": "+ Quá khứ: By the time + S + V2/ed, S + had + V3/ed (By the time the government introduced bans, tobacco usage had already caused millions of premature deaths). + Tương lai: By the time + S + V(hiện tại đơn), S + will have + V3/ed (By the time the decade ends, global temperatures will have risen).",
+          "synonyms": "premature death = untimely demise (ca tử vong sớm).",
+          "exam_trap": "Thấy By the time đi với mốc quá khứ thì vế sau tuyệt đối không chọn Quá khứ đơn, bắt buộc phải là Quá khứ hoàn thành (had + V3/ed)."
+        },
+        {
+          "title": "WHILE VS WHEN",
+          "grammar": "+ Hành động xen ngang: While/When + S + was/were + V-ing, S + V2/ed (While the surgeon was performing the operation, the power went out). + Mở rộng B2/C1 chỉ sự tương phản (= Whereas): While + Clause, Clause (While smoking rates have fallen in developed nations, they have risen in developing regions).",
+          "synonyms": "affordable = reasonably priced (giá cả phải chăng, hợp túi tiền).",
+          "exam_trap": "While thường đi với hành động nền kéo dài; hành động xen ngang bất ngờ thường đi với When và chia Quá khứ đơn."
+        },
+        {
+          "title": "BEFORE & AFTER",
+          "grammar": "",
+          "synonyms": "emancipated = liberated = freed from bondage (được giải phóng, trả tự do).",
+          "exam_trap": "Trục thời gian phi tuyến tính. Đoạn văn nhắc sự kiện năm 1865 trước, nhưng hành động có had + V3 (xảy ra năm 1860) mới là sự việc diễn ra trước tiên."
+        },
+        {
+          "title": "SINCE & AS SOON AS",
+          "grammar": "",
+          "synonyms": "meticulous = thorough = painstaking = rigorous (tỉ mỉ, chu đáo, cẩn trọng).",
+          "exam_trap": "Mệnh đề sau As soon as chỉ thời gian tương lai tuyệt đối không dùng \"will\", chỉ dùng Hiện tại đơn hoặc Hiện tại hoàn thành."
+        },
+        {
+          "title": "BẪY ĐỔI GIỜ & ĐỐI CHIẾU XU HƯỚNG",
+          "grammar": "",
+          "synonyms": "proliferate = multiply rapidly (tăng nhanh chóng, bùng nổ số lượng).",
+          "exam_trap": "Đổi giờ thường lệ bằng từ nối phản bác (Ví dụ: \"Usually at 5:15 but half an hour earlier today\" -> Phải lấy 5:15 trừ 30 phút thành 4:45)."
+        }
+      ]
+    }
+  ]
+}
