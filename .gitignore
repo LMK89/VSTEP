@@ -1,0 +1,11 @@
+# Output binaries and audio files
+output/
+*.mp3
+*.wav
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local IDE
+.vscode/
