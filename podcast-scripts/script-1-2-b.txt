@@ -1,0 +1,225 @@
+[chapter] Phần 1: Ôn lại nguyên tắc phối thì cốt lõi Tập A
+
+[vi] Chào mừng các bạn quay trở lại với chuỗi podcast ôn luyện VSTEP thực chiến. Trong phần trước của Tập một chấm hai A, chúng ta đã nắm chắc bản chất và công thức của các liên từ thời gian.
+[vi] Chúng ta cùng điểm lại nhanh ba nguyên tắc cốt lõi:
+[vi] Thứ nhất, tuyệt đối không dùng trợ động từ tương lai
+[term] will
+[vi] trong mệnh đề trạng ngữ chỉ thời gian.
+[vi] Thứ hai, với liên từ
+[term] By the time
+[vi] nếu mốc ở quá khứ đơn thì vế chính chia quá khứ hoàn thành; nếu mốc ở hiện tại đơn thì vế chính chia tương lai hoàn thành.
+[vi] Và thứ ba,
+[term] Before
+[vi] đi với mốc xảy ra sau, còn
+[term] After
+[vi] đi với sự việc hoàn thành trước.
+[vi] Trong Tập một chấm hai B hôm nay, chúng ta sẽ thực chiến với hai nội dung:
+[vi] Một là vạch trần các cạm bẫy gài mốc thời gian trong bài thi Nghe và Đọc.
+[vi] Hai là ứng dụng quy tắc phối thì vào bài viết luận Task 2 và bài thi Nói Speaking Part 2 và Part 3.
+
+[chapter] Phần 2: Mổ xẻ Bẫy đề thi Listening, Reading và Speaking
+
+[vi] Dưới đây là các tình huống mô phỏng theo dạng đề VSTEP chuẩn giúp các bạn nhận diện bẫy phòng thi.
+[vi] Trước hết là các cạm bẫy trong kỹ năng Nghe.
+[vi] Cạm bẫy số một: Bẫy thay đổi lịch trình thường lệ bằng các từ nối phản bác.
+[vi] Trong phần thi Listening Part 1, người nói thường đưa ra một mốc thời gian quen thuộc ngay từ đầu câu. Nhưng ngay sau đó, họ sẽ dùng các từ chuyển hướng như
+[term] but
+[term] however
+[term] actually
+[vi] hoặc
+[term] instead
+[vi] để thay đổi kế hoạch.
+[vi] Chúng ta cùng nghe tình huống mô phỏng số một:
+[en] The swimming class is usually scheduled at a quarter past five, but this evening it will start half an hour earlier due to maintenance work.
+[vi] Mốc thường lệ là 5 giờ 15 phút, nhưng người nói chêm vào cụm
+[term] half an hour earlier
+[vi] nghĩa là sớm hơn nửa tiếng. Nếu câu hỏi hỏi thời gian học hôm nay, bạn phải lấy 5 giờ 15 phút trừ 30 phút, đáp án chính xác là 4 giờ 45 phút.
+[vi] Cạm bẫy số hai: Phân biệt giữa giờ dự kiến khởi hành và giờ thực tế do bị trễ.
+[vi] Tình huống mô phỏng số hai:
+[en] The express train should depart at seven fifteen, but severe weather conditions have caused a delay of one hour.
+[vi] Kế hoạch ban đầu là 7 giờ 15 phút, nhưng bị trễ một tiếng, đồng nghĩa với việc chuyến tàu sẽ khởi hành lúc 8 giờ 15 phút. Người nghe nếu bỏ qua từ
+[term] delay
+[vi] sẽ chọn nhầm mốc 7 giờ 15.
+[vi] Cạm bẫy số ba: Lẫn lộn giữa sự kiện quá khứ và triệu chứng hiện tại trong Listening Part 2.
+[en] Last year I missed an entire week of school when I fractured my arm, but right now I am suffering from a persistent high fever.
+[vi] Nếu câu hỏi hỏi nguyên nhân nghỉ học hiện tại, những bạn không chú ý thì quá khứ
+[term] fractured my arm
+[vi] sẽ chọn nhầm lý do ngã gãy tay, trong khi đáp án đúng cho hiện tại là sốt cao dai dẳng
+[term] persistent high fever
+[vi] Chuyển sang cạm bẫy trong kỹ năng Đọc hiểu.
+[vi] Bẫy số một: Lệch thì giữa số liệu quá khứ và dự báo tương lai.
+[en] In twenty ten, approximately one million citizens died from smoking-related complications, but statisticians estimate that this figure will double by twenty thirty.
+[vi] Khi câu hỏi hỏi số người có thể tử vong vào năm 2030, đáp án đúng phải là 2 triệu người, tức là gấp đôi con số của năm 2010. Quét vội con số
+[term] one million
+[vi] sẽ dẫn tới chọn sai đáp án.
+[vi] Bẫy số hai: Trục thời gian phi tuyến tính trong bài đọc lịch sử.
+[vi] Tác giả bài đọc thường nhắc đến sự kiện nổi bật trước, sau đó mới dùng thì quá khứ hoàn thành để kể lại các sự việc xảy ra trước đó.
+[vi] Kỹ thuật xử lý: Dựa vào động từ có chứa
+[term] had
+[vi] cộng phân từ ba để xác định hành động xảy ra trước tiên trên trục thời gian.
+[vi] Tiếp theo là cạm bẫy trong kỹ năng Nói Speaking Part 1: Bẫy lệch thì giữa Thói quen hiện tại và Kỷ niệm quá khứ.
+[vi] Giám khảo hỏi về sở thích đọc sách hiện tại của bạn, nhưng bạn lại dùng toàn bộ thì quá khứ để kể về tuổi thơ mà quên chốt lại thói quen hiện tại. Chúng ta cùng quan sát câu trả lời mẫu chuẩn phối thì:
+[en] When I was a high school student, I frequently read romantic novels, but since I enrolled in university, I have developed a keen interest in scientific journals.
+[vi] Vế đầu dùng quá khứ đơn
+[term] read
+[vi] để kể quá khứ, nhưng vế sau lập tức phối với
+[term] since
+[vi] và hiện tại hoàn thành
+[term] have developed
+[vi] để trả lời đúng trọng tâm câu hỏi về hiện tại.
+
+[chapter] Phần 3: Ứng dụng thực chiến Writing và Speaking
+
+[vi] Chúng ta cùng phân tích mười sáu câu ứng dụng thực chiến vào Writing và Speaking. Mỗi câu tiếng Anh sẽ được đọc hai lần.
+[vi] Trước hết là bài thi Viết thư Task 1, dạng thư phàn nàn sản phẩm hỏng.
+[en] I purchased a high-end smartphone at your downtown branch on October tenth, but after three days of normal usage, several critical system errors emerged.
+[vi] Mốc mua hàng và mốc lỗi kỹ thuật phát sinh sau ba ngày đều dùng quá khứ đơn là
+[term] purchased
+[vi] và
+[term] emerged
+[vi] Câu yêu cầu giải quyết với cấu trúc điều kiện trong thư phàn nàn:
+[en] If a fully functional replacement unit is not provided by Friday, I will have no alternative but to demand a comprehensive refund.
+[vi] Mệnh đề điều kiện dùng hiện tại đơn
+[term] is not provided
+[vi] và mệnh đề chính đưa ra tối hậu thư chia tương lai đơn
+[term] will have no alternative
+[vi] Tiếp theo, dạng thư xin lỗi hàng xóm vì làm ồn:
+[en] While my roommates and I were celebrating a graduation party last Saturday, an unforeseen argument broke out and severely disturbed your sleep.
+[vi] Hành động mở tiệc kéo dài dùng quá khứ tiếp diễn
+[term] were celebrating
+[vi] hành động cãi vã bất ngờ nổ ra chen ngang dùng quá khứ đơn
+[term] broke out
+[vi] Lời cam kết ở thì tương lai đơn:
+[en] I will strictly refrain from hosting late-night social gatherings in the future to ensure peaceful living conditions for all residents.
+[vi] Cụm từ
+[term] refrain from
+[vi] kết hợp với
+[term] will strictly refrain
+[vi] thể hiện sự lịch thiệp và cam kết dứt khoát.
+[vi] Chuyển sang bài luận học thuật Writing Task 2.
+[vi] Kỹ thuật một: Đối chiếu Quá khứ so với Thực trạng Hiện tại.
+[en] In the past, printed newspapers served as the primary medium for news dissemination, but in recent years, digital platforms have completely revolutionized public information consumption.
+[vi] Vế đầu dùng quá khứ đơn
+[term] served
+[vi] vế sau dùng hiện tại hoàn thành
+[term] have completely revolutionized
+[vi] để nhấn mạnh sự thay đổi kéo dài đến nay.
+[vi] Kỹ thuật hai: Dự báo hệ quả tương lai với mốc hạn định thời gian bắt đầu bằng giới từ
+[term] by
+[en] If local authorities fail to enforce strict housing regulations, property prices will have escalated beyond the reach of average wage earners by the end of the decade.
+[vi] Mệnh đề điều kiện dùng hiện tại đơn
+[term] fail to enforce
+[vi] và vế chính sử dụng
+[term] will have escalated
+[vi] ở tương lai hoàn thành đi với mốc
+[term] by the end of the decade
+[vi] Kỹ thuật ba: Đề xuất giải pháp với
+[term] As soon as
+[vi] trong Task 2:
+[en] As soon as the government implements comprehensive subsidies for renewable energy, sustainable alternatives will replace hazardous fossil fuels across industrial sectors.
+[vi] Mệnh đề thời gian dùng hiện tại đơn
+[term] implements
+[vi] vế chính dùng tương lai đơn
+[term] will replace
+[vi] Kỹ thuật bốn: Luận điểm về Giáo dục và Đào tạo nguồn nhân lực số:
+[en] Before educational institutions restructure their curriculum, they will gather extensive feedback from technology employers to eliminate skill gaps.
+[vi] Mệnh đề sau
+[term] Before
+[vi] dùng hiện tại đơn
+[term] restructure
+[vi] và vế chính dùng tương lai đơn
+[term] will gather
+[vi] Bây giờ, chúng ta chuyển sang kỹ năng Nói Speaking.
+[vi] Trong Speaking Part 2, thảo luận giải pháp: Dùng thì quá khứ đơn và hiện tại hoàn thành để đối chiếu trải nghiệm trước khi đưa ra quyết định:
+[en] To be honest, I spent five years working in a metropolitan center, so I have already experienced urban noise and environmental pollution extensively.
+[vi] Dùng quá khứ đơn
+[term] spent
+[vi] để kể thời gian làm việc trước đây, và
+[term] have already experienced
+[vi] để khẳng định trải nghiệm đó đã có thật.
+[vi] Đưa ra lựa chọn bằng câu điều kiện loại hai:
+[en] If I were granted the opportunity to decide right now, I would unquestionably choose an eco-friendly holiday in the countryside.
+[vi] Cấu trúc giả định
+[term] If I were granted
+[vi] kết hợp với
+[term] I would unquestionably choose
+[vi] giúp nâng cao tính đa dạng ngữ pháp.
+[vi] Phản bác phương án khác bằng phối thì với
+[term] While
+[vi] và
+[term] By the time
+[en] Regarding a strenuous mountain trek, while it appears exhilarating, I believe that by the time I reach the summit, physical exhaustion will have overwhelmed me.
+[vi] Mệnh đề
+[term] By the time I reach the summit
+[vi] ở hiện tại đơn kết hợp với
+[term] will have overwhelmed
+[vi] ở tương lai hoàn thành.
+[vi] Cuối cùng, trong Speaking Part 3, phát triển chủ đề theo sơ đồ tư duy:
+[en] After university graduates have completed their rigorous academic programs abroad, they will possess a competitive edge in securing lucrative employment opportunities.
+[vi] Mệnh đề
+[term] After
+[vi] dùng hiện tại hoàn thành
+[term] have completed
+[vi] nhấn mạnh việc hoàn thành chương trình học, vế chính dùng tương lai
+[term] will possess
+[vi] để chỉ lợi thế cạnh tranh khi tìm kiếm việc làm.
+
+[chapter] Phần 4: Chuyên mục Tự hỏi Tự đáp và Thử thách phản xạ
+
+[vi] Chào mừng các bạn đến với phần bốn: Chuyên mục Tự hỏi Tự đáp.
+[vi] Câu hỏi số một: Tại sao trong mệnh đề sau
+[term] By the time
+[vi] chỉ sự việc tương lai, chúng ta lại chia động từ ở hiện tại đơn mà không dùng tương lai đơn?
+[vi] Trả lời: Các liên từ thời gian đã mang sẵn ý niệm về thời gian. Quy tắc ngữ pháp quy định mệnh đề trạng ngữ thời gian phải dùng thì hiện tại đơn để làm điểm tựa tham chiếu cho mệnh đề chính. Vì vậy, nói
+[term] By the time the next decade begins
+[vi] là chuẩn mực, không dùng
+[term] will begin
+[vi] Câu hỏi số hai: Làm thế nào để phân biệt khi nào dùng
+[term] When
+[vi] và khi nào dùng
+[term] While
+[vi] khi mô tả hành động đang diễn ra thì hành động khác chen vào?
+[vi] Trả lời: Điểm mấu chốt nằm ở độ dài hành động. Liên từ
+[term] When
+[vi] thường đứng trước hành động chen ngang ngắn ngủi chia quá khứ đơn. Ngược lại, liên từ
+[term] While
+[vi] thường đứng trước hành động bối cảnh kéo dài chia quá khứ tiếp diễn.
+[vi] Câu hỏi số ba: Trong bài thi Viết Task 2, có thể dùng thì quá khứ hoàn thành đơn độc trong một câu đơn được không?
+[vi] Trả lời: Tuyệt đối không. Thì quá khứ hoàn thành với
+[term] had
+[vi] cộng phân từ ba không bao giờ đứng một mình nếu không có một mốc thời gian hoặc một hành động quá khứ đơn làm điểm tựa so sánh. Nếu chỉ kể một sự việc đã chấm dứt trong quá khứ, hãy dùng thì quá khứ đơn.
+[vi] Câu hỏi số bốn: Khi nào mệnh đề trạng ngữ chỉ thời gian có thể rút gọn thành dạng V-ing hoặc V3?
+[vi] Trả lời: Hai mệnh đề phải có cùng một chủ ngữ. Khi đó, sau các liên từ như
+[term] While
+[term] When
+[vi] hoặc
+[term] After
+[vi] ta có thể lược bỏ chủ ngữ và biến đổi động từ thành
+[term] V-ing
+[vi] ở thể chủ động, hoặc
+[term] V3
+[vi] ở thể bị động. Ví dụ:
+[term] While investigating the crime scene
+[vi] thay cho
+[term] While they were investigating
+[vi] Câu hỏi số năm: Trong bài luận Task 2, làm thế nào để mở đầu đoạn thân bài bằng câu chủ đề chứa phối thì?
+[vi] Trả lời: Hãy dùng cấu trúc đối chiếu
+[term] In the past... However, in recent years...
+[vi] Câu mở đoạn này ngay lập tức làm nổi bật tính cấp bách của vấn đề cần giải quyết, giúp người đọc nắm trọn bối cảnh xã hội của đề tài.
+
+[chapter] Phần 5: Tổng kết và Lời khuyên phòng thi
+
+[vi] Như vậy, chúng ta đã đi trọn vẹn cả hai tập của Bài một chấm hai.
+[vi] Qua chuỗi ba mươi mốt câu ví dụ thực tế trong hai tập A và B, các bạn đã được trang bị đầy đủ từ bản chất công thức, bẫy gài giờ tinh vi và những khung mẫu câu ăn điểm cho Writing và Speaking.
+[vi] Ba lưu ý cốt lõi khi bước vào phòng thi:
+[vi] Thứ nhất, khi làm bài thi Nghe: Hãy giữ vững tâm lý và luôn chú ý các từ chuyển hướng như
+[term] but
+[vi] hoặc
+[term] however
+[vi] để không bị đánh lừa bởi mốc thời gian ban đầu mà băng phát ra.
+[vi] Thứ hai, khi làm bài thi Đọc: Hãy gạch chân các động từ hoàn thành để xác định chính xác thứ tự trước sau của các sự kiện trên trục thời gian.
+[vi] Thứ ba, khi làm bài thi Viết và Nói: Hãy chủ động vận dụng linh hoạt câu đối chiếu quá khứ với hiện tại hoặc câu dự báo với
+[term] By the time
+[vi] để tối ưu hóa điểm số tiêu chí ngữ pháp.
+[vi] Các bạn hãy dành thời gian ôn lại năm thẻ Micro-check của bài học hôm nay để củng cố phản xạ kiến thức.
+[vi] Chúc các bạn ôn luyện hiệu quả và hẹn gặp lại các bạn trong bài học tiếp theo!

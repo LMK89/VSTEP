@@ -1,0 +1,274 @@
+[chapter] Phần 1: Mở bài và Tư duy tiếp cận phối thì VSTEP
+
+[vi] Chào mừng các bạn đến với chuỗi podcast chuyên sâu về ngữ pháp thực chiến dành riêng cho kỳ thi VSTEP từ trình độ B1 lên B2 và C1.
+[vi] Hôm nay, chúng ta cùng phân tích chuyên đề trọng tâm của Module 1: Bài một chấm hai, Quy tắc phối thì và xác định mốc thời gian.
+[vi] Trong bài thi học thuật VSTEP, các thì không đứng độc lập mà luôn vận hành trong một hệ thống liên kết chặt chẽ. Khái niệm này được gọi là
+[term] Tense Harmony
+[vi] tức là sự hài hòa về thì giữa các mệnh đề.
+[vi] Nắm vững quy tắc phối thì giúp các bạn đạt được hai mục tiêu:
+[vi] Thứ nhất, ở phần thi Nghe và Đọc, bạn sẽ phát hiện ngay các bẫy đánh tráo mốc thời gian giữa quá khứ, hiện tại và tương lai.
+[vi] Thứ hai, ở phần thi Viết và Nói, việc sử dụng chính xác các câu phức chứa mệnh đề thời gian là tiêu chí trực tiếp giúp bài thi vượt qua mốc B1 năm điểm rưỡi để vươn lên B2 và C1.
+[vi] Trong Tập A hôm nay, chúng ta sẽ đi sâu vào bản chất của từng liên từ, công thức chuẩn mực và phân tích chuỗi mười bốn câu ví dụ học thuật thuộc các chủ đề Y tế, Môi trường, Giáo dục và Đô thị hóa.
+
+[chapter] Phần 2: Bản chất ngôn ngữ và Bảng công thức phối thì chuẩn
+
+[vi] Mệnh đề đi liền sau liên từ thời gian đóng vai trò là mốc tham chiếu. Mệnh đề chính mô tả sự việc diễn ra xung quanh mốc đó.
+[vi] Nguyên tắc cốt lõi: Mệnh đề trạng ngữ chỉ thời gian không bao giờ dùng trợ động từ tương lai
+[term] will
+[vi] mà bắt buộc phải mượn thì hiện tại đơn hoặc hiện tại hoàn thành để diễn đạt ý niệm về tương lai.
+[vi] Nhóm liên từ đầu tiên:
+[term] When
+[vi] và
+[term] While
+[vi] Với
+[term] When
+[vi] bản chất thường là một điểm thời gian xác định. Có hai tình huống phổ biến:
+[vi] Tình huống một: Hai hành động nối tiếp nhau trong quá khứ, cả hai mệnh đề đều dùng quá khứ đơn.
+[vi] Tình huống hai: Một hành động đang diễn ra làm nền thì một hành động khác chen ngang. Hành động chen ngang ngắn hơn thường đi sau
+[term] When
+[vi] và chia quá khứ đơn, hành động nền dài hơn chia quá khứ tiếp diễn.
+[vi] Với
+[term] While
+[vi] bản chất thường là một khoảng thời gian kéo dài. Mệnh đề đi sau thường chia quá khứ tiếp diễn. Nếu hai hành động diễn ra song song trong quá khứ, cả hai vế đều chia quá khứ tiếp diễn.
+[vi] Mở rộng ở trình độ B2 và C1,
+[term] While
+[vi] còn dùng để diễn tả sự đối lập giữa hai hiện tượng xã hội, tương đương với
+[term] Whereas
+[vi] Ở cách dùng này, hai vế có thể phối thì hiện tại đơn hoặc hiện tại hoàn thành.
+[vi] Nhóm liên từ thứ hai:
+[term] Before
+[vi] và
+[term] After
+[vi] Đây là cặp liên từ xác định thứ tự trước sau. Hành động nào hoàn thành trước một mốc quá khứ khác phải chia quá khứ hoàn thành với
+[term] had
+[vi] cộng động từ phân từ ba. Hành động xảy ra sau chia quá khứ đơn.
+[vi] Vì vậy, sau
+[term] Before
+[vi] là hành động sau nên chia quá khứ đơn, vế chính xảy ra trước chia quá khứ hoàn thành. Ngược lại, sau
+[term] After
+[vi] là hành động xảy ra trước nên chia quá khứ hoàn thành, vế chính chia quá khứ đơn.
+[vi] Nhóm liên từ thứ ba:
+[term] By the time
+[vi] mang nghĩa là tính đến thời điểm.
+[vi] Nếu mốc thời gian ở quá khứ:
+[term] By the time
+[vi] cộng quá khứ đơn, vế chính bắt buộc chia quá khứ hoàn thành.
+[vi] Nếu mốc thời gian ở tương lai:
+[term] By the time
+[vi] cộng hiện tại đơn, vế chính bắt buộc chia tương lai hoàn thành với
+[term] will have
+[vi] cộng phân từ ba.
+[vi] Nhóm liên từ thứ tư:
+[term] Since
+[vi] và
+[term] As soon as
+[vi] Với
+[term] Since
+[vi] mệnh đề sau chia quá khứ đơn làm mốc bắt đầu, vế chính chia hiện tại hoàn thành mô tả kết quả kéo dài đến nay.
+[vi] Với
+[term] As soon as
+[vi] diễn tả tính nối tiếp tức thì. Điểm khác biệt giữa
+[term] When
+[vi] và
+[term] As soon as
+[vi] nằm ở tốc độ diễn tiến:
+[term] As soon as
+[vi] nhấn mạnh hành động thứ hai xảy ra ngay lập tức sau hành động thứ nhất mà không có bất kỳ độ trễ nào. Trong quá khứ, cả hai vế dùng quá khứ đơn. Hướng tới tương lai, vế sau
+[term] As soon as
+[vi] dùng hiện tại đơn, vế chính chia tương lai đơn.
+[vi] Nhóm liên từ thứ năm:
+[term] Until
+[vi] mang nghĩa là cho đến khi.
+[vi] Cấu trúc đặc biệt của
+[term] Until
+[vi] thường đi kèm với mệnh đề phủ định ở vế trước:
+[term] not until
+[vi] mang nghĩa là mãi cho đến khi sự việc ở mệnh đề sau xảy ra thì sự việc ở mệnh đề trước mới bắt đầu diễn ra.
+
+[chapter] Phần 3: Chuỗi ví dụ thực tế theo chủ đề học thuật VSTEP
+
+[vi] Bây giờ, chúng ta cùng phân tích chuỗi mười bốn câu ví dụ thực tế theo các chủ đề học thuật. Mỗi câu tiếng Anh sẽ được đọc hai lần: lần một chậm rãi và lần hai với ngữ điệu tự nhiên.
+[vi] Câu số một: Chủ đề Y tế công cộng và Lịch sử, hai hành động nối tiếp nhau trong quá khứ với
+[term] When
+[en] When penicillin was introduced during World War II, it proved to be a miracle drug that saved countless wounded soldiers.
+[vi] Hai động từ
+[term] was introduced
+[vi] và
+[term] proved
+[vi] đều chia ở quá khứ đơn, diễn tả hai sự việc diễn ra liên tiếp trong Thế chiến thứ hai.
+[vi] Câu số hai: Bối cảnh nghiên cứu y học, hành động chen ngang và hành động đang diễn ra với
+[term] When
+[en] When public health researchers conducted the national survey, a majority of respondents were experiencing severe symptoms of insomnia.
+[vi] Việc tiến hành khảo sát chia quá khứ đơn là
+[term] conducted
+[vi] chen vào bối cảnh người tham gia đang bị mất ngủ chia quá khứ tiếp diễn là
+[term] were experiencing
+[vi] Câu số ba: Chủ đề Thuốc lá và Sự tương phản xã hội, sử dụng
+[term] While
+[vi] để đối lập hai xu hướng.
+[en] While smoking rates have fallen in developed nations, they have risen drastically in developing regions as tobacco products become more affordable.
+[vi] Hai vế đối lập sử dụng hiện tại hoàn thành là
+[term] have fallen
+[vi] và
+[term] have risen
+[vi] để làm nổi bật sự trái ngược giữa các nhóm quốc gia.
+[vi] Câu số bốn: Hai hành động song song trong quá khứ với
+[term] While
+[vi] chủ đề Trách nhiệm gia đình.
+[en] While the father was working tirelessly in a chemical factory, his wife was taking care of their disabled son at home.
+[vi] Cả hai hành động đều diễn ra đồng thời trong quá khứ nên chia quá khứ tiếp diễn là
+[term] was working
+[vi] và
+[term] was taking care
+[vi] Câu số năm: Tình huống chen ngang bất ngờ trong y khoa với
+[term] While
+[en] While the surgical team was performing the emergency operation, the hospital power grid suddenly failed.
+[vi] Hành động phẫu thuật kéo dài chia quá khứ tiếp diễn là
+[term] was performing
+[vi] hành động mất điện bất ngờ chia quá khứ đơn là
+[term] failed
+[vi] Câu số sáu: Chủ đề Đột phá công nghiệp và Đầu tư tài chính, sử dụng
+[term] Before
+[vi] trong quá khứ.
+[en] Before George Pullman founded the luxury railcar enterprise, he had invested his entire fortune in designing the innovative prototype named Pioneer.
+[vi] Việc dốc toàn bộ tài sản thiết kế toa xe xảy ra trước nên chia quá khứ hoàn thành là
+[term] had invested
+[vi] Việc thành lập công ty diễn ra sau chia quá khứ đơn là
+[term] founded
+[vi] Câu số bảy: Quy hoạch đô thị hướng tới tương lai với
+[term] Before
+[en] Before the municipal committee approves the master plan, they will consult thoroughly with environmental specialists.
+[vi] Mệnh đề sau
+[term] Before
+[vi] chia hiện tại đơn là
+[term] approves
+[vi] không dùng
+[term] will
+[vi] Vế chính chia tương lai đơn là
+[term] will consult
+[vi] Câu số tám: Chủ đề Lịch sử và Phong trào giải phóng, áp dụng
+[term] After
+[en] After her poetry collection had been published in London, Phillis Wheatley was emancipated.
+[vi] Việc tập thơ được xuất bản ở London năm 1773 diễn ra trước, chia quá khứ hoàn thành dạng bị động là
+[term] had been published
+[vi] Sự kiện bà được trả tự do diễn ra sau, chia quá khứ đơn bị động là
+[term] was emancipated
+[vi] Câu số chín: Quy trình thương mại điện tử, áp dụng
+[term] As soon as
+[vi] cho tương lai.
+[en] As soon as the warehouse receives the defective unit, our technical department will process a full refund for the client.
+[vi] Mệnh đề sau
+[term] As soon as
+[vi] chia hiện tại đơn là
+[term] receives
+[vi] Vế chính chia tương lai đơn là
+[term] will process
+[vi] Câu số mười: Hoạt động từ thiện và Y tế cộng đồng, phối thì với
+[term] Since
+[en] Since the charity clinic was established in the early nineties, it has provided meticulous healthcare to thousands of underprivileged patients.
+[vi] Mốc thành lập phòng khám ở quá khứ đơn là
+[term] was established
+[vi] Việc cung cấp y tế kéo dài suốt nhiều năm đến nay chia hiện tại hoàn thành là
+[term] has provided
+[vi] Câu số mười một: Cấu trúc
+[term] By the time
+[vi] trong quá khứ, chủ đề Y tế và Tác hại thuốc lá.
+[en] By the time the government recognized the health crisis, tobacco usage had already caused millions of premature deaths.
+[vi] Mốc chính phủ nhận thức cuộc khủng hoảng chia quá khứ đơn là
+[term] recognized
+[vi] Việc thuốc lá gây ra hàng triệu ca tử vong sớm xảy ra và tích tụ từ trước đó, nên chia quá khứ hoàn thành là
+[term] had already caused
+[vi] Câu số mười hai: Cấu trúc
+[term] By the time
+[vi] hướng tới tương lai, chủ đề Biến đổi khí hậu.
+[en] By the time the next decade begins, the global average temperature will have risen beyond the critical threshold unless emissions are curbed.
+[vi] Mốc thập kỷ tới bắt đầu chia hiện tại đơn là
+[term] begins
+[vi] Hệ quả nhiệt độ toàn cầu tăng vượt ngưỡng chia tương lai hoàn thành là
+[term] will have risen
+[vi] Câu số mười ba: Thói quen sức khỏe với liên từ
+[term] Until
+[vi] trong quá khứ.
+[en] Chronic patients were unwilling to adopt healthier lifestyles until severe medical complications began to impair their daily functions.
+[vi] Cả hai vế đều dùng quá khứ đơn là
+[term] were unwilling
+[vi] và
+[term] began
+[vi] diễn tả sự việc bệnh nhân không chịu thay đổi lối sống cho tới khi biến chứng xuất hiện.
+[vi] Và câu số mười bốn: Ứng dụng công nghệ giáo dục và Chuyển đổi số, phối hợp giữa
+[term] Until
+[vi] và
+[term] had
+[en] Traditional universities did not integrate distance learning platforms until digital infrastructure had matured sufficiently.
+[vi] Việc hạ tầng số hoàn thiện diễn ra trước, chia quá khứ hoàn thành là
+[term] had matured
+[vi] Việc các trường đại học truyền thống bắt đầu tích hợp học từ xa diễn ra sau, chia quá khứ đơn là
+[term] did not integrate
+
+[chapter] Phần 4: Phân tích Từ vựng và Collocations B2/C1 ghi điểm
+
+[vi] Tiếp theo, chúng ta phân tích các từ vựng và cụm từ học thuật xuất hiện trong mười bốn câu vừa rồi.
+[vi] Cụm từ thứ nhất:
+[term] miracle drug
+[vi] chỉ loại thuốc kỳ diệu, thần dược mang lại bước ngoặt điều trị trong y học.
+[vi] Cụm từ thứ hai:
+[term] premature death
+[vi] Danh từ số nhiều là
+[term] premature deaths
+[vi] mang nghĩa là ca tử vong sớm, chết yểu do bệnh tật hoặc tai nạn trước tuổi thọ kỳ vọng. Trong bài viết về y tế hoặc ô nhiễm, hãy dùng cụm từ này thay cho từ
+[term] die
+[vi] thông thường.
+[vi] Cụm từ thứ ba:
+[term] affordable
+[vi] là tính từ chỉ giá cả phải chăng, vừa túi tiền. Danh từ của nó là
+[term] affordability
+[vi] chỉ khả năng chi trả của người dân đối với hàng hóa hoặc nhà ở.
+[vi] Cụm từ thứ tư:
+[term] emancipated
+[vi] là động từ ở dạng bị động, nghĩa là được giải phóng, được trả lại tự do. Đây là từ khóa thường gặp trong các bài đọc tiểu sử lịch sử.
+[vi] Cụm từ thứ năm:
+[term] meticulous healthcare
+[vi] Tính từ
+[term] meticulous
+[vi] là một từ vựng bậc C1, có nghĩa là tỉ mỉ, chu đáo, cẩn trọng đến từng chi tiết nhỏ. Khi miêu tả dịch vụ chăm sóc sức khỏe hay nghiên cứu khoa học, từ này tạo ấn tượng học thuật rất cao.
+[vi] Cụm từ thứ sáu:
+[term] underprivileged patients
+[vi] Trong văn phong xã hội học, thay vì dùng từ
+[term] poor
+[vi] người ta dùng
+[term] underprivileged
+[vi] để chỉ những người có hoàn cảnh khó khăn, thiệt thòi về điều kiện kinh tế.
+[vi] Cụm từ thứ bảy:
+[term] critical threshold
+[vi] Danh từ
+[term] threshold
+[vi] là ngưỡng.
+[term] critical threshold
+[vi] là ngưỡng tới hạn hoặc ngưỡng nguy cấp. Đi cùng với nó là động từ
+[term] rise
+[vi] tức là tăng lên, hoặc
+[term] curb
+[vi] nghĩa là kiềm chế, cắt giảm.
+[vi] Cụm từ thứ tám:
+[term] digital infrastructure
+[vi] là hạ tầng kỹ thuật số, đi cùng động từ
+[term] mature
+[vi] ở nghĩa phát triển chín muồi, hoàn thiện. Cặp từ này thường xuất hiện trong các bài đọc chủ đề công nghệ và giáo dục trực tuyến.
+
+[chapter] Phần 5: Tổng kết và Đúc kết các nguyên tắc vàng Tập A
+
+[vi] Như vậy, chúng ta đã hoàn thành Tập A của Bài một chấm hai.
+[vi] Ba nguyên tắc cốt lõi các bạn cần ghi nhớ:
+[vi] Thứ nhất: Định vị mốc thời gian trước khi chia động từ để xác định hành động xảy ra nối tiếp, chen ngang hay trước sau.
+[vi] Thứ hai: Cực kỳ cẩn trọng với
+[term] By the time
+[vi] Nếu mốc sau nó là quá khứ đơn, vế chính chia
+[term] had
+[vi] cộng phân từ ba. Nếu mốc sau nó là hiện tại đơn, vế chính chia
+[term] will have
+[vi] cộng phân từ ba.
+[vi] Thứ ba: Không bao giờ dùng
+[term] will
+[vi] trong mệnh đề trạng ngữ chỉ thời gian.
+[vi] Trong Tập B tiếp theo, chúng ta sẽ phân tích các bẫy đổi giờ trong bài thi Nghe và Đọc, đồng thời chuyển hóa các cấu trúc này vào bài viết luận Task 2 và bài thi Nói.
+[vi] Hẹn gặp lại các bạn trong Tập B của Bài một chấm hai!

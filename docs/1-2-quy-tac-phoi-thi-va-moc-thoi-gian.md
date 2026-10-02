@@ -63,8 +63,8 @@ Trong kỳ thi Đánh giá năng lực tiếng Anh VSTEP (Vietnamese Standardize
 
 #### 4. Quy tắc phối thì với AFTER
 * **Công thức:** `After + S + had + V3/ed, S + V2/ed`  
-  * **Ví dụ:** After the master had died, Phillis Wheatley was emancipated and subsequently married a free black man.  
-  * **Dịch:** Sau khi người chủ qua đời, Phillis Wheatley đã được giải phóng và sau đó kết hôn với một người đàn ông da đen tự do. *(Từ vựng C1: emancipated - được giải phóng/tự do).*
+  * **Ví dụ:** After her poetry collection had been published in London, Phillis Wheatley was emancipated.  
+  * **Dịch:** Sau khi tập thơ của bà được xuất bản ở London, Phillis Wheatley đã được giải phóng/trả tự do. *(Từ vựng C1: emancipated - được giải phóng/tự do).*
 
 #### 5. Quy tắc phối thì với AS SOON AS
 * **Quá khứ:** `As soon as + S + V2/ed, S + V2/ed`  
@@ -138,8 +138,8 @@ Thư VSTEP Task 1 yêu cầu linh hoạt kết hợp các mốc thời gian tùy
 * **Dạng 1: Thư phàn nàn (Complaint Letter - Faulty Product)**
   * *Mốc Quá khứ đơn:* Mô tả thời điểm và địa điểm mua hàng.  
     `I purchased a smartphone at your store located on Nguyen Van Linh Street on October 10th.`
-  * *Mốc Hiện tại hoàn thành:* Mô tả sự việc/lỗi phát sinh từ quá khứ kéo dài đến nay.  
-    `Upon one week of using it, several technical issues have emerged. The camera flash has stopped functioning properly.`
+  * *Mốc Quá khứ đơn (mô tả lỗi phát sinh sau đó):*  
+    `Upon one week of using it, several critical technical issues emerged. The camera flash stopped functioning properly.`
   * *Mốc Tương lai / Điều kiện:* Đưa ra yêu cầu giải quyết.  
     `If a replacement unit is not provided within one week, I will demand a full refund of my payment.`
 

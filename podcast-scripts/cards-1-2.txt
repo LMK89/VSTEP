@@ -1,0 +1,32 @@
+=== CARD 1: BY THE TIME ===
+- Ngữ pháp: 
+  + Quá khứ: By the time + S + V2/ed, S + had + V3/ed (By the time the government introduced bans, tobacco usage had already caused millions of premature deaths).
+  + Tương lai: By the time + S + V(hiện tại đơn), S + will have + V3/ed (By the time the decade ends, global temperatures will have risen).
+- Từ đồng nghĩa B2/C1: premature death = untimely demise (ca tử vong sớm).
+- Bẫy đề thi: Thấy By the time đi với mốc quá khứ thì vế sau tuyệt đối không chọn Quá khứ đơn, bắt buộc phải là Quá khứ hoàn thành (had + V3/ed).
+
+=== CARD 2: WHILE VS WHEN ===
+- Ngữ pháp: 
+  + Hành động xen ngang: While/When + S + was/were + V-ing, S + V2/ed (While the surgeon was performing the operation, the power went out).
+  + Mở rộng B2/C1 chỉ sự tương phản (= Whereas): While + Clause, Clause (While smoking rates have fallen in developed nations, they have risen in developing regions).
+- Từ đồng nghĩa B2/C1: affordable = reasonably priced (giá cả phải chăng, hợp túi tiền).
+- Bẫy đề thi: While thường đi với hành động nền kéo dài; hành động xen ngang bất ngờ thường đi với When và chia Quá khứ đơn.
+
+=== CARD 3: BEFORE & AFTER ===
+- Ngữ pháp: 
+  + Before + S + V2/ed, S + had + V3/ed (Before Pullman founded the company, he had invested his entire fortune).
+  + After + S + had + V3/ed, S + V2/ed (After her poetry collection had been published in London, Phillis Wheatley was emancipated).
+- Từ đồng nghĩa B2/C1: emancipated = liberated = freed from bondage (được giải phóng, trả tự do).
+- Bẫy đề thi Reading: Trục thời gian phi tuyến tính. Đoạn văn nhắc sự kiện năm 1865 trước, nhưng hành động có had + V3 (xảy ra năm 1860) mới là sự việc diễn ra trước tiên.
+
+=== CARD 4: SINCE & AS SOON AS ===
+- Ngữ pháp: 
+  + S + have/has + V3/ed + since + S + V2/ed (The clinic has provided healthcare to impoverished patients since it was founded in 1992).
+  + As soon as + S + V(hiện tại đơn / hoàn thành), S + will + V0 (As soon as the unit arrives, we will notify the customer).
+- Từ đồng nghĩa B2/C1: meticulous = thorough = painstaking = rigorous (tỉ mỉ, chu đáo, cẩn trọng).
+- Bẫy đề thi: Mệnh đề sau As soon as chỉ thời gian tương lai tuyệt đối không dùng "will", chỉ dùng Hiện tại đơn hoặc Hiện tại hoàn thành.
+
+=== CARD 5: BẪY ĐỔI GIỜ & ĐỐI CHIẾU XU HƯỚNG ===
+- Ngữ pháp (Writing Task 2): In the past, S + V2/ed... However, in recent years, S + have/has + V3/ed... (In the past, printed newspapers served as the primary medium. In recent years, digital news has proliferated).
+- Từ đồng nghĩa B2/C1: proliferate = multiply rapidly (tăng nhanh chóng, bùng nổ số lượng).
+- Bẫy đề thi Listening: Đổi giờ thường lệ bằng từ nối phản bác (Ví dụ: "Usually at 5:15 but half an hour earlier today" -> Phải lấy 5:15 trừ 30 phút thành 4:45).
