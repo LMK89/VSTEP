@@ -98,8 +98,27 @@
 [vi] Từ mới trong câu: cụm premature death nghĩa là ca tử vong sớm. Danh từ cessation nghĩa là sự ngừng lại, phổ biến trong cụm smoking cessation là cai thuốc lá.
 [term] premature death, cessation
 
-[chapter] Phần 5: Tổng kết từ vựng
-[vi] Để kết thúc Tập A, chúng ta cùng ôn lại nhanh danh sách các từ vựng B2, C1 đã học trong bài qua 8 câu ví dụ.
+[chapter] Phần 5: Phối thì với Until
+[vi] Cuối cùng là liên từ Until, mang nghĩa cho đến khi.
+[term] Until
+[vi] Câu ví dụ số 9: Các bệnh nhân buộc phải tiếp tục hút thuốc cho đến khi họ trở nên quá yếu không thể sinh hoạt bình thường.
+[en] Patients were forced to continue smoking until they became too sick to function properly.
+[en] Patients were forced to continue smoking until they became too sick to function properly.
+[vi] Phân tích: Hành động kéo dài liên tục tới một mốc trong quá khứ, nên cả hai vế đều dùng quá khứ đơn, were forced và became.
+[term] were forced, became
+[vi] Từ mới trong câu: động từ function trong ngữ cảnh này mang nghĩa hoạt động, sinh hoạt bình thường.
+[term] function
+
+[vi] Câu ví dụ số 10: Bạn sẽ không được phép vào phòng thi cho đến khi bạn xuất trình giấy tờ tùy thân hợp lệ.
+[en] You will not be permitted to enter the examination room until you present a valid identification document.
+[en] You will not be permitted to enter the examination room until you present a valid identification document.
+[vi] Phân tích: Sự việc cấm đoán kéo dài tới tương lai, nên mệnh đề chính dùng tương lai đơn, will not be permitted. Mệnh đề sau until chia hiện tại đơn, present.
+[term] will not be permitted, present
+[vi] Từ mới trong câu: động từ permit mang nghĩa cho phép. Tính từ valid mang nghĩa hợp lệ, có hiệu lực.
+[term] permit, valid
+
+[chapter] Phần 6: Tổng kết từ vựng
+[vi] Để kết thúc Tập A, chúng ta cùng ôn lại nhanh danh sách các từ vựng B2, C1 đã học trong bài qua 10 câu ví dụ.
 [vi] 1. Người trả lời khảo sát: respondent. Sự nghiệp ổn định: stable career.
 [term] respondent, stable career
 [vi] 2. Mạnh mẽ, quyết liệt: drastically. Giá cả phải chăng: affordable.
@@ -116,4 +135,8 @@
 [term] meticulous, impoverished
 [vi] 8. Ca tử vong sớm: premature death. Sự ngừng lại, cai thuốc: cessation.
 [term] premature death, cessation
+[vi] 9. Hoạt động, sinh hoạt: function.
+[term] function
+[vi] 10. Cho phép: permit. Hợp lệ: valid.
+[term] permit, valid
 [vi] Bài học hôm nay đến đây là kết thúc. Hẹn gặp lại các bạn trong Tập B với các bẫy đổi giờ trong Listening và khung kỹ năng Writing nhé.
