@@ -8,7 +8,7 @@ Trước khi đi sâu vào các cấu trúc phối thì phức tạp, chúng ta 
 
 | Thì (Tense) | Công thức cốt lõi | Cách dùng chính | Ví dụ đời thường |
 | :--- | :--- | :--- | :--- |
-| **Quá khứ đơn** (Past Simple) | Khẳng định: `S + V2/ed`<br>Phủ định: `S + didn't + V_0` | Diễn tả hành động đã xảy ra và kết thúc hoàn toàn trong quá khứ. | I **went** to the cinema yesterday. |
+| **Quá khứ đơn** (Past Simple) | Khẳng định: `S + V2/ed`<br>Phủ định: `S + didn't + V_bare` | Diễn tả hành động đã xảy ra và kết thúc hoàn toàn trong quá khứ. | I **went** to the cinema yesterday. |
 | **Quá khứ tiếp diễn** (Past Continuous) | `S + was/were + V-ing` | Diễn tả hành động đang xảy ra tại một thời điểm cụ thể trong quá khứ (làm nền). | At 8 PM last night, I **was watching** TV. |
 | **Quá khứ hoàn thành** (Past Perfect) | `S + had + V3/ed` | Diễn tả một hành động xảy ra TRƯỚC một hành động khác trong quá khứ. | I **had eaten** dinner before he came. |
 | **Hiện tại hoàn thành** (Present Perfect) | `S + have/has + V3/ed` | Diễn tả hành động bắt đầu từ quá khứ kéo dài đến hiện tại (hoặc để lại kết quả). | I **have lived** here for 5 years. |
@@ -33,9 +33,9 @@ Trong kỳ thi Đánh giá năng lực tiếng Anh VSTEP (Vietnamese Standardize
 | :--- | :--- | :--- | :--- |
 | **When** | Quá khứ đơn (`S + V2/ed`) | Quá khứ đơn / Quá khứ tiếp diễn / Quá khứ hoàn thành | Tái hiện sự việc xâu chuỗi hoặc một hành động đang diễn ra thì hành động khác chen vào. |
 | **While** | Quá khứ tiếp diễn (`S + was/were + V-ing`) | Quá khứ tiếp diễn / Quá khứ đơn | Hai hành động song song diễn ra trong quá khứ hoặc một nền hành động đang diễn ra. |
-| **Before** | Quá khứ đơn (`S + V2/ed`)<br>Hiện tại đơn (`S + Vs/es`) | Quá khứ hoàn thành (`S + had + V3/ed`)<br>Tương lai đơn (`S + will + V_0`) | Xác định hành động xảy ra trước một mốc/hành động khác trong quá khứ hoặc tương lai. |
+| **Before** | Quá khứ đơn (`S + V2/ed`)<br>Hiện tại đơn (`S + Vs/es`) | Quá khứ hoàn thành (`S + had + V3/ed`)<br>Tương lai đơn (`S + will + V_bare`) | Xác định hành động xảy ra trước một mốc/hành động khác trong quá khứ hoặc tương lai. |
 | **After** | Quá khứ hoàn thành (`S + had + V3/ed`) | Quá khứ đơn (`S + V2/ed`) | Diễn tả hành động đã hoàn thành trọn vẹn rồi mới đến hành động tiếp theo. |
-| **As soon as** | Quá khứ đơn (`S + V2/ed`)<br>Hiện tại đơn / Hiện tại hoàn thành | Quá khứ đơn (`S + V2/ed`)<br>Tương lai đơn (`S + will + V_0`) | Diễn tả tính nối tiếp ngay lập tức của hai hành động. |
+| **As soon as** | Quá khứ đơn (`S + V2/ed`)<br>Hiện tại đơn / Hiện tại hoàn thành | Quá khứ đơn (`S + V2/ed`)<br>Tương lai đơn (`S + will + V_bare`) | Diễn tả tính nối tiếp ngay lập tức của hai hành động. |
 | **Since** | Quá khứ đơn (`S + V2/ed`) | Hiện tại hoàn thành (`S + have/has + V3/ed`) | Nối mốc thời gian bắt đầu trong quá khứ kéo dài đến hiện tại. |
 | **By the time** | Quá khứ đơn (`S + V2/ed`)<br>Hiện tại đơn (`S + Vs/es`) | Quá khứ hoàn thành (`S + had + V3/ed`)<br>Tương lai hoàn thành (`S + will + have + V3/ed`) | Mốc hạn định "tính đến thời điểm...". |
 | **Until** | Quá khứ đơn / Hiện tại đơn | Quá khứ đơn / Tương lai đơn | Tính liên tục của hành động kéo dài tới một mốc nhất định. |
@@ -116,7 +116,7 @@ Trong kỳ thi Đánh giá năng lực tiếng Anh VSTEP (Vietnamese Standardize
 * **Hiện tượng:** Băng đĩa thường đưa ra một mốc thời gian ban đầu (thường lệ), sau đó dùng các từ nối phản bác (*but, however, actually, instead*) để điều chỉnh mốc thời gian thực tế.
 * **Tình huống mô phỏng theo dạng đề VSTEP:**
   * **Tình huống 1 (Mô phỏng Listening Part 1):** *"It's usually at 5:15 but it's half an hour earlier this evening, at 4:45."*  
-    `->` **Bẫy:** Thí sinh nghe mốc 5:15 sẽ chọn nhầm đáp án. Mốc đúng cho tiết học hôm nay phải lấy `5:15 - 30\text{ phút} = 4:45`.
+    `->` **Bẫy:** Thí sinh nghe mốc 5:15 sẽ chọn nhầm đáp án. Mốc đúng cho tiết học hôm nay phải lấy `5:15 - 30 phút = 4:45`.
   * **Tình huống 2 (Mô phỏng Listening Part 1):** *"It should leave at 7:15 but an hour late today... If it doesn't leave until 8:15..."*  
     `->` **Bẫy:** Mốc khởi hành theo kế hoạch là 7:15, nhưng mốc thực tế do trễ 1 tiếng phải là 8:15.
   * **Tình huống 3 (Mô phỏng Listening Part 2):** *"...around the end of June. Yes, the 28th... I'm available from the 10th."*  
