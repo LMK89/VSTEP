@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VSTEP B1-B2-C1 Mastery Hub & Podcast Player</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- marked.js: parse Markdown → HTML -->
+  <script src="https://cdn.jsdelivr.net/npm/marked@9.1.6/marked.min.js"></script>
+  <!-- KaTeX: render $...$ LaTeX inline math -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"
+          onload="renderMathInDocument()"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+    body { font-family: 'Plus Jakarta Sans', sans-serif; }
+
+    /* ── Prose styles for rendered Markdown ── */
+    .grammar-prose h1,.grammar-prose h2,.grammar-prose h3,.grammar-prose h4 {
+      color: #a5b4fc; font-weight: 700; margin-top: 1.2em; margin-bottom: .4em; line-height:1.3;
+    }
+    .grammar-prose h1 { font-size:1.1rem; border-bottom:1px solid #334155; padding-bottom:.35em; }
+    .grammar-prose h2 { font-size:1rem; }
+    .grammar-prose h3 { font-size:.9rem; color:#93c5fd; }
+    .grammar-prose h4 { font-size:.82rem; color:#7dd3fc; }
+    .grammar-prose p  { color:#cbd5e1; font-size:.8rem; line-height:1.7; margin:.45em 0; }
+    .grammar-prose ul,.grammar-prose ol { padding-left:1.4em; margin:.4em 0; }
+    .grammar-prose li { color:#cbd5e1; font-size:.8rem; line-height:1.65; margin:.2em 0; }
+    .grammar-prose li::marker { color:#6366f1; }
+    .grammar-prose strong { color:#e2e8f0; font-weight:600; }
+    .grammar-prose em { color:#fcd34d; font-style:italic; }
+    .grammar-prose code {
+      background:#1e293b; color:#a78bfa; font-size:.78rem;
+      padding:.1em .35em; border-radius:.3em; font-family:'Fira Code',monospace;
+    }
+    .grammar-prose pre {
+      background:#0f172a; border:1px solid #334155; border-radius:.75rem;
+      padding:.9em 1em; overflow-x:auto; margin:.6em 0;
+    }
+    .grammar-prose pre code { background:none; color:#93c5fd; font-size:.77rem; }
+    .grammar-prose table {
+      border-collapse:collapse; width:100%; font-size:.78rem; margin:.7em 0;
+      border-radius:.5rem; overflow:hidden;
+    }
+    .grammar-prose th {
+      background:#1e293b; color:#a5b4fc; font-weight:600;
+      padding:.5em .75em; text-align:left; border:1px solid #334155;
+    }
+    .grammar-prose td {
+      padding:.45em .75em; color:#cbd5e1; border:1px solid #1e293b;
+      vertical-align:top;
+    }
+    .grammar-prose tr:nth-child(even) td { background:#0f172a; }
+    .grammar-prose tr:hover td { background:#1e2d40; }
+    .grammar-prose blockquote {
+      border-left:3px solid #6366f1; padding:.4em .9em;
+      margin:.5em 0; background:#1e293b/40; color:#94a3b8;
+      font-size:.8rem; border-radius:0 .5rem .5rem 0;
+    }
+    .grammar-prose hr { border-color:#334155; margin:.9em 0; }
+    .grammar-prose details { margin:.5em 0; }
+    .grammar-prose summary {
+      cursor:pointer; color:#6366f1; font-weight:600; font-size:.8rem;
+      padding:.3em .5em; border-radius:.4em;
+      list-style: '▶  ';
+    }
+    .grammar-prose details[open] summary { color:#818cf8; list-style: '▼  '; }
+    .grammar-prose details > *:not(summary) { padding-left:.8em; margin-top:.3em; }
+    /* KaTeX inline */
+    .grammar-prose .katex { font-size:.88rem; }
+
+    /* Grammar tab active */
+    .grammar-tab.active {
+      background:#4f46e5; color:#fff; border-color:#6366f1;
+    }
+  </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col antialiased selection:bg-indigo-500 selection:text-white">
+
+  <!-- Header -->
+  <header class="border-b border-slate-800 bg-slate-900/90 backdrop-blur sticky top-0 z-40">
+    <div class="max-w-6xl mx-auto px-4 py-3.5 flex flex-wrap items-center justify-between gap-4">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-indigo-500 to-violet-600 flex items-center justify-center shadow-lg shadow-indigo-500/25">
+          <i class="fa-solid fa-graduation-cap text-white text-xl"></i>
+        </div>
+        <div>
+          <h1 class="font-bold text-base sm:text-lg text-white leading-tight flex items-center gap-2">
+            VSTEP Mastery Hub
+            <span class="text-xs bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 px-2 py-0.5 rounded-full font-semibold">B1-B2-C1</span>
+          </h1>
+          <p class="text-xs text-slate-400">Podcast Thực Chiến Song Ngữ & Micro-Learning 30'</p>
+        </div>
+      </div>
+
+      <!-- Quick Actions -->
+      <div class="flex items-center gap-2.5">
+        <button id="btnNotifToggle" onclick="toggleNotificationTimer()" class="px-3.5 py-1.5 rounded-xl text-xs font-semibold flex items-center gap-1.5 transition bg-slate-800 hover:bg-slate-700 text-slate-200 border border-slate-700">
+          <i class="fa-regular fa-bell text-amber-400" id="notifIcon"></i>
+          <span id="notifBtnText">Bật Nhắc Bài 30'</span>
+        </button>
+        <button onclick="testNotificationNow()" class="px-3 py-1.5 rounded-xl text-xs font-semibold bg-indigo-600/30 hover:bg-indigo-600/50 text-indigo-200 border border-indigo-500/40 transition">
+          <i class="fa-solid fa-bolt mr-1"></i> Test Thông Báo
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Notification Status Banner -->
+  <div id="notifBanner" class="bg-indigo-950/60 border-b border-indigo-900/40 px-4 py-2 text-xs text-indigo-200 text-center flex items-center justify-center gap-2">
+    <i class="fa-solid fa-clock-rotate-left text-indigo-400"></i>
+    <span>Bộ đếm giờ 30 phút: <b id="countdownTimer" class="font-mono text-indigo-300">Chưa kích hoạt</b></span>
+    <span class="text-slate-500">•</span>
+    <span class="text-slate-400">Cứ sau 30 phút hệ thống sẽ bắn 1 thông báo Windows popup nhắc kiến thức</span>
+  </div>
+
+  <!-- Main Container -->
+  <main class="max-w-6xl mx-auto px-4 py-6 flex-1 w-full grid grid-cols-1 lg:grid-cols-12 gap-6">
+
+    <!-- Left Column: Podcast & Channel Subscription -->
+    <aside class="lg:col-span-5 flex flex-col gap-5">
+
+      <!-- Podcast Subscription Card -->
+      <div class="bg-gradient-to-br from-indigo-950/40 via-slate-900 to-slate-900 border border-indigo-900/40 rounded-3xl p-5 sm:p-6 shadow-xl relative overflow-hidden">
+        <div class="absolute -top-10 -right-10 w-36 h-36 bg-indigo-500/10 rounded-full blur-2xl pointer-events-none"></div>
+        <div class="flex items-center gap-3.5 mb-4">
+          <div class="w-12 h-12 rounded-2xl bg-indigo-600 flex items-center justify-center shadow-lg shadow-indigo-600/30 text-white text-2xl">
+            <i class="fa-solid fa-podcast"></i>
+          </div>
+          <div>
+            <h2 class="font-bold text-white text-base leading-snug">Kênh Podcast Điện Thoại</h2>
+            <p class="text-xs text-indigo-300 font-medium">Apple Podcasts • Pocket Casts • AntennaPod</p>
+          </div>
+        </div>
+
+        <p class="text-xs text-slate-300 leading-relaxed mb-4">
+          Đăng ký link RSS vào ứng dụng Podcast trên điện thoại để nghe chạy ngầm khi khóa màn hình, tự nhớ vị trí và tải offline:
+        </p>
+
+        <!-- RSS Feed Box -->
+        <div class="bg-slate-950/80 border border-slate-700/60 rounded-xl p-2.5 flex items-center justify-between gap-2 mb-3">
+          <span class="text-xs font-mono text-indigo-300 truncate" id="rssFeedUrl">https://lmk89.github.io/VSTEP/podcast.xml</span>
+          <button onclick="copyRssLink()" class="px-3 py-1 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg text-xs font-semibold shrink-0 transition flex items-center gap-1">
+            <i class="fa-regular fa-copy"></i> Copy
+          </button>
+        </div>
+
+        <div class="flex flex-wrap gap-2 text-xs">
+          <a href="./podcast.xml" target="_blank" class="px-3 py-1.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 font-medium">
+            <i class="fa-solid fa-rss text-amber-400 mr-1"></i> Xem XML
+          </a>
+          <a href="./vstep_schedule.ics" download class="px-3 py-1.5 rounded-lg bg-emerald-950/60 hover:bg-emerald-900/60 text-emerald-300 border border-emerald-800/50 font-medium">
+            <i class="fa-regular fa-calendar-check mr-1"></i> Tải Lịch 8:00 (.ics)
+          </a>
+        </div>
+      </div>
+
+      <!-- Micro-Check 30 Min Cards Deck -->
+      <div class="bg-slate-900/90 border border-slate-800 rounded-3xl p-5 shadow-xl flex-1 flex flex-col">
+        <div class="flex items-center justify-between mb-3.5">
+          <h3 class="font-bold text-sm text-white flex items-center gap-2">
+            <i class="fa-solid fa-layer-group text-indigo-400"></i> Bộ Thẻ Micro-Check
+          </h3>
+          <span class="text-xs text-slate-400 font-mono" id="cardCounter">Thẻ 1 / 5</span>
+        </div>
+
+        <!-- Dynamic Card Display -->
+        <div id="microCardContainer" class="bg-slate-950 border border-slate-800 rounded-2xl p-4 flex-1 flex flex-col justify-between mb-3">
+          <div>
+            <div class="text-xs font-bold text-indigo-400 uppercase tracking-wider mb-2" id="cardTitle">
+              CARD 1: BY THE TIME
+            </div>
+            <div class="space-y-2.5 text-xs">
+              <div>
+                <span class="font-semibold text-slate-300 block mb-0.5">🧠 Ngữ Pháp:</span>
+                <p class="text-slate-400 leading-relaxed" id="cardGrammar">...</p>
+              </div>
+              <div>
+                <span class="font-semibold text-emerald-400 block mb-0.5">🔄 Từ Đồng Nghĩa B2/C1:</span>
+                <p class="text-slate-400 leading-relaxed" id="cardSynonyms">...</p>
+              </div>
+              <div>
+                <span class="font-semibold text-amber-400 block mb-0.5">⚠️ Bẫy Đề Thi:</span>
+                <p class="text-slate-400 leading-relaxed" id="cardTrap">...</p>
+              </div>
+            </div>
+          </div>
+          <div class="flex items-center justify-between pt-3 border-t border-slate-800/80 mt-3">
+            <button onclick="prevCard()" class="text-xs text-slate-400 hover:text-white px-2 py-1"><i class="fa-solid fa-chevron-left mr-1"></i> Trước</button>
+            <button onclick="nextCard()" class="text-xs text-indigo-400 hover:text-indigo-300 font-semibold px-2 py-1">Tiếp Theo <i class="fa-solid fa-chevron-right ml-1"></i></button>
+          </div>
+        </div>
+      </div>
+
+    </aside>
+
+    <!-- Right Column: Episodes Player & Study Document -->
+    <section class="lg:col-span-7 flex flex-col gap-5">
+
+      <!-- Pilot Episodes Player -->
+      <div class="bg-slate-900/90 border border-slate-800 rounded-3xl p-5 sm:p-6 shadow-xl">
+        <div class="flex items-center justify-between mb-4">
+          <div>
+            <span class="text-xs font-bold text-indigo-400 uppercase tracking-wide">BÀI MẪU 1.2 • PHỐI THÌ & MỐC THỜI GIAN</span>
+            <h2 class="text-base sm:text-lg font-bold text-white mt-0.5">Danh Sách Tập Podcast Đã Phát Hành</h2>
+          </div>
+          <span class="text-xs bg-emerald-950/80 border border-emerald-800/50 text-emerald-300 px-2.5 py-1 rounded-full font-semibold">
+            v0.1.0-pilot
+          </span>
+        </div>
+
+        <!-- Episode 1.2A -->
+        <div class="bg-slate-950/70 border border-slate-800/80 hover:border-indigo-500/40 rounded-2xl p-4 transition mb-3">
+          <div class="flex items-start justify-between gap-3 mb-2.5">
+            <div>
+              <span class="text-xs font-semibold text-indigo-400">TẬP 1.2A • 18 PHÚT 49 GIÂY</span>
+              <h3 class="text-sm font-bold text-white">Quy Tắc Phối Thì - Bản Chất Ngôn Ngữ & Từ Vựng Học Thuật</h3>
+              <p class="text-xs text-slate-400 mt-1">14 câu ví dụ học thuật B2/C1, mổ xẻ bản chất liên từ When, While, Before, After, By the time.</p>
+            </div>
+            <a href="https://github.com/LMK89/VSTEP/releases/download/v0.1.0-pilot/lesson-1-2-a.mp3" target="_blank" class="px-3 py-1.5 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold shrink-0 transition flex items-center gap-1.5 shadow">
+              <i class="fa-solid fa-play text-[10px]"></i> Nghe MP3
+            </a>
+          </div>
+          <div class="flex items-center gap-2 text-xs text-slate-500">
+            <span><i class="fa-solid fa-bookmark text-slate-600 mr-1"></i> 5 Chapters ID3</span>
+            <span>•</span>
+            <span><i class="fa-solid fa-file-lines text-slate-600 mr-1"></i> <a href="./podcast-scripts/script-1-2-a.txt" class="hover:text-indigo-400 underline">Kịch bản chữ</a></span>
+          </div>
+        </div>
+
+        <!-- Episode 1.2B -->
+        <div class="bg-slate-950/70 border border-slate-800/80 hover:border-indigo-500/40 rounded-2xl p-4 transition">
+          <div class="flex items-start justify-between gap-3 mb-2.5">
+            <div>
+              <span class="text-xs font-semibold text-indigo-400">TẬP 1.2B • 18 PHÚT 11 GIÂY</span>
+              <h3 class="text-sm font-bold text-white">Quy Tắc Phối Thì - Mổ Xẻ Bẫy Đề Thi & Kỹ Năng Writing/Speaking</h3>
+              <p class="text-xs text-slate-400 mt-1">17 câu thực chiến, bẫy đổi giờ Listening Part 1/2, khung câu Task 2 và chuyên mục Q&A.</p>
+            </div>
+            <a href="https://github.com/LMK89/VSTEP/releases/download/v0.1.0-pilot/lesson-1-2-b.mp3" target="_blank" class="px-3 py-1.5 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white text-xs font-semibold shrink-0 transition flex items-center gap-1.5 shadow">
+              <i class="fa-solid fa-play text-[10px]"></i> Nghe MP3
+            </a>
+          </div>
+          <div class="flex items-center gap-2 text-xs text-slate-500">
+            <span><i class="fa-solid fa-bookmark text-slate-600 mr-1"></i> 5 Chapters ID3</span>
+            <span>•</span>
+            <span><i class="fa-solid fa-file-lines text-slate-600 mr-1"></i> <a href="./podcast-scripts/script-1-2-b.txt" class="hover:text-indigo-400 underline">Kịch bản chữ</a></span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Interactive Grammar Section -->
+      <div class="bg-slate-900/90 border border-slate-800 rounded-3xl p-5 shadow-xl flex flex-col mt-2" id="grammar-section">
+        <div class="flex items-center justify-between mb-4 border-b border-slate-800 pb-3">
+          <div>
+            <h2 class="text-base sm:text-lg font-bold text-white flex items-center gap-2">
+              <i class="fa-solid fa-book-open text-indigo-400"></i> Không gian Học Ngữ Pháp
+            </h2>
+            <p class="text-xs text-slate-400 mt-1">Đọc lại lý thuyết chi tiết để nhớ lại kiến thức trước khi nghe Podcast.</p>
+          </div>
+        </div>
+
+        <!-- Lesson Tabs -->
+        <div class="flex flex-wrap gap-2 mb-5" id="grammarTabs">
+          <!-- Dynamically populated via JS, or static for MVP. Let's do static for the ones we have -->
+          <button onclick="loadGrammar('1-1-cac-thi-trong-tam')" class="grammar-tab px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">Bài 1.1</button>
+          <button onclick="loadGrammar('1-2-quy-tac-phoi-thi-va-moc-thoi-gian')" class="grammar-tab px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">Bài 1.2</button>
+          <button onclick="loadGrammar('1-3-danh-dong-tu-va-dong-tu-nguyen-mau')" class="grammar-tab px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">Bài 1.3</button>
+          <button onclick="loadGrammar('1-4-cau-bi-dong-co-ban-va-modals')" class="grammar-tab px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">Bài 1.4</button>
+          <button onclick="loadGrammar('1-5-cac-dang-so-sanh')" class="grammar-tab px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">Bài 1.5</button>
+          <button onclick="loadGrammar('2-1-menh-de-quan-he')" class="grammar-tab px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">Bài 2.1</button>
+          <button onclick="loadGrammar('2-2-ky-thuat-rut-gon-menh-de-quan-he')" class="grammar-tab px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">Bài 2.2</button>
+          <button onclick="loadGrammar('2-3-menh-de-nhuong-bo-va-nguyen-nhan')" class="grammar-tab px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">Bài 2.3</button>
+          <button onclick="loadGrammar('2-4-cau-dieu-kien-va-cau-truc-gia-dinh')" class="grammar-tab px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">Bài 2.4</button>
+          <button onclick="loadGrammar('3-1-cau-truc-de-xuat-tac-dong-ngan-chan')" class="grammar-tab px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">Bài 3.1</button>
+          <button onclick="loadGrammar('3-2-bi-dong-khach-quan-va-so-sanh-kep')" class="grammar-tab px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">Bài 3.2</button>
+          <button onclick="loadGrammar('3-3-dao-ngu-nang-cao-va-bo-lien-tu-dieu-huong')" class="grammar-tab px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 transition">Bài 3.3</button>
+        </div>
+
+        <!-- Rendered Content -->
+        <div id="grammarContent" class="grammar-prose bg-slate-950/70 p-5 rounded-2xl border border-slate-800/80 min-h-[300px]">
+          <div class="flex items-center justify-center h-full text-slate-500 text-sm">
+            <i class="fa-solid fa-spinner fa-spin mr-2"></i> Đang tải nội dung...
+          </div>
+        </div>
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- Micro-Check Popup Modal (Appears every 30 mins) -->
+  <div id="checkModal" class="fixed inset-0 bg-slate-950/80 backdrop-blur-sm z-50 flex items-center justify-center p-4 hidden">
+    <div class="bg-slate-900 border border-indigo-500/50 rounded-3xl max-w-lg w-full p-6 shadow-2xl relative animate-scale">
+      <div class="flex items-center justify-between mb-4 border-b border-slate-800 pb-3">
+        <div class="flex items-center gap-2 text-amber-400 font-bold text-sm">
+          <i class="fa-regular fa-bell animate-bounce"></i> VSTEP 30s CHECK-IN
+        </div>
+        <button onclick="closeCheckModal()" class="text-slate-400 hover:text-white text-sm"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+
+      <div class="space-y-3.5 mb-5 text-xs sm:text-sm">
+        <div class="text-xs font-bold text-indigo-400 uppercase" id="modalCardTitle">CARD 1: BY THE TIME</div>
+        <div class="bg-slate-950 p-3 rounded-xl border border-slate-800">
+          <span class="font-semibold text-slate-200 block mb-1">🧠 Điểm Ngữ Pháp Cốt Lõi:</span>
+          <p class="text-slate-400 leading-relaxed text-xs" id="modalGrammar">...</p>
+        </div>
+        <div class="bg-slate-950 p-3 rounded-xl border border-slate-800">
+          <span class="font-semibold text-emerald-300 block mb-1">🔄 Cặp Từ Đồng Nghĩa B2/C1:</span>
+          <p class="text-slate-400 leading-relaxed text-xs" id="modalSynonyms">...</p>
+        </div>
+        <div class="bg-slate-950 p-3 rounded-xl border border-slate-800">
+          <span class="font-semibold text-amber-300 block mb-1">⚠️ Bẫy Đề Thi Cần Nhớ:</span>
+          <p class="text-slate-400 leading-relaxed text-xs" id="modalTrap">...</p>
+        </div>
+      </div>
+
+      <div class="flex justify-end gap-2.5">
+        <button onclick="closeCheckModal()" class="px-5 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-500 text-white font-semibold text-xs shadow transition">
+          Đã Nhớ & Tiếp Tục Đếm 30'
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Logic Script -->
+  <script>
+    let cards = [
+      {
+        title: "CARD 1: BY THE TIME",
+        grammar: "Quá khứ: By the time + Quá khứ đơn, Quá khứ hoàn thành (had + V3/ed) | Tương lai: By the time + Hiện tại đơn, Tương lai hoàn thành (will have + V3/ed).",
+        synonyms: "premature death = untimely demise (ca tử vong sớm).",
+        trap: "Thấy By the time đi với mốc quá khứ thì vế sau tuyệt đối không chọn Quá khứ đơn, bắt buộc phải là Quá khứ hoàn thành."
+      },
+      {
+        title: "CARD 2: WHILE VS WHEN",
+        grammar: "Hành động xen ngang: While/When + was/were + V-ing, V2/ed | Đối lập B2/C1: While + Clause, Clause (= Whereas).",
+        synonyms: "affordable = reasonably priced (giá cả phải chăng, vừa túi tiền).",
+        trap: "While thường đi với hành động nền kéo dài; hành động xen ngang bất ngờ thường đi với When và chia Quá khứ đơn."
+      },
+      {
+        title: "CARD 3: BEFORE & AFTER",
+        grammar: "Before + Quá khứ đơn, Quá khứ hoàn thành | After + Quá khứ hoàn thành, Quá khứ đơn.",
+        synonyms: "emancipated = liberated = freed from bondage (được giải phóng, trả tự do).",
+        trap: "Trục thời gian phi tuyến tính trong Reading. Đoạn văn nhắc năm 1865 trước nhưng hành động có had + V3 mới là sự việc diễn ra trước."
+      },
+      {
+        title: "CARD 4: SINCE & AS SOON AS",
+        grammar: "Hiện tại hoàn thành + since + Quá khứ đơn | As soon as + Hiện tại đơn / hoàn thành, Tương lai đơn.",
+        synonyms: "meticulous = thorough = painstaking = rigorous (tỉ mỉ, chu đáo, cẩn trọng).",
+        trap: "Mệnh đề sau As soon as chỉ tương lai tuyệt đối không dùng will, chỉ dùng Hiện tại đơn hoặc Hiện tại hoàn thành."
+      },
+      {
+        title: "CARD 5: BẪY ĐỔI GIỜ & ĐỐI CHIẾU XU HƯỚNG",
+        grammar: "Writing Task 2: In the past, S + V2/ed... However, in recent years, S + have/has + V3/ed...",
+        synonyms: "proliferate = multiply rapidly (tăng nhanh chóng, bùng nổ số lượng).",
+        trap: "Listening Part 1 đổi giờ thường lệ bằng từ nối phản bác (Usually at 5:15 but half an hour earlier -> Đáp án là 4:45)."
+      }
+    ];
+
+    let currentCardIdx = 0;
+    let timerInterval = null;
+    let timerSecondsLeft = 30 * 60; // 30 mins
+    let isTimerRunning = false;
+
+    window.addEventListener('DOMContentLoaded', () => {
+      displayCard(0);
+      loadGrammar('1-2-quy-tac-phoi-thi-va-moc-thoi-gian');
+    });
+
+    function displayCard(idx) {
+      currentCardIdx = idx;
+      const c = cards[currentCardIdx];
+      document.getElementById('cardTitle').textContent = c.title;
+      document.getElementById('cardGrammar').textContent = c.grammar;
+      document.getElementById('cardSynonyms').textContent = c.synonyms;
+      document.getElementById('cardTrap').textContent = c.trap;
+      document.getElementById('cardCounter').textContent = `Thẻ ${currentCardIdx + 1} / ${cards.length}`;
+    }
+
+    function nextCard() {
+      displayCard((currentCardIdx + 1) % cards.length);
+    }
+
+    function prevCard() {
+      displayCard((currentCardIdx - 1 + cards.length) % cards.length);
+    }
+
+    function toggleNotificationTimer() {
+      if (isTimerRunning) {
+        stopTimer();
+      } else {
+        requestPermissionAndStart();
+      }
+    }
+
+    function requestPermissionAndStart() {
+      if (!("Notification" in window)) {
+        alert("Trình duyệt không hỗ trợ Web Notification API. Hệ thống sẽ dùng popup modal trong trang.");
+        startTimer();
+        return;
+      }
+
+      if (Notification.permission === "granted") {
+        startTimer();
+      } else if (Notification.permission !== "denied") {
+        Notification.requestPermission().then(permission => {
+          if (permission === "granted") {
+            startTimer();
+          } else {
+            alert("Bạn chưa cấp quyền thông báo. Trang web vẫn sẽ hiện popup modal mỗi 30 phút.");
+            startTimer();
+          }
+        });
+      } else {
+        alert("Thông báo trình duyệt đang bị chặn trong Settings. Hãy bật lại để nhận popup góc màn hình.");
+        startTimer();
+      }
+    }
+
+    function startTimer() {
+      isTimerRunning = true;
+      timerSecondsLeft = 30 * 60;
+      document.getElementById('notifBtnText').textContent = "Dừng Nhắc Bài";
+      document.getElementById('notifIcon').className = "fa-solid fa-bell text-emerald-400";
+      
+      clearInterval(timerInterval);
+      timerInterval = setInterval(() => {
+        timerSecondsLeft--;
+        updateCountdownDisplay();
+        if (timerSecondsLeft <= 0) {
+          triggerNotification();
+          timerSecondsLeft = 30 * 60; // Reset next 30m
+        }
+      }, 1000);
+      updateCountdownDisplay();
+    }
+
+    function stopTimer() {
+      isTimerRunning = false;
+      clearInterval(timerInterval);
+      document.getElementById('notifBtnText').textContent = "Bật Nhắc Bài 30'";
+      document.getElementById('notifIcon').className = "fa-regular fa-bell text-amber-400";
+      document.getElementById('countdownTimer').textContent = "Đã tạm dừng";
+    }
+
+    function updateCountdownDisplay() {
+      const mins = Math.floor(timerSecondsLeft / 60);
+      const secs = timerSecondsLeft % 60;
+      document.getElementById('countdownTimer').textContent = `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+    }
+
+    function triggerNotification() {
+      const card = cards[Math.floor(Math.random() * cards.length)];
+      
+      // 1. Show Windows Toast Notification if supported & granted
+      if ("Notification" in window && Notification.permission === "granted") {
+        const notif = new Notification(`💡 VSTEP 30s Check: ${card.title}`, {
+          body: `🧠 ${card.grammar}\n🔄 ${card.synonyms}\n⚠️ ${card.trap}`,
+          icon: "https://raw.githubusercontent.com/LMK89/VSTEP/main/data/podcast_cover.png"
+        });
+        notif.onclick = () => {
+          window.focus();
+          showCheckModal(card);
+        };
+      }
+
+      // 2. Always show in-page modal
+      showCheckModal(card);
+    }
+
+    function testNotificationNow() {
+      triggerNotification();
+    }
+
+    function showCheckModal(card) {
+      document.getElementById('modalCardTitle').textContent = card.title;
+      document.getElementById('modalGrammar').textContent = card.grammar;
+      document.getElementById('modalSynonyms').textContent = card.synonyms;
+      document.getElementById('modalTrap').textContent = card.trap;
+      document.getElementById('checkModal').classList.remove('hidden');
+    }
+
+    function closeCheckModal() {
+      document.getElementById('checkModal').classList.add('hidden');
+    }
+
+    function copyRssLink() {
+      const url = document.getElementById('rssFeedUrl').textContent;
+      navigator.clipboard.writeText(url).then(() => {
+        alert("Đã sao chép link RSS! Bạn mở app Pocket Casts hoặc Apple Podcasts trên điện thoại, dán link này vào mục 'Add Podcast by URL' là xong.");
+      });
+    }
+
+    async function loadGrammar(slug) {
+      const contentDiv = document.getElementById('grammarContent');
+      const tabs = document.querySelectorAll('.grammar-tab');
+      
+      // Update active tab style
+      tabs.forEach(tab => {
+        if (tab.getAttribute('onclick').includes(slug)) {
+          tab.classList.add('active');
+          tab.classList.remove('bg-slate-800', 'text-slate-300');
+        } else {
+          tab.classList.remove('active');
+          tab.classList.add('bg-slate-800', 'text-slate-300');
+        }
+      });
+
+      // Show loading
+      contentDiv.innerHTML = '<div class="flex items-center justify-center h-full text-slate-500 text-sm"><i class="fa-solid fa-spinner fa-spin mr-2"></i> Đang tải nội dung...</div>';
+
+      try {
+        const res = await fetch(`./docs/${slug}.md`);
+        if (!res.ok) throw new Error('File not found');
+        const text = await res.text();
+        
+        // Render Markdown
+        contentDiv.innerHTML = marked.parse(text);
+        
+        // Render Math (KaTeX)
+        if (window.renderMathInElement) {
+          renderMathInElement(contentDiv, {
+            delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false}
+            ],
+            throwOnError: false
+          });
+        }
+      } catch (err) {
+        contentDiv.innerHTML = `<div class="text-red-400 text-sm"><i class="fa-solid fa-triangle-exclamation mr-1"></i> Không thể tải bài học: ${err.message}</div>`;
+      }
+    }
+  </script>
+</body>
+</html>
