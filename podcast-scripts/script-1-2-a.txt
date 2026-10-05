@@ -1,60 +1,80 @@
 [chapter] Phần 1: Ôn nền nhanh - 5 Thì Cơ Bản Nhất
-[vi] Chào mừng các bạn đến với chuỗi podcast chuyên sâu về ngữ pháp thực chiến dành riêng cho kỳ thi VSTEP từ trình độ B1 lên B2 và C1. Hôm nay, chúng ta cùng phân tích chuyên đề trọng tâm của Module 1: Bài 1.2, Quy tắc phối thì và xác định mốc thời gian.
-[vi] Trước khi đi vào các câu học thuật phức tạp, chúng ta sẽ dành 5 phút để ôn lại thật nhanh nền tảng cốt lõi của 5 thì cơ bản nhất sẽ xuất hiện liên tục trong bài học này. Nếu bạn đã nắm vững, bạn có thể bấm chuyển qua chapter tiếp theo trên ứng dụng podcast.
+[vi] Chào mừng các bạn đến với chuỗi podcast chuyên sâu về ngữ pháp thực chiến dành riêng cho kỳ thi VSTEP từ trình độ B1 lên B2 và C1. Hôm nay, chúng ta cùng phân tích chuyên đề trọng tâm của Module 1: Bài một chấm hai, Quy tắc phối thì và xác định mốc thời gian.
+[vi] Trước khi đi vào các câu học thuật phức tạp, chúng ta sẽ dành vài phút để ôn lại thật nhanh nền tảng cốt lõi của 5 thì cơ bản nhất sẽ xuất hiện liên tục trong bài học này. Nếu bạn đã nắm vững, bạn có thể bấm chuyển qua chapter tiếp theo trên ứng dụng podcast.
 [vi] Thì đầu tiên là Quá khứ đơn, tiếng Anh là Past Simple.
 [term] Past Simple
-[vi] Thì này dùng để diễn tả hành động đã xảy ra và kết thúc hoàn toàn trong quá khứ. Ví dụ đời thường: Hôm qua tôi đã đi xem phim. I went to the cinema yesterday. Động từ go chuyển thành went.
+[vi] Thì này dùng để diễn tả hành động đã xảy ra và kết thúc hoàn toàn trong quá khứ. Ví dụ đời thường: Hôm qua tôi đã đi xem phim.
+[en] I went to the cinema yesterday.
+[vi] Động từ go chuyển thành went.
 [vi] Thì thứ hai là Quá khứ tiếp diễn, Past Continuous.
 [term] Past Continuous
-[vi] Thì này diễn tả hành động đang xảy ra tại một thời điểm cụ thể trong quá khứ, thường đóng vai trò làm nền. Ví dụ: Lúc 8 giờ tối qua, tôi đang xem tivi. At 8 PM last night, I was watching TV. Ta dùng was hoặc were cộng với động từ thêm ing.
+[vi] Thì này diễn tả hành động đang xảy ra tại một thời điểm cụ thể trong quá khứ, thường đóng vai trò làm nền. Ví dụ: Lúc 8 giờ tối qua, tôi đang xem tivi.
+[en] At 8 PM last night, I was watching TV.
+[vi] Ta dùng was hoặc were cộng với động từ thêm ing.
 [vi] Thì thứ ba là Quá khứ hoàn thành, Past Perfect.
 [term] Past Perfect
-[vi] Chức năng duy nhất của nó là diễn tả một hành động xảy ra trước một hành động khác trong quá khứ. Ví dụ: Tôi đã ăn tối xong trước khi anh ấy đến. I had eaten dinner before he came. Hành động ăn tối xảy ra trước, nên dùng had eaten.
+[vi] Chức năng chính của nó là diễn tả một hành động xảy ra trước một hành động khác trong quá khứ. Ví dụ: Tôi đã ăn tối xong trước khi anh ấy đến.
+[en] I had eaten dinner before he came.
+[vi] Hành động ăn tối xảy ra trước, nên dùng had eaten.
 [vi] Thì thứ tư là Hiện tại hoàn thành, Present Perfect.
 [term] Present Perfect
-[vi] Dùng để tả hành động bắt đầu từ quá khứ kéo dài đến hiện tại, hoặc vừa mới xong nhưng để lại kết quả. Ví dụ: Tôi đã sống ở đây được 5 năm. I have lived here for 5 years. Dùng have hoặc has cộng động từ ở cột 3.
+[vi] Dùng để tả hành động bắt đầu từ quá khứ kéo dài đến hiện tại, hoặc vừa mới xong nhưng để lại kết quả. Ví dụ: Tôi đã sống ở đây được 5 năm.
+[en] I have lived here for 5 years.
+[vi] Dùng have hoặc has cộng động từ ở cột 3.
 [vi] Và thì cuối cùng, Tương lai hoàn thành, Future Perfect.
 [term] Future Perfect
-[vi] Diễn tả hành động sẽ hoàn thành trước một mốc thời gian trong tương lai. Ví dụ: Tôi sẽ hoàn thành công việc trước 5 giờ chiều mai. I will have finished work by 5 PM tomorrow. Công thức là will have cộng động từ cột 3.
+[vi] Diễn tả hành động sẽ hoàn thành trước một mốc thời gian trong tương lai. Ví dụ: Tôi sẽ hoàn thành công việc trước 5 giờ chiều mai.
+[en] I will have finished work by 5 PM tomorrow.
+[vi] Công thức là will have cộng động từ cột 3.
 
 [chapter] Phần 2: Bản chất ngôn ngữ và phối thì với When, While
-[vi] Bây giờ, chúng ta sẽ bắt đầu ghép các thì này lại với nhau qua các liên từ thời gian. Nguyên tắc cốt lõi: Mệnh đề trạng ngữ chỉ thời gian không bao giờ dùng trợ động từ tương lai như will.
+[vi] Bây giờ, chúng ta sẽ bắt đầu ghép các thì này lại với nhau qua các liên từ thời gian. Nguyên tắc cốt lõi: Mệnh đề trạng ngữ chỉ thời gian không bao giờ dùng trợ động từ tương lai như will mà bắt buộc phải mượn thì hiện tại đơn hoặc hiện tại hoàn thành để diễn đạt ý niệm về tương lai.
 [term] will
-[vi] mà bắt buộc phải mượn thì hiện tại đơn hoặc hiện tại hoàn thành để diễn đạt ý niệm về tương lai.
 [vi] Nhóm liên từ đầu tiên là When và While.
 [term] When, While
-[vi] Với When, bản chất thường là một điểm thời gian xác định. Tình huống phổ biến nhất là một hành động đang diễn ra làm nền thì một hành động khác chen ngang.
+[vi] Với When, bản chất thường là một điểm thời gian xác định.
 [vi] Câu ví dụ số 1: Khi các nhà nghiên cứu tiến hành cuộc khảo sát, đa số người trả lời trẻ tuổi đang tìm kiếm các cơ hội nghề nghiệp ổn định.
 [en] When the researchers conducted the survey, a majority of young respondents were seeking stable career opportunities.
-[en] When the researchers conducted the survey, a majority of young respondents were seeking stable career opportunities.
-[vi] Phân tích: Hành động tìm kiếm cơ hội là hành động nền kéo dài, nên dùng quá khứ tiếp diễn were seeking. Hành động tiến hành khảo sát chen ngang, dùng quá khứ đơn conducted.
+[vi] Phân tích: Hành động tìm kiếm cơ hội là hành động nền kéo dài, nên dùng quá khứ tiếp diễn were seeking. Tại thời điểm khảo sát, họ đang tìm việc, nên mốc thời gian cụ thể đó dùng quá khứ đơn conducted.
 [term] were seeking, conducted
 [vi] Từ mới trong câu: danh từ respondent, nghĩa là người trả lời khảo sát. Thêm cụm từ stable career, nghĩa là sự nghiệp ổn định.
 [term] respondent, stable career
 
-[vi] Chuyển sang While. While thường đi với hành động nền kéo dài. Ở trình độ B2 và C1, While còn được dùng để diễn tả sự tương phản, giống như chữ Whereas.
+[vi] Chuyển sang While. While thường đi với hành động nền hoặc hai hành động song song.
+[vi] Câu ví dụ số 2: Trong khi người cha đang làm việc trong nhà máy, người vợ đang chăm sóc con trai khuyết tật của họ ở nhà.
+[en] While the father was working in a factory, his wife was taking care of their disabled son at home.
+[vi] Phân tích: Cả hai hành động làm việc và chăm sóc diễn ra song song cùng một lúc trong quá khứ, nên cả hai đều dùng quá khứ tiếp diễn, was working và was taking care.
+[term] was working, was taking care
+[vi] Từ mới trong câu: tính từ disabled mang nghĩa khuyết tật, tàn tật.
+[term] disabled
+
+[vi] Ở trình độ B2 và C1, While còn được dùng để diễn tả sự tương phản, giống như chữ Whereas.
 [term] Whereas
-[vi] Câu ví dụ số 2: Trong khi tỷ lệ hút thuốc đã giảm ở các quốc gia phát triển, chúng lại tăng mạnh ở các khu vực đang phát triển khi sản phẩm trở nên hợp túi tiền hơn.
-[en] While smoking rates have fallen in developed nations, they have risen drastically in developing regions as products become more affordable.
+[vi] Câu ví dụ số 3: Trong khi tỷ lệ hút thuốc đã giảm ở các quốc gia phát triển, chúng lại tăng mạnh ở các khu vực đang phát triển khi sản phẩm trở nên hợp túi tiền hơn.
 [en] While smoking rates have fallen in developed nations, they have risen drastically in developing regions as products become more affordable.
 [vi] Phân tích: Cả hai vế đều mô tả xu hướng kéo dài đến hiện tại, nên đều dùng hiện tại hoàn thành, have fallen và have risen.
 [term] have fallen, have risen
-[vi] Từ mới trong câu: trạng từ drastically mang nghĩa mạnh mẽ, quyết liệt. Tính từ affordable nghĩa là giá cả phải chăng, vừa túi tiền.
+[vi] Từ mới trong câu: trạng từ drastically mang nghĩa mạnh mẽ, đáng kể. Tính từ affordable nghĩa là giá cả phải chăng, vừa túi tiền.
 [term] drastically, affordable
 
 [chapter] Phần 3: Phối thì với Before, After và As soon as
 [vi] Tiếp theo là các liên từ trước và sau: Before và After.
 [term] Before, After
-[vi] Câu ví dụ số 3 nói về nữ thi sĩ Phillis Wheatley: Sau khi tập thơ của bà được xuất bản ở London, Phillis Wheatley được trả tự do.
-[en] After her poetry collection had been published in London, Phillis Wheatley was emancipated.
+[vi] Câu ví dụ số 4: Trước khi George Pullman thành lập công ty toa xe, ông đã đầu tư toàn bộ cơ nghiệp của mình để thiết kế toa xe sang trọng.
+[en] Before George Pullman founded the car company, he had invested his entire fortune in designing the luxury car.
+[vi] Phân tích: Việc đầu tư cơ nghiệp xảy ra trước nên dùng quá khứ hoàn thành, had invested. Việc thành lập công ty xảy ra sau nên dùng quá khứ đơn, founded.
+[term] had invested, founded
+[vi] Từ mới trong câu: danh từ fortune mang nghĩa tài sản, cơ nghiệp. Động từ invest nghĩa là đầu tư.
+[term] fortune, invest
+
+[vi] Câu ví dụ số 5 nói về nữ thi sĩ Phillis Wheatley: Sau khi tập thơ của bà được xuất bản ở London, Phillis Wheatley được trả tự do.
 [en] After her poetry collection had been published in London, Phillis Wheatley was emancipated.
 [vi] Phân tích: Việc xuất bản tập thơ xảy ra trước, nên dùng quá khứ hoàn thành bị động, had been published. Việc được trả tự do xảy ra sau, dùng quá khứ đơn bị động, was emancipated.
 [term] had been published, was emancipated
-[vi] Từ mới trong câu: emancipate là động từ C1, nghĩa là giải phóng, trả tự do. Danh từ là emancipation. Thêm cụm B2 poetry collection, nghĩa là tập thơ.
-[term] emancipate, emancipation, poetry collection
+[vi] Từ mới trong câu: emancipate là động từ C1, nghĩa là giải phóng, trả tự do. Thêm cụm B2 poetry collection, nghĩa là tập thơ.
+[term] emancipate, poetry collection
 
-[vi] Câu ví dụ số 4: Trước khi ủy ban thành phố phê duyệt quy hoạch tổng thể, họ sẽ tham vấn các chuyên gia quy hoạch đô thị.
-[en] Before the municipal committee approves the master plan, they will consult with urban planning specialists.
+[vi] Câu ví dụ số 6: Trước khi ủy ban thành phố phê duyệt quy hoạch tổng thể, họ sẽ tham vấn các chuyên gia quy hoạch đô thị.
 [en] Before the municipal committee approves the master plan, they will consult with urban planning specialists.
 [vi] Phân tích: Sự việc nằm ở tương lai, nhưng mệnh đề sau Before bắt buộc lùi về hiện tại đơn, approves. Mệnh đề chính vẫn dùng tương lai đơn, will consult.
 [term] approves, will consult
@@ -63,16 +83,14 @@
 
 [vi] Chuyển sang liên từ As soon as, mang nghĩa ngay khi.
 [term] As soon as
-[vi] Câu ví dụ số 5: Ngay khi bệnh nhân có phản ứng bất lợi với thuốc, các bác sĩ đã lập tức tạm dừng điều trị.
-[en] As soon as the patient showed adverse reactions to the medication, the doctors suspended the treatment immediately.
+[vi] Câu ví dụ số 7: Ngay khi bệnh nhân có phản ứng bất lợi với thuốc, các bác sĩ đã lập tức tạm dừng điều trị.
 [en] As soon as the patient showed adverse reactions to the medication, the doctors suspended the treatment immediately.
 [vi] Phân tích: Hai sự việc nối tiếp nhau ngay lập tức trong quá khứ, nên cả hai mệnh đề đều dùng quá khứ đơn, showed và suspended.
 [term] showed, suspended
 [vi] Từ mới trong câu: cụm adverse reaction nghĩa là phản ứng phụ, phản ứng bất lợi. Động từ suspend nghĩa là tạm dừng, đình chỉ.
 [term] adverse reaction, suspend
 
-[vi] Câu ví dụ số 6: Ngay khi cửa hàng nhận được thiết bị thay thế, họ sẽ thông báo cho khách hàng về yêu cầu hoàn tiền.
-[en] As soon as the store receives the replacement unit, they will notify the customer regarding their refund request.
+[vi] Câu ví dụ số 8: Ngay khi cửa hàng nhận được thiết bị thay thế, họ sẽ thông báo cho khách hàng về yêu cầu hoàn tiền.
 [en] As soon as the store receives the replacement unit, they will notify the customer regarding their refund request.
 [vi] Phân tích: Một lời hứa trong tương lai, nên mệnh đề As soon as chia ở hiện tại đơn, receives, và mệnh đề chính chia tương lai đơn, will notify.
 [term] receives, will notify
@@ -80,37 +98,40 @@
 [term] replacement, notify
 
 [chapter] Phần 4: Phối thì với Since và By the time
-[vi] Cuối cùng là nhóm mốc thời gian đặc biệt: Since và By the time.
+[vi] Tiếp theo là nhóm mốc thời gian đặc biệt: Since và By the time.
 [term] Since, By the time
-[vi] Câu ví dụ số 7: Kể từ khi phòng khám được thành lập vào năm 1992, nơi đây đã cung cấp dịch vụ điều trị y tế tỉ mỉ cho hàng nghìn bệnh nhân nghèo hoàn toàn miễn phí.
-[en] Since the clinic was established in 1992, it has provided meticulous medical treatment to thousands of impoverished patients free of charge.
-[en] Since the clinic was established in 1992, it has provided meticulous medical treatment to thousands of impoverished patients free of charge.
+[vi] Câu ví dụ số 9: Kể từ khi phòng khám được thành lập vào năm 1992, nơi đây đã cung cấp sự chăm sóc tỉ mỉ cho hàng nghìn bệnh nhân nghèo hoàn toàn miễn phí.
+[en] Since the clinic was established in 1992, it has provided meticulous care to thousands of impoverished patients free of charge.
 [vi] Phân tích: Mệnh đề Since đi với điểm thời gian trong quá khứ nên dùng quá khứ đơn bị động, was established. Mệnh đề chính kéo dài đến hiện tại nên dùng hiện tại hoàn thành, has provided.
 [term] was established, has provided
-[vi] Từ mới trong câu: tính từ meticulous nghĩa là tỉ mỉ, chu đáo. Tính từ impoverished dùng thay cho poor, mang nghĩa nghèo khó, bần cùng.
-[term] meticulous, impoverished
+[vi] Từ mới trong câu: cụm từ meticulous care nghĩa là sự chăm sóc tỉ mỉ, chu đáo. Tính từ impoverished dùng thay cho poor, mang nghĩa nghèo khó, bần cùng.
+[term] meticulous care, impoverished
 
-[vi] Câu ví dụ số 8: Tính đến thời điểm thập kỷ tới bắt đầu, số lượng ca tử vong sớm do các bệnh liên quan đến thuốc lá sẽ tăng gấp đôi trừ khi các chương trình cai thuốc hiệu quả được triển khai.
-[en] By the time the next decade begins, the number of premature deaths from smoking-related diseases will have doubled unless effective cessation programs are implemented.
-[en] By the time the next decade begins, the number of premature deaths from smoking-related diseases will have doubled unless effective cessation programs are implemented.
+[vi] Câu ví dụ số 10: Tính đến thời điểm chính phủ nhận ra cuộc khủng hoảng, thuốc lá đã gây ra hàng triệu ca tử vong sớm.
+[en] By the time the government recognized the crisis, tobacco had already caused millions of premature deaths.
+[vi] Phân tích: Mốc thời gian nằm trong quá khứ, nên mệnh đề By the time chia quá khứ đơn, recognized. Việc gây ra cái chết đã hoàn thành trước đó nên dùng quá khứ hoàn thành, had caused.
+[term] recognized, had caused
+[vi] Từ mới trong câu: danh từ crisis nghĩa là cuộc khủng hoảng. Cụm premature death nghĩa là ca tử vong sớm.
+[term] crisis, premature death
+
+[vi] Câu ví dụ số 11: Tính đến thời điểm thập kỷ tới bắt đầu, số lượng ca tử vong sẽ tăng gấp đôi trừ khi các chương trình cai thuốc hiệu quả được triển khai.
+[en] By the time the next decade begins, the number of deaths will have doubled unless effective cessation programs are implemented.
 [vi] Phân tích: Mốc thời gian là thập kỷ tới, mệnh đề By the time chia hiện tại đơn, begins. Mệnh đề chính nhấn mạnh việc đã hoàn thành trước mốc đó nên dùng tương lai hoàn thành, will have doubled.
 [term] begins, will have doubled
-[vi] Từ mới trong câu: cụm premature death nghĩa là ca tử vong sớm. Danh từ cessation nghĩa là sự ngừng lại, phổ biến trong cụm smoking cessation là cai thuốc lá.
-[term] premature death, cessation
+[vi] Từ mới trong câu: động từ double mang nghĩa tăng gấp đôi. Danh từ cessation nghĩa là sự ngừng lại, phổ biến trong cụm smoking cessation là cai thuốc lá.
+[term] double, cessation
 
 [chapter] Phần 5: Phối thì với Until
 [vi] Cuối cùng là liên từ Until, mang nghĩa cho đến khi.
 [term] Until
-[vi] Câu ví dụ số 9: Các bệnh nhân buộc phải tiếp tục hút thuốc cho đến khi họ trở nên quá yếu không thể sinh hoạt bình thường.
-[en] Patients were forced to continue smoking until they became too sick to function properly.
-[en] Patients were forced to continue smoking until they became too sick to function properly.
-[vi] Phân tích: Hành động kéo dài liên tục tới một mốc trong quá khứ, nên cả hai vế đều dùng quá khứ đơn, were forced và became.
-[term] were forced, became
-[vi] Từ mới trong câu: động từ function trong ngữ cảnh này mang nghĩa hoạt động, sinh hoạt bình thường.
-[term] function
+[vi] Câu ví dụ số 12: Nhiều bệnh nhân mãn tính đã từ chối bỏ thuốc lá cho đến khi họ trở nên quá yếu không thể sinh hoạt bình thường.
+[en] Many chronic patients refused to quit smoking until they became too sick to function properly.
+[vi] Phân tích: Hành động từ chối kéo dài liên tục tới một mốc trong quá khứ, nên cả hai vế đều dùng quá khứ đơn, refused và became.
+[term] refused, became
+[vi] Từ mới trong câu: tính từ chronic mang nghĩa mãn tính. Động từ function trong ngữ cảnh này mang nghĩa hoạt động, sinh hoạt bình thường.
+[term] chronic, function
 
-[vi] Câu ví dụ số 10: Bạn sẽ không được phép vào phòng thi cho đến khi bạn xuất trình giấy tờ tùy thân hợp lệ.
-[en] You will not be permitted to enter the examination room until you present a valid identification document.
+[vi] Câu ví dụ số 13: Bạn sẽ không được phép vào phòng thi cho đến khi bạn xuất trình giấy tờ tùy thân hợp lệ.
 [en] You will not be permitted to enter the examination room until you present a valid identification document.
 [vi] Phân tích: Sự việc cấm đoán kéo dài tới tương lai, nên mệnh đề chính dùng tương lai đơn, will not be permitted. Mệnh đề sau until chia hiện tại đơn, present.
 [term] will not be permitted, present
@@ -118,25 +139,31 @@
 [term] permit, valid
 
 [chapter] Phần 6: Tổng kết từ vựng
-[vi] Để kết thúc Tập A, chúng ta cùng ôn lại nhanh danh sách các từ vựng B2, C1 đã học trong bài qua 10 câu ví dụ.
+[vi] Để kết thúc Tập A, chúng ta cùng ôn lại nhanh danh sách các từ vựng B2, C1 đã học trong bài qua 13 câu ví dụ.
 [vi] 1. Người trả lời khảo sát: respondent. Sự nghiệp ổn định: stable career.
 [term] respondent, stable career
-[vi] 2. Mạnh mẽ, quyết liệt: drastically. Giá cả phải chăng: affordable.
+[vi] 2. Khuyết tật, tàn tật: disabled.
+[term] disabled
+[vi] 3. Mạnh mẽ, đáng kể: drastically. Giá cả phải chăng: affordable.
 [term] drastically, affordable
-[vi] 3. Giải phóng, trả tự do: emancipate. Tập thơ: poetry collection.
+[vi] 4. Tài sản, cơ nghiệp: fortune. Đầu tư: invest.
+[term] fortune, invest
+[vi] 5. Giải phóng, trả tự do: emancipate. Tập thơ: poetry collection.
 [term] emancipate, poetry collection
-[vi] 4. Quy hoạch tổng thể: master plan. Tham vấn: consult with.
+[vi] 6. Quy hoạch tổng thể: master plan. Tham vấn: consult with.
 [term] master plan, consult with
-[vi] 5. Phản ứng bất lợi: adverse reaction. Tạm dừng: suspend.
+[vi] 7. Phản ứng bất lợi: adverse reaction. Tạm dừng: suspend.
 [term] adverse reaction, suspend
-[vi] 6. Sự thay thế: replacement. Thông báo: notify.
+[vi] 8. Sự thay thế: replacement. Thông báo: notify.
 [term] replacement, notify
-[vi] 7. Tỉ mỉ, chu đáo: meticulous. Nghèo khó, bần cùng: impoverished.
-[term] meticulous, impoverished
-[vi] 8. Ca tử vong sớm: premature death. Sự ngừng lại, cai thuốc: cessation.
-[term] premature death, cessation
-[vi] 9. Hoạt động, sinh hoạt: function.
-[term] function
-[vi] 10. Cho phép: permit. Hợp lệ: valid.
+[vi] 9. Sự chăm sóc tỉ mỉ: meticulous care. Nghèo khó, bần cùng: impoverished.
+[term] meticulous care, impoverished
+[vi] 10. Cuộc khủng hoảng: crisis. Ca tử vong sớm: premature death.
+[term] crisis, premature death
+[vi] 11. Tăng gấp đôi: double. Sự ngừng lại, cai thuốc: cessation.
+[term] double, cessation
+[vi] 12. Mãn tính: chronic. Hoạt động, sinh hoạt: function.
+[term] chronic, function
+[vi] 13. Cho phép: permit. Hợp lệ: valid.
 [term] permit, valid
 [vi] Bài học hôm nay đến đây là kết thúc. Hẹn gặp lại các bạn trong Tập B với các bẫy đổi giờ trong Listening và khung kỹ năng Writing nhé.

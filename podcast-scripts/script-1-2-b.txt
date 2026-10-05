@@ -1,5 +1,5 @@
 [chapter] Phần 1: Ôn lại nguyên tắc phối thì cốt lõi Tập A
-[vi] Chào mừng các bạn quay trở lại với chuỗi podcast ôn luyện VSTEP thực chiến. Trong phần trước của Tập 1.2 A, chúng ta đã nắm chắc bản chất và công thức của các liên từ thời gian.
+[vi] Chào mừng các bạn quay trở lại với chuỗi podcast ôn luyện VSTEP thực chiến. Trong phần trước của Tập một chấm hai A, chúng ta đã nắm chắc bản chất và công thức của các liên từ thời gian.
 [vi] Chúng ta cùng điểm lại nhanh ba nguyên tắc cốt lõi:
 [vi] Thứ nhất, tuyệt đối không dùng trợ động từ tương lai will trong mệnh đề trạng ngữ chỉ thời gian.
 [term] will
@@ -7,7 +7,7 @@
 [term] By the time
 [vi] Và thứ ba, Before đi với mốc xảy ra sau, còn After đi với sự việc hoàn thành trước.
 [term] Before, After
-[vi] Trong Tập 1.2 B hôm nay, chúng ta sẽ thực chiến với hai nội dung: Một là vạch trần các cạm bẫy gài mốc thời gian trong bài thi Nghe và Đọc. Hai là ứng dụng quy tắc phối thì vào bài viết luận Task 2 và bài thi Nói Speaking.
+[vi] Trong Tập một chấm hai B hôm nay, chúng ta sẽ thực chiến với hai nội dung: Một là vạch trần các cạm bẫy gài mốc thời gian trong bài thi Nghe và Đọc. Hai là ứng dụng quy tắc phối thì vào bài viết luận Task 2 và bài thi Nói Speaking.
 
 [chapter] Phần 2: Mổ xẻ Bẫy đề thi Listening và Reading
 [vi] Dưới đây là các tình huống mô phỏng theo dạng đề VSTEP chuẩn giúp các bạn nhận diện bẫy phòng thi. Trước hết là các cạm bẫy trong kỹ năng Nghe.
@@ -15,14 +15,12 @@
 [term] but, however, actually, instead
 [vi] Tình huống mô phỏng số 1: Lớp học bơi thường được xếp lịch lúc 5 giờ 15 phút, nhưng tối nay nó sẽ bắt đầu sớm hơn nửa tiếng do công tác bảo trì.
 [en] The swimming class is usually scheduled at a quarter past five, but this evening it will start half an hour earlier due to maintenance work.
-[en] The swimming class is usually scheduled at a quarter past five, but this evening it will start half an hour earlier due to maintenance work.
 [vi] Phân tích: Động từ lừa là is scheduled, chỉ lịch trình thường lệ, và sự kiện chốt là will start. Mốc thường lệ là 5 giờ 15 phút, nhưng người nói chêm vào cụm earlier mang nghĩa sớm hơn, nên mốc chính xác là 4 giờ 45 phút.
 [term] is scheduled, will start
 [vi] Từ mới trong câu: danh từ maintenance mang nghĩa sự bảo trì, bảo dưỡng.
 [term] maintenance
 
 [vi] Tình huống mô phỏng số 2: Chuyến tàu tốc hành lẽ ra khởi hành lúc 7 giờ 15 phút, nhưng điều kiện thời tiết khắc nghiệt đã gây ra sự chậm trễ một tiếng.
-[en] The express train should depart at seven fifteen, but severe weather conditions have caused a delay of one hour.
 [en] The express train should depart at seven fifteen, but severe weather conditions have caused a delay of one hour.
 [vi] Phân tích: Kế hoạch ban đầu là should depart lúc 7 giờ 15 phút, nhưng đã bị can thiệp bởi have caused. Kế hoạch đã bị lùi lại, nghĩa là tàu sẽ khởi hành lúc 8 giờ 15 phút.
 [term] should depart, have caused
@@ -32,7 +30,6 @@
 [vi] Cạm bẫy số ba: Lẫn lộn giữa sự kiện quá khứ và triệu chứng hiện tại trong Listening Part 2.
 [vi] Tình huống mô phỏng số 3: Năm ngoái tôi đã nghỉ học trọn một tuần khi tôi bị gãy tay, nhưng ngay lúc này tôi đang bị một cơn sốt cao dai dẳng.
 [en] Last year I missed an entire week of school when I fractured my arm, but right now I am suffering from a persistent high fever.
-[en] Last year I missed an entire week of school when I fractured my arm, but right now I am suffering from a persistent high fever.
 [vi] Phân tích: Sự việc trong quá khứ dùng missed và fractured, sự việc đang diễn ra ngay lúc nói dùng am suffering. Nếu câu hỏi hỏi nguyên nhân nghỉ học hiện tại, đáp án phải nằm ở phần hiện tại tiếp diễn.
 [term] missed, fractured, am suffering
 [vi] Từ mới trong câu: động từ fracture mang nghĩa làm gãy, nứt xương. Tính từ persistent mang nghĩa dai dẳng, liên tục.
@@ -41,16 +38,14 @@
 [vi] Chuyển sang cạm bẫy trong kỹ năng Đọc hiểu. Bẫy số một là lệch thì giữa số liệu quá khứ và dự báo tương lai.
 [vi] Câu ví dụ số 4: Số lượng ca tử vong liên quan đến thuốc lá đã đạt đỉnh vào đầu những năm 2000, nhưng các nhà nghiên cứu cảnh báo rằng những con số này có thể tăng trở lại trong thập kỷ tới.
 [en] The number of smoking-related fatalities peaked in the early 2000s, but researchers warn that these figures may rebound in the coming decade.
-[en] The number of smoking-related fatalities peaked in the early 2000s, but researchers warn that these figures may rebound in the coming decade.
 [vi] Phân tích: Sự kiện quá khứ dùng động từ peaked. Sự kiện dự báo dùng may rebound. Đề bài rất hay đánh lừa người đọc chọn số liệu dự báo làm số liệu quá khứ.
 [term] peaked, may rebound
 [vi] Từ mới trong câu: danh từ fatality đồng nghĩa với death, mang nghĩa ca tử vong do bạo lực hoặc bệnh tật. Động từ rebound mang nghĩa tăng trở lại sau khi giảm.
 [term] fatality, rebound
 
 [chapter] Phần 3: Khung kỹ năng Writing và Speaking
-[vi] Phần tiếp theo, chúng ta sẽ ứng dụng phối thì để giải quyết Writing Task 2. Khung cấu trúc phổ biến nhất để đối chiếu xu hướng là so sánh quá khứ và những năm gần đây.
+[vi] Phần tiếp theo, chúng xuất ứng dụng phối thì để giải quyết Writing Task 2. Khung cấu trúc phổ biến nhất để đối chiếu xu hướng là so sánh quá khứ và những năm gần đây.
 [vi] Câu ví dụ số 5: Trong quá khứ, các tài liệu in ấn đóng vai trò là nguồn thông tin chính. Tuy nhiên, trong những năm gần đây, phương tiện truyền thông kỹ thuật số đã thống trị bối cảnh giáo dục.
-[en] In the past, printed materials served as the primary source of information. However, in recent years, digital media has dominated the educational landscape.
 [en] In the past, printed materials served as the primary source of information. However, in recent years, digital media has dominated the educational landscape.
 [vi] Phân tích: Cụm In the past bắt buộc đi với quá khứ đơn served. Cụm in recent years bắt buộc đi với hiện tại hoàn thành has dominated.
 [term] served, has dominated
@@ -58,7 +53,6 @@
 [term] dominate, landscape
 
 [vi] Câu ví dụ số 6: Trước khi mạng xã hội trở nên phổ biến khắp nơi, thanh thiếu niên thường tham gia vào các hoạt động ngoài trời.
-[en] Before social media became ubiquitous, teenagers used to engage in outdoor activities.
 [en] Before social media became ubiquitous, teenagers used to engage in outdoor activities.
 [vi] Phân tích: Cả 2 vế đều mô tả sự việc đã kết thúc trong quá khứ nên đều dùng quá khứ đơn became và used to engage.
 [term] became, used to engage
@@ -68,14 +62,12 @@
 [vi] Trong kỹ năng Speaking Part 2 và 3, kể một câu chuyện cá nhân là yêu cầu bắt buộc.
 [vi] Câu ví dụ số 7: Tôi đã dành 5 năm làm việc trong lĩnh vực bán lẻ trước khi tôi quyết định theo đuổi bằng cấp về tiếp thị.
 [en] I spent five years working in the retail sector before I decided to pursue a degree in marketing.
-[en] I spent five years working in the retail sector before I decided to pursue a degree in marketing.
 [vi] Phân tích: Hành động spent xảy ra trước nhưng trong văn nói, dùng quá khứ đơn cho cả 2 vế để câu nói tự nhiên và đỡ nặng nề hơn quá khứ hoàn thành.
 [term] spent, decided
 [vi] Từ mới trong câu: danh từ sector mang nghĩa lĩnh vực, mảng. Động từ pursue mang nghĩa theo đuổi.
 [term] sector, pursue
 
 [vi] Câu ví dụ số 8: Khi tôi đang đi bộ qua công viên, tôi chợt nhận ra rằng tôi đã để quên chìa khóa ở nhà.
-[en] While I was walking through the park, I suddenly realized that I had left my keys at home.
 [en] While I was walking through the park, I suddenly realized that I had left my keys at home.
 [vi] Phân tích: Hành động was walking đang diễn ra thì realized chen ngang. Và sự việc had left đã xảy ra từ trước lúc nhận ra, nên chia ở quá khứ hoàn thành.
 [term] was walking, realized, had left
@@ -100,4 +92,4 @@
 [term] sector, pursue
 [vi] 8. Đột ngột: suddenly.
 [term] suddenly
-[vi] Bài 1.2 về Quy tắc Phối Thì và Mốc thời gian kết thúc ở đây. Hẹn gặp lại các bạn trong bài 1.3 về Danh động từ và Động từ nguyên mẫu.
+[vi] Bài một chấm hai về Quy tắc Phối Thì và Mốc thời gian kết thúc ở đây. Hẹn gặp lại các bạn trong bài một chấm ba về Danh động từ và Động từ nguyên mẫu.

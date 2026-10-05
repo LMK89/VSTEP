@@ -225,3 +225,4 @@ Trong phần thi Speaking Part 1, giám khảo đánh giá cao khả năng phả
 | Hiện tại hoàn thành (Present Perfect) | `S + have/has + V3/ed` | since, for, recently, so far, in recent years | Reading (Thành tựu, Số liệu tích lũy)<br>Writing Task 2 (Bối cảnh chủ đề) | "Since 2014, the clinic has treated 8,500 patients." |
 | Quá khứ đơn (Past Simple) | `S + V2/ed` | yesterday, ago, last week, in 1969, in 2010 | Listening/Reading (Sự kiện lịch sử)<br>Writing Task 1 (Mô tả sự cố)<br>Speaking Part 1 (Kỷ niệm) | "Neil Armstrong set foot on the moon in 1969." |
 | Tương lai đơn (Future Simple) | `S + will + V_bare` | tomorrow, next year, by 2030, predict, expect | Listening/Reading (Dự báo số liệu)<br>Writing Task 1 (Lời hứa/Giải pháp)<br>Writing Task 2 (Hệ quả) | "Tobacco deaths will double to 2 million by 2030." |
+
