@@ -2,6 +2,20 @@
 
 ---
 
+## 0. ÔN NỀN NHANH (FOUNDATION REVIEW)
+
+Trước khi đi sâu vào các cấu trúc phối thì phức tạp, chúng ta cùng ôn lại nhanh 5 thì cơ bản nhất sẽ xuất hiện liên tục trong bài học này.
+
+| Thì (Tense) | Công thức cốt lõi | Cách dùng chính | Ví dụ đời thường |
+| :--- | :--- | :--- | :--- |
+| **Quá khứ đơn** (Past Simple) | Khẳng định: $S + V_{2/ed}$<br>Phủ định: $S + didn't + V_0$ | Diễn tả hành động đã xảy ra và kết thúc hoàn toàn trong quá khứ. | I **went** to the cinema yesterday. |
+| **Quá khứ tiếp diễn** (Past Continuous) | $S + was/were + V_{ing}$ | Diễn tả hành động đang xảy ra tại một thời điểm cụ thể trong quá khứ (làm nền). | At 8 PM last night, I **was watching** TV. |
+| **Quá khứ hoàn thành** (Past Perfect) | $S + had + V_{3/ed}$ | Diễn tả một hành động xảy ra TRƯỚC một hành động khác trong quá khứ. | I **had eaten** dinner before he came. |
+| **Hiện tại hoàn thành** (Present Perfect) | $S + have/has + V_{3/ed}$ | Diễn tả hành động bắt đầu từ quá khứ kéo dài đến hiện tại (hoặc để lại kết quả). | I **have lived** here for 5 years. |
+| **Tương lai hoàn thành** (Future Perfect) | $S + will + have + V_{3/ed}$ | Diễn tả hành động sẽ hoàn thành TRƯỚC một mốc thời gian trong tương lai. | I **will have finished** work by 5 PM tomorrow. |
+
+---
+
 ## I. TỔNG QUAN VỀ PHỐI THÌ (TENSE HARMONY) VÀ MỐC THỜI GIAN TRONG BÀI THI VSTEP
 
 Trong kỳ thi Đánh giá năng lực tiếng Anh VSTEP (Vietnamese Standardized Test of English Proficiency) từ B1 đến C1, quy tắc phối thì và việc xác định mốc thời gian (Time Markers) là nền tảng cốt lõi giúp thí sinh xử lý chính xác các dạng câu hỏi trắc nghiệm và xây dựng văn phong chuẩn xác cho các phần thi sản xuất ngôn ngữ.
