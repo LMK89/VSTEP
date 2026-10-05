@@ -1,4 +1,14 @@
-TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: ĐẢO NGỮ NÂNG CAO VÀ BỘ LIÊN TỪ ĐIỀU HƯỚNG BÀI LUẬN
+# TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: ĐẢO NGỮ NÂNG CAO VÀ BỘ LIÊN TỪ ĐIỀU HƯỚNG BÀI LUẬN
+
+## 0. ÔN NỀN NHANH (FOUNDATION REVIEW)
+
+Trước khi đi sâu vào bài học, chúng ta cùng ôn lại nhanh các công thức nền tảng:
+
+| Cấu trúc cốt lõi | Cách dùng chính | Ví dụ đời thường |
+| :--- | :--- | :--- |
+| (Đang cập nhật) | (Đang cập nhật) | (Đang cập nhật) |
+
+---
 
 PHẦN I: TỔNG QUAN ĐỊNH DẠNG ĐỀ THI VSTEP B1/B2 VÀ YÊU CẦU CẤU TRÚC NGỮ PHÁP - TÍNH LIÊN KẾT
 
@@ -51,7 +61,7 @@ Dùng để nhấn mạnh hai đặc tính, hành động hoặc sự việc son
 
 Dùng để diễn tả một hành động vừa mới hoàn thành thì một hành động khác lập tức xảy ra. Thường áp dụng Thì Quá khứ hoàn thành cho mệnh đề đảo ngữ và Thì Quá khứ đơn cho mệnh đề sau.
 
-* Công thức: \text{Hardly / Scarcely} + \text{had} + \text{S} + \text{V}_{3/ed} + \dots + \text{when} + \text{S} + \text{V}_{2/ed} \text{No sooner} + \text{had} + \text{S} + \text{V}_{3/ed} + \dots + \text{than} + \text{S} + \text{V}_{2/ed}
+* Công thức: \text{Hardly / Scarcely} + \text{had} + \text{S} + \text{V}3/ed + \dots + \text{when} + \text{S} + \text{V}2/ed \text{No sooner} + \text{had} + \text{S} + \text{V}3/ed + \dots + \text{than} + \text{S} + \text{V}2/ed
 * Ứng dụng thực tế & Ví dụ minh họa Anh - Việt:
   * Ví dụ 1 (Writing Task 1 - Complaint Letter / Airport incident):
     * English: Hardly had I arrived at the airport when I realized my luggage had been damaged during the transit.
@@ -92,8 +102,8 @@ Bảng Tổng hợp Công thức Đảo ngữ Nâng cao cho VSTEP B2
 
 Cấu trúc Đảo ngữ	Vị trí Đảo ngữ	Công thức Chi tiết	Ý nghĩa & Ngữ cảnh sử dụng
 Not only... but also	Mệnh đề 1 (sau Not only)	\text{Not only} + \text{Aux/Be} + \text{S} + \text{V/Adj} \dots \text{but S also V}	Nhấn mạnh 2 hành động/tính chất song song.
-Hardly... when	Mệnh đề 1 (sau Hardly)	\text{Hardly} + \text{had} + \text{S} + \text{V}_{3/ed} + \text{when} + \text{S} + \text{V}_{2/ed}	Xảy ra nối tiếp tức thì trong quá khứ.
-No sooner... than	Mệnh đề 1 (sau No sooner)	\text{No sooner} + \text{had} + \text{S} + \text{V}_{3/ed} + \text{than} + \text{S} + \text{V}_{2/ed}	Ngay khi... thì... (Quá khứ).
+Hardly... when	Mệnh đề 1 (sau Hardly)	\text{Hardly} + \text{had} + \text{S} + \text{V}3/ed + \text{when} + \text{S} + \text{V}2/ed	Xảy ra nối tiếp tức thì trong quá khứ.
+No sooner... than	Mệnh đề 1 (sau No sooner)	\text{No sooner} + \text{had} + \text{S} + \text{V}3/ed + \text{than} + \text{S} + \text{V}2/ed	Ngay khi... thì... (Quá khứ).
 Only when	Mệnh đề thứ 2 (Mệnh đề chính)	\text{Only when} + \text{Clause}, + \text{Aux} + \text{S} + \text{V}	Nhấn mạnh điều kiện tiên quyết.
 Under no circumstances	Đứng đầu câu, đảo mệnh đề ngay sau	\text{Under no circumstances} + \text{Modal/Aux} + \text{S} + \text{V}	Khẳng định tính cấm đoán/nguyên tắc tuyệt đối.
 
@@ -196,11 +206,11 @@ PHẦN V: BÀI TẬP ỨNG DỤNG VÀ DẠNG BÀI LUYỆN TẬP CÓ ĐÁP ÁN
 
 Bài tập 1: Viết lại câu sử dụng Cấu trúc Đảo ngữ nâng cao
 
-1. The clinic provides free medical checkups, and it also distributes free medicines to poor patients. \rightarrow Not only ______________________________________________________.
-2. The plane had just taken off when the pilot noticed a technical fault. \rightarrow Hardly ______________________________________________________.
-3. We can reduce global warming only when we stop deforestation and plant more trees. \rightarrow Only when ______________________________________________________.
-4. Students must not use personal computers for checking private emails during class time under any circumstances. \rightarrow Under no circumstances ______________________________________________________.
-5. He had just submitted his VSTEP essay writing paper than he realized he had made a grammar mistake. \rightarrow No sooner ______________________________________________________.
+1. The clinic provides free medical checkups, and it also distributes free medicines to poor patients. -> Not only ______________________________________________________.
+2. The plane had just taken off when the pilot noticed a technical fault. -> Hardly ______________________________________________________.
+3. We can reduce global warming only when we stop deforestation and plant more trees. -> Only when ______________________________________________________.
+4. Students must not use personal computers for checking private emails during class time under any circumstances. -> Under no circumstances ______________________________________________________.
+5. He had just submitted his VSTEP essay writing paper than he realized he had made a grammar mistake. -> No sooner ______________________________________________________.
 
 Bài tập 2: Điền liên từ phù hợp (First and foremost, On the one hand, On the other hand, Furthermore, In conclusion) vào chỗ trống
 

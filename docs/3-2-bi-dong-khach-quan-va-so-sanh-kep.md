@@ -1,4 +1,14 @@
-TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: BỊ ĐỘNG KHÁCH QUAN & SO SÁNH KÉP
+# TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: BỊ ĐỘNG KHÁCH QUAN & SO SÁNH KÉP
+
+## 0. ÔN NỀN NHANH (FOUNDATION REVIEW)
+
+Trước khi đi sâu vào bài học, chúng ta cùng ôn lại nhanh các công thức nền tảng:
+
+| Cấu trúc cốt lõi | Cách dùng chính | Ví dụ đời thường |
+| :--- | :--- | :--- |
+| (Đang cập nhật) | (Đang cập nhật) | (Đang cập nhật) |
+
+---
 
 (Ứng dụng cấu trúc đắt giá và từ vựng B2/C1 cho bài thi VSTEP Writing Task 2)
 
@@ -18,7 +28,7 @@ Bị động khách quan thường đi kèm với các động từ tường thu
 2. Bảng tổng hợp công thức và ví dụ minh họa Anh - Việt (Tích hợp từ vựng B2)
 
 Cấu trúc Bị động khách quan	Ví dụ minh họa (English)	Dịch nghĩa (Vietnamese)	Từ vựng B2/C1 đắt giá
-It is said that + S + V<br>(S is said to V)	It is said that newspapers will continue as the major source of news.<br>\rightarrow Newspapers are said to continue as the major source of news.	Người ta nói rằng báo in sẽ tiếp tục là nguồn cung cấp tin tức chính.	• Major source (n): Nguồn thông tin chính<br>• Circulation figures (n): Số lượng bản in phát hành
+It is said that + S + V<br>(S is said to V)	It is said that newspapers will continue as the major source of news.<br>-> Newspapers are said to continue as the major source of news.	Người ta nói rằng báo in sẽ tiếp tục là nguồn cung cấp tin tức chính.	• Major source (n): Nguồn thông tin chính<br>• Circulation figures (n): Số lượng bản in phát hành
 It is believed that + S + V<br>(S is believed to V)	It is believed that stabilizing greenhouse gas concentrations can avoid the most damaging impacts of climate change.	Người ta tin rằng việc ổn định nồng độ khí nhà kính có thể tránh được những tác động gây hại nặng nề nhất của biến đổi khí hậu.	• Stabilize (v): Ổn định<br>• Damaging impacts (n): Tác động gây hại<br>• Concentration (n): Nồng độ
 It is reported that + S + V<br>(S is reported to V)	It is reported that a third of all men under 20 in China will die prematurely if they do not give up smoking.	Báo cáo chỉ ra rằng một phần ba nam giới dưới 20 tuổi ở Trung Quốc sẽ tử vong sớm nếu họ không từ bỏ hút thuốc.	• Prematurely (adv): Tử vong sớm/trước tuổi<br>• Cessation (n): Sự ngừng/từ bỏ<br>• Epidemic (n): Bệnh dịch/làn sóng
 S + is/are considered + (to be) N/Adj	Eye contact is considered as a sign of honesty and straightforwardness in American culture.	Giao tiếp bằng mắt được coi là dấu hiệu của sự thành thật và thẳng thắn trong văn hóa Mỹ.	• Be considered as (v): Được coi là<br>• Straightforwardness (n): Sự thẳng thắn<br>• Disrespect (n): Sự thiếu tôn trọng
@@ -38,9 +48,9 @@ Diễn tả một sự việc ngày càng gia tăng theo thời gian.
 Ví dụ ứng dụng trong đề thi VSTEP:
 
 1. More and more bacteria have become resistant to commercially available antibiotics. (Ngày càng nhiều vi khuẩn trở nên kháng lại các loại thuốc kháng sinh hiện có trên thị trường.)
-  * \rightarrow Từ vựng B2: Commercially available (có sẵn trên thị trường), Resist/Resistant (kháng lại).
+  * -> Từ vựng B2: Commercially available (có sẵn trên thị trường), Resist/Resistant (kháng lại).
 2. As technology evolves ever more quickly, job search strategies may become outdated. (Khi công nghệ phát triển ngày càng nhanh chóng, các chiến lược tìm việc có thể trở nên lạc hậu.)
-  * \rightarrow Từ vựng B2: Evolve (phát triển/tiến hóa), Outdated (lạc hậu/cũ kỹ).
+  * -> Từ vựng B2: Evolve (phát triển/tiến hóa), Outdated (lạc hậu/cũ kỹ).
 
 2. So sánh đồng tiến (Parallel Comparison)
 
@@ -58,9 +68,9 @@ Ví dụ ứng dụng trong VSTEP Writing:
 
 1. The more modern technology becomes, the more easily people can access online news. (Công nghệ càng hiện đại, người ta càng dễ dàng truy cập tin tức trực tuyến.)
 2. The higher the environmental awareness grows, the more people reject buying printed newspapers to save trees. (Nhận thức về môi trường càng tăng cao, càng có nhiều người từ chối mua báo in để bảo vệ cây xanh.)
-  * \rightarrow Từ vựng B2: Environmental awareness (nhận thức môi trường), Reject (từ chối/bác bỏ).
+  * -> Từ vựng B2: Environmental awareness (nhận thức môi trường), Reject (từ chối/bác bỏ).
 3. The larger the social network you maintain in your 40s, the easier it is to find a job after 50. (Mạng lưới xã hội bạn duy trì ở độ tuổi 40 càng rộng, việc tìm kiếm việc làm sau tuổi 50 càng dễ dàng.)
-  * \rightarrow Từ vựng B2: Maintain professional networks (duy trì mạng lưới chuyên môn), Obstacle (trở ngại).
+  * -> Từ vựng B2: Maintain professional networks (duy trì mạng lưới chuyên môn), Obstacle (trở ngại).
 
 PHẦN III: MẪU CÂU MỞ BÀI VÀ PHÁT TRIỂN Ý ĐẮT GIÁ CHO VSTEP WRITING TASK 2 (TRÌNH ĐỘ B2/C1)
 

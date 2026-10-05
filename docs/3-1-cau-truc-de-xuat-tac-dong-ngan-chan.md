@@ -1,4 +1,14 @@
-TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: CÁC CẤU TRÚC ĐẶC TRỊ CHO WRITING TASK 1 VÀ TASK 2
+# TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: CÁC CẤU TRÚC ĐẶC TRỊ CHO WRITING TASK 1 VÀ TASK 2
+
+## 0. ÔN NỀN NHANH (FOUNDATION REVIEW)
+
+Trước khi đi sâu vào bài học, chúng ta cùng ôn lại nhanh các công thức nền tảng:
+
+| Cấu trúc cốt lõi | Cách dùng chính | Ví dụ đời thường |
+| :--- | :--- | :--- |
+| (Đang cập nhật) | (Đang cập nhật) | (Đang cập nhật) |
+
+---
 
 TỔNG QUAN VỀ BÀI THI WRITING VSTEP B1/B2
 
