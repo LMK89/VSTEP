@@ -1,4 +1,14 @@
-TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: 5 THÌ CỐT LÕI VÀ ỨNG DỤNG CHIÊN SÂU
+# TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: 5 THÌ CỐT LÕI VÀ ỨNG DỤNG CHIÊN SÂU
+
+## 0. ÔN NỀN NHANH (FOUNDATION REVIEW)
+
+Trước khi đi sâu vào bài học, chúng ta cùng ôn lại nhanh các công thức nền tảng:
+
+| Cấu trúc cốt lõi | Cách dùng chính | Ví dụ đời thường |
+| :--- | :--- | :--- |
+| (Đang cập nhật) | (Đang cập nhật) | (Đang cập nhật) |
+
+---
 
 PHẦN 1: PHÂN TÍCH CHI TIẾT 5 THÌ CỐT LÕI TRONG BÀI THI VSTEP
 
@@ -9,9 +19,9 @@ Trong kỳ thi Đánh giá Năng lực Tiếng Anh theo Khung Năng lực Ngoạ
 a. Công thức chuẩn
 
 * Động từ thường:
-  * Khẳng định: S + V_{(s/es)}
-  * Phủ định: S + do/does + not + V_{bare}
-  * Nghi vấn: Do/Does + S + V_{bare}?
+  * Khẳng định: S + V(s/es)
+  * Phủ định: S + do/does + not + Vbare
+  * Nghi vấn: Do/Does + S + Vbare?
 * Động từ To Be:
   * Khẳng định: S + am/is/are + N/Adj
   * Phủ định: S + am/is/are + not + N/Adj
@@ -99,8 +109,8 @@ a. Công thức chuẩn
 
 * Động từ thường:
   * Khẳng định: S + V_2/V-ed
-  * Phủ định: S + did + not + V_{bare}
-  * Nghi vấn: Did + S + V_{bare}?
+  * Phủ định: S + did + not + Vbare
+  * Nghi vấn: Did + S + Vbare?
 * Động từ To Be:
   * Khẳng định: S + was/were + N/Adj
   * Phủ định: S + was/were + not + N/Adj
@@ -130,9 +140,9 @@ d. Ví dụ minh họa Anh - Việt lồng ghép từ vựng B2
 
 a. Công thức chuẩn
 
-* Khẳng định: S + will + V_{bare}
-* Phủ định: S + will + not (won't) + V_{bare}
-* Nghi vấn: Will + S + V_{bare}?
+* Khẳng định: S + will + Vbare
+* Phủ định: S + will + not (won't) + Vbare
+* Nghi vấn: Will + S + Vbare?
 
 b. Cách dùng chính trong VSTEP
 
@@ -284,8 +294,8 @@ Trong phần thi Speaking Part 1, giám khảo đánh giá cao khả năng phả
 BẢNG TỔNG HỢP VÀ SO SÁNH NHANH 5 THÌ CỐT LÕI
 
 Thì	Công thức cốt lõi	Từ nhận biết đặc trưng	Dạng bài VSTEP ứng dụng nhiều nhất	Ví dụ chuẩn VSTEP
-Hiện tại đơn (Present Simple)	S + V_{(s/es)}<br>S + am/is/are	always, usually, often, every day, in general	Reading (Chân lý, Thực tế)<br>Speaking Part 1 (Sở thích, Thói quen)<br>Writing Task 2 (Lập luận)	"Antibiotics block the life cycle of bacteria."
+Hiện tại đơn (Present Simple)	S + V(s/es)<br>S + am/is/are	always, usually, often, every day, in general	Reading (Chân lý, Thực tế)<br>Speaking Part 1 (Sở thích, Thói quen)<br>Writing Task 2 (Lập luận)	"Antibiotics block the life cycle of bacteria."
 Hiện tại tiếp diễn (Present Continuous)	S + am/is/are + V-ing	now, at present, currently, right now	Writing Task 1 (Mục đích thư)<br>Writing Task 2 (Xu hướng hiện nay)	"I am writing to express my dissatisfaction."
 Hiện tại hoàn thành (Present Perfect)	S + have/has + V_3/V-ed	since, for, recently, so far, in recent years	Reading (Thành tựu, Số liệu tích lũy)<br>Writing Task 2 (Bối cảnh chủ đề)	"Since 2014, the clinic has treated 8,500 patients."
 Quá khứ đơn (Past Simple)	S + V_2/V-ed<br>S + was/were	yesterday, ago, last week, in 1969, in 2010	Listening/Reading (Sự kiện lịch sử)<br>Writing Task 1 (Mô tả sự cố)<br>Speaking Part 1 (Kỷ niệm)	"Neil Armstrong set foot on the moon in 1969."
-Tương lai đơn (Future Simple)	S + will + V_{bare}	tomorrow, next year, by 2030, predict, expect	Listening/Reading (Dự báo số liệu)<br>Writing Task 1 (Lời hứa/Giải pháp)<br>Writing Task 2 (Hệ quả)	"Tobacco deaths will double to 2 million by 2030."
+Tương lai đơn (Future Simple)	S + will + Vbare	tomorrow, next year, by 2030, predict, expect	Listening/Reading (Dự báo số liệu)<br>Writing Task 1 (Lời hứa/Giải pháp)<br>Writing Task 2 (Hệ quả)	"Tobacco deaths will double to 2 million by 2030."

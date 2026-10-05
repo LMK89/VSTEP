@@ -8,11 +8,11 @@ Trước khi đi sâu vào các cấu trúc phối thì phức tạp, chúng ta 
 
 | Thì (Tense) | Công thức cốt lõi | Cách dùng chính | Ví dụ đời thường |
 | :--- | :--- | :--- | :--- |
-| **Quá khứ đơn** (Past Simple) | Khẳng định: $S + V_{2/ed}$<br>Phủ định: $S + didn't + V_0$ | Diễn tả hành động đã xảy ra và kết thúc hoàn toàn trong quá khứ. | I **went** to the cinema yesterday. |
-| **Quá khứ tiếp diễn** (Past Continuous) | $S + was/were + V_{ing}$ | Diễn tả hành động đang xảy ra tại một thời điểm cụ thể trong quá khứ (làm nền). | At 8 PM last night, I **was watching** TV. |
-| **Quá khứ hoàn thành** (Past Perfect) | $S + had + V_{3/ed}$ | Diễn tả một hành động xảy ra TRƯỚC một hành động khác trong quá khứ. | I **had eaten** dinner before he came. |
-| **Hiện tại hoàn thành** (Present Perfect) | $S + have/has + V_{3/ed}$ | Diễn tả hành động bắt đầu từ quá khứ kéo dài đến hiện tại (hoặc để lại kết quả). | I **have lived** here for 5 years. |
-| **Tương lai hoàn thành** (Future Perfect) | $S + will + have + V_{3/ed}$ | Diễn tả hành động sẽ hoàn thành TRƯỚC một mốc thời gian trong tương lai. | I **will have finished** work by 5 PM tomorrow. |
+| **Quá khứ đơn** (Past Simple) | Khẳng định: `S + V2/ed`<br>Phủ định: `S + didn't + V_0` | Diễn tả hành động đã xảy ra và kết thúc hoàn toàn trong quá khứ. | I **went** to the cinema yesterday. |
+| **Quá khứ tiếp diễn** (Past Continuous) | `S + was/were + V-ing` | Diễn tả hành động đang xảy ra tại một thời điểm cụ thể trong quá khứ (làm nền). | At 8 PM last night, I **was watching** TV. |
+| **Quá khứ hoàn thành** (Past Perfect) | `S + had + V3/ed` | Diễn tả một hành động xảy ra TRƯỚC một hành động khác trong quá khứ. | I **had eaten** dinner before he came. |
+| **Hiện tại hoàn thành** (Present Perfect) | `S + have/has + V3/ed` | Diễn tả hành động bắt đầu từ quá khứ kéo dài đến hiện tại (hoặc để lại kết quả). | I **have lived** here for 5 years. |
+| **Tương lai hoàn thành** (Future Perfect) | `S + will + have + V3/ed` | Diễn tả hành động sẽ hoàn thành TRƯỚC một mốc thời gian trong tương lai. | I **will have finished** work by 5 PM tomorrow. |
 
 ---
 
@@ -31,13 +31,13 @@ Trong kỳ thi Đánh giá năng lực tiếng Anh VSTEP (Vietnamese Standardize
 
 | Liên từ thời gian | Mệnh đề trạng ngữ chỉ thời gian | Mệnh đề chính (Main Clause) | Ngữ cảnh ứng dụng phổ biến |
 | :--- | :--- | :--- | :--- |
-| **When** | Quá khứ đơn ($S + V_{2/ed}$) | Quá khứ đơn / Quá khứ tiếp diễn / Quá khứ hoàn thành | Tái hiện sự việc xâu chuỗi hoặc một hành động đang diễn ra thì hành động khác chen vào. |
-| **While** | Quá khứ tiếp diễn ($S + was/were + V_{ing}$) | Quá khứ tiếp diễn / Quá khứ đơn | Hai hành động song song diễn ra trong quá khứ hoặc một nền hành động đang diễn ra. |
-| **Before** | Quá khứ đơn ($S + V_{2/ed}$)<br>Hiện tại đơn ($S + V_{s/es}$) | Quá khứ hoàn thành ($S + had + V_{3/ed}$)<br>Tương lai đơn ($S + will + V_0$) | Xác định hành động xảy ra trước một mốc/hành động khác trong quá khứ hoặc tương lai. |
-| **After** | Quá khứ hoàn thành ($S + had + V_{3/ed}$) | Quá khứ đơn ($S + V_{2/ed}$) | Diễn tả hành động đã hoàn thành trọn vẹn rồi mới đến hành động tiếp theo. |
-| **As soon as** | Quá khứ đơn ($S + V_{2/ed}$)<br>Hiện tại đơn / Hiện tại hoàn thành | Quá khứ đơn ($S + V_{2/ed}$)<br>Tương lai đơn ($S + will + V_0$) | Diễn tả tính nối tiếp ngay lập tức của hai hành động. |
-| **Since** | Quá khứ đơn ($S + V_{2/ed}$) | Hiện tại hoàn thành ($S + have/has + V_{3/ed}$) | Nối mốc thời gian bắt đầu trong quá khứ kéo dài đến hiện tại. |
-| **By the time** | Quá khứ đơn ($S + V_{2/ed}$)<br>Hiện tại đơn ($S + V_{s/es}$) | Quá khứ hoàn thành ($S + had + V_{3/ed}$)<br>Tương lai hoàn thành ($S + will + have + V_{3/ed}$) | Mốc hạn định "tính đến thời điểm...". |
+| **When** | Quá khứ đơn (`S + V2/ed`) | Quá khứ đơn / Quá khứ tiếp diễn / Quá khứ hoàn thành | Tái hiện sự việc xâu chuỗi hoặc một hành động đang diễn ra thì hành động khác chen vào. |
+| **While** | Quá khứ tiếp diễn (`S + was/were + V-ing`) | Quá khứ tiếp diễn / Quá khứ đơn | Hai hành động song song diễn ra trong quá khứ hoặc một nền hành động đang diễn ra. |
+| **Before** | Quá khứ đơn (`S + V2/ed`)<br>Hiện tại đơn (`S + Vs/es`) | Quá khứ hoàn thành (`S + had + V3/ed`)<br>Tương lai đơn (`S + will + V_0`) | Xác định hành động xảy ra trước một mốc/hành động khác trong quá khứ hoặc tương lai. |
+| **After** | Quá khứ hoàn thành (`S + had + V3/ed`) | Quá khứ đơn (`S + V2/ed`) | Diễn tả hành động đã hoàn thành trọn vẹn rồi mới đến hành động tiếp theo. |
+| **As soon as** | Quá khứ đơn (`S + V2/ed`)<br>Hiện tại đơn / Hiện tại hoàn thành | Quá khứ đơn (`S + V2/ed`)<br>Tương lai đơn (`S + will + V_0`) | Diễn tả tính nối tiếp ngay lập tức của hai hành động. |
+| **Since** | Quá khứ đơn (`S + V2/ed`) | Hiện tại hoàn thành (`S + have/has + V3/ed`) | Nối mốc thời gian bắt đầu trong quá khứ kéo dài đến hiện tại. |
+| **By the time** | Quá khứ đơn (`S + V2/ed`)<br>Hiện tại đơn (`S + Vs/es`) | Quá khứ hoàn thành (`S + had + V3/ed`)<br>Tương lai hoàn thành (`S + will + have + V3/ed`) | Mốc hạn định "tính đến thời điểm...". |
 | **Until** | Quá khứ đơn / Hiện tại đơn | Quá khứ đơn / Tương lai đơn | Tính liên tục của hành động kéo dài tới một mốc nhất định. |
 
 ---
@@ -116,11 +116,11 @@ Trong kỳ thi Đánh giá năng lực tiếng Anh VSTEP (Vietnamese Standardize
 * **Hiện tượng:** Băng đĩa thường đưa ra một mốc thời gian ban đầu (thường lệ), sau đó dùng các từ nối phản bác (*but, however, actually, instead*) để điều chỉnh mốc thời gian thực tế.
 * **Tình huống mô phỏng theo dạng đề VSTEP:**
   * **Tình huống 1 (Mô phỏng Listening Part 1):** *"It's usually at 5:15 but it's half an hour earlier this evening, at 4:45."*  
-    $\rightarrow$ **Bẫy:** Thí sinh nghe mốc 5:15 sẽ chọn nhầm đáp án. Mốc đúng cho tiết học hôm nay phải lấy $5:15 - 30\text{ phút} = 4:45$.
+    `->` **Bẫy:** Thí sinh nghe mốc 5:15 sẽ chọn nhầm đáp án. Mốc đúng cho tiết học hôm nay phải lấy `5:15 - 30\text{ phút} = 4:45`.
   * **Tình huống 2 (Mô phỏng Listening Part 1):** *"It should leave at 7:15 but an hour late today... If it doesn't leave until 8:15..."*  
-    $\rightarrow$ **Bẫy:** Mốc khởi hành theo kế hoạch là 7:15, nhưng mốc thực tế do trễ 1 tiếng phải là 8:15.
+    `->` **Bẫy:** Mốc khởi hành theo kế hoạch là 7:15, nhưng mốc thực tế do trễ 1 tiếng phải là 8:15.
   * **Tình huống 3 (Mô phỏng Listening Part 2):** *"...around the end of June. Yes, the 28th... I'm available from the 10th."*  
-    $\rightarrow$ **Bẫy:** Phân biệt giữa mốc bắt đầu công việc (28th of June) và mốc ứng viên có thể bắt đầu làm (10th of June).
+    `->` **Bẫy:** Phân biệt giữa mốc bắt đầu công việc (28th of June) và mốc ứng viên có thể bắt đầu làm (10th of June).
 
 #### Bẫy 2: Lẫn lộn giữa thì Quá khứ đơn (Past Event) và Thói quen hiện tại (Current Habit)
 * **Tình huống 4 (Mô phỏng Listening Part 2):** Nhân vật Kate nói về việc vắng mặt năm ngoái do tai nạn xe đạp (*"Last year I missed a whole week when I fell off my bike..."*) so với triệu chứng bệnh hiện tại (*"I have got a bit of a temperature now, too..."*). Nếu câu hỏi hỏi về nguyên nhân nghỉ học hiện tại, đáp án phải là ho/sốt chứ không phải ngã xe đạp.
@@ -135,12 +135,12 @@ Trong các bài đọc chứa số liệu thống kê (như bài đọc chủ đ
 * **Phân tích bẫy:**
   * Mốc 2010 (Quá khứ): Số lượng tử vong là 1 triệu người.
   * Mốc 2030 (Dự báo tương lai): Số lượng tử vong ước tính là 2 triệu người.
-  * Câu hỏi kiểm tra: *"By 2030, how many people may die from smoking every year?"* $\rightarrow$ Đáp án đúng bắt buộc phải là 2 million (không phải 1 million).
+  * Câu hỏi kiểm tra: *"By 2030, how many people may die from smoking every year?"* `->` Đáp án đúng bắt buộc phải là 2 million (không phải 1 million).
 
 #### Bẫy 2: Thứ tự diễn tiến thời gian không theo thứ tự tuyến tính của đoạn văn (Non-linear Chronology)
 Trong các bài đọc tiểu sử lịch sử:
 * **Văn cảnh mô phỏng:** Đoạn văn có thể nhắc đến năm 1865 (sự kiện nổi bật) trước, sau đó mới dùng thì Quá khứ hoàn thành để kể lại sự việc xảy ra năm 1863 hoặc năm 1857 (thử nghiệm thất bại trước đó).
-* **Kỹ thuật xử lý:** Lập trục thời gian (Timeline) dựa trên động từ chia ở thì Quá khứ hoàn thành ($had + V_{3/ed}$) để xác định sự việc nào diễn ra trước, tránh bị đánh lừa bởi thứ tự xuất hiện của các con số trong đoạn văn.
+* **Kỹ thuật xử lý:** Lập trục thời gian (Timeline) dựa trên động từ chia ở thì Quá khứ hoàn thành (`had + V3/ed`) để xác định sự việc nào diễn ra trước, tránh bị đánh lừa bởi thứ tự xuất hiện của các con số trong đoạn văn.
 
 ---
 

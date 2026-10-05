@@ -1,4 +1,14 @@
-TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: THỂ BỊ ĐỘNG VÀ ỨNG DỤNG TRONG THI NGHE, ĐỌC, VIẾT
+# TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: THỂ BỊ ĐỘNG VÀ ỨNG DỤNG TRONG THI NGHE, ĐỌC, VIẾT
+
+## 0. ÔN NỀN NHANH (FOUNDATION REVIEW)
+
+Trước khi đi sâu vào bài học, chúng ta cùng ôn lại nhanh các công thức nền tảng:
+
+| Cấu trúc cốt lõi | Cách dùng chính | Ví dụ đời thường |
+| :--- | :--- | :--- |
+| (Đang cập nhật) | (Đang cập nhật) | (Đang cập nhật) |
+
+---
 
 Tài liệu này tổng hợp toàn bộ kiến thức ngữ pháp về Thể bị động (Passive Voice), bị động với Động từ khuyết thiếu (Modal Verbs), phân tích các bẫy nhận diện trong kỹ năng Listening/Reading, cùng phương pháp ứng dụng thực tế để nâng cao văn phong trang trọng, khách quan cho bài thi VSTEP Writing Task 2.
 
@@ -83,9 +93,9 @@ III. BẪY NHẬN DIỆN THỂ BỊ ĐỘNG TRONG BÀI THI LISTENING VÀ READING
 2. Bẫy Đọc (Reading Traps)
 
 * Bẫy Mệnh đề quan hệ rút gọn dạng bị động (Reduced Relative Clauses using Past Participles): Đây là bẫy phổ biến nhất trong phần Reading B2. Mệnh đề quan hệ bị động bị rút gọn chỉ còn lại V3/V-ed, khiến người đọc dễ nhầm đó là động từ chính của câu (chủ động thì Quá khứ đơn).
-  * Ví dụ 1: "A new study, conducted by scientists from Oxford University, has warned that..." (Reading Test 1, Passage 1) \rightarrow Bản chất là: A new study, which was conducted by..., has warned... (Cụm conducted là mệnh đề bị động rút gọn, động từ chính của câu là has warned).
-  * Ví dụ 2: "...capture the carbon dioxide emitted from fossil fuels and store it underground..." (Reading Test 1, Passage 2) \rightarrow Bản chất là: carbon dioxide which is emitted from fossil fuels...
-  * Ví dụ 3: "The solution draining from the barrel was boiled down in iron kettles." (Reading Test 2, Passage 4) \rightarrow draining là mệnh đề chủ động rút gọn (which drained), còn was boiled down mới là động từ chính bị động.
+  * Ví dụ 1: "A new study, conducted by scientists from Oxford University, has warned that..." (Reading Test 1, Passage 1) -> Bản chất là: A new study, which was conducted by..., has warned... (Cụm conducted là mệnh đề bị động rút gọn, động từ chính của câu là has warned).
+  * Ví dụ 2: "...capture the carbon dioxide emitted from fossil fuels and store it underground..." (Reading Test 1, Passage 2) -> Bản chất là: carbon dioxide which is emitted from fossil fuels...
+  * Ví dụ 3: "The solution draining from the barrel was boiled down in iron kettles." (Reading Test 2, Passage 4) -> draining là mệnh đề chủ động rút gọn (which drained), còn was boiled down mới là động từ chính bị động.
 * Bẫy xác định đại từ quy chiếu (Pronoun Reference) trong câu bị động: Trong các câu bị động ghép phức tạp, câu hỏi thường hỏi từ "them/they/it" thay thế cho từ nào.
   * Ví dụ (Reading Test 2, Passage 4, Question 33): "The ashes were placed in a barrel with holes in the bottom, and water was poured over them."
   * Phân tích: Từ them đứng sau động từ bị động was poured over thay thế cho danh từ số nhiều làm chủ ngữ bị động ở mệnh đề trước: The ashes (tro), không phải holes hay bottom.
@@ -118,7 +128,7 @@ Thay vì viết câu chủ động mang tính cá nhân, hãy sử dụng các c
   * The rise in one-person households can be seen as positive for two primary reasons. (Trích Bài mẫu Writing Test 1, Task 2)
   * It can be argued that this trend could have both positive and negative consequences in equal measure.
 
-2. Bảng so sánh biến đổi Văn phong Chủ động \rightarrow Bị động Akademik (Trích từ các bài luận VSTEP B2)
+2. Bảng so sánh biến đổi Văn phong Chủ động -> Bị động Akademik (Trích từ các bài luận VSTEP B2)
 
 Văn phong Chủ động (Ít trang trọng / Cá nhân)	Văn phong Bị động B2 Trang trọng (Khuyên dùng cho Writing Task 2)
 Young adults living alone learn how to pay bills and manage money.	Pay bills and budget management are considered valuable life skills that must be learned.
@@ -144,9 +154,9 @@ VI. BÀI TẬP THỰC HÀNH ỨNG DỤNG (CÓ ĐÁP ÁN VÀ PHÂN TÍCH)
 
 Bài tập 1: Viết lại các câu sau sang thể Bị động trang trọng dùng trong Writing Task 2
 
-1. Governments should encourage people to use renewable energy to protect the environment. \rightarrow Renewable energy...
-2. Researchers have discovered new ways to store carbon dioxide underground. \rightarrow New ways to store carbon dioxide underground...
-3. The government will collect billions of yuan in tobacco taxes each year. \rightarrow Billions of yuan in tobacco taxes...
+1. Governments should encourage people to use renewable energy to protect the environment. -> Renewable energy...
+2. Researchers have discovered new ways to store carbon dioxide underground. -> New ways to store carbon dioxide underground...
+3. The government will collect billions of yuan in tobacco taxes each year. -> Billions of yuan in tobacco taxes...
 
 Bài tập 2: Chọn phương án đúng nhất (Dạng bẫy Listening/Reading VSTEP)
 
@@ -157,11 +167,11 @@ Bài tập 2: Chọn phương án đúng nhất (Dạng bẫy Listening/Reading 
 
 Bài tập 1:
 
-1. \rightarrow Renewable energy should be encouraged to protect the environment. (Phân tích: Dùng Modal Passive should be encouraged để tạo văn phong khách quan).
-2. \rightarrow New ways to store carbon dioxide underground have been discovered by researchers. (Phân tích: Dùng Present Perfect Passive have been discovered).
-3. \rightarrow Billions of yuan in tobacco taxes will be collected by the government each year. (Phân tích: Dùng Future Simple Passive will be collected).
+1. -> Renewable energy should be encouraged to protect the environment. (Phân tích: Dùng Modal Passive should be encouraged để tạo văn phong khách quan).
+2. -> New ways to store carbon dioxide underground have been discovered by researchers. (Phân tích: Dùng Present Perfect Passive have been discovered).
+3. -> Billions of yuan in tobacco taxes will be collected by the government each year. (Phân tích: Dùng Future Simple Passive will be collected).
 
 Bài tập 2:
 
-1. Đáp án: A. conducted (Phân tích: Bẫy mệnh đề quan hệ rút gọn bị động which was conducted \rightarrow conducted).
+1. Đáp án: A. conducted (Phân tích: Bẫy mệnh đề quan hệ rút gọn bị động which was conducted -> conducted).
 2. Đáp án: B. can be avoided (Phân tích: Cấu trúc bị động với động từ khuyết thiếu can be + V3).

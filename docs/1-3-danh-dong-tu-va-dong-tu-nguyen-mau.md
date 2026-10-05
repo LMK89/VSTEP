@@ -1,4 +1,14 @@
-TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: PHÂN BIỆT DANH ĐỘNG TỪ (V-ING) VÀ ĐỘNG TỪ NGUYÊN MẪU (TO-V, BARE V)
+# TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: PHÂN BIỆT DANH ĐỘNG TỪ (V-ING) VÀ ĐỘNG TỪ NGUYÊN MẪU (TO-V, BARE V)
+
+## 0. ÔN NỀN NHANH (FOUNDATION REVIEW)
+
+Trước khi đi sâu vào bài học, chúng ta cùng ôn lại nhanh các công thức nền tảng:
+
+| Cấu trúc cốt lõi | Cách dùng chính | Ví dụ đời thường |
+| :--- | :--- | :--- |
+| (Đang cập nhật) | (Đang cập nhật) | (Đang cập nhật) |
+
+---
 
 TỔNG QUAN VỀ DẠNG BÀI VÀ VAI TRÒ NGỮ PHÁP TRONG BÀI THI VSTEP
 
@@ -183,8 +193,8 @@ Bẫy 2: Bẫy Động từ có Tân ngữ (V + O + To-V) vs Không có Tân ng�
 Một số động từ thay đổi cấu trúc tùy thuộc vào việc có Tân ngữ chỉ người đứng giữa hay không.
 
 * Allow / Permit / Advise / Recommend:
-  * Không có Tân ngữ \rightarrow V-ing: The city doesn't allow smoking in public places.
-  * Có Tân ngữ \rightarrow O + To-V: The city doesn't allow people to smoke in public places.
+  * Không có Tân ngữ -> V-ing: The city doesn't allow smoking in public places.
+  * Có Tân ngữ -> O + To-V: The city doesn't allow people to smoke in public places.
 
 Bẫy 3: Bẫy Thể Bị Động của Gerund (Being + V3/ed) và Infinitive (To\ be + V3/ed)
 

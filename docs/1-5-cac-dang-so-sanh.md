@@ -1,4 +1,14 @@
-TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: CẤU TRÚC SO SÁNH VÀ ỨNG DỤNG TRONG WRITING & SPEAKING
+# TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: CẤU TRÚC SO SÁNH VÀ ỨNG DỤNG TRONG WRITING & SPEAKING
+
+## 0. ÔN NỀN NHANH (FOUNDATION REVIEW)
+
+Trước khi đi sâu vào bài học, chúng ta cùng ôn lại nhanh các công thức nền tảng:
+
+| Cấu trúc cốt lõi | Cách dùng chính | Ví dụ đời thường |
+| :--- | :--- | :--- |
+| (Đang cập nhật) | (Đang cập nhật) | (Đang cập nhật) |
+
+---
 
 PHẦN I: TỔNG QUAN BÀI THI VSTEP B1/B2 VÀ VAI TRÒ CỦA CẤU TRÚC SO SÁNH
 
@@ -196,10 +206,10 @@ Bài tập 1: Chọn đáp án đúng nhất (A, B, C hoặc D)
 
 Bài tập 2: Viết lại câu giữ nguyên nghĩa, sử dụng từ gợi ý trong ngoặc
 
-1. Print newspapers are not as fast as online news in updating information. (THAN) \rightarrow Online news is ___________________________________________________.
-2. No other method of managing waste is older than land-filling. (THE) \rightarrow Land-filling is ___________________________________________________.
-3. Living with parents provides less independence than living alone. (MORE) \rightarrow Living alone makes people ________________________________________.
-4. I think a sight-seeing holiday is more suitable for me than a climbing holiday. (AS) \rightarrow A climbing holiday is not ________________________________________.
+1. Print newspapers are not as fast as online news in updating information. (THAN) -> Online news is ___________________________________________________.
+2. No other method of managing waste is older than land-filling. (THE) -> Land-filling is ___________________________________________________.
+3. Living with parents provides less independence than living alone. (MORE) -> Living alone makes people ________________________________________.
+4. I think a sight-seeing holiday is more suitable for me than a climbing holiday. (AS) -> A climbing holiday is not ________________________________________.
 
 ĐÁP ÁN BÀI TẬP TỰ LUYỆN
 
@@ -213,7 +223,7 @@ Bài tập 2: Viết lại câu giữ nguyên nghĩa, sử dụng từ gợi ý 
 
 Đáp án Bài tập 2:
 
-1. \rightarrow Online news is faster than print newspapers in updating information.
-2. \rightarrow Land-filling is the oldest method of managing waste.
-3. \rightarrow Living alone makes people more independent than living with parents.
-4. \rightarrow A climbing holiday is not as suitable for me as a sight-seeing holiday.
+1. -> Online news is faster than print newspapers in updating information.
+2. -> Land-filling is the oldest method of managing waste.
+3. -> Living alone makes people more independent than living with parents.
+4. -> A climbing holiday is not as suitable for me as a sight-seeing holiday.
