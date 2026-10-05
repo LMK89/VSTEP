@@ -1,4 +1,14 @@
-TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: CẤU TRÚC NHƯỢNG BỘ VÀ NGUYÊN NHÂN - KẾT QUẢ
+# TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: CẤU TRÚC NHƯỢNG BỘ VÀ NGUYÊN NHÂN - KẾT QUẢ
+
+## 0. ÔN NỀN NHANH (FOUNDATION REVIEW)
+
+Trước khi đi sâu vào bài học, chúng ta cùng ôn lại nhanh các công thức nền tảng:
+
+| Cấu trúc cốt lõi | Cách dùng chính | Ví dụ đời thường |
+| :--- | :--- | :--- |
+| (Đang cập nhật) | (Đang cập nhật) | (Đang cập nhật) |
+
+---
 
 Tài liệu này được biên soạn nhằm phục vụ ôn thi VSTEP B1/B2, tập trung chuyên sâu vào hai nhóm cấu trúc ngữ pháp quan trọng nhất trong bài thi Viết (Writing Task 2) và Nói (Speaking Part 2 & Part 3): Cấu trúc Nhượng bộ và Cấu trúc Nguyên nhân - Kết quả. Toàn bộ ví dụ, ngữ cảnh và từ vựng B2 đều được trích xuất và tổng hợp trực tiếp từ đề thi, đáp án mẫu và trích đoạn bài đọc/nghe VSTEP.
 
@@ -112,7 +122,7 @@ PHẦN III: PHƯƠNG PHÁP LIÊN KẾT LUẬN ĐIỂM TRONG WRITING TASK 2 VÀ S
 
 1. Ứng dụng trong Writing Task 2 (Viết luận VSTEP)
 
-Trong Writing Task 2, bạn cần triển khai đoạn văn theo cấu trúc: Topic Sentence (Câu chủ đề) \rightarrow Explanation (Giải thích nguyên nhân) \rightarrow Example (Ví dụ) \rightarrow Concession / Counter-argument (Mặt đối lập / Nhượng bộ) \rightarrow Result / Conclusion (Kết quả / Kết luận).
+Trong Writing Task 2, bạn cần triển khai đoạn văn theo cấu trúc: Topic Sentence (Câu chủ đề) -> Explanation (Giải thích nguyên nhân) -> Example (Ví dụ) -> Concession / Counter-argument (Mặt đối lập / Nhượng bộ) -> Result / Conclusion (Kết quả / Kết luận).
 
 Mẫu triển khai đoạn 1: Dạng bài Discussion / Opinion (Chủ đề: Living Alone)
 

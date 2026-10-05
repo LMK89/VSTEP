@@ -1,4 +1,14 @@
-TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: CÂU ĐIỀU KIỆN VÀ CẤU TRÚC GIẢ ĐỊNH
+# TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: CÂU ĐIỀU KIỆN VÀ CẤU TRÚC GIẢ ĐỊNH
+
+## 0. ÔN NỀN NHANH (FOUNDATION REVIEW)
+
+Trước khi đi sâu vào bài học, chúng ta cùng ôn lại nhanh các công thức nền tảng:
+
+| Cấu trúc cốt lõi | Cách dùng chính | Ví dụ đời thường |
+| :--- | :--- | :--- |
+| (Đang cập nhật) | (Đang cập nhật) | (Đang cập nhật) |
+
+---
 
 Tài liệu này được biên soạn chuyên sâu nhằm phục vụ cho kỳ thi đánh giá năng lực tiếng Anh VSTEP (Trình độ B1/B2). Nội dung tập trung hệ thống hóa toàn bộ lý thuyết về Câu điều kiện (Loại 1, 2, 3 và Hỗn hợp) cùng các Cấu trúc giả định phổ biến, kết hợp bảng từ vựng B2 chuẩn định dạng VSTEP và hướng dẫn ứng dụng trực tiếp vào bài thi Speaking Part 2 (Thảo luận giải pháp) và Part 3 (Phát triển chủ đề).
 
@@ -44,7 +54,7 @@ Câu điều kiện dùng để nêu lên một điều kiện và kết quả c
 
 4. Câu điều kiện hỗn hợp (Mixed Conditionals)
 
-Dạng phổ biến nhất trong đề thi VSTEP B2 là kết hợp Quá khứ (Loại 3) \rightarrow Hiện tại (Loại 2).
+Dạng phổ biến nhất trong đề thi VSTEP B2 là kết hợp Quá khứ (Loại 3) -> Hiện tại (Loại 2).
 
 * Cách dùng: Diễn tả một điều kiện giả định trái ngược với quá khứ, nhưng kết quả kéo dài hoặc ảnh hưởng trực tiếp đến hiện tại.
 * Công thức: \text{If} + \text{S} + \text{had} + \text{V3/ed}, \quad \text{S} + \text{would / could} + \text{V-inf (now)}
@@ -227,10 +237,10 @@ BÀI TẬP THỰC HÀNH TỰ ÔN TẬP (CÓ ĐÁP ÁN)
 
 Bài tập 1: Viết lại câu giữ nguyên nghĩa sử dụng từ gợi ý trong ngoặc
 
-1. You don't learn how to manage your budget, so you can't live independently. (UNLESS) \rightarrow Unless.......................................................................................................................
-2. I am not you, but I think you should choose a sight-seeing holiday. (IF I WERE YOU) \rightarrow If I............................................................................................................................
-3. You must have a laptop connected to the Internet to read up-to-the-minute news. (AS LONG AS) \rightarrow As long as.................................................................................................................
-4. He didn't decision to study abroad last year, so he doesn't have good career prospects now. (MIXED CONDITIONAL) \rightarrow If he...........................................................................................................................
+1. You don't learn how to manage your budget, so you can't live independently. (UNLESS) -> Unless.......................................................................................................................
+2. I am not you, but I think you should choose a sight-seeing holiday. (IF I WERE YOU) -> If I............................................................................................................................
+3. You must have a laptop connected to the Internet to read up-to-the-minute news. (AS LONG AS) -> As long as.................................................................................................................
+4. He didn't decision to study abroad last year, so he doesn't have good career prospects now. (MIXED CONDITIONAL) -> If he...........................................................................................................................
 
 Bài tập 2: Chọn phương án đúng nhất để hoàn thành câu chuẩn VSTEP B2
 

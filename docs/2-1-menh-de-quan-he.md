@@ -1,4 +1,14 @@
-TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: MỆNH ĐỀ QUAN HỆ VÀ ỨNG DỤNG TRONG READING, WRITING & SPEAKING
+# TÀI LIỆU ÔN TẬP NGỮ PHÁP VSTEP B1/B2: MỆNH ĐỀ QUAN HỆ VÀ ỨNG DỤNG TRONG READING, WRITING & SPEAKING
+
+## 0. ÔN NỀN NHANH (FOUNDATION REVIEW)
+
+Trước khi đi sâu vào bài học, chúng ta cùng ôn lại nhanh các công thức nền tảng:
+
+| Cấu trúc cốt lõi | Cách dùng chính | Ví dụ đời thường |
+| :--- | :--- | :--- |
+| (Đang cập nhật) | (Đang cập nhật) | (Đang cập nhật) |
+
+---
 
 I. TỔNG QUAN VỀ MỆNH ĐỀ QUAN HỆ (RELATIVE CLAUSES) TRONG BÀI THI VSTEP
 
