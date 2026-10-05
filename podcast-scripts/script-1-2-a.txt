@@ -76,7 +76,7 @@
 
 [vi] Câu ví dụ số 6: Trước khi ủy ban thành phố phê duyệt quy hoạch tổng thể, họ sẽ tham vấn các chuyên gia quy hoạch đô thị.
 [en] Before the municipal committee approves the master plan, they will consult with urban planning specialists.
-[vi] Phân tích: Sự việc nằm ở tương lai, nhưng mệnh đề sau Before bắt buộc lùi về hiện tại đơn, approves. Mệnh đề chính vẫn dùng tương lai đơn, will consult.
+[vi] Phân tích: Sự việc nằm ở tương lai, nhưng mệnh đề sau Before thường lùi về hiện tại đơn, approves. Mệnh đề chính vẫn dùng tương lai đơn, will consult.
 [term] approves, will consult
 [vi] Từ mới trong câu: cụm master plan nghĩa là quy hoạch tổng thể. Động từ consult đi với giới từ with, nghĩa là tham vấn, hỏi ý kiến.
 [term] master plan, consult with

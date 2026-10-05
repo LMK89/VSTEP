@@ -7,11 +7,11 @@
 [term] By the time
 [vi] Và thứ ba, Before đi với mốc xảy ra sau, còn After đi với sự việc hoàn thành trước.
 [term] Before, After
-[vi] Trong Tập một chấm hai B hôm nay, chúng ta sẽ thực chiến với hai nội dung: Một là vạch trần các cạm bẫy gài mốc thời gian trong bài thi Nghe và Đọc. Hai là ứng dụng quy tắc phối thì vào bài viết luận Task 2 và bài thi Nói Speaking.
+[vi] Trong Tập một chấm hai B hôm nay, chúng ta sẽ thực chiến với hai nội dung: Một là vạch trần các cạm bẫy gài mốc thời gian trong bài thi Nghe và Đọc. Hai là ứng dụng quy tắc phối thì vào bài viết luận và bài thi Nói.
 
 [chapter] Phần 2: Mổ xẻ Bẫy đề thi Listening và Reading
 [vi] Dưới đây là các tình huống mô phỏng theo dạng đề VSTEP chuẩn giúp các bạn nhận diện bẫy phòng thi. Trước hết là các cạm bẫy trong kỹ năng Nghe.
-[vi] Cạm bẫy số một: Bẫy thay đổi lịch trình thường lệ bằng các từ nối phản bác. Trong phần thi Listening Part 1, người nói thường đưa ra một mốc thời gian quen thuộc ngay từ đầu câu. Nhưng ngay sau đó, họ sẽ dùng các từ chuyển hướng như but, however, actually hoặc instead để thay đổi kế hoạch.
+[vi] Cạm bẫy Listening số một: Bẫy thay đổi lịch trình thường lệ bằng các từ nối phản bác. Trong phần thi Listening Part 1, người nói thường đưa ra một mốc thời gian quen thuộc ngay từ đầu câu. Nhưng ngay sau đó, họ sẽ dùng các từ chuyển hướng như but, however, actually hoặc instead để thay đổi kế hoạch.
 [term] but, however, actually, instead
 [vi] Tình huống mô phỏng số 1: Lớp học bơi thường được xếp lịch lúc 5 giờ 15 phút, nhưng tối nay nó sẽ bắt đầu sớm hơn nửa tiếng do công tác bảo trì.
 [en] The swimming class is usually scheduled at a quarter past five, but this evening it will start half an hour earlier due to maintenance work.
@@ -20,6 +20,7 @@
 [vi] Từ mới trong câu: danh từ maintenance mang nghĩa sự bảo trì, bảo dưỡng.
 [term] maintenance
 
+[vi] Cạm bẫy Listening số hai: Bẫy chậm trễ so với dự kiến.
 [vi] Tình huống mô phỏng số 2: Chuyến tàu tốc hành lẽ ra khởi hành lúc 7 giờ 15 phút, nhưng điều kiện thời tiết khắc nghiệt đã gây ra sự chậm trễ một tiếng.
 [en] The express train should depart at seven fifteen, but severe weather conditions have caused a delay of one hour.
 [vi] Phân tích: Kế hoạch ban đầu là should depart lúc 7 giờ 15 phút, nhưng đã bị can thiệp bởi have caused. Kế hoạch đã bị lùi lại, nghĩa là tàu sẽ khởi hành lúc 8 giờ 15 phút.
@@ -27,7 +28,7 @@
 [vi] Từ mới trong câu: tính từ severe mang nghĩa nghiêm trọng, khắc nghiệt. Danh từ delay nghĩa là sự chậm trễ, sự trì hoãn.
 [term] severe, delay
 
-[vi] Cạm bẫy số ba: Lẫn lộn giữa sự kiện quá khứ và triệu chứng hiện tại trong Listening Part 2.
+[vi] Cạm bẫy Listening số ba: Lẫn lộn giữa sự kiện quá khứ và triệu chứng hiện tại trong Listening Part 2.
 [vi] Tình huống mô phỏng số 3: Năm ngoái tôi đã nghỉ học trọn một tuần khi tôi bị gãy tay, nhưng ngay lúc này tôi đang bị một cơn sốt cao dai dẳng.
 [en] Last year I missed an entire week of school when I fractured my arm, but right now I am suffering from a persistent high fever.
 [vi] Phân tích: Sự việc trong quá khứ dùng missed và fractured, sự việc đang diễn ra ngay lúc nói dùng am suffering. Nếu câu hỏi hỏi nguyên nhân nghỉ học hiện tại, đáp án phải nằm ở phần hiện tại tiếp diễn.
@@ -35,61 +36,115 @@
 [vi] Từ mới trong câu: động từ fracture mang nghĩa làm gãy, nứt xương. Tính từ persistent mang nghĩa dai dẳng, liên tục.
 [term] fracture, persistent
 
-[vi] Chuyển sang cạm bẫy trong kỹ năng Đọc hiểu. Bẫy số một là lệch thì giữa số liệu quá khứ và dự báo tương lai.
-[vi] Câu ví dụ số 4: Số lượng ca tử vong liên quan đến thuốc lá đã đạt đỉnh vào đầu những năm 2000, nhưng các nhà nghiên cứu cảnh báo rằng những con số này có thể tăng trở lại trong thập kỷ tới.
-[en] The number of smoking-related fatalities peaked in the early 2000s, but researchers warn that these figures may rebound in the coming decade.
-[vi] Phân tích: Sự kiện quá khứ dùng động từ peaked. Sự kiện dự báo dùng may rebound. Đề bài rất hay đánh lừa người đọc chọn số liệu dự báo làm số liệu quá khứ.
-[term] peaked, may rebound
-[vi] Từ mới trong câu: danh từ fatality đồng nghĩa với death, mang nghĩa ca tử vong do bạo lực hoặc bệnh tật. Động từ rebound mang nghĩa tăng trở lại sau khi giảm.
-[term] fatality, rebound
+[vi] Chuyển sang các cạm bẫy trong kỹ năng Đọc hiểu Reading.
+[vi] Bẫy Reading số một: Trục thời gian phi tuyến tính. Người viết thường không kể chuyện theo đúng thứ tự thời gian, mà hay kể sự việc đang xảy ra rồi mới dùng quá khứ hoàn thành để giải thích nguyên nhân trước đó.
+[vi] Tình huống mô phỏng số 4: Các nhà điều tra phát hiện ra rằng ngọn lửa đã bắt nguồn từ một lỗi chập điện ở tầng hầm nhiều giờ trước khi hệ thống báo động reo lên.
+[en] Investigators discovered that the fire had originated from an electrical fault in the basement hours before the alarm system went off.
+[vi] Phân tích: Sự việc had originated xảy ra đầu tiên, sau đó chuông báo động went off, và cuối cùng các nhà điều tra mới discovered. Quá khứ hoàn thành giúp xác định chính xác nguyên nhân gốc rễ.
+[term] had originated, went off, discovered
+[vi] Từ mới trong câu: động từ originate mang nghĩa bắt nguồn, khởi nguồn.
+[term] originate
 
-[chapter] Phần 3: Khung kỹ năng Writing và Speaking
-[vi] Phần tiếp theo, chúng xuất ứng dụng phối thì để giải quyết Writing Task 2. Khung cấu trúc phổ biến nhất để đối chiếu xu hướng là so sánh quá khứ và những năm gần đây.
-[vi] Câu ví dụ số 5: Trong quá khứ, các tài liệu in ấn đóng vai trò là nguồn thông tin chính. Tuy nhiên, trong những năm gần đây, phương tiện truyền thông kỹ thuật số đã thống trị bối cảnh giáo dục.
+[vi] Bẫy Reading số hai: Lệch thì giữa số liệu quá khứ và dự báo tương lai.
+[vi] Tình huống mô phỏng số 5: Số lượng ca tử vong do các bệnh liên quan đến thuốc lá đứng ở mức một triệu vào năm 2010, nhưng các nhà nghiên cứu cảnh báo rằng con số này sẽ tăng gấp đôi vào năm 2030.
+[en] The number of deaths from smoking-related diseases stood at one million in 2010, but researchers warn that this figure will double by 2030.
+[vi] Phân tích: Sự kiện quá khứ đi với năm 2010 dùng động từ stood. Sự kiện dự báo đi với mốc 2030 dùng will double. Đề bài rất hay đánh lừa người đọc chọn số liệu dự báo làm số liệu thực tế trong quá khứ.
+[term] stood, will double
+[vi] Từ mới trong câu: danh từ death nghĩa là cái chết, ca tử vong do bệnh tật. Cần lưu ý không dùng fatality ở đây vì fatality thường dùng cho ca tử vong do tai nạn hoặc thảm họa.
+[term] death, fatality
+
+[chapter] Phần 3: Khung kỹ năng Writing Task 1 và Task 2
+[vi] Phần tiếp theo, chúng ta ứng dụng phối thì để giải quyết bài thi Viết. Đầu tiên là Writing Task 1: Viết thư phàn nàn và xin lỗi.
+[vi] Cấu trúc viết thư phàn nàn thường yêu cầu kể lại sự việc đã xảy ra, sau đó mô tả tình trạng hiện tại, và đưa ra yêu cầu ở tương lai.
+[vi] Câu ví dụ số 6: Tuần trước, tôi đã mua một chiếc máy tính xách tay từ cửa hàng của bạn. Tuy nhiên, nó hiện không khởi động được, vì vậy tôi sẽ yêu cầu hoàn tiền toàn bộ.
+[en] Last week, I purchased a laptop from your store. However, it currently does not turn on, so I will request a full refund.
+[vi] Phân tích: Quá khứ đơn purchased để kể lại giao dịch mua bán, hiện tại đơn does not turn on để nói về lỗi, và tương lai will request để đề xuất hướng giải quyết.
+[term] purchased, does not turn on, will request
+[vi] Từ mới trong câu: động từ purchase đồng nghĩa với buy, mang nghĩa mua sắm. Cụm refund nghĩa là sự hoàn tiền.
+[term] purchase, refund
+
+[vi] Đối với thư xin lỗi trong Task 1, ta thường dùng quá khứ để xin lỗi sự việc đã qua và tương lai để hứa hẹn.
+[vi] Câu ví dụ số 7: Tôi thành thật xin lỗi vì tôi đã không tham dự cuộc họp hôm qua. Tôi đảm bảo rằng điều này sẽ không xảy ra nữa trong tương lai.
+[en] I sincerely apologize that I failed to attend the meeting yesterday. I assure you that this will not happen again in the future.
+[vi] Phân tích: Lời xin lỗi ở hiện tại apologize, sự việc gây lỗi dùng quá khứ đơn failed to attend, và lời hứa hẹn dùng tương lai đơn will not happen.
+[term] apologize, failed to attend, will not happen
+[vi] Từ mới trong câu: động từ assure mang nghĩa cam đoan, đảm bảo.
+[term] assure
+
+[vi] Chuyển sang Writing Task 2. Khung cấu trúc phổ biến nhất để đối chiếu xu hướng xã hội là so sánh quá khứ và những năm gần đây.
+[vi] Câu ví dụ số 8: Trong quá khứ, các tài liệu in ấn đóng vai trò là nguồn thông tin chính. Tuy nhiên, trong những năm gần đây, phương tiện truyền thông kỹ thuật số đã thống trị bối cảnh giáo dục.
 [en] In the past, printed materials served as the primary source of information. However, in recent years, digital media has dominated the educational landscape.
 [vi] Phân tích: Cụm In the past bắt buộc đi với quá khứ đơn served. Cụm in recent years bắt buộc đi với hiện tại hoàn thành has dominated.
 [term] served, has dominated
 [vi] Từ mới trong câu: động từ dominate mang nghĩa áp đảo, thống trị. Danh từ landscape khi dùng nghĩa bóng mang nghĩa bối cảnh, toàn cảnh.
 [term] dominate, landscape
 
-[vi] Câu ví dụ số 6: Trước khi mạng xã hội trở nên phổ biến khắp nơi, thanh thiếu niên thường tham gia vào các hoạt động ngoài trời.
+[vi] Ứng dụng đưa ra dự báo tương lai hoặc giải pháp trong Task 2.
+[vi] Câu ví dụ số 9: Ngay khi chính phủ triển khai các khoản trợ cấp toàn diện, các năng lượng thay thế bền vững sẽ thay thế nhiên liệu hóa thạch độc hại.
+[en] As soon as the government implements comprehensive subsidies, sustainable alternative energies will replace hazardous fossil fuels.
+[vi] Phân tích: Mệnh đề As soon as chia ở hiện tại đơn implements, trong khi vế chính dự báo kết quả dùng tương lai đơn will replace.
+[term] implements, will replace
+[vi] Từ mới trong câu: danh từ subsidy nghĩa là tiền trợ cấp. Tính từ hazardous là từ vựng C1 mang nghĩa độc hại, nguy hiểm.
+[term] subsidy, hazardous
+
+[chapter] Phần 4: Khung kỹ năng Speaking Part 1, 2, 3
+[vi] Trong phần thi Speaking Part 1, giao tiếp xã hội, chúng ta thường mô tả các thói quen.
+[vi] Câu ví dụ số 10: Trước khi mạng xã hội trở nên phổ biến khắp nơi, thanh thiếu niên đã từng tham gia vào các hoạt động ngoài trời.
 [en] Before social media became ubiquitous, teenagers used to engage in outdoor activities.
-[vi] Phân tích: Cả 2 vế đều mô tả sự việc đã kết thúc trong quá khứ nên đều dùng quá khứ đơn became và used to engage.
+[vi] Phân tích: Cả 2 vế đều mô tả sự việc đã kết thúc trong quá khứ. Đặc biệt, vế chính dùng cấu trúc used to engage để nhấn mạnh một thói quen trong quá khứ, không đơn thuần chỉ là quá khứ đơn.
 [term] became, used to engage
 [vi] Từ mới trong câu: tính từ ubiquitous là từ vựng C1, mang nghĩa có mặt ở khắp mọi nơi, rất phổ biến.
 [term] ubiquitous
 
-[vi] Trong kỹ năng Speaking Part 2 và 3, kể một câu chuyện cá nhân là yêu cầu bắt buộc.
-[vi] Câu ví dụ số 7: Tôi đã dành 5 năm làm việc trong lĩnh vực bán lẻ trước khi tôi quyết định theo đuổi bằng cấp về tiếp thị.
-[en] I spent five years working in the retail sector before I decided to pursue a degree in marketing.
-[vi] Phân tích: Hành động spent xảy ra trước nhưng trong văn nói, dùng quá khứ đơn cho cả 2 vế để câu nói tự nhiên và đỡ nặng nề hơn quá khứ hoàn thành.
-[term] spent, decided
-[vi] Từ mới trong câu: danh từ sector mang nghĩa lĩnh vực, mảng. Động từ pursue mang nghĩa theo đuổi.
-[term] sector, pursue
+[vi] Trong Speaking Part 2, thảo luận và chọn giải pháp, thí sinh cần đưa ra quyết định giả định.
+[vi] Câu ví dụ số 11: Nếu tôi được trao cơ hội để quyết định ngay bây giờ, tôi chắc chắn sẽ chọn một kỳ nghỉ thân thiện với môi trường ở nông thôn.
+[en] If I were granted the opportunity to decide right now, I would undoubtedly choose an eco-friendly holiday in the countryside.
+[vi] Phân tích: Cấu trúc giả định câu điều kiện loại hai dùng were granted kết hợp với would choose giúp đẩy điểm ngữ pháp lên mức cao.
+[term] were granted, would choose
+[vi] Từ mới trong câu: trạng từ undoubtedly đồng nghĩa với definitely, mang nghĩa chắc chắn, không thể bàn cãi.
+[term] undoubtedly
 
-[vi] Câu ví dụ số 8: Khi tôi đang đi bộ qua công viên, tôi chợt nhận ra rằng tôi đã để quên chìa khóa ở nhà.
-[en] While I was walking through the park, I suddenly realized that I had left my keys at home.
-[vi] Phân tích: Hành động was walking đang diễn ra thì realized chen ngang. Và sự việc had left đã xảy ra từ trước lúc nhận ra, nên chia ở quá khứ hoàn thành.
-[term] was walking, realized, had left
-[vi] Từ mới trong câu: trạng từ suddenly mang nghĩa đột ngột, bất thình lình.
-[term] suddenly
+[vi] Trong Speaking Part 3, phát triển chủ đề chuyên sâu, chúng ta có thể sử dụng các liên từ thời gian để lập luận chặt chẽ.
+[vi] Câu ví dụ số 12: Sau khi sinh viên tốt nghiệp đại học hoàn thành các chương trình học thuật khắt khe, họ sẽ sở hữu một lợi thế cạnh tranh trong việc tìm kiếm việc làm.
+[en] After university graduates have completed their rigorous academic programs, they will possess a competitive edge in securing employment.
+[vi] Phân tích: Dùng hiện tại hoàn thành have completed để nhấn mạnh việc hoàn tất chương trình, và tương lai đơn will possess để chỉ hệ quả.
+[term] have completed, will possess
+[vi] Từ mới trong câu: tính từ rigorous mang nghĩa khắt khe, nghiêm ngặt. Cụm từ competitive edge nghĩa là lợi thế cạnh tranh.
+[term] rigorous, competitive edge
 
-[chapter] Phần 4: Tổng kết từ vựng
-[vi] Để kết thúc bài học, chúng ta cùng điểm lại các từ vựng B2, C1 quan trọng xuất hiện trong Tập B ngày hôm nay.
+[chapter] Phần 5: Chuyên mục Tự hỏi Tự đáp (Q and A)
+[vi] Chào mừng các bạn đến với Chuyên mục Tự hỏi Tự đáp để giải quyết các thắc mắc thường gặp.
+[vi] Câu hỏi số một: Tại sao trong mệnh đề sau By the time chỉ sự việc tương lai, chúng ta lại chia động từ ở hiện tại đơn mà không dùng tương lai đơn?
+[vi] Trả lời: Các liên từ thời gian đã mang sẵn ý niệm về thời gian. Quy tắc ngữ pháp quy định mệnh đề trạng ngữ thời gian phải dùng thì hiện tại đơn để làm điểm tựa tham chiếu cho mệnh đề chính. Vì vậy, By the time the next decade begins là chuẩn mực, tuyệt đối không dùng will begin.
+[vi] Câu hỏi số hai: Làm thế nào để phân biệt khi nào dùng When và khi nào dùng While?
+[vi] Trả lời: Điểm mấu chốt nằm ở độ dài hành động. Liên từ When thường đứng trước hành động chen ngang ngắn ngủi, ví dụ như When the alarm went off. Ngược lại, liên từ While thường đứng trước hành động bối cảnh kéo dài, ví dụ như While I was sleeping.
+[vi] Câu hỏi số ba: Sự khác biệt giữa việc dùng Quá khứ đơn hay Quá khứ hoàn thành sau liên từ Before và After là gì?
+[vi] Trả lời: Bản thân Before và After đã chỉ rõ trình tự thời gian sự việc nào xảy ra trước, sự việc nào xảy ra sau. Do đó, việc chia cả hai vế ở Quá khứ đơn là hoàn toàn chính xác. Việc sử dụng Quá khứ hoàn thành không phải vì văn nói hay văn viết, mà chỉ đơn thuần dùng để nhấn mạnh sự hoàn tất triệt để của một hành động trước khi hành động kia bắt đầu. Ví dụ, After he had finished the project nhấn mạnh việc dự án đã được xong xuôi hoàn toàn.
+
+[chapter] Phần 6: Tổng kết từ vựng
+[vi] Để kết thúc Tập B, chúng ta cùng điểm lại các từ vựng B2, C1 quan trọng xuất hiện trong bài.
 [vi] 1. Sự bảo trì: maintenance.
 [term] maintenance
 [vi] 2. Nghiêm trọng, khắc nghiệt: severe. Sự chậm trễ: delay.
 [term] severe, delay
 [vi] 3. Làm gãy, nứt: fracture. Dai dẳng: persistent.
 [term] fracture, persistent
-[vi] 4. Ca tử vong: fatality. Tăng trở lại: rebound.
-[term] fatality, rebound
-[vi] 5. Thống trị: dominate. Bối cảnh: landscape.
+[vi] 4. Bắt nguồn: originate.
+[term] originate
+[vi] 5. Cái chết, ca tử vong bệnh tật: death. Ca tử vong do tai nạn, thảm họa: fatality.
+[term] death, fatality
+[vi] 6. Mua sắm: purchase. Sự hoàn tiền: refund.
+[term] purchase, refund
+[vi] 7. Cam đoan, đảm bảo: assure.
+[term] assure
+[vi] 8. Thống trị: dominate. Bối cảnh: landscape.
 [term] dominate, landscape
-[vi] 6. Có mặt ở khắp nơi: ubiquitous.
+[vi] 9. Tiền trợ cấp: subsidy. Độc hại, nguy hiểm: hazardous.
+[term] subsidy, hazardous
+[vi] 10. Có mặt ở khắp nơi: ubiquitous.
 [term] ubiquitous
-[vi] 7. Lĩnh vực: sector. Theo đuổi: pursue.
-[term] sector, pursue
-[vi] 8. Đột ngột: suddenly.
-[term] suddenly
-[vi] Bài một chấm hai về Quy tắc Phối Thì và Mốc thời gian kết thúc ở đây. Hẹn gặp lại các bạn trong bài một chấm ba về Danh động từ và Động từ nguyên mẫu.
+[vi] 11. Chắc chắn, không thể bàn cãi: undoubtedly.
+[term] undoubtedly
+[vi] 12. Khắt khe, nghiêm ngặt: rigorous. Lợi thế cạnh tranh: competitive edge.
+[term] rigorous, competitive edge
+[vi] Bài một chấm hai về Quy tắc Phối Thì và Mốc thời gian kết thúc ở đây. Thời lượng học lý thuyết và thực hành của bài học này kéo dài trong khoảng 50 phút. Hẹn gặp lại các bạn trong bài một chấm ba về Danh động từ và Động từ nguyên mẫu.
