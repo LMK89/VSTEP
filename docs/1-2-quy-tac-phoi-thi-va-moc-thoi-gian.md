@@ -116,11 +116,14 @@ Trong kỳ thi Đánh giá năng lực tiếng Anh VSTEP (Vietnamese Standardize
 * **Hiện tượng:** Băng đĩa thường đưa ra một mốc thời gian ban đầu (thường lệ), sau đó dùng các từ nối phản bác (*but, however, actually, instead*) để điều chỉnh mốc thời gian thực tế.
 * **Tình huống mô phỏng theo dạng đề VSTEP:**
   * **Tình huống 1 (Mô phỏng Listening Part 1):** *"It's usually at 5:15 but it's half an hour earlier this evening, at 4:45."*  
-    `->` **Bẫy:** Thí sinh nghe mốc 5:15 sẽ chọn nhầm đáp án. Mốc đúng cho tiết học hôm nay phải lấy `5:15 - 30 phút = 4:45`.
+
+    > ⚠️ **Bẫy:** Thí sinh nghe mốc 5:15 sẽ chọn nhầm đáp án. Mốc đúng cho tiết học hôm nay phải lấy `5:15 - 30 phút = 4:45`.
   * **Tình huống 2 (Mô phỏng Listening Part 1):** *"It should leave at 7:15 but an hour late today... If it doesn't leave until 8:15..."*  
-    `->` **Bẫy:** Mốc khởi hành theo kế hoạch là 7:15, nhưng mốc thực tế do trễ 1 tiếng phải là 8:15.
+
+    > ⚠️ **Bẫy:** Mốc khởi hành theo kế hoạch là 7:15, nhưng mốc thực tế do trễ 1 tiếng phải là 8:15.
   * **Tình huống 3 (Mô phỏng Listening Part 2):** *"...around the end of June. Yes, the 28th... I'm available from the 10th."*  
-    `->` **Bẫy:** Phân biệt giữa mốc bắt đầu công việc (28th of June) và mốc ứng viên có thể bắt đầu làm (10th of June).
+
+    > ⚠️ **Bẫy:** Phân biệt giữa mốc bắt đầu công việc (28th of June) và mốc ứng viên có thể bắt đầu làm (10th of June).
 
 #### Bẫy 2: Lẫn lộn giữa thì Quá khứ đơn (Past Event) và Thói quen hiện tại (Current Habit)
 * **Tình huống 4 (Mô phỏng Listening Part 2):** Nhân vật Kate nói về việc vắng mặt năm ngoái do tai nạn xe đạp (*"Last year I missed a whole week when I fell off my bike..."*) so với triệu chứng bệnh hiện tại (*"I have got a bit of a temperature now, too..."*). Nếu câu hỏi hỏi về nguyên nhân nghỉ học hiện tại, đáp án phải là ho/sốt chứ không phải ngã xe đạp.
@@ -135,7 +138,7 @@ Trong các bài đọc chứa số liệu thống kê (như bài đọc chủ đ
 * **Phân tích bẫy:**
   * Mốc 2010 (Quá khứ): Số lượng tử vong là 1 triệu người.
   * Mốc 2030 (Dự báo tương lai): Số lượng tử vong ước tính là 2 triệu người.
-  * Câu hỏi kiểm tra: *"By 2030, how many people may die from smoking every year?"* `->` Đáp án đúng bắt buộc phải là 2 million (không phải 1 million).
+  * Câu hỏi kiểm tra: *"By 2030, how many people may die from smoking every year?"* → Đáp án đúng bắt buộc phải là 2 million (không phải 1 million).
 
 #### Bẫy 2: Thứ tự diễn tiến thời gian không theo thứ tự tuyến tính của đoạn văn (Non-linear Chronology)
 Trong các bài đọc tiểu sử lịch sử:
