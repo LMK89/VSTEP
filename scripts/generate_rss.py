@@ -34,7 +34,18 @@ def generate_podcast_xml(out_path="podcast.xml"):
     items_xml = []
     for ep in EPISODES:
         mp3_url = f"{BASE_URL}/{ep['file']}"
+        
+        # Calculate season and episode
+        # id is like "1-2-a"
+        parts = ep['id'].split('-')
+        season = int(parts[0]) if len(parts) >= 1 else 1
+        lesson = int(parts[1]) if len(parts) >= 2 else 1
+        part_letter = parts[2].lower() if len(parts) >= 3 else 'a'
+        episode_num = (lesson * 2) - (1 if part_letter == 'a' else 0)
+
         item = f"""    <item>
+      <itunes:season>{season}</itunes:season>
+      <itunes:episode>{episode_num}</itunes:episode>
       <title><![CDATA[{ep['title']}]]></title>
       <description><![CDATA[{ep['description']}]]></description>
       <link>{SITE_URL}</link>
@@ -58,7 +69,7 @@ def generate_podcast_xml(out_path="podcast.xml"):
     <itunes:author>LMK89</itunes:author>
     <description><![CDATA[Chuỗi Podcast bài giảng song ngữ mổ xẻ ngữ pháp thực chiến, bẫy phòng thi và cấu trúc ăn điểm Writing & Speaking cho kỳ thi VSTEP B1-B2-C1.]]></description>
     <itunes:summary><![CDATA[Chuỗi Podcast bài giảng song ngữ mổ xẻ ngữ pháp thực chiến, bẫy phòng thi và cấu trúc ăn điểm Writing & Speaking cho kỳ thi VSTEP B1-B2-C1.]]></itunes:summary>
-    <itunes:type>episodic</itunes:type>
+    <itunes:type>serial</itunes:type>
     <itunes:category text="Education">
       <itunes:category text="Language Learning"/>
     </itunes:category>
