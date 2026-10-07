@@ -1,0 +1,111 @@
+[chapter] Phần 1: Ôn nền nhanh - 6 Cấu trúc V-ing và To-V cơ bản
+[vi] Chào mừng các bạn đến với chuỗi podcast chuyên sâu về ngữ pháp thực chiến VSTEP. Hôm nay, chúng ta cùng phân tích chuyên đề trọng tâm Bài một chấm ba: Phân biệt Danh động từ (V-ing) và Động từ nguyên mẫu.
+[vi] Trước khi vào bài, cùng ôn lại nhanh các kiến thức nền sẽ dùng trong bài này qua 6 cấu trúc cơ bản.
+[vi] Cấu trúc số 1: V-ing làm chủ ngữ. Hành động đóng vai trò danh từ, đứng đầu câu. Ví dụ: Việc bơi lội thì tốt cho sức khỏe.
+[en] Swimming is good for your health.
+[vi] Ở đây ta dùng Swimming và động từ to be chia số ít là is.
+[term] Swimming is
+[vi] Cấu trúc số 2: Động từ cộng V-ing. Dùng sau một số động từ chỉ sở thích, né tránh. Ví dụ: Tôi thích đọc sách.
+[en] I enjoy reading books.
+[vi] Ta dùng động từ reading sau enjoy.
+[term] reading
+[vi] Cấu trúc số 3: Giới từ cộng V-ing. Sau giới từ, động từ luôn ở dạng V-ing. Ví dụ: Cô ấy giỏi việc nấu ăn.
+[en] She is good at cooking.
+[vi] Từ cooking đi ngay sau giới từ at.
+[term] at cooking
+[vi] Cấu trúc số 4: Động từ cộng To-V. Diễn tả dự định, mong muốn, quyết định. Ví dụ: Tôi muốn học tiếng Anh.
+[en] I want to learn English.
+[vi] Sau want, ta dùng to learn.
+[term] want to learn
+[vi] Cấu trúc số 5: To-V chỉ mục đích, giải thích để làm gì. Ví dụ: Anh ấy tiết kiệm tiền để mua một chiếc xe.
+[en] He saves money to buy a car.
+[vi] Cụm to buy chỉ mục đích mua xe.
+[term] to buy
+[vi] Cấu trúc số 6: Động từ nguyên mẫu không to. Đứng sau động từ khuyết thiếu và sau make, let. Ví dụ: Mẹ tôi cho phép tôi đi chơi.
+[en] My mom let me go out.
+[vi] Động từ go giữ nguyên dạng sau let.
+[term] let me go
+
+[chapter] Phần 2: Danh động từ (V-ing)
+[vi] Bây giờ, chúng ta sẽ đi sâu vào phần Danh động từ, hay còn gọi là Gerund. Danh động từ thường làm chủ ngữ hoặc tân ngữ trong câu.
+[vi] Câu ví dụ số 1: Tìm kiếm một công việc sau tuổi 50 không nhất thiết phải nản lòng như người ta thường mô tả.
+[en] Finding a job after 50 doesn’t have to be as discouraging as it is often portrayed to be.
+[vi] Phân tích: Ở đây, cụm finding a job đóng vai trò là chủ ngữ của câu, nên ta dùng danh động từ finding.
+[term] finding
+[vi] Từ mới trong câu: tính từ discouraging mang nghĩa nản lòng. Động từ portray nghĩa là mô tả, khắc họa.
+[term] discouraging, portray
+
+[vi] Có một số nhóm động từ phổ biến trong bài thi VSTEP luôn đi kèm với V-ing như give up, avoid, enjoy, suggest.
+[vi] Câu ví dụ số 2: Cô ấy tránh tiếp xúc gần với vị đầu bếp đáng sợ trong bếp.
+[en] She avoided making close contact with the scary chef in the kitchen.
+[vi] Phân tích: Sau động từ avoid, ta bắt buộc dùng danh động từ, nên động từ make được chia là making.
+[term] making
+[vi] Từ mới trong câu: cụm từ make close contact nghĩa là tiếp xúc gần.
+[term] make close contact
+
+[vi] Câu ví dụ số 3: Nghiên cứu đề xuất giảm lượng phát thải khí nhà kính từ nhiều nguồn khác nhau.
+[en] Research suggests reducing greenhouse gas emissions from a variety of sources.
+[vi] Phân tích: Động từ suggest đi kèm với danh động từ để chỉ việc đề xuất làm gì, nên ta dùng reducing.
+[term] reducing
+[vi] Từ mới trong câu: cụm từ greenhouse gas emissions nghĩa là lượng phát thải khí nhà kính.
+[term] greenhouse gas emission
+
+[chapter] Phần 3: Động từ nguyên mẫu có To (To-V)
+[vi] Chuyển sang phần tiếp theo, Động từ nguyên mẫu có To thường thể hiện hành động hướng tới tương lai, mục đích, hoặc đi sau các động từ chỉ ý định, quyết định.
+[vi] Câu ví dụ số 4: Bang đã cắt giảm các bệ ga để đáp ứng vừa vặn toa xe lửa sang trọng.
+[en] The state cut down station platforms to accommodate the luxurious railway car.
+[vi] Phân tích: Động từ accommodate đứng sau mệnh đề chính để chỉ mục đích, nghĩa là để đáp ứng. Vậy nên ta dùng to accommodate.
+[term] to accommodate
+[vi] Từ mới trong câu: động từ accommodate nghĩa là cung cấp chỗ, đáp ứng vừa vặn.
+[term] accommodate
+
+[vi] Câu ví dụ số 5: Bố tôi quyết định biến một nhà nghỉ cũ thành một khách sạn sang trọng.
+[en] My father decided to turn an old hostel into a luxury hotel.
+[vi] Phân tích: Sau động từ decide, ta luôn dùng To-V để chỉ quyết định thực hiện một hành động, là to turn.
+[term] to turn
+[vi] Từ mới trong câu: cụm từ turn into nghĩa là biến thành.
+[term] turn into
+
+[vi] Trong VSTEP, một cấu trúc rất hay gặp là Động từ cộng Tân ngữ cộng To-V, như allow, encourage, advise.
+[vi] Câu ví dụ số 6: Quy định thư viện nghiêm ngặt cho phép sinh viên xem các cuốn sách quý hiếm chỉ khi có sự giám sát.
+[en] The strict library rules allow students to view rare books only under supervision.
+[vi] Phân tích: Cấu trúc allow cộng tân ngữ students cộng to-V, nghĩa là cho phép ai làm gì, nên ta dùng to view.
+[term] to view
+[vi] Từ mới trong câu: cụm từ under supervision nghĩa là dưới sự giám sát.
+[term] under supervision
+
+[chapter] Phần 4: Động từ nguyên mẫu không To (Bare V)
+[vi] Động từ nguyên mẫu không To được dùng sau các động từ khuyết thiếu hoặc cấu trúc make, let, help.
+[vi] Câu ví dụ số 7: Nam thanh niên phải thực hiện nhiều bước hơn để đảm bảo có được việc làm trong thị trường cạnh tranh.
+[en] Young men must take more steps to secure employment in competitive markets.
+[vi] Phân tích: Động từ take đứng sau động từ khuyết thiếu must, nên giữ nguyên dạng nguyên thể.
+[term] take
+[vi] Từ mới trong câu: cụm từ secure employment nghĩa là đảm bảo việc làm.
+[term] secure employment
+
+[vi] Câu ví dụ số 8: Công việc nặng nhọc không nên làm cho bạn cảm thấy kiệt sức.
+[en] Heavy work shouldn't make you feel exhausted.
+[vi] Phân tích: Cấu trúc make cộng tân ngữ you cộng động từ nguyên mẫu, mang nghĩa làm cho ai đó như thế nào, ta dùng feel.
+[term] feel
+[vi] Từ mới trong câu: tính từ exhausted nghĩa là kiệt sức.
+[term] exhausted
+
+[chapter] Phần 5: Tổng kết từ vựng
+[vi] Để kết thúc Tập A, chúng ta cùng ôn lại nhanh danh sách các từ vựng đã học trong bài.
+[vi] 1. Nản lòng: discouraging. Mô tả: portray.
+[term] discouraging, portray
+[vi] 2. Tiếp xúc gần: make close contact.
+[term] make close contact
+[vi] 3. Phát thải khí nhà kính: greenhouse gas emission.
+[term] greenhouse gas emission
+[vi] 4. Đáp ứng vừa vặn: accommodate.
+[term] accommodate
+[vi] 5. Biến thành: turn into.
+[term] turn into
+[vi] 6. Dưới sự giám sát: under supervision.
+[term] under supervision
+[vi] 7. Đảm bảo việc làm: secure employment.
+[term] secure employment
+[vi] 8. Kiệt sức: exhausted.
+[term] exhausted
+[vi] Bài học Tập A hôm nay đến đây là kết thúc. Hẹn gặp lại các bạn trong Tập B nhé!

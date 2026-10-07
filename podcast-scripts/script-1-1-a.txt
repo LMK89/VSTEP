@@ -1,0 +1,72 @@
+[vi] Chào mừng các bạn đến với tập 1.1A. Hôm nay chúng ta sẽ bước vào phần: 0. Ôn nền (Foundation Review).
+[vi] Trước khi vào bài, cùng ôn lại nhanh các kiến thức nền sẽ dùng trong bài này.
+[vi] Hiện tại đơn (Present Simple), công thức là S cộng V(s/es), dùng cho thói quen, sự thật hiển nhiên.
+[en] I drink coffee every morning.
+[vi] Hiện tại tiếp diễn (Present Continuous), công thức S cộng am/is/are cộng V-ing, dùng cho hành động đang xảy ra.
+[en] I am studying English right now.
+[vi] Hiện tại hoàn thành (Present Perfect), S cộng have/has cộng V3/ed, kéo dài đến hiện tại.
+[en] I have learned English for 3 years.
+[vi] Quá khứ đơn (Past Simple), S cộng V2/ed, sự việc đã kết thúc trong quá khứ.
+[en] I watched a movie yesterday.
+[vi] Tương lai đơn (Future Simple), S cộng will cộng V_bare, quyết định lúc nói hoặc dự đoán.
+[en] I will help you with this task.
+---
+[vi] Bây giờ chúng ta sẽ vào phần phân tích chi tiết các thì hiện tại. Đầu tiên là Hiện tại đơn.
+[vi] Cách dùng chính trong VSTEP là diễn tả sự thật hiển nhiên hoặc thông tin thực tế, thói quen.
+[vi] Ví dụ 1:
+[vi] Thuốc kháng sinh ngăn chặn chu kỳ sống của vi khuẩn xâm nhập vào cơ thể con người.
+[en] Antibiotics block the life cycle of bacteria that invade the human body.
+[vi] Ở đây ta thấy dùng hiện tại đơn để diễn tả chân lý khoa học.
+[term] block, invade
+[vi] Từ mới đáng chú ý là invade.
+[term] invade (v): xâm nhập, tấn công
+[vi] Ví dụ 2:
+[vi] Ở nhiều vùng của Trung Quốc, các bữa ăn thường theo một mô hình quen thuộc, và các thương hiệu bình dân thì phù hợp túi tiền của tất cả mọi người.
+[en] In many parts of China, meals often fit a comfortable pattern, and ordinary brands are affordable to all.
+[vi] Câu này dùng hiện tại đơn để tả sự thật.
+[term] fit, are
+[vi] Từ mới B2 trong câu.
+[term] affordable (adj): có giá cả phải chăng, hợp túi tiền
+---
+[vi] Tiếp theo là Hiện tại tiếp diễn.
+[vi] Diễn tả hành động đang diễn ra, hoặc mục đích viết thư.
+[vi] Ví dụ 1:
+[vi] Tôi đang viết thư này để bày tỏ sự không hài lòng đối với một sản phẩm bị lỗi mà tôi đã mua gần đây.
+[en] I am writing to express my dissatisfaction with a faulty product I purchased recently.
+[vi] Hiện tại tiếp diễn thể hiện mục đích viết thư.
+[term] am writing
+[vi] Từ vựng cần nhớ.
+[term] dissatisfaction (n): sự không hài lòng; faulty (adj): bị lỗi, hỏng hóc
+[vi] Ví dụ 2:
+[vi] Ngày nay nhiều người đang lựa chọn sống một mình thay vì sống cùng với các thành viên trong gia đình.
+[en] Many people are choosing to live alone nowadays rather than living with family members.
+[vi] Diễn tả xu hướng đang tiến triển.
+[term] are choosing
+[vi] Từ mới trong bài.
+[term] solely / alone (adv): một mình, đơn độc
+---
+[vi] Thứ ba là Hiện tại hoàn thành.
+[vi] Hành động xảy ra trong quá khứ, kéo dài đến hiện tại.
+[vi] Ví dụ 1:
+[vi] Kể từ năm 2014, phòng khám miễn phí đã điều trị cho khoảng 8.500 bệnh nhân bằng thái độ cảm thông sâu sắc.
+[en] Since 2014, the free clinic has treated about 8,500 patients with a compassionate attitude.
+[vi] Dùng thì này với mốc thời gian since 2014.
+[term] has treated
+[vi] Từ vựng nổi bật.
+[term] compassionate (adj): lòng nhân ái, cảm thông
+[vi] Ví dụ 2:
+[vi] Trong những năm gần đây, việc các cá nhân phụ thuộc vào tin tức trực tuyến đã trở nên phổ biến hơn nhiều.
+[en] In recent years, it has become far more normal for individuals to rely on online news.
+[vi] Diễn tả bối cảnh xã hội trong Writing.
+[term] has become
+[vi] Cụm từ hay gặp.
+[term] rely on (v): phụ thuộc vào, dựa vào
+---
+[vi] Chương cuối: Tổng kết từ vựng.
+[term] invade (v): xâm nhập, tấn công
+[term] affordable (adj): có giá cả phải chăng
+[term] dissatisfaction (n): sự không hài lòng
+[term] faulty (adj): bị lỗi, hỏng hóc
+[term] alone (adv): một mình, đơn độc
+[term] compassionate (adj): lòng nhân ái, cảm thông
+[term] rely on (v): phụ thuộc vào

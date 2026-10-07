@@ -1,0 +1,36 @@
+[vi] Chào các bạn, tiếp nối phần A, phần B sẽ nói về bẫy nhận diện và cách ứng dụng bị động. Đầu tiên là bẫy mệnh đề quan hệ rút gọn trong bài Đọc. Ví dụ: Một nghiên cứu mới, được thực hiện bởi các nhà khoa học, đã cảnh báo rằng...
+[en] A new study, conducted by scientists, has warned that...
+[vi] Phân tích: 'conducted' là mệnh đề rút gọn của 'which was conducted', không phải động từ chính.
+[term] Reduced Relative Clause
+[vi] Từ mới: thực hiện, cảnh báo
+[term] conduct, warn
+
+[vi] Trong bài Viết Task 2, bị động tạo văn phong khách quan. Ví dụ thay vì nói "Mọi người nghĩ rằng", ta viết: Sự gia tăng hộ gia đình một người có thể được nhìn nhận là tích cực.
+[en] The rise in one-person households can be seen as positive.
+[vi] Phân tích: Dùng bị động không ngôi tránh xưng hô cá nhân, tăng tính học thuật.
+[term] Impersonal Passive
+[vi] Từ mới: hộ gia đình, tích cực
+[term] household, positive
+
+[vi] Ví dụ khác về giải pháp: Hành động ngay lập tức phải được thực hiện để giảm lượng rác thải.
+[en] Immediate action must be taken to reduce the amount of waste.
+[vi] Phân tích: Cấu trúc Modal Passive được dùng phổ biến để đưa ra giải pháp.
+[term] Problem and Solution
+[vi] Từ mới: ngay lập tức, giảm
+[term] immediate, reduce
+
+[vi] Bây giờ là phần Hỏi & Đáp (Q&A). Câu hỏi: Làm sao để không bị nhầm lẫn V-ed rút gọn và động từ chính?
+[en] Q&A: How to distinguish reduced relative clauses from main verbs?
+[vi] Phân tích: Luôn tìm động từ chính của câu trước. Nếu đã có động từ chính thì V-ed còn lại thường là mệnh đề rút gọn.
+[term] Sentence Analysis
+[vi] Từ mới: phân biệt
+[term] distinguish
+
+[vi] Tổng kết từ vựng phần B:
+[term] conduct (v): thực hiện
+[term] warn (v): cảnh báo
+[term] household (n): hộ gia đình
+[term] positive (adj): tích cực
+[term] immediate (adj): ngay lập tức
+[term] reduce (v): giảm
+[term] distinguish (v): phân biệt

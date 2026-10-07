@@ -1,0 +1,57 @@
+[vi] 0. Ôn nền (Foundation Review).
+[vi] Chào các bạn, chúng ta cùng ôn lại kiến thức nền. Câu chủ động là khi chủ ngữ thực hiện hành động. Ví dụ: Mọi người nói tiếng Anh ở đây.
+[en] People speak English here.
+[vi] Phân tích: Chủ ngữ 'People' thực hiện hành động 'speak'.
+[term] Active Voice
+[vi] Từ mới: Không có.
+[term] None
+
+[vi] Ngược lại, câu bị động nhấn mạnh đối tượng chịu tác động. Ví dụ: Tiếng Anh được nói ở đây.
+[en] English is spoken here.
+[vi] Phân tích: Chủ ngữ 'English' nhận hành động, cấu trúc to be + V3.
+[term] Passive Voice
+[vi] Từ mới: Không có.
+[term] None
+
+[vi] Tiếp theo là các thì bị động cơ bản. Hiện tại đơn bị động diễn tả quy trình, sự thật. Ví dụ: Rác được nén lại trước khi ném xuống hố.
+[en] Garbage is compacted before it is thrown into the hole.
+[vi] Phân tích: Cấu trúc am/is/are + V3/ed.
+[term] Present Simple Passive
+[vi] Từ mới: nén lại, hố
+[term] compact, hole
+
+[vi] Quá khứ đơn bị động dùng cho sự việc đã xảy ra trong quá khứ. Ví dụ: Ngôi nhà Salter được xây bởi ngài Joshua Salter vào năm 1765.
+[en] Salter house was built by Sir Joshua Salter in 1765.
+[vi] Phân tích: Cấu trúc was/were + V3/ed.
+[term] Past Simple Passive
+[vi] Từ mới: xây dựng
+[term] build
+
+[vi] Hiện tại hoàn thành bị động cho việc đã hoàn tất, kết quả còn ở hiện tại. Ví dụ: Những nỗ lực đã bị cản trở bởi sự phổ biến của thói quen này.
+[en] Efforts have been hampered by the habit's popularity.
+[vi] Phân tích: Cấu trúc have/has been + V3/ed.
+[term] Present Perfect Passive
+[vi] Từ mới: nỗ lực, cản trở
+[term] effort, hamper
+
+[vi] Tương lai đơn bị động dùng cho sự việc sẽ xảy ra. Ví dụ: Vấn đề sẽ được "giải quyết", ít nhất là trong lúc này.
+[en] The problem will be "solved", at least for the moment.
+[vi] Phân tích: Cấu trúc will be + V3/ed.
+[term] Future Simple Passive
+[vi] Từ mới: giải quyết
+[term] solve
+
+[vi] Cuối cùng, thể bị động với động từ khuyết thiếu diễn tả khả năng, bắt buộc. Ví dụ: Sự tin tưởng vào kỹ năng của họ chỉ có thể đạt được thông qua đạo đức.
+[en] Confidence in their skills can only be achieved through ethics.
+[vi] Phân tích: Cấu trúc Modal + be + V3/ed.
+[term] Modal Passive
+[vi] Từ mới: sự tin tưởng, đạt được
+[term] confidence, achieve
+
+[vi] Tổng kết từ vựng phần A:
+[term] compact (v): nén lại
+[term] hamper (v): cản trở
+[term] effort (n): nỗ lực
+[term] solve (v): giải quyết
+[term] confidence (n): sự tin tưởng
+[term] achieve (v): đạt được

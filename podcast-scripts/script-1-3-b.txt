@@ -1,0 +1,72 @@
+[chapter] Phần 1: Các động từ đổi nghĩa khi đi với V-ing và To-V
+[vi] Chào mừng các bạn trở lại với Tập B của bài học Danh động từ và Động từ nguyên mẫu. Hôm nay, chúng sẽ tìm hiểu nhóm kiến thức khó nhất: Các động từ đổi nghĩa tùy theo đi với V-ing hay To-V, bao gồm Stop, Remember, Forget, Try và Regret.
+[vi] Nhóm đầu tiên là Stop. Stop V-ing là dừng hẳn một việc đang diễn ra, còn Stop To-V là dừng lại để bắt đầu việc khác.
+[vi] Câu ví dụ số 1: Bạn phải dừng lại liên tục để nghỉ ngơi và uống nước khi đi bộ dưới trời nắng nóng.
+[en] You have to stop all the time to rest and have drinks when walking in the heat.
+[vi] Phân tích: Ở đây, stop đi với to-V là to rest nghĩa là dừng hoạt động đi bộ lại để thực hiện mục đích khác là nghỉ ngơi.
+[term] to rest
+[vi] Từ mới trong câu: cụm từ all the time mang nghĩa liên tục.
+[term] all the time
+
+[vi] Nhóm thứ hai là Remember và Forget. Đi với V-ing là việc đã xảy ra trong quá khứ, đi với To-V là việc phải làm trong tương lai.
+[vi] Câu ví dụ số 2: Cô ấy không nhớ là đã uống liều thuốc đó vì nó làm cô ấy cực kỳ buồn ngủ.
+[en] She doesn't remember taking that medicine because it made her awfully sleepy.
+[vi] Phân tích: Hành động uống thuốc đã thực sự xảy ra trong quá khứ, nên remember đi với V-ing là taking.
+[term] taking
+[vi] Từ mới trong câu: trạng từ awfully mang nghĩa cực kỳ, rất.
+[term] awfully
+
+[vi] Nhóm thứ ba là Try. Try V-ing là thử nghiệm xem kết quả ra sao, Try To-V là cố gắng nỗ lực vượt khó.
+[vi] Câu ví dụ số 3: Các nhà khoa học đang nỗ lực ổn định nồng độ khí nhà kính ở mức 450-550 ppm.
+[en] Scientists are trying to stabilize GHG concentrations around 450-550 ppm.
+[vi] Phân tích: Ở đây các nhà khoa học đang nỗ lực hết sức, nên chữ try đi với to-V, ta dùng to stabilize.
+[term] to stabilize
+[vi] Từ mới trong câu: động từ stabilize mang nghĩa ổn định. Danh từ concentration là nồng độ.
+[term] stabilize, concentration
+
+[vi] Nhóm cuối cùng là Regret. Đi với V-ing là hối hận vì việc đã làm, đi với To-V là lấy làm tiếc khi phải làm hay thông báo tin xấu.
+[vi] Câu ví dụ số 4: Chúng tôi rất tiếc phải thông báo với quý khách rằng chuyến bay đến Milan đã bị hoãn một giờ.
+[en] We regret to inform you that the flight to Milan has been delayed by an hour.
+[vi] Phân tích: Việc thông báo đang diễn ra ở hiện tại như một tin buồn, nên ta dùng to inform.
+[term] to inform
+[vi] Từ mới trong câu: động từ delay mang nghĩa trì hoãn.
+[term] delay
+
+[chapter] Phần 2: Bẫy trắc nghiệm VSTEP thường gặp
+[vi] Chuyển sang phần tiếp theo, chúng ta cùng điểm qua các bẫy trắc nghiệm hay gặp. Bẫy phổ biến nhất là To không phải của To-V mà là một giới từ.
+[vi] Câu ví dụ số 5: Tôi rất mong nhận được phản hồi của bạn.
+[en] I look forward to receiving your response.
+[vi] Phân tích: Trong cấu trúc look forward to, chữ to ở đây là giới từ, nên động từ theo sau bắt buộc phải ở dạng V-ing, là receiving.
+[term] receiving
+[vi] Từ mới trong câu: cấu trúc look forward to mang nghĩa mong đợi.
+[term] look forward to
+
+[chapter] Phần 3: Ứng dụng thực chiến vào Writing và Speaking
+[vi] Để đạt điểm cao trong kỳ thi VSTEP, chúng ta cần ứng dụng các cấu trúc này linh hoạt.
+[vi] Câu ví dụ số 6: Sống một mình giúp thanh niên trở nên độc lập hơn bằng cách quản lý ngân sách hàng ngày.
+[en] Living alone enables young adults to become more independent by managing their daily budget.
+[vi] Phân tích: Cấu trúc enable cộng tân ngữ cộng to-V, nghĩa là giúp ai có thể làm gì, nên ta dùng to become. Ở vế đầu, Living alone là V-ing làm chủ ngữ.
+[term] to become, living
+[vi] Từ mới trong câu: cụm từ daily budget nghĩa là ngân sách hàng ngày. Động từ enable nghĩa là cho phép, giúp cho.
+[term] daily budget, enable
+
+[chapter] Phần 4: Hỏi Đáp (Q&A)
+[vi] Chào mừng các bạn đến với góc Hỏi Đáp. Hôm nay chúng ta có một câu hỏi từ bạn thính giả tên Minh: Làm sao để nhớ khi nào động từ có tân ngữ đi kèm thì dùng to-V, khi nào dùng V-ing?
+[vi] Câu trả lời là phần lớn các động từ có tân ngữ chỉ người như allow, advise, encourage, require đều theo cấu trúc có tân ngữ cộng to-V. Tuy nhiên, nếu khuyết tân ngữ chỉ người, chúng sẽ đi thẳng với V-ing. Ví dụ ta nói allow someone to do something, nhưng nếu không có tân ngữ someone, ta dùng allow doing something.
+[vi] Hy vọng câu trả lời này giúp ích cho bạn Minh!
+
+[chapter] Phần 5: Tổng kết từ vựng
+[vi] Để kết thúc Tập B, chúng ta cùng ôn lại nhanh danh sách từ vựng nhé.
+[vi] 1. Liên tục: all the time.
+[term] all the time
+[vi] 2. Cực kỳ, rất: awfully.
+[term] awfully
+[vi] 3. Ổn định: stabilize. Nồng độ: concentration.
+[term] stabilize, concentration
+[vi] 4. Trì hoãn: delay.
+[term] delay
+[vi] 5. Mong đợi: look forward to.
+[term] look forward to
+[vi] 6. Ngân sách hàng ngày: daily budget. Giúp cho, cho phép: enable.
+[term] daily budget, enable
+[vi] Chúc các bạn ôn tập thật tốt và hẹn gặp lại trong các chuyên đề tiếp theo!

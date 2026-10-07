@@ -1,0 +1,31 @@
+[intro]
+[vi] Chào các bạn! Chào mừng đến với tập 1.5A của VSTEP Podcast. Hôm nay chúng ta sẽ bắt đầu tìm hiểu về Cấu trúc So sánh.
+
+[vi] 0. Ôn nền (Foundation Review)
+[vi] Trước khi vào bài, cùng ôn lại các kiến thức cơ bản. So sánh bằng dùng "as + adj/adv + as". So sánh hơn dùng đuôi "-er" (ngắn) hoặc "more" (dài). So sánh nhất dùng "the -est" (ngắn) hoặc "the most" (dài). Ngoài ra có các từ bất quy tắc như good, bad.
+
+[vi] Phần I: So sánh bằng
+[vi] So sánh bằng thường dùng "as...as" hoặc "the same as". Hãy xem ví dụ thực tế trong VSTEP:
+[vi] Lao động di cư qua biên giới không có cùng mức độ bảo vệ như những người khác.
+[en] Cross-border migrant workers don’t have the same level of protection as others.
+[vi] Phân tích: Dùng "the same + Noun + as" để so sánh danh từ bằng nhau.
+[term] the same level of protection as
+[vi] Từ mới: Lao động di cư qua biên giới.
+[term] cross-border migrant workers
+
+[vi] Phần II: So sánh hơn
+[vi] Ta có thể nhấn mạnh so sánh hơn bằng "far", "much", "significantly".
+[vi] Trong những năm gần đây, việc sống một mình đã trở nên phổ biến hơn nhiều.
+[en] In recent years, it has become far more normal for people to live alone.
+[vi] Phân tích: Dùng "far more + adj" để nhấn mạnh tính phổ biến hơn rất nhiều.
+[term] far more normal
+[vi] Từ mới: Việc sống một mình.
+[term] living alone
+
+[vi] Kết thúc tập A, chúng ta cùng tổng kết từ vựng nhé.
+[vi] Tổng kết từ vựng:
+[term] cross-border migrant workers
+[term] the same level of protection as
+[term] far more normal
+[term] living alone
+[outro]

@@ -1,0 +1,32 @@
+Front: People speak English here.
+Back: English is spoken here. (Active -> Passive)
+
+Front: Cấu trúc bị động hiện tại đơn?
+Back: S + am/is/are + V3/ed
+
+Front: Cấu trúc bị động quá khứ đơn?
+Back: S + was/were + V3/ed
+
+Front: Cấu trúc bị động với Modal verb (can, must, should)?
+Back: S + Modal + be + V3/ed
+
+Front: Impersonal Passive (Bị động không ngôi) là gì?
+Back: Là cấu trúc dùng để tạo văn phong khách quan, trang trọng trong Writing Task 2. Ví dụ: It is said that...
+
+Front: Từ vựng: compact (v)
+Back: nén lại
+
+Front: Từ vựng: hamper (v)
+Back: cản trở
+
+Front: Từ vựng: cessation (n)
+Back: sự ngừng, sự chấm dứt
+
+Front: Từ vựng: meticulous (adj)
+Back: tỉ mỉ, kỹ lưỡng
+
+Front: Từ vựng: conduct (v)
+Back: thực hiện
+
+Front: Từ vựng: household (n)
+Back: hộ gia đình

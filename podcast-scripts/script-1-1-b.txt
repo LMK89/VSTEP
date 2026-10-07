@@ -1,0 +1,87 @@
+[vi] Chào mừng các bạn đến với tập 1.1B. Chúng ta sẽ tiếp tục với các thì Quá khứ đơn và Tương lai đơn, cùng các ứng dụng và bẫy trong VSTEP.
+[vi] Bắt đầu với Quá khứ đơn. Diễn tả sự việc đã kết thúc trong quá khứ.
+[vi] Ví dụ 1:
+[vi] Neil Armstrong đã đặt chân lên mặt trăng vào năm 1969, mốc thời gian đánh dấu một cột mốc quan trọng trong ngành du hành vũ trụ.
+[en] Neil Armstrong set foot on the moon in 1969, which marked a key milestone in space travel.
+[vi] Ở đây dùng set và marked cho sự kiện lịch sử đã kết thúc.
+[term] set, marked
+[vi] Từ vựng đáng chú ý.
+[term] milestone (n): cột mốc quan trọng
+[vi] Ví dụ 2:
+[vi] Khi tôi mua chiếc điện thoại vào ngày 10 tháng 10, các sự cố đã bắt đầu xuất hiện sau một tuần sử dụng.
+[en] When I purchased the phone on the 10th of October, problems started to appear after one week of usage.
+[vi] Tường thuật sự cố trong thư khiếu nại bằng thì quá khứ.
+[term] purchased, started
+[vi] Từ vựng cần lưu ý.
+[term] purchase (v): mua sắm
+---
+[vi] Tiếp theo là Tương lai đơn. Dùng cho dự báo tương lai, lời hứa.
+[vi] Ví dụ 1:
+[vi] Các nhà nghiên cứu dự báo rằng số ca tử vong do thuốc lá sẽ tăng gấp đôi lên hai triệu người mỗi năm vào trước năm 2030.
+[en] Researchers predict that tobacco deaths will double to two million people every year by 2030.
+[vi] Dùng will double cho dự báo số liệu.
+[term] will double
+[vi] Từ vựng cho tương lai.
+[term] predict (v): dự báo, dự đoán; premature (adj): sớm, trước thời hạn
+[vi] Ví dụ 2:
+[vi] Tôi sẽ kiềm chế không tổ chức các bữa tiệc ồn ào tại căn hộ của mình để tránh làm phiền xóm giềng.
+[en] I will refrain from holding noisy parties in my unit to avoid disturbing the neighbourhood.
+[vi] Lời hứa, cam kết hành động khắc phục sự cố.
+[term] will refrain
+[vi] Từ vựng viết thư.
+[term] refrain from (v): kiềm chế, tránh làm gì; disturbance (n): sự quấy rầy, làm phiền
+---
+[vi] Chuyển sang phần Bẫy chia thì trong Listening và Reading.
+[vi] Bẫy thứ nhất: Nhầm lẫn lịch trình thường lệ và thay đổi thực tế.
+[vi] Trong bài nghe, lịch học bơi thường là 5:15 nhưng hôm nay đẩy sớm lên 4:45. Thí sinh dễ bị lừa bởi mốc 5:15 của hiện tại đơn.
+[vi] Bẫy thứ hai: Lịch hẹn hiện tại và lịch họp tuần tới.
+[vi] Cần nghe rõ ngữ cảnh sự việc xảy ra ở tuần này hay tuần sau.
+[vi] Bẫy thứ ba: Dữ liệu quá khứ và dự báo tương lai.
+[vi] Sự chênh lệch giữa số liệu 1 triệu người năm 2010 và dự báo 2 triệu người năm 2030.
+[vi] Bẫy thứ tư: Thói quen quá khứ khác với lịch hoạt động hiện tại.
+---
+[vi] Tiếp theo là ứng dụng trong Writing và Speaking.
+[vi] Ví dụ 1 Writing Task 2:
+[vi] Trong những năm gần đây, việc mọi người sống một mình đã trở nên bình thường hơn rất nhiều. Theo quan điểm của tôi, xu hướng này có thể mang lại cả hệ quả tích cực và tiêu cực.
+[en] In recent years, it has become far more normal for people to live alone. In my opinion, this trend can have both positive and negative consequences.
+[vi] Sử dụng hiện tại hoàn thành giới thiệu xu hướng, hiện tại đơn nêu luận đề.
+[term] has become, can have
+[vi] Từ vựng cần chú ý.
+[term] consequence (n): hệ quả
+[vi] Ví dụ 2:
+[vi] Sống một mình giúp thanh niên trở nên độc lập. Họ sẽ học được cách quản lý ngân sách và quán xuyến việc nhà.
+[en] Living alone helps young adults become independent. They will learn how to manage their budget and handle household chores.
+[vi] Hiện tại đơn giải thích thực tế, tương lai đơn dự báo kết quả.
+[term] helps, will learn
+[vi] Từ vựng thân bài.
+[term] independent (adj): độc lập, household chores (n): việc nhà
+[vi] Ví dụ 3:
+[vi] Những người sống một mình thường đối mặt với cảm giác cô lập. Xu hướng này sẽ đẩy giá bất động sản và chi phí sinh hoạt ở các thành phố lớn tăng cao.
+[en] People living alone often face feelings of isolation. This trend will push up property prices and living costs in big cities.
+[vi] Phân tích hạn chế bằng hiện tại đơn, dự báo hệ quả bằng tương lai đơn.
+[term] face, will push up
+[vi] Từ vựng khó.
+[term] isolation (n): sự cô lập, push up (v): đẩy lên
+[vi] Ví dụ 4:
+[vi] Tóm lại, mặc dù sự gia tăng của các hộ gia đình một người mang lại những lợi ích nhất định, nó cũng sẽ đặt ra những thách thức đáng kể cho xã hội.
+[en] In conclusion, while the increase in one-person households presents certain benefits, it will also pose significant challenges for society.
+[vi] Hiện tại đơn và tương lai đơn kết luận lại toàn bài.
+[term] presents, will pose
+[vi] Từ vựng kết luận.
+[term] one-person household (n): hộ gia đình một người, pose challenge (v): đặt ra thách thức
+---
+[vi] Trong Speaking Part 1, hãy trả lời trực tiếp bằng thì của câu hỏi và mở rộng bằng thì khác.
+[vi] Chương cuối: Tổng kết từ vựng.
+[term] milestone (n): cột mốc quan trọng
+[term] purchase (v): mua sắm
+[term] predict (v): dự báo, dự đoán
+[term] premature (adj): sớm, trước thời hạn
+[term] refrain from (v): kiềm chế, tránh làm gì
+[term] disturbance (n): sự quấy rầy, làm phiền
+[term] consequence (n): hệ quả
+[term] independent (adj): độc lập
+[term] household chores (n): việc nhà
+[term] isolation (n): sự cô lập
+[term] push up (v): đẩy lên
+[term] one-person household (n): hộ gia đình một người
+[term] pose challenge (v): đặt ra thách thức
