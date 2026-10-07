@@ -1,4 +1,4 @@
-﻿import os
+import os
 import sys
 import glob
 import json
@@ -40,7 +40,7 @@ def generate_podcast_xml(out_path="podcast.xml"):
     
     items_xml = []
     
-    base_date = datetime(2026, 10, 7, 8, 0, 0)
+    base_date = datetime.now() - timedelta(days=len(scripts) + 10)
     
     for idx, script_path in enumerate(scripts):
         basename = os.path.basename(script_path)
@@ -57,6 +57,9 @@ def generate_podcast_xml(out_path="podcast.xml"):
         
         # Build Title
         title_str = f"Bài {parts[0]}.{parts[1]}{parts[2].upper()}"
+        if parts[1] in ["1", "3", "4", "5"]:
+            title_str += " (bản ngắn)"
+            
         with open(script_path, 'r', encoding='utf-8') as f:
             first_lines = f.read().split('\n')[:5]
             desc = f"Tập {parts[0]}.{parts[1]}{parts[2].upper()} của VSTEP Podcast."
@@ -73,13 +76,14 @@ def generate_podcast_xml(out_path="podcast.xml"):
         
         pub_date = (base_date + timedelta(days=idx)).strftime("%a, %d %b %Y %H:%M:%S +0700")
         
-        mp3_url = f"{BASE_URL}/{mp3_name}"
+        current_release = "v0.2.0-pilot" if parts[1] == "2" else RELEASE_TAG
+        mp3_url = f"https://github.com/LMK89/VSTEP/releases/download/{current_release}/{mp3_name}"
         
         item = f'''    <item>
       <title><![CDATA[{title_str}]]></title>
       <description><![CDATA[{desc}]]></description>
       <link>{SITE_URL}</link>
-      <guid isPermaLink="false">{ep_id}-{RELEASE_TAG}</guid>
+      <guid isPermaLink="false">{ep_id}-{current_release}</guid>
       <pubDate>{pub_date}</pubDate>
       <enclosure url="{mp3_url}" length="{size}" type="audio/mpeg"/>
       <itunes:duration>{dur}</itunes:duration>
@@ -106,7 +110,6 @@ def generate_podcast_xml(out_path="podcast.xml"):
       <itunes:category text="Language Learning"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://raw.githubusercontent.com/LMK89/VSTEP/main/data/podcast_cover.png"/>
 {chr(10).join(items_xml)}
   </channel>
 </rss>'''

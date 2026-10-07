@@ -14,13 +14,12 @@
       <itunes:category text="Language Learning"/>
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://raw.githubusercontent.com/LMK89/VSTEP/main/data/podcast_cover.png"/>
     <item>
-      <title><![CDATA[Bài 1.1A]]></title>
+      <title><![CDATA[Bài 1.1A (bản ngắn)]]></title>
       <description><![CDATA[Chào mừng các bạn đến với tập 1.1A. Hôm nay chúng ta sẽ bước vào phần: 0. Ôn nền (Foundation Review).]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
       <guid isPermaLink="false">1-1-a-v0.3.0-module1</guid>
-      <pubDate>Wed, 07 Oct 2026 08:00:00 +0700</pubDate>
+      <pubDate>Thu, 17 Sep 2026 10:49:59 +0700</pubDate>
       <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-1-a.mp3" length="2932145" type="audio/mpeg"/>
       <itunes:duration>06:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -29,11 +28,11 @@
       <itunes:episode>1</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.1B]]></title>
+      <title><![CDATA[Bài 1.1B (bản ngắn)]]></title>
       <description><![CDATA[Chào mừng các bạn đến với tập 1.1B. Chúng ta sẽ tiếp tục với các thì Quá khứ đơn và Tương lai đơn, cùng các ứng dụng và bẫy trong VSTEP.]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
       <guid isPermaLink="false">1-1-b-v0.3.0-module1</guid>
-      <pubDate>Thu, 08 Oct 2026 08:00:00 +0700</pubDate>
+      <pubDate>Fri, 18 Sep 2026 10:49:59 +0700</pubDate>
       <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-1-b.mp3" length="3696497" type="audio/mpeg"/>
       <itunes:duration>07:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -45,9 +44,9 @@
       <title><![CDATA[Bài 1.2A]]></title>
       <description><![CDATA[Chào mừng các bạn đến với chuỗi podcast chuyên sâu về ngữ pháp thực chiến dành riêng cho kỳ thi VSTEP từ trình độ B1 lên B2 và C1. Hôm nay, chúng ta cùng phân tích chuyên đề trọng tâm của Module 1: Bài một chấm hai, Quy tắc phối thì và xác định mốc thời gian.]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
-      <guid isPermaLink="false">1-2-a-v0.3.0-module1</guid>
-      <pubDate>Fri, 09 Oct 2026 08:00:00 +0700</pubDate>
-      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-2-a.mp3" length="8341576" type="audio/mpeg"/>
+      <guid isPermaLink="false">1-2-a-v0.2.0-pilot</guid>
+      <pubDate>Sat, 19 Sep 2026 10:49:59 +0700</pubDate>
+      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.2.0-pilot/lesson-1-2-a.mp3" length="8341576" type="audio/mpeg"/>
       <itunes:duration>17:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -58,9 +57,9 @@
       <title><![CDATA[Bài 1.2B]]></title>
       <description><![CDATA[Chào mừng các bạn quay trở lại với chuỗi podcast ôn luyện VSTEP thực chiến. Trong phần trước của Tập một chấm hai A, chúng ta đã nắm chắc bản chất và công thức của các liên từ thời gian.]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
-      <guid isPermaLink="false">1-2-b-v0.3.0-module1</guid>
-      <pubDate>Sat, 10 Oct 2026 08:00:00 +0700</pubDate>
-      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-2-b.mp3" length="8130760" type="audio/mpeg"/>
+      <guid isPermaLink="false">1-2-b-v0.2.0-pilot</guid>
+      <pubDate>Sun, 20 Sep 2026 10:49:59 +0700</pubDate>
+      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.2.0-pilot/lesson-1-2-b.mp3" length="8130760" type="audio/mpeg"/>
       <itunes:duration>16:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -68,11 +67,11 @@
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.3A]]></title>
+      <title><![CDATA[Bài 1.3A (bản ngắn)]]></title>
       <description><![CDATA[Chào mừng các bạn đến với chuỗi podcast chuyên sâu về ngữ pháp thực chiến VSTEP. Hôm nay, chúng ta cùng phân tích chuyên đề trọng tâm Bài một chấm ba: Phân biệt Danh động từ (V-ing) và Động từ nguyên mẫu.]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
       <guid isPermaLink="false">1-3-a-v0.3.0-module1</guid>
-      <pubDate>Sun, 11 Oct 2026 08:00:00 +0700</pubDate>
+      <pubDate>Mon, 21 Sep 2026 10:49:59 +0700</pubDate>
       <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-3-a.mp3" length="4386760" type="audio/mpeg"/>
       <itunes:duration>09:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -81,11 +80,11 @@
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.3B]]></title>
+      <title><![CDATA[Bài 1.3B (bản ngắn)]]></title>
       <description><![CDATA[Chào mừng các bạn trở lại với Tập B của bài học Danh động từ và Động từ nguyên mẫu. Hôm nay, chúng sẽ tìm hiểu nhóm kiến thức khó nhất: Các động từ đổi nghĩa tùy theo đi với V-ing hay To-V, bao gồm Stop, Remember, Forget, Try và Regret.]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
       <guid isPermaLink="false">1-3-b-v0.3.0-module1</guid>
-      <pubDate>Mon, 12 Oct 2026 08:00:00 +0700</pubDate>
+      <pubDate>Tue, 22 Sep 2026 10:49:59 +0700</pubDate>
       <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-3-b.mp3" length="3009736" type="audio/mpeg"/>
       <itunes:duration>06:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -94,11 +93,11 @@
       <itunes:episode>6</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.4A]]></title>
+      <title><![CDATA[Bài 1.4A (bản ngắn)]]></title>
       <description><![CDATA[0. Ôn nền (Foundation Review).]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
       <guid isPermaLink="false">1-4-a-v0.3.0-module1</guid>
-      <pubDate>Tue, 13 Oct 2026 08:00:00 +0700</pubDate>
+      <pubDate>Wed, 23 Sep 2026 10:49:59 +0700</pubDate>
       <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-4-a.mp3" length="1982129" type="audio/mpeg"/>
       <itunes:duration>04:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -107,11 +106,11 @@
       <itunes:episode>7</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.4B]]></title>
+      <title><![CDATA[Bài 1.4B (bản ngắn)]]></title>
       <description><![CDATA[Chào các bạn, tiếp nối phần A, phần B sẽ nói về bẫy nhận diện và cách ứng dụng bị động. Đầu tiên là bẫy mệnh đề quan hệ rút gọn trong bài Đọc. Ví dụ: Một nghiên cứu mới, được thực hiện bởi các nhà khoa học, đã cảnh báo rằng...]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
       <guid isPermaLink="false">1-4-b-v0.3.0-module1</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 +0700</pubDate>
+      <pubDate>Thu, 24 Sep 2026 10:49:59 +0700</pubDate>
       <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-4-b.mp3" length="1373297" type="audio/mpeg"/>
       <itunes:duration>02:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -120,11 +119,11 @@
       <itunes:episode>8</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.5A]]></title>
+      <title><![CDATA[Bài 1.5A (bản ngắn)]]></title>
       <description><![CDATA[Chào các bạn! Chào mừng đến với tập 1.5A của VSTEP Podcast. Hôm nay chúng ta sẽ bắt đầu tìm hiểu về Cấu trúc So sánh.]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
       <guid isPermaLink="false">1-5-a-v0.3.0-module1</guid>
-      <pubDate>Thu, 15 Oct 2026 08:00:00 +0700</pubDate>
+      <pubDate>Fri, 25 Sep 2026 10:49:59 +0700</pubDate>
       <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-5-a.mp3" length="1079537" type="audio/mpeg"/>
       <itunes:duration>02:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
@@ -133,11 +132,11 @@
       <itunes:episode>9</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.5B]]></title>
+      <title><![CDATA[Bài 1.5B (bản ngắn)]]></title>
       <description><![CDATA[Chào các bạn đến với tập 1.5B của VSTEP Podcast. Tiếp nối phần trước, hôm nay chúng ta sẽ tìm hiểu so sánh nhất và ứng dụng của chúng trong bài thi VSTEP.]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
       <guid isPermaLink="false">1-5-b-v0.3.0-module1</guid>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 +0700</pubDate>
+      <pubDate>Sat, 26 Sep 2026 10:49:59 +0700</pubDate>
       <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-5-b.mp3" length="1108337" type="audio/mpeg"/>
       <itunes:duration>02:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>

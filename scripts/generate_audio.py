@@ -1,4 +1,4 @@
-﻿import asyncio
+import asyncio
 import os
 import shutil
 import subprocess
@@ -256,7 +256,12 @@ async def process_episode(script_path, output_mp3_path, episode_title, sem):
     ]
     subprocess.run(cmd_meta, capture_output=True, check=True)
     
-    logging.info(f"HOÀN THÀNH: {output_mp3_path}")
+    final_duration = get_audio_duration_ms(output_mp3_path)
+    if final_duration < 18 * 60 * 1000:
+        logging.error(f"FAIL: {output_mp3_path} có thời lượng {(final_duration/1000)/60:.1f} phút (< 18 phút).")
+        sys.exit(1)
+        
+    logging.info(f"HOÀN THÀNH: {output_mp3_path} ({(final_duration/1000)/60:.1f} phút)")
 
 async def main():
     parser = argparse.ArgumentParser()
