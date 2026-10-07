@@ -1,64 +1,96 @@
-import os
+﻿import os
 import sys
-from datetime import datetime
+import glob
+import json
+import subprocess
+from datetime import datetime, timedelta
 
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
 
-RELEASE_TAG = "v0.2.0-pilot"
+RELEASE_TAG = "v0.3.0-module1"
 BASE_URL = f"https://github.com/LMK89/VSTEP/releases/download/{RELEASE_TAG}"
 SITE_URL = "https://lmk89.github.io/VSTEP/"
 
-EPISODES = [
-    {
-        "id": "1-2-a",
-        "title": "Bài 1.2A: Quy Tắc Phối Thì - Bản Chất Ngôn Ngữ & Từ Vựng Học Thuật",
-        "file": "lesson-1-2-a.mp3",
-        "duration": "17:22",
-        "length_bytes": 8342141,
-        "pub_date": "Fri, 02 Oct 2026 08:00:00 +0700",
-        "description": "Tập 1.2A mổ xẻ bản chất ngữ pháp của các liên từ thời gian (When, While, Before, After, By the time, Since, As soon as, Until) cùng 14 câu ví dụ học thuật B2/C1 và bóc tách collocations ghi điểm."
-    },
-    {
-        "id": "1-2-b",
-        "title": "Bài 1.2B: Quy Tắc Phối Thì - Mổ Xẻ Bẫy Đề Thi & Kỹ Năng Writing/Speaking",
-        "file": "lesson-1-2-b.mp3",
-        "duration": "16:56",
-        "length_bytes": 8131347,
-        "pub_date": "Fri, 02 Oct 2026 08:30:00 +0700",
-        "description": "Tập 1.2B vạch trần các cạm bẫy đổi giờ trong Listening Part 1/2 và Reading, hướng dẫn 17 câu ứng dụng trực tiếp vào Writing Task 1/2 và Speaking Part 2/3 kèm chuyên mục Tự hỏi Tự đáp."
-    }
-]
+def get_ffmpeg_bin():
+    import shutil
+    if shutil.which("ffprobe"):
+        return "ffprobe"
+    winget_path = r"C:\Users\khang.le\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-9.0.2-full_build\bin\ffprobe.exe"
+    return winget_path
+
+FFPROBE_BIN = get_ffmpeg_bin()
+
+def get_audio_info(file_path):
+    cmd = [
+        FFPROBE_BIN, "-v", "error", "-show_entries", "format=duration",
+        "-of", "json", file_path
+    ]
+    res = subprocess.run(cmd, capture_output=True, text=True, check=True)
+    data = json.loads(res.stdout)
+    duration = float(data["format"]["duration"])
+    mins = int(duration // 60)
+    secs = int(duration % 60)
+    size = os.path.getsize(file_path)
+    return f"{mins:02d}:{secs:02d}", size
 
 def generate_podcast_xml(out_path="podcast.xml"):
+    # Read scripts to get titles
+    scripts = sorted(glob.glob("podcast-scripts/script-*.txt"))
+    
     items_xml = []
-    for ep in EPISODES:
-        mp3_url = f"{BASE_URL}/{ep['file']}"
+    
+    base_date = datetime(2026, 10, 7, 8, 0, 0)
+    
+    for idx, script_path in enumerate(scripts):
+        basename = os.path.basename(script_path)
+        # e.g. script-1-1-a.txt
+        parts = basename.replace('script-', '').replace('.txt', '').split('-')
+        ep_id = "-".join(parts)
+        mp3_name = f"lesson-{ep_id}.mp3"
+        mp3_path = os.path.join("output", mp3_name)
         
-        # Calculate season and episode
-        # id is like "1-2-a"
-        parts = ep['id'].split('-')
+        if not os.path.exists(mp3_path):
+            continue
+            
+        dur, size = get_audio_info(mp3_path)
+        
+        # Build Title
+        title_str = f"Bài {parts[0]}.{parts[1]}{parts[2].upper()}"
+        with open(script_path, 'r', encoding='utf-8') as f:
+            first_lines = f.read().split('\n')[:5]
+            desc = f"Tập {parts[0]}.{parts[1]}{parts[2].upper()} của VSTEP Podcast."
+            # try to find a chapter or vi
+            for l in first_lines:
+                if l.startswith('[vi]'):
+                    desc = l[5:]
+                    break
+        
         season = int(parts[0]) if len(parts) >= 1 else 1
         lesson = int(parts[1]) if len(parts) >= 2 else 1
         part_letter = parts[2].lower() if len(parts) >= 3 else 'a'
         episode_num = (lesson * 2) - (1 if part_letter == 'a' else 0)
-
-        item = f"""    <item>
-      <itunes:season>{season}</itunes:season>
-      <itunes:episode>{episode_num}</itunes:episode>
-      <title><![CDATA[{ep['title']}]]></title>
-      <description><![CDATA[{ep['description']}]]></description>
+        
+        pub_date = (base_date + timedelta(days=idx)).strftime("%a, %d %b %Y %H:%M:%S +0700")
+        
+        mp3_url = f"{BASE_URL}/{mp3_name}"
+        
+        item = f'''    <item>
+      <title><![CDATA[{title_str}]]></title>
+      <description><![CDATA[{desc}]]></description>
       <link>{SITE_URL}</link>
-      <guid isPermaLink="false">{ep['id']}-{RELEASE_TAG}</guid>
-      <pubDate>{ep['pub_date']}</pubDate>
-      <enclosure url="{mp3_url}" length="{ep['length_bytes']}" type="audio/mpeg"/>
-      <itunes:duration>{ep['duration']}</itunes:duration>
+      <guid isPermaLink="false">{ep_id}-{RELEASE_TAG}</guid>
+      <pubDate>{pub_date}</pubDate>
+      <enclosure url="{mp3_url}" length="{size}" type="audio/mpeg"/>
+      <itunes:duration>{dur}</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-    </item>"""
+      <itunes:season>{season}</itunes:season>
+      <itunes:episode>{episode_num}</itunes:episode>
+    </item>'''
         items_xml.append(item)
 
-    rss_content = f"""<?xml version="1.0" encoding="UTF-8"?>
+    rss_content = f'''<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" 
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
@@ -77,7 +109,7 @@ def generate_podcast_xml(out_path="podcast.xml"):
     <itunes:image href="https://raw.githubusercontent.com/LMK89/VSTEP/main/data/podcast_cover.png"/>
 {chr(10).join(items_xml)}
   </channel>
-</rss>"""
+</rss>'''
 
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(rss_content)

@@ -1,5 +1,6 @@
-﻿import sys
+import sys
 import os
+sys.stdout.reconfigure(encoding='utf-8')
 
 def check_script(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:

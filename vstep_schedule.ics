@@ -6,10 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:VSTEP 60s Micro-Learning
 X-WR-TIMEZONE:Asia/Ho_Chi_Minh
 BEGIN:VEVENT
-UID:vstep-card-1-20261003@vstep.hub
-DTSTAMP:20261002T133025Z
-DTSTART:20261003T080000
-DTEND:20261003T081000
+UID:vstep-card-1-20261008@vstep.hub
+DTSTAMP:20261007T103556Z
+DTSTART:20261008T080000
+DTEND:20261008T081000
 SUMMARY:💡 VSTEP Ngày 1: BY THE TIME
 DESCRIPTION:💡 BÀI: BY THE TIME\n\n🧠 Ngữ pháp: + Quá khứ: By the time + S + V2/ed, S + had + V3/ed (By the time the government introduced bans, tobacco usage had already caused millions of premature deaths). + Tương lai: By the time + S + V(hiện tại đơn), S + will have + V3/ed (By the time the decade ends, global temperatures will have risen).\n\n🔄 Đồng nghĩa B2/C1: premature death = untimely demise (ca tử vong sớm).\n\n⚠️ Bẫy đề thi: Thấy By the time đi với mốc quá khứ thì vế sau tuyệt đối không chọn Quá khứ đơn, bắt buộc phải là Quá khứ hoàn thành (had + V3/ed).
 BEGIN:VALARM
@@ -19,10 +19,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vstep-card-2-20261004@vstep.hub
-DTSTAMP:20261002T133025Z
-DTSTART:20261004T080000
-DTEND:20261004T081000
+UID:vstep-card-2-20261009@vstep.hub
+DTSTAMP:20261007T103556Z
+DTSTART:20261009T080000
+DTEND:20261009T081000
 SUMMARY:💡 VSTEP Ngày 2: WHILE VS WHEN
 DESCRIPTION:💡 BÀI: WHILE VS WHEN\n\n🧠 Ngữ pháp: + Hành động xen ngang: While/When + S + was/were + V-ing, S + V2/ed (While the surgeon was performing the operation, the power went out). + Mở rộng B2/C1 chỉ sự tương phản (= Whereas): While + Clause, Clause (While smoking rates have fallen in developed nations, they have risen in developing regions).\n\n🔄 Đồng nghĩa B2/C1: affordable = reasonably priced (giá cả phải chăng, hợp túi tiền).\n\n⚠️ Bẫy đề thi: While thường đi với hành động nền kéo dài; hành động xen ngang bất ngờ thường đi với When và chia Quá khứ đơn.
 BEGIN:VALARM
@@ -32,10 +32,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vstep-card-3-20261005@vstep.hub
-DTSTAMP:20261002T133025Z
-DTSTART:20261005T080000
-DTEND:20261005T081000
+UID:vstep-card-3-20261010@vstep.hub
+DTSTAMP:20261007T103556Z
+DTSTART:20261010T080000
+DTEND:20261010T081000
 SUMMARY:💡 VSTEP Ngày 3: BEFORE & AFTER
 DESCRIPTION:💡 BÀI: BEFORE & AFTER\n\n🧠 Ngữ pháp: \n\n🔄 Đồng nghĩa B2/C1: emancipated = liberated = freed from bondage (được giải phóng, trả tự do).\n\n⚠️ Bẫy đề thi: Trục thời gian phi tuyến tính. Đoạn văn nhắc sự kiện năm 1865 trước, nhưng hành động có had + V3 (xảy ra năm 1860) mới là sự việc diễn ra trước tiên.
 BEGIN:VALARM
@@ -45,10 +45,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vstep-card-4-20261006@vstep.hub
-DTSTAMP:20261002T133025Z
-DTSTART:20261006T080000
-DTEND:20261006T081000
+UID:vstep-card-4-20261011@vstep.hub
+DTSTAMP:20261007T103556Z
+DTSTART:20261011T080000
+DTEND:20261011T081000
 SUMMARY:💡 VSTEP Ngày 4: SINCE & AS SOON AS
 DESCRIPTION:💡 BÀI: SINCE & AS SOON AS\n\n🧠 Ngữ pháp: \n\n🔄 Đồng nghĩa B2/C1: meticulous = thorough = painstaking = rigorous (tỉ mỉ, chu đáo, cẩn trọng).\n\n⚠️ Bẫy đề thi: Mệnh đề sau As soon as chỉ thời gian tương lai tuyệt đối không dùng "will", chỉ dùng Hiện tại đơn hoặc Hiện tại hoàn thành.
 BEGIN:VALARM
@@ -58,10 +58,10 @@ TRIGGER:-PT0M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vstep-card-5-20261007@vstep.hub
-DTSTAMP:20261002T133025Z
-DTSTART:20261007T080000
-DTEND:20261007T081000
+UID:vstep-card-5-20261012@vstep.hub
+DTSTAMP:20261007T103556Z
+DTSTART:20261012T080000
+DTEND:20261012T081000
 SUMMARY:💡 VSTEP Ngày 5: BẪY ĐỔI GIỜ & ĐỐI CHIẾU XU HƯỚNG
 DESCRIPTION:💡 BÀI: BẪY ĐỔI GIỜ & ĐỐI CHIẾU XU HƯỚNG\n\n🧠 Ngữ pháp: \n\n🔄 Đồng nghĩa B2/C1: proliferate = multiply rapidly (tăng nhanh chóng, bùng nổ số lượng).\n\n⚠️ Bẫy đề thi: Đổi giờ thường lệ bằng từ nối phản bác (Ví dụ: "Usually at 5:15 but half an hour earlier today" -> Phải lấy 5:15 trừ 30 phút thành 4:45).
 BEGIN:VALARM
