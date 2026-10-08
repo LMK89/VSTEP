@@ -1,72 +1,183 @@
-[chapter] Phần 1: Các động từ đổi nghĩa khi đi với V-ing và To-V
-[vi] Chào mừng các bạn trở lại với Tập B của bài học Danh động từ và Động từ nguyên mẫu. Hôm nay, chúng sẽ tìm hiểu nhóm kiến thức khó nhất: Các động từ đổi nghĩa tùy theo đi với V-ing hay To-V, bao gồm Stop, Remember, Forget, Try và Regret.
-[vi] Nhóm đầu tiên là Stop. Stop V-ing là dừng hẳn một việc đang diễn ra, còn Stop To-V là dừng lại để bắt đầu việc khác.
-[vi] Câu ví dụ số 1: Bạn phải dừng lại liên tục để nghỉ ngơi và uống nước khi đi bộ dưới trời nắng nóng.
-[en] You have to stop all the time to rest and have drinks when walking in the heat.
-[vi] Phân tích: Ở đây, stop đi với to-V là to rest nghĩa là dừng hoạt động đi bộ lại để thực hiện mục đích khác là nghỉ ngơi.
-[term] to rest
-[vi] Từ mới trong câu: cụm từ all the time mang nghĩa liên tục.
-[term] all the time
+[chapter] Ôn nhanh Tập A
+[vi] Chào mừng các bạn quay lại với bài một chấm ba, phần B: Danh động từ và động từ nguyên mẫu.
+[vi] Trong Tập A, qua cuộc trò chuyện giữa Anna và Ben về chuyện bỏ cà phê, chúng ta đã học ba nhóm. Nhóm đi với ing: keep, avoid, enjoy, giới từ, và những cụm có to là giới từ như be used to, look forward to. Nhóm đi với to: decide, want, hope, và động từ có tân ngữ như advise someone to. Nhóm không có to: sau can, must, should, và sau let, make.
+[term] keep falling, decided to quit, let us take
+[vi] Và ba động từ đổi nghĩa. Stop cộng ing là bỏ hẳn, stop cộng to là dừng lại để làm việc khác. Try cộng ing là thử, try cộng to là cố gắng. Remember cộng ing là nhớ đã làm, remember cộng to là nhớ phải làm.
+[term] stop drinking, stop to buy, try going, try to stay
+[vi] Hôm nay, chúng ta gặp lại các cấu trúc đó trong một bản tin về môi trường: rác thải nhựa ở các thành phố ven biển. Đây là chủ đề rất hay xuất hiện trong bài Đọc và bài Viết. Cuối tập là phần thư giãn với tên những bài hát nổi tiếng.
 
-[vi] Nhóm thứ hai là Remember và Forget. Đi với V-ing là việc đã xảy ra trong quá khứ, đi với To-V là việc phải làm trong tương lai.
-[vi] Câu ví dụ số 2: Cô ấy không nhớ là đã uống liều thuốc đó vì nó làm cô ấy cực kỳ buồn ngủ.
-[en] She doesn't remember taking that medicine because it made her awfully sleepy.
-[vi] Phân tích: Hành động uống thuốc đã thực sự xảy ra trong quá khứ, nên remember đi với V-ing là taking.
-[term] taking
-[vi] Từ mới trong câu: trạng từ awfully mang nghĩa cực kỳ, rất.
-[term] awfully
+[chapter] Phần 2: Đề thi. Nghe trọn bản tin về rác thải nhựa
+[vi] Bản tin hôm nay kể về nỗ lực giảm rác thải nhựa ở Đà Nẵng. Đây là bản tin được viết riêng cho bài học, các chi tiết chỉ mang tính minh họa. Bản tin có chín câu. Lần đầu nghe, bạn hãy để ý những chỗ có hai động từ đứng gần nhau.
+[read] Reducing plastic waste has become one of the biggest challenges for coastal cities.
+[read] Many supermarkets in Da Nang have stopped giving out free plastic bags.
+[read] Customers are encouraged to bring their own bags when they go shopping.
+[read] At first, some shoppers complained about paying extra for paper bags.
+[read] However, most of them have now got used to carrying reusable bags.
+[read] The city has also decided to ban single-use plastic in all public offices.
+[read] Local authorities hope to cut plastic waste by half within five years.
+[read] Experts argue that recycling alone is not enough to solve the problem.
+[read] "We need to stop treating the ocean as a rubbish bin," one activist said.
 
-[vi] Nhóm thứ ba là Try. Try V-ing là thử nghiệm xem kết quả ra sao, Try To-V là cố gắng nỗ lực vượt khó.
-[vi] Câu ví dụ số 3: Các nhà khoa học đang nỗ lực ổn định nồng độ khí nhà kính ở mức 450-550 ppm.
-[en] Scientists are trying to stabilize GHG concentrations around 450-550 ppm.
-[vi] Phân tích: Ở đây các nhà khoa học đang nỗ lực hết sức, nên chữ try đi với to-V, ta dùng to stabilize.
-[term] to stabilize
-[vi] Từ mới trong câu: động từ stabilize mang nghĩa ổn định. Danh từ concentration là nồng độ.
-[term] stabilize, concentration
+[chapter] Phần 2: Mổ xẻ từng câu, siêu thị và người mua sắm
+[vi] Câu số một: Việc giảm rác thải nhựa đã trở thành một trong những thách thức lớn nhất đối với các thành phố ven biển.
+[en] Reducing plastic waste has become one of the biggest challenges for coastal cities.
+[vi] Ngữ pháp: động từ thêm ing làm chủ ngữ, reducing plastic waste. Chủ ngữ là cả hành động, số ít, nên động từ chính là has become, không phải have become.
+[term] Reducing plastic waste has become
+[vi] Bẫy: có hai bẫy. Thứ nhất, chữ waste đứng sát động từ dễ làm bạn chia theo nó. Hãy chia theo hành động reducing. Thứ hai, one of the cộng danh từ số nhiều: one of the biggest challenges, có s. Viết one of the biggest challenge là lỗi rất hay gặp. Còn nếu one of là chủ ngữ, thì động từ chia số ít: One of the challenges is plastic waste.
+[term] one of the biggest challenges, One of the challenges is
+[vi] Từ vựng: reduce là giảm, gần nghĩa có cut, decrease và lower. Reduce và cut cần tân ngữ, có người làm giảm: reduce waste. Decrease có thể tự giảm, không cần tân ngữ: the number decreased. Coastal là ven biển, danh từ là coast. Challenge là thách thức, pose a challenge là đặt ra thách thức.
+[term] reduce, cut, decrease, coastal, pose a challenge
 
-[vi] Nhóm cuối cùng là Regret. Đi với V-ing là hối hận vì việc đã làm, đi với To-V là lấy làm tiếc khi phải làm hay thông báo tin xấu.
-[vi] Câu ví dụ số 4: Chúng tôi rất tiếc phải thông báo với quý khách rằng chuyến bay đến Milan đã bị hoãn một giờ.
-[en] We regret to inform you that the flight to Milan has been delayed by an hour.
-[vi] Phân tích: Việc thông báo đang diễn ra ở hiện tại như một tin buồn, nên ta dùng to inform.
-[term] to inform
-[vi] Từ mới trong câu: động từ delay mang nghĩa trì hoãn.
-[term] delay
+[vi] Câu số hai: Nhiều siêu thị ở Đà Nẵng đã ngừng phát túi ni lông miễn phí.
+[en] Many supermarkets in Da Nang have stopped giving out free plastic bags.
+[vi] Ngữ pháp: stop cộng ing, have stopped giving out, nghĩa là ngừng hẳn một việc đã làm thường xuyên. Đúng nghĩa bỏ một thói quen, giống stopped drinking coffee ở Tập A.
+[term] have stopped giving out
+[vi] So sánh: nếu viết The supermarkets stopped to give out free bags, thì nghĩa thành ra các siêu thị dừng việc khác lại để phát túi miễn phí, ngược hẳn ý của bản tin. Trong bài Viết về môi trường, các cụm stop cộng ing rất hữu ích: stop using plastic bags, stop burning rubbish.
+[term] stop using plastic bags, stop burning rubbish
+[vi] Từ vựng: give out là phát, phân phát cho nhiều người. Hand out cùng nghĩa, và handout còn là tài liệu phát tay trong lớp. Give away là cho, tặng miễn phí. Còn plastic bag, người Việt hay gọi là túi ni lông, nhưng tiếng Anh không dùng chữ nylon bag cho nghĩa này.
+[term] give out, hand out, give away, plastic bag
 
-[chapter] Phần 2: Bẫy trắc nghiệm VSTEP thường gặp
-[vi] Chuyển sang phần tiếp theo, chúng ta cùng điểm qua các bẫy trắc nghiệm hay gặp. Bẫy phổ biến nhất là To không phải của To-V mà là một giới từ.
-[vi] Câu ví dụ số 5: Tôi rất mong nhận được phản hồi của bạn.
-[en] I look forward to receiving your response.
-[vi] Phân tích: Trong cấu trúc look forward to, chữ to ở đây là giới từ, nên động từ theo sau bắt buộc phải ở dạng V-ing, là receiving.
-[term] receiving
-[vi] Từ mới trong câu: cấu trúc look forward to mang nghĩa mong đợi.
-[term] look forward to
+[vi] Câu số ba: Khách hàng được khuyến khích mang theo túi riêng khi đi mua sắm.
+[en] Customers are encouraged to bring their own bags when they go shopping.
+[vi] Ngữ pháp: encourage cộng tân ngữ cộng to: encourage customers to bring. Ở câu này là dạng bị động, customers are encouraged to bring, nhưng chữ to vẫn giữ nguyên. Cuối câu có go shopping, đi với ing, cùng kiểu go swimming, go fishing.
+[term] are encouraged to bring, go shopping
+[vi] So sánh: encourage, persuade và force đều đi với tân ngữ và to, nhưng mức độ khác nhau. Encourage là khuyến khích, người kia vẫn tự chọn. Persuade là thuyết phục thành công. Force là ép buộc. Trong bài Viết dạng giải pháp, câu The government should encourage people to, cộng động từ, là khung câu rất an toàn.
+[term] encourage, persuade, force someone to
+[vi] Từ vựng: their own bags là túi của chính họ. Own đi sau tính từ sở hữu: my own, their own, và có thể đứng một mình với on: on my own, nghĩa là một mình, tự mình. Customer là khách mua hàng, client là khách hàng của dịch vụ như luật sư, ngân hàng, còn guest là khách mời, khách khách sạn.
+[term] their own bags, on my own, customer, client, guest
 
-[chapter] Phần 3: Ứng dụng thực chiến vào Writing và Speaking
-[vi] Để đạt điểm cao trong kỳ thi VSTEP, chúng ta cần ứng dụng các cấu trúc này linh hoạt.
-[vi] Câu ví dụ số 6: Sống một mình giúp thanh niên trở nên độc lập hơn bằng cách quản lý ngân sách hàng ngày.
-[en] Living alone enables young adults to become more independent by managing their daily budget.
-[vi] Phân tích: Cấu trúc enable cộng tân ngữ cộng to-V, nghĩa là giúp ai có thể làm gì, nên ta dùng to become. Ở vế đầu, Living alone là V-ing làm chủ ngữ.
-[term] to become, living
-[vi] Từ mới trong câu: cụm từ daily budget nghĩa là ngân sách hàng ngày. Động từ enable nghĩa là cho phép, giúp cho.
-[term] daily budget, enable
+[vi] Câu số bốn: Lúc đầu, một số người mua sắm đã phàn nàn về việc phải trả thêm tiền cho túi giấy.
+[en] At first, some shoppers complained about paying extra for paper bags.
+[vi] Ngữ pháp: giới từ cộng ing. Complain đi với giới từ about, nên động từ sau about phải thêm ing: complained about paying.
+[term] complained about paying
+[vi] Bẫy: bất cứ khi nào động từ đứng sau giới từ, nó phải thêm ing. Những cụm hay gặp trong đề: be interested in learning, be good at cooking, be responsible for checking, instead of driving, without asking. Viết instead of drive hay without ask là sai. At first ở đầu câu thì như đã học ở Tập A, nghĩa là lúc đầu, ngụ ý sau đó tình hình thay đổi. Và đúng vậy, câu tiếp theo bắt đầu bằng However.
+[term] interested in learning, responsible for checking, instead of driving, without asking
+[vi] Từ vựng: complain about là phàn nàn về điều gì. Complain to là phàn nàn với ai: complain to the manager. Danh từ là complaint, và letter of complaint là thư phàn nàn, dạng bài rất hay gặp trong Writing Task 1. Pay extra là trả thêm, extra charge là phụ phí.
+[term] complain about, complain to, complaint, pay extra, extra charge
 
-[chapter] Phần 4: Hỏi Đáp (Q&A)
-[vi] Chào mừng các bạn đến với góc Hỏi Đáp. Hôm nay chúng ta có một câu hỏi từ bạn thính giả tên Minh: Làm sao để nhớ khi nào động từ có tân ngữ đi kèm thì dùng to-V, khi nào dùng V-ing?
-[vi] Câu trả lời là phần lớn các động từ có tân ngữ chỉ người như allow, advise, encourage, require đều theo cấu trúc có tân ngữ cộng to-V. Tuy nhiên, nếu khuyết tân ngữ chỉ người, chúng sẽ đi thẳng với V-ing. Ví dụ ta nói allow someone to do something, nhưng nếu không có tân ngữ someone, ta dùng allow doing something.
-[vi] Hy vọng câu trả lời này giúp ích cho bạn Minh!
+[vi] Câu số năm: Tuy nhiên, phần lớn họ giờ đã quen với việc mang theo túi tái sử dụng.
+[en] However, most of them have now got used to carrying reusable bags.
+[vi] Ngữ pháp: get used to cộng ing, have got used to carrying. Chữ to là giới từ, nên carrying phải thêm ing. Have got used to là hiện tại hoàn thành, nghĩa là quá trình làm quen đã xong và giờ họ đã quen.
+[term] have got used to carrying
+[vi] Bẫy: đây chính là bẫy chữ to của Tập A, nhưng bây giờ trong ngữ cảnh đề thi. Đặt ba câu cạnh nhau. Shoppers used to get free bags: người mua từng được phát túi miễn phí, nay không còn, nên used to cộng nguyên mẫu. Shoppers are used to carrying bags: họ đang quen với việc mang túi. Shoppers have got used to carrying bags: họ đã dần quen. Câu nào có be hoặc get trước used to, thì động từ sau đó thêm ing.
+[term] used to get, are used to carrying, have got used to carrying
+[vi] Từ vựng: reusable là có thể tái sử dụng, ghép từ re, use và able. Cùng họ có recycle là tái chế, và reduce là giảm. Ba chữ reduce, reuse, recycle tạo thành khẩu hiệu ba R nổi tiếng về môi trường. Carry là mang, xách, còn bring là mang tới chỗ người nói, take là mang đi chỗ khác.
+[term] reusable, reduce, reuse, recycle, carry, bring, take
 
-[chapter] Phần 5: Tổng kết từ vựng
-[vi] Để kết thúc Tập B, chúng ta cùng ôn lại nhanh danh sách từ vựng nhé.
-[vi] 1. Liên tục: all the time.
-[term] all the time
-[vi] 2. Cực kỳ, rất: awfully.
-[term] awfully
-[vi] 3. Ổn định: stabilize. Nồng độ: concentration.
-[term] stabilize, concentration
-[vi] 4. Trì hoãn: delay.
-[term] delay
-[vi] 5. Mong đợi: look forward to.
-[term] look forward to
-[vi] 6. Ngân sách hàng ngày: daily budget. Giúp cho, cho phép: enable.
-[term] daily budget, enable
-[vi] Chúc các bạn ôn tập thật tốt và hẹn gặp lại trong các chuyên đề tiếp theo!
+[chapter] Phần 2: Mổ xẻ từng câu, chính quyền và chuyên gia
+[vi] Câu số sáu: Thành phố cũng đã quyết định cấm đồ nhựa dùng một lần ở tất cả các cơ quan công quyền.
+[en] The city has also decided to ban single-use plastic in all public offices.
+[vi] Ngữ pháp: decide cộng to, has decided to ban. Quyết định là việc hướng tới tương lai, nên đi với to, giống decided to quit của Ben.
+[term] has decided to ban
+[vi] So sánh: decide to do something là quyết định làm gì. Decide on something là quyết định chọn cái gì, đi với danh từ: decide on a plan. Cùng nhóm động từ hướng tới tương lai đi với to còn có plan to, aim to, intend to, và trong văn viết trang trọng là be determined to, quyết tâm làm gì.
+[term] decide to ban, decide on a plan, aim to, intend to, be determined to
+[vi] Từ vựng: ban là cấm bằng luật lệ, vừa là động từ, vừa là danh từ: a ban on plastic bags. Lưu ý giới từ on. Prohibit trang trọng hơn, và đi với from cộng ing: prohibit people from smoking. Single-use là dùng một lần, gần nghĩa với disposable.
+[term] ban, a ban on, prohibit someone from, single-use, disposable
+
+[vi] Câu số bảy: Chính quyền địa phương hy vọng cắt giảm một nửa lượng rác thải nhựa trong vòng năm năm.
+[en] Local authorities hope to cut plastic waste by half within five years.
+[vi] Ngữ pháp: hope cộng to, hope to cut. Hope cũng là động từ hướng tới tương lai.
+[term] hope to cut
+[vi] Bẫy: hope to và wish to thì giống nhau, nhưng hope và wish khi đi với một mệnh đề thì khác hẳn. I hope that it will work, tôi hy vọng điều đó sẽ thành công, là việc có thể xảy ra. I wish that it worked, giá mà nó thành công, là điều trái với thực tế, và động từ lùi thì. Chúng ta sẽ học kỹ wish ở bài câu điều kiện. Ngoài ra, hope không đi với ing, viết hope cutting là sai.
+[term] I hope that it will work, I wish that it worked
+[vi] Từ vựng: cut by half là cắt giảm một nửa. Giới từ by dùng để chỉ mức thay đổi: increase by ten percent, tăng thêm mười phần trăm. Còn to chỉ con số cuối cùng: increase to fifty percent, tăng lên đến năm mươi phần trăm. Within là trong vòng, không quá, mạnh hơn in. Authorities là chính quyền, cơ quan chức năng, thường dùng ở số nhiều.
+[term] cut by half, increase by, increase to, within, authorities
+
+[vi] Câu số tám: Các chuyên gia lập luận rằng chỉ riêng việc tái chế là không đủ để giải quyết vấn đề.
+[en] Experts argue that recycling alone is not enough to solve the problem.
+[vi] Ngữ pháp: câu này có hai cấu trúc. Recycling alone là động từ thêm ing làm chủ ngữ, nên đi với is. Và cấu trúc enough cộng to: not enough to solve, không đủ để giải quyết.
+[term] recycling alone is, not enough to solve
+[vi] So sánh: enough đứng sau tính từ nhưng đứng trước danh từ. Old enough to vote, đủ tuổi để bầu cử, nhưng enough money to buy, đủ tiền để mua. Ngược nghĩa với enough là too cộng tính từ cộng to: too expensive to buy, quá đắt để mua, tức là không mua được. Đây là cặp viết lại câu rất hay gặp: He is too young to drive bằng nghĩa với He is not old enough to drive.
+[term] old enough to vote, enough money to buy, too young to drive
+[vi] Từ vựng: argue that là lập luận rằng, hay dùng khi trình bày quan điểm trong bài Viết: Some people argue that. Argue with someone lại là cãi nhau với ai. Solve là giải quyết vấn đề, tackle và address cùng nghĩa nhưng mang sắc thái bắt tay xử lý, rất hay dùng trong văn học thuật: tackle the problem, address the issue.
+[term] argue that, argue with, solve, tackle, address the issue
+
+[vi] Câu số chín: Một nhà hoạt động môi trường nói: Chúng ta cần ngừng coi đại dương là thùng rác.
+[en] "We need to stop treating the ocean as a rubbish bin," one activist said.
+[vi] Ngữ pháp: chuỗi ba động từ liên tiếp: need to stop treating. Need đi với to, rồi stop đi với ing. Mỗi động từ quyết định dạng của động từ ngay sau nó.
+[term] need to stop treating
+[vi] Bẫy: need có thêm một cấu trúc bị động đặc biệt. Need cộng ing mang nghĩa bị động khi chủ ngữ là vật: The beach needs cleaning, bãi biển cần được dọn, bằng nghĩa với The beach needs to be cleaned. Trong đề trắc nghiệm, nếu chủ ngữ là đồ vật và sau need có chỗ trống, hãy cân nhắc cả hai đáp án cleaning và to be cleaned.
+[term] The beach needs cleaning, needs to be cleaned
+[vi] Từ vựng: treat A as B là đối xử với A như B, coi A là B. Rubbish bin là thùng rác theo kiểu Anh, người Mỹ nói trash can. Rubbish, trash, garbage và waste đều là rác, nhưng waste trang trọng và rộng nhất, dùng trong văn học thuật: plastic waste, industrial waste. Activist là nhà hoạt động xã hội.
+[term] treat A as B, rubbish bin, trash can, waste, activist
+
+[chapter] Phần 2: Nghe lại bản tin và Dùng lại cho chủ đề môi trường
+[vi] Mời bạn nghe lại toàn bộ bản tin.
+[read] Reducing plastic waste has become one of the biggest challenges for coastal cities.
+[read] Many supermarkets in Da Nang have stopped giving out free plastic bags.
+[read] Customers are encouraged to bring their own bags when they go shopping.
+[read] At first, some shoppers complained about paying extra for paper bags.
+[read] However, most of them have now got used to carrying reusable bags.
+[read] The city has also decided to ban single-use plastic in all public offices.
+[read] Local authorities hope to cut plastic waste by half within five years.
+[read] Experts argue that recycling alone is not enough to solve the problem.
+[read] "We need to stop treating the ocean as a rubbish bin," one activist said.
+[vi] Khi gặp chủ đề môi trường trong bài Viết hoặc bài Nói, bạn dùng lại được năm khung câu sau.
+[vi] Thứ nhất, mở bài bằng động từ thêm ing làm chủ ngữ: Protecting the environment has become, cộng một danh từ. Nhớ động từ chia số ít.
+[term] Protecting the environment has become a global concern.
+[vi] Thứ hai, nêu thay đổi hành vi bằng stop cộng ing: Many people have stopped, cộng ing.
+[term] Many people have stopped using single-use plastic.
+[vi] Thứ ba, nêu giải pháp bằng encourage cộng tân ngữ cộng to.
+[term] The government should encourage people to use public transport.
+[vi] Thứ tư, phản biện một giải pháp bằng not enough to.
+[term] Planting trees alone is not enough to stop climate change.
+[vi] Thứ năm, kết bài bằng need to.
+[term] We need to take action before it is too late.
+[vi] Và kho từ vựng của chủ đề này: reduce, reuse, recycle, single-use, disposable, ban, a ban on, reusable, tackle, address the issue, waste. Câu khung thứ tư rất hữu ích cho dạng đề hỏi bạn có đồng ý với một giải pháp hay không: bạn thừa nhận giải pháp có ích, nhưng chỉ ra rằng chỉ mình nó là chưa đủ.
+[term] reduce, reuse, recycle, disposable, tackle, address the issue
+
+[chapter] Phần 3: Học ngữ pháp qua tên bài hát
+[vi] Đến phần thư giãn. Năm bài hát hôm nay đều có tên chứa đúng các cấu trúc của bài: to, ing, let và make. Mình chỉ phân tích tên bài, không phát nhạc gốc. Danh sách và đường dẫn nghe bản gốc nằm trong phần mô tả của tập.
+[song] I Want to Hold Your Hand | The Beatles
+[vi] Bài đầu tiên là một ca khúc kinh điển của ban nhạc The Beatles năm 1963.
+[term] I Want to Hold Your Hand
+[vi] Want cộng to, want to hold, đúng quy tắc bốn: động từ chỉ mong muốn đi với to. Trong văn nói, want to thường bị đọc nhanh thành wanna. Wanna chỉ dùng khi nói, tuyệt đối không viết wanna trong bài thi.
+[term] want to hold, wanna
+
+[song] I Just Called to Say I Love You | Stevie Wonder
+[vi] Bài thứ hai là bản tình ca rất quen thuộc của Stevie Wonder năm 1984.
+[term] I Just Called to Say I Love You
+[vi] To say ở đây là to chỉ mục đích, quy tắc năm: tôi gọi chỉ để nói rằng tôi yêu em. Không phải called cộng to theo kiểu động từ đi với to, mà là to mang nghĩa để làm gì. Cách kiểm tra: thay to bằng in order to, nếu câu vẫn đúng thì đó là to chỉ mục đích. I just called in order to say I love you.
+[term] called to say, in order to say
+
+[song] Let It Go | Idina Menzel
+[vi] Bài thứ ba là ca khúc chủ đề của phim hoạt hình Frozen năm 2013, do Idina Menzel thể hiện.
+[term] Let It Go
+[vi] Let cộng tân ngữ cộng động từ nguyên mẫu không to: let it go, hãy buông bỏ đi, hãy để nó trôi đi. Đúng quy tắc sáu. Viết let it to go là sai. Hãy nhớ tên bài hát này mỗi khi gặp let trong đề thi.
+[term] let it go
+
+[song] Make You Feel My Love | Adele
+[vi] Bài thứ tư là bản ballad do Bob Dylan sáng tác năm 1997, và được Adele hát lại năm 2008, rất nổi tiếng.
+[term] Make You Feel My Love
+[vi] Make cộng tân ngữ cộng động từ nguyên mẫu không to: make you feel, làm cho em cảm nhận được. Bẫy: ở thể bị động, make lại phải có to: You were made to feel welcome, bạn được làm cho cảm thấy được chào đón. Chủ động không có to, bị động có to. Đây là câu hỏi hay gặp trong đề trắc nghiệm.
+[term] make you feel, were made to feel
+
+[song] Don't Stop Believin' | Journey
+[vi] Bài cuối cùng là một bản rock kinh điển của ban nhạc Journey năm 1981.
+[term] Don't Stop Believin'
+[vi] Stop cộng ing: don't stop believing, đừng bao giờ ngừng tin tưởng, đúng nghĩa ngừng hẳn một việc. Đây cũng là mục trong bài hát thì được, trong bài thi thì không. Tên bài viết believin', bỏ chữ g cuối, đúng như cách người bản xứ nói nhanh. Trong bài Viết, phải viết đầy đủ believing.
+[term] don't stop believing
+
+[chapter] Tổng kết từ vựng Tập B
+[vi] Chúng ta cùng ôn lại các nhóm từ trong tập hôm nay.
+[vi] 1. Giảm: reduce, cut, decrease. Ven biển: coastal. Đặt ra thách thức: pose a challenge.
+[term] reduce, decrease, coastal, pose a challenge
+[vi] 2. Phát cho nhiều người: give out, hand out. Cho tặng: give away.
+[term] give out, hand out, give away
+[vi] 3. Khuyến khích: encourage. Thuyết phục: persuade. Ép buộc: force.
+[term] encourage, persuade, force
+[vi] 4. Phàn nàn về: complain about. Thư phàn nàn: letter of complaint. Phụ phí: extra charge.
+[term] complain about, letter of complaint, extra charge
+[vi] 5. Tái sử dụng được: reusable. Tái chế: recycle.
+[term] reusable, recycle
+[vi] 6. Cấm: ban, prohibit. Dùng một lần: single-use, disposable.
+[term] ban, prohibit, single-use, disposable
+[vi] 7. Tăng thêm một mức: increase by. Tăng lên đến: increase to. Trong vòng: within.
+[term] increase by, increase to, within
+[vi] 8. Lập luận rằng: argue that. Giải quyết, xử lý: solve, tackle, address.
+[term] argue that, tackle, address
+[vi] 9. Coi A là B: treat A as B. Rác thải: waste. Nhà hoạt động: activist.
+[term] treat A as B, waste, activist
+[vi] 10. Quá đến mức không thể: too, cộng tính từ, cộng to. Đủ để: enough to.
+[term] too young to drive, old enough to drive
+[vi] Bài một chấm ba đến đây là kết thúc. Bài tiếp theo, một chấm bốn, chúng ta học câu bị động và động từ khuyết thiếu, công cụ giúp văn viết trở nên khách quan và trang trọng hơn. Hẹn gặp lại các bạn.

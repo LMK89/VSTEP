@@ -1,87 +1,169 @@
-[vi] Chào mừng các bạn đến với tập 1.1B. Chúng ta sẽ tiếp tục với các thì Quá khứ đơn và Tương lai đơn, cùng các ứng dụng và bẫy trong VSTEP.
-[vi] Bắt đầu với Quá khứ đơn. Diễn tả sự việc đã kết thúc trong quá khứ.
-[vi] Ví dụ 1:
-[vi] Neil Armstrong đã đặt chân lên mặt trăng vào năm 1969, mốc thời gian đánh dấu một cột mốc quan trọng trong ngành du hành vũ trụ.
-[en] Neil Armstrong set foot on the moon in 1969, which marked a key milestone in space travel.
-[vi] Ở đây dùng set và marked cho sự kiện lịch sử đã kết thúc.
-[term] set, marked
-[vi] Từ vựng đáng chú ý.
-[term] milestone (n): cột mốc quan trọng
-[vi] Ví dụ 2:
-[vi] Khi tôi mua chiếc điện thoại vào ngày 10 tháng 10, các sự cố đã bắt đầu xuất hiện sau một tuần sử dụng.
-[en] When I purchased the phone on the 10th of October, problems started to appear after one week of usage.
-[vi] Tường thuật sự cố trong thư khiếu nại bằng thì quá khứ.
-[term] purchased, started
-[vi] Từ vựng cần lưu ý.
-[term] purchase (v): mua sắm
----
-[vi] Tiếp theo là Tương lai đơn. Dùng cho dự báo tương lai, lời hứa.
-[vi] Ví dụ 1:
-[vi] Các nhà nghiên cứu dự báo rằng số ca tử vong do thuốc lá sẽ tăng gấp đôi lên hai triệu người mỗi năm vào trước năm 2030.
-[en] Researchers predict that tobacco deaths will double to two million people every year by 2030.
-[vi] Dùng will double cho dự báo số liệu.
-[term] will double
-[vi] Từ vựng cho tương lai.
-[term] predict (v): dự báo, dự đoán; premature (adj): sớm, trước thời hạn
-[vi] Ví dụ 2:
-[vi] Tôi sẽ kiềm chế không tổ chức các bữa tiệc ồn ào tại căn hộ của mình để tránh làm phiền xóm giềng.
-[en] I will refrain from holding noisy parties in my unit to avoid disturbing the neighbourhood.
-[vi] Lời hứa, cam kết hành động khắc phục sự cố.
-[term] will refrain
-[vi] Từ vựng viết thư.
-[term] refrain from (v): kiềm chế, tránh làm gì; disturbance (n): sự quấy rầy, làm phiền
----
-[vi] Chuyển sang phần Bẫy chia thì trong Listening và Reading.
-[vi] Bẫy thứ nhất: Nhầm lẫn lịch trình thường lệ và thay đổi thực tế.
-[vi] Trong bài nghe, lịch học bơi thường là 5:15 nhưng hôm nay đẩy sớm lên 4:45. Thí sinh dễ bị lừa bởi mốc 5:15 của hiện tại đơn.
-[vi] Bẫy thứ hai: Lịch hẹn hiện tại và lịch họp tuần tới.
-[vi] Cần nghe rõ ngữ cảnh sự việc xảy ra ở tuần này hay tuần sau.
-[vi] Bẫy thứ ba: Dữ liệu quá khứ và dự báo tương lai.
-[vi] Sự chênh lệch giữa số liệu 1 triệu người năm 2010 và dự báo 2 triệu người năm 2030.
-[vi] Bẫy thứ tư: Thói quen quá khứ khác với lịch hoạt động hiện tại.
----
-[vi] Tiếp theo là ứng dụng trong Writing và Speaking.
-[vi] Ví dụ 1 Writing Task 2:
-[vi] Trong những năm gần đây, việc mọi người sống một mình đã trở nên bình thường hơn rất nhiều. Theo quan điểm của tôi, xu hướng này có thể mang lại cả hệ quả tích cực và tiêu cực.
-[en] In recent years, it has become far more normal for people to live alone. In my opinion, this trend can have both positive and negative consequences.
-[vi] Sử dụng hiện tại hoàn thành giới thiệu xu hướng, hiện tại đơn nêu luận đề.
-[term] has become, can have
-[vi] Từ vựng cần chú ý.
-[term] consequence (n): hệ quả
-[vi] Ví dụ 2:
-[vi] Sống một mình giúp thanh niên trở nên độc lập. Họ sẽ học được cách quản lý ngân sách và quán xuyến việc nhà.
-[en] Living alone helps young adults become independent. They will learn how to manage their budget and handle household chores.
-[vi] Hiện tại đơn giải thích thực tế, tương lai đơn dự báo kết quả.
-[term] helps, will learn
-[vi] Từ vựng thân bài.
-[term] independent (adj): độc lập, household chores (n): việc nhà
-[vi] Ví dụ 3:
-[vi] Những người sống một mình thường đối mặt với cảm giác cô lập. Xu hướng này sẽ đẩy giá bất động sản và chi phí sinh hoạt ở các thành phố lớn tăng cao.
-[en] People living alone often face feelings of isolation. This trend will push up property prices and living costs in big cities.
-[vi] Phân tích hạn chế bằng hiện tại đơn, dự báo hệ quả bằng tương lai đơn.
-[term] face, will push up
-[vi] Từ vựng khó.
-[term] isolation (n): sự cô lập, push up (v): đẩy lên
-[vi] Ví dụ 4:
-[vi] Tóm lại, mặc dù sự gia tăng của các hộ gia đình một người mang lại những lợi ích nhất định, nó cũng sẽ đặt ra những thách thức đáng kể cho xã hội.
-[en] In conclusion, while the increase in one-person households presents certain benefits, it will also pose significant challenges for society.
-[vi] Hiện tại đơn và tương lai đơn kết luận lại toàn bài.
-[term] presents, will pose
-[vi] Từ vựng kết luận.
-[term] one-person household (n): hộ gia đình một người, pose challenge (v): đặt ra thách thức
----
-[vi] Trong Speaking Part 1, hãy trả lời trực tiếp bằng thì của câu hỏi và mở rộng bằng thì khác.
-[vi] Chương cuối: Tổng kết từ vựng.
-[term] milestone (n): cột mốc quan trọng
-[term] purchase (v): mua sắm
-[term] predict (v): dự báo, dự đoán
-[term] premature (adj): sớm, trước thời hạn
-[term] refrain from (v): kiềm chế, tránh làm gì
-[term] disturbance (n): sự quấy rầy, làm phiền
-[term] consequence (n): hệ quả
-[term] independent (adj): độc lập
-[term] household chores (n): việc nhà
-[term] isolation (n): sự cô lập
-[term] push up (v): đẩy lên
-[term] one-person household (n): hộ gia đình một người
-[term] pose challenge (v): đặt ra thách thức
+[chapter] Ôn nhanh Tập A
+[vi] Chào mừng các bạn quay lại với bài một chấm một, phần B: Các thì trọng tâm.
+[vi] Trong Tập A, qua cuộc gọi giữa Mai và Tom, chúng ta đã thấy năm thì xuất hiện tự nhiên trong đời sống. Hiện tại tiếp diễn cho việc đang làm: I'm calling. Quá khứ đơn cho việc đã xong có mốc thời gian: broke down yesterday. Hiện tại hoàn thành cho việc đã xong mà kết quả còn ở hiện tại: I've already checked. Hiện tại đơn cho thói quen và lịch trình: leaves at ten every Friday. Và tương lai đơn cho quyết định, lời hứa, dự đoán: I'll book.
+[term] I'm calling, broke down, I've already checked, leaves, I'll book
+[vi] Hôm nay chúng ta nâng độ khó lên một bậc. Cũng năm thì đó, nhưng đặt trong một bản tin về y tế và xã hội, đúng kiểu đoạn văn trong bài thi Đọc và kiểu chủ đề trong bài thi Viết. Cuối tập là phần thư giãn: học ngữ pháp qua tên những bài hát tiếng Anh nổi tiếng.
+
+[chapter] Phần 2: Đề thi. Nghe trọn bản tin về phòng khám miễn phí
+[vi] Bản tin hôm nay kể về một phòng khám miễn phí ở Huế. Đây là tình huống hư cấu, được viết riêng cho bài học. Bản tin có tám câu. Lần đầu nghe, bạn hãy để ý các mốc thời gian: since, last year, currently, next year. Chúng chính là chìa khóa để chọn thì.
+[read] A small free clinic in Hue has treated more than eight thousand patients since it opened in 2014.
+[read] The clinic opens every Monday and Thursday morning, and volunteer doctors examine up to sixty people a day.
+[read] Most of the patients are elderly farmers who cannot afford regular check-ups.
+[read] Last year, a local company donated a new ultrasound machine to the clinic.
+[read] However, the number of patients is rising rapidly, and the waiting room is becoming overcrowded.
+[read] "We are currently looking for a bigger building," the director said.
+[read] Experts predict that demand for free healthcare will continue to grow in rural areas.
+[read] The city council has promised that it will provide extra funding next year.
+
+[chapter] Phần 2: Mổ xẻ từng câu, nửa đầu bản tin
+[vi] Câu số một: Một phòng khám miễn phí nhỏ ở Huế đã điều trị cho hơn tám nghìn bệnh nhân kể từ khi mở cửa năm 2014.
+[en] A small free clinic in Hue has treated more than eight thousand patients since it opened in 2014.
+[vi] Ngữ pháp: câu này ghép hai thì. Vế chính dùng hiện tại hoàn thành, has treated, vì con số tám nghìn là kết quả tích lũy từ năm 2014 đến tận bây giờ, và phòng khám vẫn đang hoạt động. Vế sau since dùng quá khứ đơn, opened, vì việc mở cửa xảy ra một lần tại một mốc trong quá khứ.
+[term] has treated, since it opened
+[vi] Bẫy: sau since là một mốc thời gian hoặc một mệnh đề quá khứ đơn. Sau for là một khoảng thời gian. Since 2014, nhưng for twelve years. Một lỗi rất hay gặp là viết since twelve years, sai. Và nếu câu đã có since, vế chính gần như chắc chắn là hiện tại hoàn thành, không phải quá khứ đơn. Viết the clinic treated since 2014 là sai.
+[term] since 2014, for twelve years
+[vi] Từ vựng: treat là điều trị, danh từ là treatment. Gần nghĩa có cure, nhưng cure là chữa khỏi hẳn, còn treat chỉ là điều trị, chưa chắc đã khỏi. Thêm heal, thường dùng cho vết thương tự lành: the wound healed.
+[term] treat, treatment, cure, heal
+
+[vi] Câu số hai: Phòng khám mở cửa vào sáng thứ Hai và thứ Năm hằng tuần, và các bác sĩ tình nguyện khám cho tối đa sáu mươi người mỗi ngày.
+[en] The clinic opens every Monday and Thursday morning, and volunteer doctors examine up to sixty people a day.
+[vi] Ngữ pháp: hiện tại đơn, opens và examine, vì đây là lịch hoạt động cố định, lặp lại mỗi tuần. Opens thêm s vì the clinic là số ít. Examine không thêm s vì volunteer doctors là số nhiều.
+[term] opens, examine
+[vi] Bẫy: đây là bẫy hay gặp trong bài thi Đọc. Một đề thi VSTEP có đoạn văn về một phòng khám tương tự, với câu: The clinic used to open every Monday and Thursday, but now it opens only on Monday mornings. Used to open là thói quen cũ đã bỏ. Now opens là lịch hiện tại. Nếu câu hỏi hỏi phòng khám hiện nay mở cửa khi nào, đáp án phải lấy từ phần hiện tại đơn, không lấy phần used to.
+[term] used to open, now it opens
+[vi] Từ vựng: examine là khám bệnh, kiểm tra kỹ, danh từ là examination, cũng là chữ dùng cho kỳ thi. Check-up là đợt khám sức khỏe định kỳ. Up to nghĩa là tối đa, lên tới: up to sixty people, tối đa sáu mươi người.
+[term] examine, examination, up to
+
+[vi] Câu số ba: Phần lớn bệnh nhân là những nông dân lớn tuổi không đủ khả năng chi trả cho việc khám sức khỏe định kỳ.
+[en] Most of the patients are elderly farmers who cannot afford regular check-ups.
+[vi] Ngữ pháp: hiện tại đơn với động từ to be, are, để mô tả một sự thật về nhóm bệnh nhân. Động từ là are vì chủ ngữ thật là the patients, số nhiều.
+[term] Most of the patients are
+[vi] So sánh: most of the patients và most patients. Most patients là phần lớn bệnh nhân nói chung. Most of the patients là phần lớn bệnh nhân của một nhóm cụ thể đã nhắc tới, ở đây là bệnh nhân của phòng khám này. Có the thì phải có of. Viết most of patients là sai.
+[term] most patients, most of the patients
+[vi] Từ vựng: afford là có đủ khả năng chi trả, thường đi với can hoặc cannot. Tính từ là affordable, giá cả phải chăng, rất hay dùng trong Writing: affordable housing, nhà ở giá phải chăng. So sánh với cheap: cheap là rẻ, đôi khi mang nghĩa rẻ tiền, kém chất lượng. Affordable trung tính và lịch sự hơn, nên dùng trong bài luận. Còn elderly là cách nói lịch sự của old khi nói về người cao tuổi.
+[term] afford, affordable, cheap, elderly
+
+[vi] Câu số bốn: Năm ngoái, một công ty địa phương đã tặng phòng khám một máy siêu âm mới.
+[en] Last year, a local company donated a new ultrasound machine to the clinic.
+[vi] Ngữ pháp: quá khứ đơn, donated, vì có mốc last year. Việc tặng máy xảy ra một lần và đã kết thúc.
+[term] Last year, donated
+[vi] So sánh: hãy đặt câu này cạnh câu số một. Câu một có since và nói về con số tích lũy đến bây giờ, nên dùng hiện tại hoàn thành. Câu bốn có last year và kể một sự kiện đơn lẻ, nên dùng quá khứ đơn. Trong một đoạn văn, hai thì này thường đi cùng nhau: hiện tại hoàn thành để tóm tắt, quá khứ đơn để kể chi tiết.
+[vi] Từ vựng: donate là quyên góp, tặng cho một tổ chức. Danh từ là donation, người tặng là donor. Blood donor là người hiến máu. So sánh với give, là cho, tặng nói chung, và contribute, là đóng góp, góp phần, thường đi với to: contribute to society.
+[term] donate, donation, donor, contribute to
+
+[chapter] Phần 2: Mổ xẻ từng câu, nửa sau bản tin
+[vi] Câu số năm: Tuy nhiên, số lượng bệnh nhân đang tăng nhanh, và phòng chờ đang trở nên quá tải.
+[en] However, the number of patients is rising rapidly, and the waiting room is becoming overcrowded.
+[vi] Ngữ pháp: hiện tại tiếp diễn, is rising và is becoming, để mô tả một xu hướng đang thay đổi trong giai đoạn hiện nay. Đây là cách dùng tiếp diễn rất hay gặp trong bài đọc về kinh tế và xã hội.
+[term] is rising, is becoming
+[vi] Bẫy: the number of và a number of. The number of patients là số lượng bệnh nhân, chủ ngữ là con số, nên động từ chia số ít: is rising. A number of patients là một số bệnh nhân, nhiều bệnh nhân, nên động từ chia số nhiều: a number of patients are waiting. Đây là câu bẫy kinh điển trong phần ngữ pháp.
+[term] the number of patients is, a number of patients are
+[vi] Từ vựng: rise và raise. Rise là tự tăng lên, không có tân ngữ: prices rise. Raise là nâng cái gì đó lên, phải có tân ngữ: the government raises taxes. Nhóm từ đồng nghĩa với tăng: increase là trung tính, soar là tăng vọt, và rapidly có thể thay bằng sharply hoặc dramatically. Overcrowded là quá đông, quá tải.
+[term] rise, raise, increase, soar, overcrowded
+
+[vi] Câu số sáu: Giám đốc phòng khám cho biết: Chúng tôi hiện đang tìm một tòa nhà lớn hơn.
+[en] "We are currently looking for a bigger building," the director said.
+[vi] Ngữ pháp: lời trích dẫn dùng hiện tại tiếp diễn, are looking for, với dấu hiệu currently, vì việc tìm kiếm đang diễn ra trong giai đoạn này. Phần dẫn lời dùng quá khứ đơn, said, vì người viết bản tin kể lại lời đã nói.
+[term] are currently looking for, said
+[vi] So sánh: currently và actually. Đây là cặp từ người Việt hay nhầm. Currently nghĩa là hiện nay, hiện tại. Actually nghĩa là thật ra, trên thực tế, không mang nghĩa hiện tại. Viết actually, the clinic is full với ý hiện nay là sai nghĩa.
+[term] currently, actually
+[vi] Từ vựng: look for là tìm kiếm, quá trình đang tìm. Find là tìm thấy, kết quả. I'm looking for my keys, nhưng I found my keys. Trang trọng hơn look for có seek, thường gặp trong bài đọc: seek medical help, tìm kiếm sự giúp đỡ y tế.
+[term] look for, find, seek
+
+[vi] Câu số bảy: Các chuyên gia dự đoán rằng nhu cầu về chăm sóc y tế miễn phí sẽ tiếp tục tăng ở các vùng nông thôn.
+[en] Experts predict that demand for free healthcare will continue to grow in rural areas.
+[vi] Ngữ pháp: vế đầu dùng hiện tại đơn, predict, vì đây là nhận định hiện tại của chuyên gia. Vế sau that dùng tương lai đơn, will continue, vì đó là dự đoán. Đây là khung câu rất mạnh cho bài Viết: Experts predict that, cộng một mệnh đề với will.
+[term] Experts predict that, will continue
+[vi] Bẫy: trong bài thi Đọc, câu hỏi thường bắt bạn phân biệt số liệu quá khứ với số liệu dự báo. Ví dụ một đề thi có câu: In 2010, around one million people died from tobacco, and that will double to two million by 2030. Died là con số đã xảy ra. Will double là dự báo. Nếu câu hỏi hỏi năm 2010, đáp án là một triệu, không phải hai triệu.
+[term] died, will double
+[vi] Từ vựng: demand for là nhu cầu về cái gì, luôn đi với for. Rural là thuộc nông thôn, trái nghĩa là urban, thuộc thành thị. Predict là dự đoán, gần nghĩa có forecast, thường dùng cho thời tiết và kinh tế, và project, dùng cho số liệu dự phóng.
+[term] demand for, rural, urban, predict, forecast
+
+[vi] Câu số tám, câu cuối: Hội đồng thành phố đã hứa rằng sẽ cấp thêm kinh phí vào năm tới.
+[en] The city council has promised that it will provide extra funding next year.
+[vi] Ngữ pháp: vế đầu dùng hiện tại hoàn thành, has promised. Lời hứa đã được đưa ra, và đến giờ vẫn còn hiệu lực. Vế sau dùng tương lai đơn, will provide, kèm mốc next year.
+[term] has promised, will provide
+[vi] So sánh: nếu bản tin muốn nói rõ thời điểm hứa, như The council promised last month, thì phải dùng quá khứ đơn. Không có mốc, chỉ nhấn mạnh lời hứa vẫn còn đó, thì dùng hiện tại hoàn thành. Đây là quy tắc chúng ta đã gặp ở câu một và câu bốn.
+[vi] Từ vựng: funding là kinh phí, nguồn tài trợ, danh từ không đếm được, nên không nói a funding hay fundings. Provide có hai cấu trúc: provide something for someone, hoặc provide someone with something. Gần nghĩa có supply, cung cấp hàng hóa, và offer, đề nghị cho.
+[term] funding, provide something for someone, provide someone with something
+
+[chapter] Phần 2: Nghe lại bản tin và Dùng lại cho chủ đề y tế, xã hội
+[vi] Mời bạn nghe lại toàn bộ bản tin.
+[read] A small free clinic in Hue has treated more than eight thousand patients since it opened in 2014.
+[read] The clinic opens every Monday and Thursday morning, and volunteer doctors examine up to sixty people a day.
+[read] Most of the patients are elderly farmers who cannot afford regular check-ups.
+[read] Last year, a local company donated a new ultrasound machine to the clinic.
+[read] However, the number of patients is rising rapidly, and the waiting room is becoming overcrowded.
+[read] "We are currently looking for a bigger building," the director said.
+[read] Experts predict that demand for free healthcare will continue to grow in rural areas.
+[read] The city council has promised that it will provide extra funding next year.
+[vi] Bây giờ là phần quan trọng nhất: khi gặp chủ đề y tế hoặc xã hội trong bài Viết và bài Nói, bạn dùng lại được gì từ bản tin này?
+[vi] Thứ nhất, câu mở bài nêu bối cảnh, dùng hiện tại hoàn thành: In recent years, cộng một xu hướng. Ví dụ: In recent years, healthcare costs have risen sharply. Trong những năm gần đây, chi phí y tế đã tăng mạnh.
+[term] In recent years, healthcare costs have risen sharply.
+[vi] Thứ hai, câu mô tả xu hướng đang diễn ra, dùng hiện tại tiếp diễn: The number of, cộng danh từ số nhiều, cộng is rising. Nhớ là động từ chia số ít.
+[term] The number of elderly people is rising.
+[vi] Thứ ba, câu nêu vấn đề, dùng hiện tại đơn với afford: Many families cannot afford, cộng một dịch vụ. Ví dụ: Many rural families cannot afford regular check-ups.
+[term] Many rural families cannot afford regular check-ups.
+[vi] Thứ tư, câu dự báo hệ quả, dùng tương lai đơn: Experts predict that, cộng will. Ví dụ: Experts predict that demand for healthcare will continue to grow.
+[term] Experts predict that demand for healthcare will continue to grow.
+[vi] Thứ năm, câu nêu giải pháp, dùng will kết hợp provide: The government should provide more funding for rural clinics. Chữ should sẽ được học kỹ ở bài động từ khuyết thiếu.
+[term] The government should provide more funding for rural clinics.
+[vi] Kho từ vựng của chủ đề này: treat, treatment, afford, affordable, elderly, donate, donation, overcrowded, demand for, rural, urban, funding. Chỉ với năm khung câu và mười hai từ này, bạn đã có thể viết được một đoạn thân bài về y tế cộng đồng.
+[term] treatment, affordable, elderly, donation, overcrowded, demand for, rural, funding
+
+[chapter] Phần 3: Học ngữ pháp qua tên bài hát
+[vi] Và bây giờ là phần thư giãn. Chúng ta sẽ học năm thì qua tên của những bài hát tiếng Anh nổi tiếng. Mình chỉ phân tích tên bài, không phát nhạc gốc. Danh sách bài hát và đường dẫn để nghe bản gốc nằm trong phần mô tả của tập này.
+[song] I Will Always Love You | Whitney Houston
+[vi] Bài đầu tiên là một bản ballad kinh điển do Whitney Houston thể hiện năm 1992, sáng tác gốc của Dolly Parton.
+[term] I Will Always Love You
+[vi] Tên bài dùng tương lai đơn, will love, cho một lời hứa. Chú ý vị trí của always: trạng từ tần suất đứng sau will và trước động từ chính, will always love. Tương tự: I will never forget, tôi sẽ không bao giờ quên.
+[term] will always love, will never forget
+
+[song] We Are Never Ever Getting Back Together | Taylor Swift
+[vi] Bài thứ hai là một bản pop rất bắt tai của Taylor Swift năm 2012.
+[term] We Are Never Ever Getting Back Together
+[vi] Tên bài dùng hiện tại tiếp diễn, are getting back together, nhưng lại nói về tương lai: chúng ta sẽ không bao giờ quay lại với nhau. Đây là cách dùng tiếp diễn cho một quyết định, một kế hoạch đã chốt. Never ever là cách nhấn mạnh trong văn nói. Trong bài thi Viết, chỉ cần never là đủ, never ever là văn nói, không nên dùng.
+[term] are getting back together, never ever
+
+[song] I Still Haven't Found What I'm Looking For | U2
+[vi] Bài thứ ba là một ca khúc rock nổi tiếng của ban nhạc U2 năm 1987.
+[term] I Still Haven't Found What I'm Looking For
+[vi] Một cái tên mà có tới hai thì. Haven't found là hiện tại hoàn thành, tôi vẫn chưa tìm thấy, tính đến bây giờ. I'm looking for là hiện tại tiếp diễn, điều tôi đang tìm kiếm. Và để ý vị trí của still: trong câu phủ định, still đứng trước haven't. Nó gần nghĩa với haven't found yet, nhưng still nhấn mạnh sự chờ đợi lâu, có chút sốt ruột. Đây cũng là cặp found và looking for chúng ta vừa học trong bản tin: tìm thấy và đang tìm.
+[term] still haven't found, haven't found yet, looking for
+
+[song] We Don't Talk Anymore | Charlie Puth
+[vi] Bài thứ tư là bản song ca của Charlie Puth và Selena Gomez năm 2016.
+[term] We Don't Talk Anymore
+[vi] Tên bài dùng hiện tại đơn ở thể phủ định, don't talk, để nói về một tình trạng hiện nay: chúng ta không còn nói chuyện với nhau nữa. Anymore đứng cuối câu phủ định, nghĩa là không còn nữa. Trong bài Viết trang trọng, bạn có thể thay bằng no longer, đứng giữa câu: We no longer talk to each other. Lưu ý: no longer đã mang nghĩa phủ định, nên không thêm don't.
+[term] don't talk anymore, no longer
+
+[song] Nothing's Gonna Change My Love for You | George Benson
+[vi] Bài cuối cùng là bản tình ca quen thuộc của George Benson, sau này được Glenn Medeiros hát lại và rất nổi tiếng ở Việt Nam.
+[term] Nothing's Gonna Change My Love for You
+[vi] Đây là ví dụ cho mục trong bài hát thì được, trong bài thi thì không. Gonna là cách nói nhanh của going to, chỉ dùng trong văn nói và bài hát. Trong bài Viết, phải viết đầy đủ: Nothing is going to change my love for you. Và nhớ rằng nothing là chủ ngữ số ít, nên đi với is.
+[term] gonna, going to, Nothing is going to change
+[vi] Lần tới khi nghe lại những bài hát này, bạn sẽ thấy mình nhận ra ngay từng thì trong tên bài. Đó chính là cách ngữ pháp đi vào trí nhớ dài hạn.
+
+[chapter] Tổng kết từ vựng Tập B
+[vi] Chúng ta cùng ôn lại các nhóm từ trong tập hôm nay.
+[vi] 1. Điều trị: treat. Sự điều trị: treatment. Chữa khỏi hẳn: cure.
+[term] treat, treatment, cure
+[vi] 2. Khám bệnh, kiểm tra kỹ: examine. Khám sức khỏe định kỳ: check-up. Tối đa, lên tới: up to.
+[term] examine, check-up, up to
+[vi] 3. Có đủ khả năng chi trả: afford. Giá cả phải chăng: affordable. Người cao tuổi: elderly.
+[term] afford, affordable, elderly
+[vi] 4. Quyên góp: donate. Sự quyên góp: donation. Đóng góp vào: contribute to.
+[term] donate, donation, contribute to
+[vi] 5. Tự tăng lên: rise. Nâng cái gì lên: raise. Tăng vọt: soar. Quá tải: overcrowded.
+[term] rise, raise, soar, overcrowded
+[vi] 6. Hiện nay: currently. Thật ra: actually.
+[term] currently, actually
+[vi] 7. Đang tìm: look for. Tìm thấy: find. Tìm kiếm, trang trọng: seek.
+[term] look for, find, seek
+[vi] 8. Nhu cầu về: demand for. Nông thôn: rural. Thành thị: urban. Dự báo: forecast.
+[term] demand for, rural, urban, forecast
+[vi] 9. Kinh phí, nguồn tài trợ: funding. Cung cấp cho ai cái gì: provide someone with something.
+[term] funding, provide someone with something
+[vi] 10. Không còn nữa: no longer, hoặc not anymore.
+[term] no longer, not anymore
+[vi] Bài một chấm một đến đây là kết thúc. Bài tiếp theo, một chấm hai, chúng ta sẽ học cách ghép các thì lại với nhau bằng những liên từ thời gian như when, while, before, after và by the time. Hẹn gặp lại các bạn.

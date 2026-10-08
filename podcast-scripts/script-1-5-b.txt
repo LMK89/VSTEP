@@ -1,36 +1,177 @@
-[intro]
-[vi] Chào các bạn đến với tập 1.5B của VSTEP Podcast. Tiếp nối phần trước, hôm nay chúng ta sẽ tìm hiểu so sánh nhất và ứng dụng của chúng trong bài thi VSTEP.
+[chapter] Ôn nhanh Tập A
+[vi] Chào mừng các bạn quay lại với bài một chấm năm, phần B: Các dạng so sánh. Đây là tập cuối cùng của Module 1.
+[vi] Trong Tập A, qua chuyện Hoa chọn căn hộ, chúng ta đã ôn ba dạng so sánh. So sánh bằng: as cộng tính từ cộng as. So sánh hơn: tính từ ngắn thêm er, tính từ dài thêm more, cộng than. So sánh nhất: the cộng tính từ ngắn thêm est, hoặc the most cộng tính từ dài.
+[term] as big as, bigger than, more expensive than, the smallest, the most comfortable
+[vi] Cùng với đó là các công cụ nâng cấp: much, far, a bit trước so sánh hơn. Twice as long as cho so sánh gấp nhiều lần. Worse and worse, more and more cho xu hướng ngày càng tăng. Và less với danh từ không đếm được, fewer với danh từ đếm được.
+[term] much quieter, twice as long as, more and more, less traffic, fewer cars
+[vi] Hôm nay, chúng ta dùng so sánh để đọc một bản tin về xu hướng du lịch của giới trẻ Việt Nam. Bản tin dạng khảo sát, đầy số liệu và so sánh, rất giống đoạn văn trong bài thi Đọc. Cuối tập là phần thư giãn cuối cùng của Module 1.
 
-[vi] Phần I: So sánh nhất
-[vi] So sánh nhất dùng "the + adj-est" hoặc "the most + adj". Cùng phân tích ví dụ:
-[vi] Tiêu chuẩn của ông ấy cực kỳ cao và ông tin rằng điều quan trọng nhất là công việc.
-[en] His standards were extremely high and he believed that the most important thing was work.
-[vi] Phân tích: Dùng "the most + adj" để thể hiện sự nổi bật nhất của một tính từ dài.
-[term] the most important
-[vi] Từ mới: Tiêu chuẩn.
-[term] standards
+[chapter] Phần 2: Đề thi. Nghe trọn bản tin về xu hướng du lịch
+[vi] Bản tin hôm nay nói về kết quả một cuộc khảo sát thói quen du lịch của người trẻ. Đây là bản tin được viết riêng cho bài học, các con số chỉ mang tính minh họa. Bản tin có chín câu. Lần đầu nghe, hãy để ý xem cái gì đang tăng, cái gì đang giảm.
+[read] A new survey shows that young Vietnamese people travel more often than their parents did.
+[read] Domestic trips are far more popular than holidays abroad.
+[read] Da Lat remains the most visited destination among people under thirty.
+[read] However, Phu Quoc is growing faster than any other destination in the country.
+[read] Flying with a budget airline is now almost as cheap as taking the train.
+[read] Hotels are no longer as popular as homestays, which feel more authentic.
+[read] The biggest change is the way trips are planned: most young travellers book everything on their phones.
+[read] Spending on local food has risen by forty percent, twice as much as spending on shopping.
+[read] The more photos a place gets on social media, the more tourists it attracts.
 
-[vi] Phần II: Ứng dụng trong Speaking và Writing
-[vi] So sánh rất hữu ích trong Writing Task 2 khi lập luận hoặc phân tích xu hướng.
-[vi] Những người chọn sống một mình có thể trở nên độc lập hơn những người sống cùng gia đình.
-[en] People who choose to live alone may become more independent than those who live with family members.
-[vi] Phân tích: Sử dụng "more + adj + than" cho tính từ dài "independent".
-[term] more independent than
-[vi] Từ mới: Độc lập.
-[term] independent
+[chapter] Phần 2: Mổ xẻ từng câu, ai đi nhiều hơn, đi đâu
+[vi] Câu số một: Một khảo sát mới cho thấy người trẻ Việt Nam đi du lịch thường xuyên hơn thế hệ cha mẹ họ.
+[en] A new survey shows that young Vietnamese people travel more often than their parents did.
+[vi] Ngữ pháp: so sánh hơn của trạng từ often: more often than. Cuối câu có their parents did, trợ động từ did thay cho travelled, để tránh lặp lại động từ. Did ở quá khứ vì cha mẹ đi du lịch thời trẻ, trong quá khứ.
+[term] more often than their parents did
+[vi] Bẫy: sau than có thể là một mệnh đề rút gọn với trợ động từ. Than their parents did, than I do, than she can. Hãy chọn trợ động từ phù hợp với động từ và thì của vế so sánh. Young people travel more than we do, vì travel ở hiện tại đơn. Young people can travel more cheaply than we could, vì so với khả năng của chúng ta ngày trước.
+[term] than their parents did, than we do, than we could
+[vi] Từ vựng: survey là cuộc khảo sát, người trả lời khảo sát là respondent, đã học ở bài một chấm hai. Gần nghĩa có poll, cuộc thăm dò ý kiến, và questionnaire, bảng câu hỏi. Show, reveal và indicate đều là cho thấy, nhưng reveal mang nghĩa tiết lộ điều bất ngờ, còn indicate trang trọng hơn, hay dùng trong văn học thuật.
+[term] survey, respondent, poll, questionnaire, reveal, indicate
 
-[vi] Phần III: Q&A (Hỏi - Đáp)
-[vi] Hỏi: Khi nói về kỳ nghỉ ở quê, làm sao để nói "gần gũi thiên nhiên"?
-[vi] Đáp: Bạn có thể dùng cụm "close to nature".
-[vi] Hỏi: Từ "refresh one's mind" dùng như thế nào?
-[vi] Đáp: Dùng để miêu tả việc thư giãn tâm trí, ví dụ "The fresh air would help me refresh my mind."
+[vi] Câu số hai: Các chuyến đi trong nước được ưa chuộng hơn nhiều so với kỳ nghỉ ở nước ngoài.
+[en] Domestic trips are far more popular than holidays abroad.
+[vi] Ngữ pháp: so sánh hơn với tính từ dài, more popular than, được nhấn mạnh bằng far, hơn nhiều. Far và much đều dùng được: much more popular.
+[term] far more popular than
+[vi] So sánh: các từ nhấn mạnh so sánh hơn theo mức độ. Slightly và a bit là hơn một chút. Much, far và a lot là hơn nhiều. Considerably và significantly là hơn đáng kể, trang trọng, rất hợp với bài Viết. Một cụm C1 nữa: by far, đi với so sánh nhất: by far the most popular, phổ biến nhất, bỏ xa những cái khác.
+[term] slightly more, considerably more, significantly more, by far the most popular
+[vi] Từ vựng: domestic là trong nước, nội địa, và cũng có nghĩa là trong gia đình, như domestic violence, bạo lực gia đình. Trái nghĩa là international hoặc overseas. Abroad là ở nước ngoài, là trạng từ nên không có giới từ: go abroad, travel abroad, không nói go to abroad.
+[term] domestic, international, overseas, go abroad
 
-[vi] Kết thúc tập B, chúng ta cùng tổng kết từ vựng hôm nay.
-[vi] Tổng kết từ vựng:
-[term] the most important
-[term] standards
-[term] more independent than
-[term] independent
-[term] close to nature
-[term] refresh one's mind
-[outro]
+[vi] Câu số ba: Đà Lạt vẫn là điểm đến được ghé thăm nhiều nhất đối với những người dưới ba mươi tuổi.
+[en] Da Lat remains the most visited destination among people under thirty.
+[vi] Ngữ pháp: so sánh nhất với một quá khứ phân từ: the most visited, được ghé thăm nhiều nhất. Visited là động từ cột ba dùng như tính từ, nên dùng the most phía trước. Remain là động từ nối, giống be: remains the most visited, vẫn là.
+[term] the most visited destination, remains
+[vi] Bẫy: sau so sánh nhất, nói phạm vi bằng in hoặc of. In đi với nơi chốn, nhóm: the best student in the class, the biggest city in Vietnam. Of đi với khoảng thời gian hoặc một tập hợp số nhiều: the hottest day of the year, the best of all. Câu này dùng among, giữa, trong số, cho một nhóm người: among young people.
+[term] the biggest city in Vietnam, the hottest day of the year, among young people
+[vi] Từ vựng: destination là điểm đến. Tourist attraction là điểm tham quan, và sight là cảnh đẹp, thắng cảnh, hay dùng ở số nhiều: go sightseeing, đi ngắm cảnh. Remain là vẫn còn, vẫn giữ nguyên, trang trọng hơn stay: remain popular, remain unchanged.
+[term] destination, tourist attraction, sightseeing, remain unchanged
+
+[vi] Câu số bốn: Tuy nhiên, Phú Quốc đang phát triển nhanh hơn bất kỳ điểm đến nào khác trong cả nước.
+[en] However, Phu Quoc is growing faster than any other destination in the country.
+[vi] Ngữ pháp: so sánh hơn cộng than any other cộng danh từ số ít, nghĩa là hơn bất kỳ cái nào khác. Đây là cách dùng so sánh hơn để diễn đạt ý so sánh nhất. Câu này bằng nghĩa với Phu Quoc is the fastest-growing destination in the country.
+[term] faster than any other destination
+[vi] Bẫy: có hai bẫy kinh điển. Thứ nhất, sau any other là danh từ số ít: any other destination, không phải any other destinations. Thứ hai, phải có chữ other. Phu Quoc is growing faster than any destination in the country là sai logic, vì Phú Quốc cũng là một điểm đến trong cả nước, không thể nhanh hơn chính nó.
+[term] than any other destination, the fastest-growing destination
+[vi] Từ vựng: grow là tăng trưởng, phát triển, danh từ là growth: rapid growth, tăng trưởng nhanh. Fast là vừa tính từ vừa trạng từ, không có dạng fastly. Tương tự là hard, late, early. Hardly lại là một từ khác, nghĩa là hầu như không.
+[term] grow, growth, rapid growth, fast, hard, hardly
+
+[vi] Câu số năm: Bay bằng hãng hàng không giá rẻ giờ đây gần như rẻ ngang với đi tàu hỏa.
+[en] Flying with a budget airline is now almost as cheap as taking the train.
+[vi] Ngữ pháp: so sánh bằng được điều chỉnh bằng almost, gần như bằng. Hai vế so sánh đều là động từ thêm ing làm danh từ: flying và taking. Hai vế so sánh phải cùng dạng, gọi là cấu trúc song song.
+[term] almost as cheap as
+[vi] So sánh: các từ đứng trước as as. Just as là bằng y hệt: just as cheap as. Almost và nearly là gần bằng. Not quite as là không hẳn bằng. Nowhere near as là kém xa. Cấu trúc song song cũng là điểm chấm ngữ pháp: flying is as cheap as taking the train là đúng, còn flying is as cheap as to take the train là lệch dạng, nên tránh.
+[term] just as cheap as, nearly as cheap as, not quite as cheap as, nowhere near as cheap as
+[vi] Từ vựng: budget là ngân sách, và khi đứng trước danh từ thì mang nghĩa giá rẻ, tiết kiệm: budget airline, budget hotel. Low-cost cùng nghĩa. Flight là chuyến bay, airline là hãng hàng không, airport là sân bay. Take the train là đi tàu, take the bus, take a taxi.
+[term] budget airline, low-cost, flight, airline, take the train
+
+[chapter] Phần 2: Mổ xẻ từng câu, thay đổi trong cách du lịch
+[vi] Câu số sáu: Khách sạn không còn được ưa chuộng bằng homestay, vốn mang lại cảm giác chân thực hơn.
+[en] Hotels are no longer as popular as homestays, which feel more authentic.
+[vi] Ngữ pháp: so sánh không bằng, kết hợp với no longer, không còn nữa: no longer as popular as. Câu này cho biết ngày trước khách sạn được ưa chuộng hơn, giờ thì không còn. Vế sau which feel more authentic là mệnh đề quan hệ, có so sánh hơn more authentic, ngầm so với khách sạn.
+[term] no longer as popular as, more authentic
+[vi] So sánh: viết lại câu này theo ba cách. Hotels are no longer as popular as homestays. Homestays are now more popular than hotels. Hotels are now less popular than homestays. Cả ba cùng nghĩa về hiện tại, nhưng chỉ câu đầu tiên còn ngầm cho biết quá khứ đã khác. Trong bài thi viết lại câu, hãy để ý xem đề có yêu cầu giữ nghĩa thay đổi theo thời gian không.
+[term] Homestays are now more popular than hotels, Hotels are now less popular than homestays
+[vi] Từ vựng: authentic là chân thực, đích thực, nguyên bản: authentic food, món ăn đúng vị địa phương. Gần nghĩa có genuine, thật, không giả, và original, nguyên gốc. Trái nghĩa là fake. Homestay là hình thức ở nhà dân, accommodation là chỗ ở nói chung, danh từ không đếm được trong tiếng Anh Anh.
+[term] authentic, genuine, original, fake, accommodation
+
+[vi] Câu số bảy: Thay đổi lớn nhất là cách lên kế hoạch cho chuyến đi: hầu hết người trẻ đặt mọi thứ trên điện thoại.
+[en] The biggest change is the way trips are planned: most young travellers book everything on their phones.
+[vi] Ngữ pháp: so sánh nhất the biggest, big gấp đôi chữ g rồi thêm est. Trong câu có thêm một bị động đã học ở bài trước: the way trips are planned, cách các chuyến đi được lên kế hoạch.
+[term] The biggest change, the way trips are planned
+[vi] Bẫy: the way và how không dùng cùng nhau. The way trips are planned đúng, how trips are planned đúng, nhưng the way how trips are planned là sai. Sau dấu hai chấm, most young travellers là phần lớn người đi du lịch trẻ nói chung, không có the và of, như đã học ở bài một chấm một.
+[term] the way, how, most young travellers
+[vi] Từ vựng: change là sự thay đổi, vừa là danh từ vừa là động từ. Gần nghĩa trang trọng có shift, sự chuyển dịch, rất hay dùng trong bài Viết: a shift towards online booking. Traveller là người đi du lịch, kiểu Anh viết hai chữ l, kiểu Mỹ viết một chữ l. Tourist là khách du lịch, thường đi theo tour. Visitor là khách tham quan nói chung.
+[term] change, shift towards, traveller, tourist, visitor
+
+[vi] Câu số tám: Chi tiêu cho đồ ăn địa phương đã tăng bốn mươi phần trăm, gấp đôi mức tăng của chi tiêu mua sắm.
+[en] Spending on local food has risen by forty percent, twice as much as spending on shopping.
+[vi] Ngữ pháp: so sánh gấp nhiều lần với much: twice as much as, vì đang so sánh một lượng không đếm được, tiền chi tiêu. Nếu là danh từ đếm được thì dùng many: twice as many tourists as last year. Vế đầu dùng hiện tại hoàn thành has risen by, như đã học ở bài trước.
+[term] twice as much as, twice as many tourists as
+[vi] Bẫy: chọn much hay many trong so sánh gấp nhiều lần là câu hỏi hay gặp. Twice as much money, nhưng twice as many people. Và nhớ chữ by trong has risen by forty percent là tăng thêm bốn mươi phần trăm, khác với has risen to forty percent, tăng lên đến bốn mươi phần trăm. Một chữ giới từ đổi cả con số.
+[term] risen by forty percent, risen to forty percent
+[vi] Từ vựng: spending là khoản chi tiêu, danh từ không đếm được, đi với on: spending on food. Spend money on something, tiêu tiền vào cái gì. Expenditure là từ trang trọng, hay dùng trong văn học thuật về kinh tế. Percent là phần trăm, còn percentage là tỷ lệ phần trăm, không đi với con số: a high percentage of young people.
+[term] spending on, spend money on, expenditure, percent, percentage
+
+[vi] Câu số chín, câu cuối: Một địa điểm càng có nhiều ảnh trên mạng xã hội, thì càng thu hút nhiều khách du lịch.
+[en] The more photos a place gets on social media, the more tourists it attracts.
+[vi] Ngữ pháp: so sánh kép, the cộng so sánh hơn, mệnh đề, the cộng so sánh hơn, mệnh đề. Nghĩa là càng thế này thì càng thế kia. Đây là cấu trúc nâng cao, sẽ được học kỹ ở bài ba chấm hai. Hôm nay bạn chỉ cần nhận ra nó.
+[term] The more photos, the more tourists
+[vi] So sánh: so sánh kép này khác với so sánh tăng tiến more and more đã học ở Tập A. More and more tourists come to Phu Quoc nghĩa là ngày càng nhiều khách đến Phú Quốc, chỉ nói về một xu hướng. Còn the more, the more nối hai sự việc với nhau, cái này tăng kéo theo cái kia tăng. Ví dụ quen thuộc: The sooner, the better, càng sớm càng tốt.
+[term] more and more tourists, The sooner, the better
+[vi] Từ vựng: attract là thu hút, danh từ là attraction, tính từ là attractive, hấp dẫn. Social media là mạng xã hội nói chung, thường đi với on: on social media. Post là bài đăng, vừa là danh từ vừa là động từ: post a photo, đăng ảnh. Go viral là lan truyền nhanh trên mạng.
+[term] attract, attraction, attractive, on social media, post, go viral
+
+[chapter] Phần 2: Nghe lại bản tin và Dùng lại cho chủ đề du lịch, xu hướng
+[vi] Mời bạn nghe lại toàn bộ bản tin.
+[read] A new survey shows that young Vietnamese people travel more often than their parents did.
+[read] Domestic trips are far more popular than holidays abroad.
+[read] Da Lat remains the most visited destination among people under thirty.
+[read] However, Phu Quoc is growing faster than any other destination in the country.
+[read] Flying with a budget airline is now almost as cheap as taking the train.
+[read] Hotels are no longer as popular as homestays, which feel more authentic.
+[read] The biggest change is the way trips are planned: most young travellers book everything on their phones.
+[read] Spending on local food has risen by forty percent, twice as much as spending on shopping.
+[read] The more photos a place gets on social media, the more tourists it attracts.
+[vi] Khi gặp chủ đề du lịch, lối sống, hay bất kỳ chủ đề nào về xu hướng trong bài Viết và bài Nói, bạn dùng lại được năm khung câu sau.
+[vi] Thứ nhất, so sánh hai thế hệ bằng than cộng trợ động từ.
+[term] Young people today spend more time online than their parents did.
+[vi] Thứ hai, nhấn mạnh sự khác biệt lớn bằng far hoặc significantly.
+[term] Online shopping is significantly more convenient than traditional shopping.
+[vi] Thứ ba, nói về sự thay đổi bằng no longer as cộng tính từ cộng as.
+[term] Newspapers are no longer as influential as they used to be.
+[vi] Thứ tư, nêu nhận định mạnh bằng than any other.
+[term] Technology has changed our lives more than any other invention.
+[vi] Thứ năm, nối nguyên nhân và kết quả bằng the more, the more.
+[term] The more people travel, the more they understand other cultures.
+[vi] Và kho từ vựng của chủ đề này: survey, reveal, domestic, abroad, destination, budget airline, authentic, accommodation, shift towards, spending on, attract, go viral. Khung câu thứ ba, they used to be, kết hợp so sánh với used to đã học ở bài một chấm ba, là một câu rất ăn điểm vì nó gói được cả quá khứ lẫn hiện tại trong một câu.
+[term] destination, authentic, accommodation, shift towards, go viral
+
+[chapter] Phần 3: Học ngữ pháp qua tên bài hát
+[vi] Đến phần thư giãn cuối cùng của Module 1. Bốn bài hát hôm nay có tên chứa so sánh hơn và so sánh nhất. Mình chỉ phân tích tên bài, không phát nhạc gốc. Danh sách và đường dẫn nghe bản gốc nằm trong phần mô tả của tập.
+[song] Harder, Better, Faster, Stronger | Daft Punk
+[vi] Bài đầu tiên là một bản nhạc điện tử nổi tiếng của bộ đôi Daft Punk năm 2001.
+[term] Harder, Better, Faster, Stronger
+[vi] Một cái tên có bốn so sánh hơn. Harder, faster và stronger là tính từ ngắn thêm er. Better là so sánh hơn bất quy tắc của good và well. Mẹo: thử tự đọc nhanh bốn từ này mỗi khi cần nhớ nhóm bất quy tắc. Không bao giờ có gooder.
+[term] harder, better, faster, stronger
+
+[song] Stronger (What Doesn't Kill You) | Kelly Clarkson
+[vi] Bài thứ hai là một bản pop đầy năng lượng của Kelly Clarkson năm 2011.
+[term] Stronger, What Doesn't Kill You
+[vi] Tên bài dựa trên một câu ngạn ngữ nổi tiếng: What doesn't kill you makes you stronger, điều gì không giết được bạn sẽ khiến bạn mạnh mẽ hơn. Cấu trúc make cộng tân ngữ cộng tính từ so sánh hơn: makes you stronger, giống make you feel ở bài một chấm ba. Bạn có thể dùng khuôn này trong bài Nói: Travelling makes me more confident, du lịch khiến tôi tự tin hơn.
+[term] makes you stronger, makes me more confident
+
+[song] Greatest Love of All | Whitney Houston
+[vi] Bài thứ ba là bản ballad nổi tiếng của Whitney Houston trong những năm 1980.
+[term] Greatest Love of All
+[vi] So sánh nhất greatest, kèm phạm vi of all, lớn lao nhất trong tất cả. Đúng quy tắc vừa học: so sánh nhất đi với of khi phạm vi là một tập hợp. Trong tên bài hát, chữ the ở đầu bị lược đi, nhưng trong câu hoàn chỉnh phải có the: the greatest love of all.
+[term] the greatest love of all
+
+[song] Nothing Compares 2 U | Sinéad O'Connor
+[vi] Bài cuối cùng là bản ballad do Prince sáng tác, và được Sinéad O'Connor hát thành bản hit toàn cầu năm 1990.
+[term] Nothing Compares 2 U
+[vi] Đây là mục trong bài hát thì được, trong bài thi thì không. Tên bài viết số 2 thay cho to, và chữ U thay cho you, kiểu viết tắt khi nhắn tin. Câu đầy đủ là Nothing compares to you, không gì sánh được với em. Compare to và compare with đều đúng. Còn compared to, compared with là cụm rất hữu ích trong bài Viết: Compared to their parents, young people travel more often.
+[term] Nothing compares to you, compared to, compared with
+
+[chapter] Tổng kết từ vựng Tập B
+[vi] Chúng ta cùng ôn lại các nhóm từ trong tập hôm nay.
+[vi] 1. Khảo sát: survey. Thăm dò ý kiến: poll. Tiết lộ, cho thấy: reveal, indicate.
+[term] survey, poll, reveal, indicate
+[vi] 2. Hơn đáng kể: considerably more, significantly more. Nhất, bỏ xa: by far the most.
+[term] considerably more, significantly more, by far the most
+[vi] 3. Trong nước: domestic. Nước ngoài: overseas. Đi nước ngoài: go abroad.
+[term] domestic, overseas, go abroad
+[vi] 4. Điểm đến: destination. Đi ngắm cảnh: go sightseeing. Vẫn giữ nguyên: remain unchanged.
+[term] destination, go sightseeing, remain unchanged
+[vi] 5. Tăng trưởng: growth. Hầu như không: hardly.
+[term] growth, hardly
+[vi] 6. Hãng bay giá rẻ: budget airline, low-cost airline.
+[term] budget airline, low-cost airline
+[vi] 7. Chân thực: authentic, genuine. Chỗ ở: accommodation.
+[term] authentic, genuine, accommodation
+[vi] 8. Sự chuyển dịch: shift towards. Khách du lịch: tourist. Khách tham quan: visitor.
+[term] shift towards, tourist, visitor
+[vi] 9. Chi tiêu cho: spending on. Chi tiêu, trang trọng: expenditure. Tỷ lệ phần trăm: percentage.
+[term] spending on, expenditure, percentage
+[vi] 10. Thu hút: attract. Hấp dẫn: attractive. Lan truyền nhanh trên mạng: go viral.
+[term] attract, attractive, go viral
+[vi] Module 1 đến đây là kết thúc. Qua năm bài học, bạn đã có trong tay nền tảng về thì, phối thì, danh động từ, câu bị động và so sánh. Module 2 sẽ giúp bạn ghép các câu đơn thành câu phức, bắt đầu với mệnh đề quan hệ. Cảm ơn các bạn đã đồng hành, và hẹn gặp lại.

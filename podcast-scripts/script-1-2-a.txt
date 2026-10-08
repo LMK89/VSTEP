@@ -1,169 +1,166 @@
-[chapter] Phần 1: Ôn nền nhanh - 5 Thì Cơ Bản Nhất
-[vi] Chào mừng các bạn đến với chuỗi podcast chuyên sâu về ngữ pháp thực chiến dành riêng cho kỳ thi VSTEP từ trình độ B1 lên B2 và C1. Hôm nay, chúng ta cùng phân tích chuyên đề trọng tâm của Module 1: Bài một chấm hai, Quy tắc phối thì và xác định mốc thời gian.
-[vi] Trước khi đi vào các câu học thuật phức tạp, chúng ta sẽ dành vài phút để ôn lại thật nhanh nền tảng cốt lõi của 5 thì cơ bản nhất sẽ xuất hiện liên tục trong bài học này. Nếu bạn đã nắm vững, bạn có thể bấm chuyển qua chapter tiếp theo trên ứng dụng podcast.
-[vi] Thì đầu tiên là Quá khứ đơn, tiếng Anh là Past Simple.
+[chapter] Mở đầu và Ôn nền: 5 thì dùng để phối thì
+[vi] Chào mừng các bạn đến với chuỗi podcast ngữ pháp thực chiến cho kỳ thi VSTEP. Đây là bài một chấm hai, phần A: Quy tắc phối thì và mốc thời gian.
+[vi] Ở bài một chấm một, chúng ta học từng thì riêng lẻ. Hôm nay chúng ta học cách ghép hai thì vào cùng một câu bằng các liên từ thời gian như when, while, before, after. Đây là kỹ năng giúp câu văn của bạn dài hơn, mạch lạc hơn, và là chỗ đề thi rất hay gài bẫy.
+[term] when, while, before, after
+[vi] Trước hết, chúng ta ôn nhanh năm thì sẽ dùng nhiều nhất trong bài. Nếu bạn đã nhớ chắc, hãy bấm sang chương tiếp theo.
+[vi] Thì thứ nhất là quá khứ đơn.
 [term] Past Simple
-[vi] Thì này dùng để diễn tả hành động đã xảy ra và kết thúc hoàn toàn trong quá khứ. Ví dụ đời thường: Hôm qua tôi đã đi xem phim.
+[vi] Công thức: chủ ngữ cộng động từ cột hai. Dùng cho việc đã xảy ra và kết thúc trong quá khứ. Ví dụ: Hôm qua tôi đã đi xem phim.
 [en] I went to the cinema yesterday.
-[vi] Động từ go chuyển thành went.
-[vi] Thì thứ hai là Quá khứ tiếp diễn, Past Continuous.
+[vi] Go là động từ bất quy tắc, cột hai là went.
+[vi] Thì thứ hai là quá khứ tiếp diễn.
 [term] Past Continuous
-[vi] Thì này diễn tả hành động đang xảy ra tại một thời điểm cụ thể trong quá khứ, thường đóng vai trò làm nền. Ví dụ: Lúc 8 giờ tối qua, tôi đang xem tivi.
-[en] At 8 PM last night, I was watching TV.
-[vi] Ta dùng was hoặc were cộng với động từ thêm ing.
-[vi] Thì thứ ba là Quá khứ hoàn thành, Past Perfect.
+[vi] Công thức: chủ ngữ cộng was hoặc were, cộng động từ thêm ing. Dùng cho việc đang diễn ra tại một thời điểm trong quá khứ, thường làm nền cho một việc khác xen vào. Ví dụ: Lúc tám giờ tối qua, tôi đang xem tivi.
+[en] At eight o'clock last night, I was watching TV.
+[vi] Thì thứ ba là quá khứ hoàn thành.
 [term] Past Perfect
-[vi] Chức năng chính của nó là diễn tả một hành động xảy ra trước một hành động khác trong quá khứ. Ví dụ: Tôi đã ăn tối xong trước khi anh ấy đến.
-[en] I had eaten dinner before he came.
-[vi] Hành động ăn tối xảy ra trước, nên dùng had eaten.
-[vi] Thì thứ tư là Hiện tại hoàn thành, Present Perfect.
+[vi] Công thức: chủ ngữ cộng had cộng động từ cột ba. Dùng cho việc xảy ra trước một việc khác trong quá khứ. Có thể gọi vui là quá khứ của quá khứ. Ví dụ: Tôi đã ăn tối xong trước khi anh ấy đến.
+[en] I had eaten dinner before he arrived.
+[vi] Ăn tối xảy ra trước, nên dùng had eaten. Anh ấy đến xảy ra sau, nên dùng quá khứ đơn arrived.
+[vi] Thì thứ tư là hiện tại hoàn thành, đã học ở bài trước.
 [term] Present Perfect
-[vi] Dùng để tả hành động bắt đầu từ quá khứ kéo dài đến hiện tại, hoặc vừa mới xong nhưng để lại kết quả. Ví dụ: Tôi đã sống ở đây được 5 năm.
-[en] I have lived here for 5 years.
-[vi] Dùng have hoặc has cộng động từ ở cột 3.
-[vi] Và thì cuối cùng, Tương lai hoàn thành, Future Perfect.
+[vi] Công thức: chủ ngữ cộng have hoặc has, cộng động từ cột ba. Dùng cho việc bắt đầu trong quá khứ và kéo dài đến hiện tại. Ví dụ: Tôi đã sống ở đây được năm năm.
+[en] I have lived here for five years.
+[vi] Thì thứ năm là tương lai hoàn thành.
 [term] Future Perfect
-[vi] Diễn tả hành động sẽ hoàn thành trước một mốc thời gian trong tương lai. Ví dụ: Tôi sẽ hoàn thành công việc trước 5 giờ chiều mai.
-[en] I will have finished work by 5 PM tomorrow.
-[vi] Công thức là will have cộng động từ cột 3.
+[vi] Công thức: chủ ngữ cộng will have cộng động từ cột ba. Dùng cho việc sẽ hoàn thành trước một mốc trong tương lai. Ví dụ: Tôi sẽ làm xong việc trước năm giờ chiều mai.
+[en] I will have finished work by five o'clock tomorrow.
+[vi] Và đây là quy tắc vàng của cả bài học hôm nay. Sau các liên từ thời gian như when, before, after, as soon as, until, by the time, nếu sự việc nằm ở tương lai, ta không dùng will. Thay vào đó, ta dùng hiện tại đơn, hoặc hiện tại hoàn thành. Will chỉ nằm ở vế chính.
+[term] When I arrive, I will call you.
+[vi] Ví dụ trên: Khi tôi đến nơi, tôi sẽ gọi cho bạn. Vế when I arrive dùng hiện tại đơn, dù việc đến nơi nằm ở tương lai. Viết when I will arrive là sai.
 
-[chapter] Phần 2: Bản chất ngôn ngữ và phối thì với When, While
-[vi] Bây giờ, chúng ta sẽ bắt đầu ghép các thì này lại với nhau qua các liên từ thời gian. Nguyên tắc cốt lõi: Mệnh đề trạng ngữ chỉ thời gian không bao giờ dùng trợ động từ tương lai như will mà bắt buộc phải mượn thì hiện tại đơn hoặc hiện tại hoàn thành để diễn đạt ý niệm về tương lai.
-[term] will
-[vi] Nhóm liên từ đầu tiên là When và While.
-[term] When, While
-[vi] Với When, bản chất thường là một điểm thời gian xác định.
-[vi] Câu ví dụ số 1: Khi các nhà nghiên cứu tiến hành cuộc khảo sát, đa số người trả lời trẻ tuổi đang tìm kiếm các cơ hội nghề nghiệp ổn định.
-[en] When the researchers conducted the survey, a majority of young respondents were seeking stable career opportunities.
-[vi] Phân tích: Hành động tìm kiếm cơ hội là hành động nền kéo dài, nên dùng quá khứ tiếp diễn were seeking. Tại thời điểm khảo sát, họ đang tìm việc, nên mốc thời gian cụ thể đó dùng quá khứ đơn conducted.
-[term] were seeking, conducted
-[vi] Từ mới trong câu: danh từ respondent, nghĩa là người trả lời khảo sát. Thêm cụm từ stable career, nghĩa là sự nghiệp ổn định.
-[term] respondent, stable career
+[chapter] Khung bài: tám liên từ thời gian
+[vi] Hôm nay chúng ta gặp tám liên từ thời gian. Bạn chưa cần nhớ ngay, chỉ cần nghe qua để biết sẽ chú ý những từ nào.
+[vi] When, nghĩa là khi. While, nghĩa là trong khi. Before, trước khi. After, sau khi. Since, kể từ khi. As soon as, ngay khi. Until, cho đến khi. Và by the time, tính đến lúc.
+[term] when, while, before, after, since, as soon as, until, by the time
+[vi] Tình huống đời sống hôm nay là một email. Linh, một người thuê nhà, viết email cho chủ nhà là ông Brown để báo về một sự cố rò nước trong bếp. Đây cũng chính là dạng bài Writing Task 1 trong đề VSTEP: viết thư báo sự cố và đề nghị giải quyết.
+[vi] Email có mười câu. Lần nghe đầu, bạn hãy để ý xem mỗi liên từ thời gian đi với thì nào.
 
-[vi] Chuyển sang While. While thường đi với hành động nền hoặc hai hành động song song.
-[vi] Câu ví dụ số 2: Trong khi người cha đang làm việc trong nhà máy, người vợ đang chăm sóc con trai khuyết tật của họ ở nhà.
-[en] While the father was working in a factory, his wife was taking care of their disabled son at home.
-[vi] Phân tích: Cả hai hành động làm việc và chăm sóc diễn ra song song cùng một lúc trong quá khứ, nên cả hai đều dùng quá khứ tiếp diễn, was working và was taking care.
-[term] was working, was taking care
-[vi] Từ mới trong câu: tính từ disabled mang nghĩa khuyết tật, tàn tật.
-[term] disabled
+[chapter] Phần 1: Đời sống. Nghe trọn email báo sự cố
+[vi] Mời bạn nghe email của Linh.
+[read] Dear Mr Brown, I am writing about a water leak in my kitchen.
+[read] While I was cooking dinner last night, the kitchen light suddenly went out.
+[read] When I opened the cupboard under the sink, I saw water all over the floor.
+[read] Before I called you, I had already turned off the main water supply.
+[read] After I had cleaned up the mess, I took some photos of the damage.
+[read] Since the leak started, I haven't been able to use the kitchen.
+[read] As soon as the plumber arrives, I will show him the problem.
+[read] I will stay at home until he finishes the repair.
+[read] By the time you read this email, I will have moved everything out of the cupboard.
+[read] I look forward to hearing from you soon. Best regards, Linh.
 
-[vi] Ở trình độ B2 và C1, While còn được dùng để diễn tả sự tương phản, giống như chữ Whereas.
-[term] Whereas
-[vi] Câu ví dụ số 3: Trong khi tỷ lệ hút thuốc đã giảm ở các quốc gia phát triển, chúng lại tăng mạnh ở các khu vực đang phát triển khi sản phẩm trở nên hợp túi tiền hơn.
-[en] While smoking rates have fallen in developed nations, they have risen drastically in developing regions as products become more affordable.
-[vi] Phân tích: Cả hai vế đều mô tả xu hướng kéo dài đến hiện tại, nên đều dùng hiện tại hoàn thành, have fallen và have risen.
-[term] have fallen, have risen
-[vi] Từ mới trong câu: trạng từ drastically mang nghĩa mạnh mẽ, đáng kể. Tính từ affordable nghĩa là giá cả phải chăng, vừa túi tiền.
-[term] drastically, affordable
+[chapter] Phần 1: Mổ xẻ từng câu, chuyện tối hôm qua
+[vi] Câu đầu tiên, I am writing about a water leak in my kitchen, là câu mở thư bằng hiện tại tiếp diễn, đã học ở bài trước. Chúng ta đi thẳng vào câu số hai.
+[vi] Câu số hai: Trong khi tôi đang nấu bữa tối hôm qua, đèn bếp đột nhiên tắt.
+[en] While I was cooking dinner last night, the kitchen light suddenly went out.
+[vi] Ngữ pháp: while đi với quá khứ tiếp diễn, was cooking, cho hành động nền đang kéo dài. Vế còn lại dùng quá khứ đơn, went out, cho sự việc ngắn bất ngờ xen vào. Công thức: while cộng quá khứ tiếp diễn, quá khứ đơn.
+[term] While I was cooking, the light went out
+[vi] So sánh: có thể đảo lại bằng when: When the light went out, I was cooking dinner. Quy luật nhớ nhanh: while thường đứng trước hành động dài, đang diễn ra. When thường đứng trước hành động ngắn, xảy ra tại một điểm. Còn nếu cả hai hành động cùng kéo dài song song, thì cả hai đều dùng tiếp diễn: While I was cooking, my brother was watching TV.
+[term] When the light went out, I was cooking
+[vi] Từ vựng: go out khi nói về đèn, lửa nghĩa là tắt, tự tắt. Turn off hoặc switch off là có người tắt. Còn break down là hỏng máy, như đã học ở bài trước. Leak là chỗ rò rỉ, vừa là danh từ vừa là động từ: the pipe is leaking, ống nước đang rò.
+[term] go out, turn off, switch off, leak
 
-[chapter] Phần 3: Phối thì với Before, After và As soon as
-[vi] Tiếp theo là các liên từ trước và sau: Before và After.
-[term] Before, After
-[vi] Câu ví dụ số 4: Trước khi George Pullman thành lập công ty toa xe lửa giường nằm, ông đã đầu tư toàn bộ cơ nghiệp của mình để thiết kế toa xe giường nằm sang trọng.
-[en] Before George Pullman founded the railway sleeping car company, he had invested his entire fortune in designing the luxury sleeping car.
-[vi] Phân tích: Việc đầu tư cơ nghiệp xảy ra trước nên dùng quá khứ hoàn thành, had invested. Việc thành lập công ty xảy ra sau nên dùng quá khứ đơn, founded. Vì before đã cho biết thứ tự, dùng quá khứ đơn cho cả hai vế cũng đúng; quá khứ hoàn thành dùng để nhấn mạnh việc đã xong trước.
-[term] had invested, founded
-[vi] Từ mới trong câu: danh từ fortune mang nghĩa tài sản, cơ nghiệp. Động từ invest nghĩa là đầu tư.
-[term] fortune, invest
+[vi] Câu số ba: Khi tôi mở cái tủ dưới bồn rửa, tôi thấy nước tràn khắp sàn.
+[en] When I opened the cupboard under the sink, I saw water all over the floor.
+[vi] Ngữ pháp: cả hai vế đều dùng quá khứ đơn, opened và saw, vì hai hành động nối tiếp nhau: mở tủ trước, nhìn thấy ngay sau đó. Công thức: when cộng quá khứ đơn, quá khứ đơn, cho hai việc nối tiếp.
+[term] When I opened, I saw
+[vi] So sánh: nếu Linh viết When I opened the cupboard, water was running down the wall, tức là nước đang chảy, thì vế sau dùng quá khứ tiếp diễn, vì nước đã chảy từ trước và vẫn đang chảy lúc mở tủ. Cùng một chữ when, thì của vế sau thay đổi theo ý: nối tiếp thì dùng quá khứ đơn, đang diễn ra sẵn thì dùng tiếp diễn.
+[term] water was running
+[vi] Từ vựng: cupboard là tủ có cửa, thường để bát đĩa, đồ ăn. Lưu ý chữ p không đọc. Wardrobe là tủ quần áo theo kiểu Anh, người Mỹ gọi là closet. Sink là bồn rửa trong bếp, còn basin hoặc washbasin là bồn rửa mặt trong phòng tắm.
+[term] cupboard, wardrobe, closet, sink, washbasin
 
-[vi] Câu ví dụ số 5 nói về nữ thi sĩ Phillis Wheatley: Sau khi tập thơ của bà được xuất bản ở London, Phillis Wheatley được trả tự do.
-[en] After her poetry collection had been published in London, Phillis Wheatley was emancipated.
-[vi] Phân tích: Việc xuất bản tập thơ xảy ra trước, nên dùng quá khứ hoàn thành bị động, had been published. Việc được trả tự do xảy ra sau, dùng quá khứ đơn bị động, was emancipated.
-[term] had been published, was emancipated
-[vi] Từ mới trong câu: emancipate là động từ C1, nghĩa là giải phóng, trả tự do. Thêm cụm B2 poetry collection, nghĩa là tập thơ.
-[term] emancipate, poetry collection
+[vi] Câu số bốn: Trước khi gọi cho ông, tôi đã khóa nguồn nước chính.
+[en] Before I called you, I had already turned off the main water supply.
+[vi] Ngữ pháp: việc khóa ống nước xảy ra trước, nên dùng quá khứ hoàn thành, had turned off. Việc gọi điện xảy ra sau, nên dùng quá khứ đơn, called. Công thức: before cộng quá khứ đơn, quá khứ hoàn thành.
+[term] Before I called, I had turned off
+[vi] Bẫy: nhiều bạn nghĩ có before là bắt buộc phải có quá khứ hoàn thành. Thật ra không bắt buộc. Vì chữ before đã cho biết thứ tự, nên viết cả hai vế bằng quá khứ đơn cũng đúng: Before I called you, I turned off the pipe. Quá khứ hoàn thành dùng khi muốn nhấn mạnh việc đã xong hẳn trước đó. Điều cần tránh là dùng quá khứ hoàn thành cho việc xảy ra sau: Before I had called you, I turned off the pipe là sai logic.
+[vi] Từ vựng: turn off, switch off và shut off đều là tắt, khóa. Turn off dùng cho cả vòi nước, đèn, máy móc. Switch off thường dùng cho thiết bị có công tắc. Shut off nghe mạnh hơn, hay dùng cho nguồn nước, nguồn điện, nguồn ga. Water supply là nguồn cấp nước, pipe là đường ống, còn plumbing là hệ thống ống nước nói chung.
+[term] turn off, switch off, shut off, water supply, pipe, plumbing
 
-[vi] Câu ví dụ số 6: Trước khi ủy ban thành phố phê duyệt quy hoạch tổng thể, họ sẽ tham vấn các chuyên gia quy hoạch đô thị.
-[en] Before the municipal committee approves the master plan, they will consult with urban planning specialists.
-[vi] Phân tích: Sự việc nằm ở tương lai, nhưng mệnh đề sau Before bắt buộc lùi về hiện tại đơn, approves. Mệnh đề chính vẫn dùng tương lai đơn, will consult.
-[term] approves, will consult
-[vi] Từ mới trong câu: cụm master plan nghĩa là quy hoạch tổng thể. Động từ consult đi với giới từ with, nghĩa là tham vấn, hỏi ý kiến.
-[term] master plan, consult with
+[vi] Câu số năm: Sau khi đã dọn dẹp chỗ bừa bộn, tôi chụp vài tấm ảnh thiệt hại.
+[en] After I had cleaned up the mess, I took some photos of the damage.
+[vi] Ngữ pháp: after đi với việc xảy ra trước. Dọn dẹp xảy ra trước, nên dùng quá khứ hoàn thành, had cleaned up. Chụp ảnh xảy ra sau, nên dùng quá khứ đơn, took. Công thức: after cộng quá khứ hoàn thành, quá khứ đơn. Lưu ý before và after ngược nhau: before đứng trước việc xảy ra sau, còn after đứng trước việc xảy ra trước.
+[term] After I had cleaned up, I took
+[vi] So sánh: giống before, với after quá khứ hoàn thành cũng không bắt buộc: After I cleaned up the mess, I took some photos vẫn đúng. Và ở trình độ B2, bạn có thể rút gọn khi hai vế cùng chủ ngữ: After cleaning up the mess, I took some photos. Cách rút gọn này sẽ được học kỹ ở Module 2.
+[term] After cleaning up the mess
+[vi] Từ vựng: damage là thiệt hại, hư hại, danh từ không đếm được, nên không nói a damage. Bẫy: damages có s lại mang nghĩa khác, là tiền bồi thường thiệt hại trong luật. Mess là tình trạng bừa bộn. Clean up là dọn sạch, còn tidy up là sắp xếp gọn gàng.
+[term] damage, damages, mess, clean up, tidy up
 
-[vi] Chuyển sang liên từ As soon as, mang nghĩa ngay khi.
-[term] As soon as
-[vi] Câu ví dụ số 7: Ngay khi bệnh nhân có phản ứng bất lợi với thuốc, các bác sĩ đã lập tức tạm dừng điều trị.
-[en] As soon as the patient showed adverse reactions to the medication, the doctors suspended the treatment immediately.
-[vi] Phân tích: Hai sự việc nối tiếp nhau ngay lập tức trong quá khứ, nên cả hai mệnh đề đều dùng quá khứ đơn, showed và suspended.
-[term] showed, suspended
-[vi] Từ mới trong câu: cụm adverse reaction nghĩa là phản ứng phụ, phản ứng bất lợi. Động từ suspend nghĩa là tạm dừng, đình chỉ.
-[term] adverse reaction, suspend
+[chapter] Phần 1: Mổ xẻ từng câu, từ bây giờ đến tương lai
+[vi] Câu số sáu: Kể từ khi bị rò nước, tôi không thể sử dụng căn bếp.
+[en] Since the leak started, I haven't been able to use the kitchen.
+[vi] Ngữ pháp: vế since dùng quá khứ đơn, started, vì đó là mốc bắt đầu trong quá khứ. Vế chính dùng hiện tại hoàn thành, haven't been able to, vì tình trạng không dùng được bếp kéo dài từ lúc đó đến bây giờ. Công thức: hiện tại hoàn thành, since cộng quá khứ đơn.
+[term] Since the leak started, I haven't been able to
+[vi] Bẫy: có hai bẫy. Thứ nhất, sau since không dùng hiện tại hoàn thành: since the leak has started là sai. Thứ hai, can không có dạng hoàn thành, nên không viết I haven't could. Phải đổi can thành be able to, rồi mới chia: I haven't been able to.
+[term] be able to, haven't been able to
+[vi] Từ vựng: be able to là có khả năng làm gì, dùng thay can ở những thì mà can không chia được, như tương lai: I will be able to come. Gần nghĩa có manage to, nghĩa là xoay xở làm được một việc khó: I managed to fix it, tôi đã xoay xở sửa được nó.
+[term] be able to, manage to
 
-[vi] Câu ví dụ số 8: Ngay khi cửa hàng nhận được thiết bị thay thế, họ sẽ thông báo cho khách hàng về yêu cầu hoàn tiền.
-[en] As soon as the store receives the replacement unit, they will notify the customer regarding their refund request.
-[vi] Phân tích: Một lời hứa trong tương lai, nên mệnh đề As soon as chia ở hiện tại đơn, receives, và mệnh đề chính chia tương lai đơn, will notify.
-[term] receives, will notify
-[vi] Từ mới trong câu: danh từ replacement nghĩa là sự thay thế, vật thay thế. Động từ notify mang nghĩa thông báo cho ai đó.
-[term] replacement, notify
+[vi] Câu số bảy: Ngay khi thợ sửa ống nước đến, tôi sẽ chỉ cho anh ấy chỗ hỏng.
+[en] As soon as the plumber arrives, I will show him the problem.
+[vi] Ngữ pháp: đây là quy tắc vàng. Việc thợ đến nằm ở tương lai, nhưng sau as soon as phải dùng hiện tại đơn, arrives. Will chỉ nằm ở vế chính, will show.
+[term] As soon as the plumber arrives, I will show
+[vi] Bẫy: viết as soon as the plumber will arrive là lỗi bị trừ điểm ngay trong bài Viết. Một mẹo tự kiểm tra: mỗi câu có liên từ thời gian chỉ được có một chữ will, và nó luôn nằm ở vế không có liên từ. Gần nghĩa với as soon as có once và the moment: Once the plumber arrives, The moment he arrives. Quy tắc không dùng will áp dụng y hệt.
+[term] once, the moment
+[vi] Từ vựng: plumber là thợ sửa ống nước, chữ b không đọc. Electrician là thợ điện. Show someone something là chỉ cho ai xem cái gì. Lưu ý thứ tự: show him the problem, hoặc show the problem to him.
+[term] plumber, electrician, show him the problem
 
-[chapter] Phần 4: Phối thì với Since và By the time
-[vi] Tiếp theo là nhóm mốc thời gian đặc biệt: Since và By the time.
-[term] Since, By the time
-[vi] Câu ví dụ số 9: Kể từ khi phòng khám được thành lập vào năm 1992, nơi đây đã cung cấp sự chăm sóc tỉ mỉ cho hàng nghìn bệnh nhân nghèo hoàn toàn miễn phí.
-[en] Since the clinic was established in 1992, it has provided meticulous care to thousands of impoverished patients free of charge.
-[vi] Phân tích: Mệnh đề Since đi với điểm thời gian trong quá khứ nên dùng quá khứ đơn bị động, was established. Mệnh đề chính kéo dài đến hiện tại nên dùng hiện tại hoàn thành, has provided.
-[term] was established, has provided
-[vi] Từ mới trong câu: cụm từ meticulous care nghĩa là sự chăm sóc tỉ mỉ, chu đáo. Tính từ impoverished dùng thay cho poor, mang nghĩa nghèo khó, bần cùng.
-[term] meticulous care, impoverished
+[vi] Câu số tám: Tôi sẽ ở nhà cho đến khi anh ấy sửa xong.
+[en] I will stay at home until he finishes the repair.
+[vi] Ngữ pháp: until cũng là liên từ thời gian, nên vế sau until dùng hiện tại đơn, finishes, không dùng will finish. Vế chính dùng will stay.
+[term] until he finishes
+[vi] So sánh: until và by là cặp bẫy kinh điển. Until nghĩa là kéo dài liên tục cho đến một mốc: I will stay at home until five, tôi ở nhà suốt cho đến năm giờ. By nghĩa là hạn chót, xong trước mốc: I will finish the report by five, tôi làm xong báo cáo trước năm giờ. Hành động kéo dài thì dùng until. Hành động hoàn thành trước hạn thì dùng by.
+[term] stay until five, finish by five
+[vi] Từ vựng: repair, fix và mend đều là sửa. Repair hơi trang trọng, dùng cho máy móc, nhà cửa, và cũng là danh từ: the repair. Fix là từ thông dụng trong văn nói. Mend thường dùng cho quần áo, đồ vải, như mend a shirt, khâu vá áo.
+[term] repair, fix, mend
 
-[vi] Câu ví dụ số 10: Tính đến thời điểm chính phủ nhận ra cuộc khủng hoảng, thuốc lá đã gây ra hàng triệu ca tử vong sớm.
-[en] By the time the government recognized the crisis, tobacco had already caused millions of premature deaths.
-[vi] Phân tích: Mốc thời gian nằm trong quá khứ, nên mệnh đề By the time chia quá khứ đơn, recognized. Việc gây ra cái chết đã hoàn thành trước đó nên dùng quá khứ hoàn thành, had caused.
-[term] recognized, had caused
-[vi] Từ mới trong câu: danh từ crisis nghĩa là cuộc khủng hoảng. Cụm premature death nghĩa là ca tử vong sớm.
-[term] crisis, premature death
+[vi] Câu số chín: Đến lúc ông đọc email này, tôi sẽ chuyển xong hết đồ ra khỏi tủ rồi.
+[en] By the time you read this email, I will have moved everything out of the cupboard.
+[vi] Ngữ pháp: vế by the time dùng hiện tại đơn, read, vì đây là liên từ thời gian. Vế chính dùng tương lai hoàn thành, will have moved, vì việc chuyển đồ sẽ xong trước lúc ông Brown đọc email. Công thức: by the time cộng hiện tại đơn, will have cộng động từ cột ba.
+[term] By the time you read, I will have moved
+[vi] So sánh: nếu viết When you read this email, I will move everything, thì nghĩa là đọc email xong tôi mới bắt đầu chuyển. Còn By the time you read, I will have moved, nghĩa là lúc ông đọc thì tôi đã chuyển xong rồi. By the time luôn nhấn mạnh việc đã hoàn thành trước mốc. Khi mốc nằm ở quá khứ, ta lùi một bậc: By the time he arrived, I had moved everything.
+[term] By the time he arrived, I had moved everything
+[vi] Từ vựng: move something out of là chuyển cái gì ra khỏi. Move out, không có tân ngữ, lại là dọn ra khỏi nhà, thôi thuê nhà. Ngược lại là move in, dọn đến ở. Đây là hai cụm rất hay gặp trong chủ đề nhà ở.
+[term] move something out of, move out, move in
 
-[vi] Câu ví dụ số 11: Tính đến thời điểm thập kỷ tới bắt đầu, số lượng ca tử vong sẽ tăng gấp đôi trừ khi các chương trình cai thuốc hiệu quả được triển khai.
-[en] By the time the next decade begins, the number of deaths will have doubled unless effective cessation programs are implemented.
-[vi] Phân tích: Mốc thời gian là thập kỷ tới, mệnh đề By the time chia hiện tại đơn, begins. Mệnh đề chính nhấn mạnh việc đã hoàn thành trước mốc đó nên dùng tương lai hoàn thành, will have doubled.
-[term] begins, will have doubled
-[vi] Từ mới trong câu: động từ double mang nghĩa tăng gấp đôi. Danh từ cessation nghĩa là sự ngừng lại, phổ biến trong cụm smoking cessation là cai thuốc lá.
-[term] double, cessation
+[vi] Câu cuối cùng, I look forward to hearing from you soon, là câu kết thư kinh điển. Sau look forward to là động từ thêm ing, hearing, không phải hear. Chúng ta sẽ học kỹ cấu trúc này ở bài một chấm ba.
+[term] I look forward to hearing from you
 
-[chapter] Phần 5: Phối thì với Until
-[vi] Cuối cùng là liên từ Until, mang nghĩa cho đến khi.
-[term] Until
-[vi] Câu ví dụ số 12: Nhiều bệnh nhân mãn tính đã từ chối bỏ thuốc lá cho đến khi họ trở nên quá yếu không thể sinh hoạt bình thường.
-[en] Many chronic patients refused to quit smoking until they became too sick to function properly.
-[vi] Phân tích: Hành động từ chối kéo dài liên tục tới một mốc trong quá khứ, nên cả hai vế đều dùng quá khứ đơn, refused và became.
-[term] refused, became
-[vi] Từ mới trong câu: tính từ chronic mang nghĩa mãn tính. Động từ function trong ngữ cảnh này mang nghĩa hoạt động, sinh hoạt bình thường.
-[term] chronic, function
+[chapter] Phần 1: Nghe lại trọn email
+[vi] Mời bạn nghe lại toàn bộ email của Linh. Lần này hãy để ý từng cặp liên từ và thì.
+[read] Dear Mr Brown, I am writing about a water leak in my kitchen.
+[read] While I was cooking dinner last night, the kitchen light suddenly went out.
+[read] When I opened the cupboard under the sink, I saw water all over the floor.
+[read] Before I called you, I had already turned off the main water supply.
+[read] After I had cleaned up the mess, I took some photos of the damage.
+[read] Since the leak started, I haven't been able to use the kitchen.
+[read] As soon as the plumber arrives, I will show him the problem.
+[read] I will stay at home until he finishes the repair.
+[read] By the time you read this email, I will have moved everything out of the cupboard.
+[read] I look forward to hearing from you soon. Best regards, Linh.
+[vi] Bạn có thấy email này đi theo đúng trục thời gian không? Câu mở bài nói mục đích ở hiện tại. Ba câu tiếp theo kể chuyện tối hôm qua bằng while, when, before, after. Câu since nối quá khứ với hiện tại. Và ba câu cuối nhìn về tương lai bằng as soon as, until, by the time, với vế liên từ luôn ở hiện tại đơn.
+[vi] Đây là khung thư báo sự cố bạn có thể dùng lại nguyên vẹn trong Writing Task 1: nêu mục đích, kể sự cố theo trình tự, nêu hậu quả hiện tại, và đề nghị hướng giải quyết.
 
-[vi] Câu ví dụ số 13: Bạn sẽ không được phép vào phòng thi cho đến khi bạn xuất trình giấy tờ tùy thân hợp lệ.
-[en] You will not be permitted to enter the examination room until you present a valid identification document.
-[vi] Phân tích: Sự việc cấm đoán kéo dài tới tương lai, nên mệnh đề chính dùng tương lai đơn, will not be permitted. Mệnh đề sau until chia hiện tại đơn, present.
-[term] will not be permitted, present
-[vi] Từ mới trong câu: động từ permit mang nghĩa cho phép. Tính từ valid mang nghĩa hợp lệ, có hiệu lực.
-[term] permit, valid
-
-[chapter] Phần 6: Tổng kết từ vựng
-[vi] Để kết thúc Tập A, chúng ta cùng ôn lại nhanh danh sách các từ vựng B2, C1 đã học trong bài qua 13 câu ví dụ.
-[vi] 1. Người trả lời khảo sát: respondent. Sự nghiệp ổn định: stable career.
-[term] respondent, stable career
-[vi] 2. Khuyết tật, tàn tật: disabled.
-[term] disabled
-[vi] 3. Mạnh mẽ, đáng kể: drastically. Giá cả phải chăng: affordable.
-[term] drastically, affordable
-[vi] 4. Tài sản, cơ nghiệp: fortune. Đầu tư: invest.
-[term] fortune, invest
-[vi] 5. Giải phóng, trả tự do: emancipate. Tập thơ: poetry collection.
-[term] emancipate, poetry collection
-[vi] 6. Quy hoạch tổng thể: master plan. Tham vấn: consult with.
-[term] master plan, consult with
-[vi] 7. Phản ứng bất lợi: adverse reaction. Tạm dừng: suspend.
-[term] adverse reaction, suspend
-[vi] 8. Sự thay thế: replacement. Thông báo: notify.
-[term] replacement, notify
-[vi] 9. Sự chăm sóc tỉ mỉ: meticulous care. Nghèo khó, bần cùng: impoverished.
-[term] meticulous care, impoverished
-[vi] 10. Cuộc khủng hoảng: crisis. Ca tử vong sớm: premature death.
-[term] crisis, premature death
-[vi] 11. Tăng gấp đôi: double. Sự ngừng lại, cai thuốc: cessation.
-[term] double, cessation
-[vi] 12. Mãn tính: chronic. Hoạt động, sinh hoạt: function.
-[term] chronic, function
-[vi] 13. Cho phép: permit. Hợp lệ: valid.
-[term] permit, valid
-[vi] Bài học hôm nay đến đây là kết thúc. Hẹn gặp lại các bạn trong Tập B với các bẫy đổi giờ trong Listening và khung kỹ năng Writing nhé.
+[chapter] Tổng kết từ vựng Tập A
+[vi] Chúng ta cùng ôn lại các nhóm từ trong tập hôm nay.
+[vi] 1. Đèn tự tắt: go out. Có người tắt: turn off, switch off. Chỗ rò rỉ: leak.
+[term] go out, turn off, switch off, leak
+[vi] 2. Tủ bếp: cupboard. Tủ quần áo: wardrobe hoặc closet. Bồn rửa bát: sink. Bồn rửa mặt: washbasin.
+[term] cupboard, wardrobe, closet, sink, washbasin
+[vi] 3. Khóa nguồn nước, điện: shut off. Nguồn cấp nước: water supply. Đường ống: pipe. Hệ thống ống nước: plumbing.
+[term] shut off, water supply, pipe, plumbing
+[vi] 4. Thiệt hại: damage. Tiền bồi thường: damages. Bừa bộn: mess. Dọn sạch: clean up. Sắp xếp gọn: tidy up.
+[term] damage, damages, mess, clean up, tidy up
+[vi] 5. Có khả năng: be able to. Xoay xở làm được: manage to.
+[term] be able to, manage to
+[vi] 6. Thợ sửa ống nước: plumber. Thợ điện: electrician.
+[term] plumber, electrician
+[vi] 7. Ngay khi: as soon as, once, the moment.
+[term] as soon as, once, the moment
+[vi] 8. Kéo dài cho đến: until. Hạn chót, trước mốc: by.
+[term] until, by
+[vi] 9. Sửa máy móc: repair. Sửa, văn nói: fix. Khâu vá: mend.
+[term] repair, fix, mend
+[vi] 10. Dọn ra khỏi nhà: move out. Dọn đến ở: move in.
+[term] move out, move in
+[vi] Tập A đến đây là kết thúc. Trong Tập B, chúng ta dùng tám liên từ này để đọc một bản tin về giáo dục trực tuyến sau đại dịch, rồi thư giãn với tên những bài hát có chứa when, before, after, until và since. Hẹn gặp lại các bạn.

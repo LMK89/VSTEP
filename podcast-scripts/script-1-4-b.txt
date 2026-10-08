@@ -1,36 +1,179 @@
-[vi] Chào các bạn, tiếp nối phần A, phần B sẽ nói về bẫy nhận diện và cách ứng dụng bị động. Đầu tiên là bẫy mệnh đề quan hệ rút gọn trong bài Đọc. Ví dụ: Một nghiên cứu mới, được thực hiện bởi các nhà khoa học, đã cảnh báo rằng...
-[en] A new study, conducted by scientists, has warned that...
-[vi] Phân tích: 'conducted' là mệnh đề rút gọn của 'which was conducted', không phải động từ chính.
-[term] Reduced Relative Clause
-[vi] Từ mới: thực hiện, cảnh báo
-[term] conduct, warn
+[chapter] Ôn nhanh Tập A
+[vi] Chào mừng các bạn quay lại với bài một chấm bốn, phần B: Câu bị động và động từ khuyết thiếu.
+[vi] Trong Tập A, qua cuộc trò chuyện ở quầy lễ tân, chúng ta đã ôn công thức bị động: động từ to be chia theo thì, cộng động từ cột ba. Thì của câu nằm ở to be, còn động từ chính luôn ở cột ba.
+[term] has been cleaned, is served, was stolen, will be returned
+[vi] Với động từ khuyết thiếu, công thức là can, must, should, may, cộng be, cộng động từ cột ba.
+[term] must be kept, can be charged, may be fined
+[vi] Và cặp bẫy nghĩa quan trọng nhất: mustn't là cấm, còn don't have to là không cần phải.
+[term] mustn't, don't have to
+[vi] Hôm nay, chúng ta đưa bị động vào văn phong học thuật qua một bản tin về trí tuệ nhân tạo trong bệnh viện. Bạn sẽ thấy vì sao các bài báo khoa học và các bài luận điểm cao dùng bị động nhiều đến vậy. Cuối tập là phần thư giãn với tên những bài hát nổi tiếng.
 
-[vi] Trong bài Viết Task 2, bị động tạo văn phong khách quan. Ví dụ thay vì nói "Mọi người nghĩ rằng", ta viết: Sự gia tăng hộ gia đình một người có thể được nhìn nhận là tích cực.
-[en] The rise in one-person households can be seen as positive.
-[vi] Phân tích: Dùng bị động không ngôi tránh xưng hô cá nhân, tăng tính học thuật.
-[term] Impersonal Passive
-[vi] Từ mới: hộ gia đình, tích cực
-[term] household, positive
+[chapter] Phần 2: Đề thi. Nghe trọn bản tin về AI trong bệnh viện
+[vi] Bản tin hôm nay nói về việc dùng trí tuệ nhân tạo, viết tắt là AI, trong các bệnh viện ở Việt Nam. Đây là bản tin được viết riêng cho bài học, các con số chỉ mang tính minh họa. Bản tin có chín câu. Lần đầu nghe, hãy để ý xem câu nào nói ai làm, và câu nào không nói.
+[read] Artificial intelligence is now used in many hospitals across Vietnam.
+[read] Last year, more than two million X-ray images were analysed by AI software.
+[read] Thanks to this technology, many early cases of lung cancer have been detected.
+[read] However, the final diagnosis must still be made by a human doctor.
+[read] It is believed that AI will be widely adopted in rural clinics within the next decade.
+[read] Patients' personal data should be protected by strict laws.
+[read] Critics warn that the software can be misused if it is not properly regulated.
+[read] A national training programme for doctors is being developed by the Ministry of Health.
+[read] New guidelines are expected to be published next year.
 
-[vi] Ví dụ khác về giải pháp: Hành động ngay lập tức phải được thực hiện để giảm lượng rác thải.
-[en] Immediate action must be taken to reduce the amount of waste.
-[vi] Phân tích: Cấu trúc Modal Passive được dùng phổ biến để đưa ra giải pháp.
-[term] Problem and Solution
-[vi] Từ mới: ngay lập tức, giảm
-[term] immediate, reduce
+[chapter] Phần 2: Mổ xẻ từng câu, AI đã làm được gì
+[vi] Câu số một: Trí tuệ nhân tạo hiện nay được sử dụng ở nhiều bệnh viện trên khắp Việt Nam.
+[en] Artificial intelligence is now used in many hospitals across Vietnam.
+[vi] Ngữ pháp: bị động hiện tại đơn, is used, vì đây là một sự thật ở thời điểm hiện tại. Người dùng AI là bác sĩ, kỹ thuật viên, bệnh viện, ai cũng biết, nên không cần by.
+[term] is now used
+[vi] So sánh: chủ động sẽ là Many hospitals across Vietnam now use artificial intelligence. Cả hai đều đúng, nhưng bị động đặt AI lên đầu câu, vì bản tin đang nói về AI. Quy tắc chọn: điều bạn đang muốn nói đến thì đặt làm chủ ngữ. Nếu đó là đối tượng chịu tác động, dùng bị động.
+[term] Many hospitals now use artificial intelligence
+[vi] Từ vựng: artificial là nhân tạo, trái nghĩa là natural, tự nhiên. Intelligence là trí thông minh, tính từ là intelligent. Across là trên khắp, khắp cả, gần nghĩa với throughout và all over: across the country, throughout the country.
+[term] artificial, intelligence, across, throughout
 
-[vi] Bây giờ là phần Hỏi & Đáp (Q&A). Câu hỏi: Làm sao để không bị nhầm lẫn V-ed rút gọn và động từ chính?
-[en] Q&A: How to distinguish reduced relative clauses from main verbs?
-[vi] Phân tích: Luôn tìm động từ chính của câu trước. Nếu đã có động từ chính thì V-ed còn lại thường là mệnh đề rút gọn.
-[term] Sentence Analysis
-[vi] Từ mới: phân biệt
-[term] distinguish
+[vi] Câu số hai: Năm ngoái, hơn hai triệu ảnh X-quang đã được phần mềm AI phân tích.
+[en] Last year, more than two million X-ray images were analysed by AI software.
+[vi] Ngữ pháp: bị động quá khứ đơn, were analysed, vì có mốc last year. Were, số nhiều, vì chủ ngữ là two million images. Lần này có by AI software, vì người làm ở đây là phần mềm, một thông tin quan trọng, chính là điểm mới của bản tin.
+[term] were analysed by AI software
+[vi] Bẫy: khi nào giữ by, khi nào bỏ? Giữ by khi người làm là thông tin mới hoặc quan trọng: The images were analysed by AI. Bỏ by khi người làm không rõ, không quan trọng, hoặc là người nói chung như people, someone, they: The hospital was built in 1990, không cần by people. Viết by people, by someone, by them ở cuối câu bị động là lỗi thừa rất hay bị trừ điểm.
+[term] was built in 1990, by people
+[vi] Từ vựng: analyse là phân tích, kiểu Anh viết với s, kiểu Mỹ viết với z. Danh từ là analysis, số nhiều là analyses. Người phân tích là analyst. Gần nghĩa có examine, xem xét kỹ, và evaluate, đánh giá. Two million không có s ở million khi đi với con số cụ thể. Nhưng millions of, có s, khi không có số cụ thể: millions of images.
+[term] analyse, analysis, analyst, two million, millions of
 
-[vi] Tổng kết từ vựng phần B:
-[term] conduct (v): thực hiện
-[term] warn (v): cảnh báo
-[term] household (n): hộ gia đình
-[term] positive (adj): tích cực
-[term] immediate (adj): ngay lập tức
-[term] reduce (v): giảm
-[term] distinguish (v): phân biệt
+[vi] Câu số ba: Nhờ công nghệ này, nhiều ca ung thư phổi giai đoạn sớm đã được phát hiện.
+[en] Thanks to this technology, many early cases of lung cancer have been detected.
+[vi] Ngữ pháp: bị động hiện tại hoàn thành, have been detected. Việc phát hiện đã xảy ra, không nói rõ lúc nào, và kết quả còn ý nghĩa đến bây giờ. Have, số nhiều, vì chủ ngữ là many early cases.
+[term] have been detected
+[vi] Bẫy: đây là bẫy hòa hợp chủ ngữ trong câu bị động. Chủ ngữ thật là cases, không phải cancer đứng sát động từ. Many early cases of lung cancer have been detected, không phải has been detected. Hãy tìm danh từ chính đứng trước of.
+[term] cases of lung cancer have been
+[vi] Từ vựng: thanks to là nhờ có, mang nghĩa tích cực. Due to và because of là do, vì, trung tính, dùng được cho cả nguyên nhân xấu. Viết thanks to the pollution, many people got sick là sai sắc thái. Detect là phát hiện, nhận ra cái khó thấy. Danh từ là detection, early detection là phát hiện sớm. Gần nghĩa có identify và discover.
+[term] thanks to, due to, because of, detect, early detection
+
+[vi] Câu số bốn: Tuy nhiên, chẩn đoán cuối cùng vẫn phải do một bác sĩ con người đưa ra.
+[en] However, the final diagnosis must still be made by a human doctor.
+[vi] Ngữ pháp: bị động với must, must be made, phải được đưa ra. Still đứng giữa must và be. Có by a human doctor, vì người làm chính là điểm nhấn của câu: phải là con người, không phải máy.
+[term] must still be made by a human doctor
+[vi] So sánh: tại sao là make a diagnosis mà không phải do a diagnosis? Vì đây là một cụm từ cố định, gọi là collocation, kết hợp từ. Cùng nhóm với make có make a decision, make a mistake, make progress, make an effort. Còn do đi với công việc và nhiệm vụ: do homework, do research, do business. Ở bị động, collocation vẫn giữ nguyên động từ: a decision was made, research was done.
+[term] make a diagnosis, make a decision, do research, a decision was made
+[vi] Từ vựng: diagnosis là sự chẩn đoán, số nhiều là diagnoses. Động từ là diagnose: he was diagnosed with diabetes, anh ấy được chẩn đoán mắc tiểu đường. Nhớ giới từ with. Human là con người, thuộc về con người. Humane, thêm e, lại là nhân đạo, nhân văn.
+[term] diagnosis, diagnose, be diagnosed with, human, humane
+
+[chapter] Phần 2: Mổ xẻ từng câu, tương lai và những lo ngại
+[vi] Câu số năm: Người ta tin rằng AI sẽ được áp dụng rộng rãi ở các phòng khám nông thôn trong vòng mười năm tới.
+[en] It is believed that AI will be widely adopted in rural clinics within the next decade.
+[vi] Ngữ pháp: đây là bị động khách quan, cấu trúc ăn điểm nhất của bài. It is believed that, cộng một mệnh đề, nghĩa là người ta tin rằng. Trong mệnh đề đó lại có một bị động tương lai: will be adopted.
+[term] It is believed that, will be adopted
+[vi] So sánh: It is believed that là cách nói khách quan của People believe that. Cùng khuôn với nó: It is said that, người ta nói rằng. It is thought that, It is expected that, It is estimated that, người ta ước tính rằng. Có thêm một dạng nâng cao: AI is believed to be useful, AI được tin là hữu ích. Dạng thứ hai này sẽ được học kỹ ở bài ba chấm hai. Trong Writing Task 2, mở đoạn bằng It is widely believed that giúp câu nghe học thuật hơn hẳn I think.
+[term] It is said that, It is expected that, It is estimated that, AI is believed to be
+[vi] Từ vựng: widely là rộng rãi, đi với các động từ như widely used, widely accepted, widely believed. Decade là thập kỷ, mười năm. Adopt là áp dụng, đã học ở bài một chấm hai, nhớ đừng nhầm với adapt là thích nghi.
+[term] widely used, widely accepted, decade, adopt
+
+[vi] Câu số sáu: Dữ liệu cá nhân của bệnh nhân nên được bảo vệ bằng những luật lệ nghiêm ngặt.
+[en] Patients' personal data should be protected by strict laws.
+[vi] Ngữ pháp: bị động với should, should be protected, nên được bảo vệ. Đây là khuôn câu đưa ra đề xuất hay nhất trong bài Viết, vì nó nêu giải pháp mà không cần nói rõ ai phải làm.
+[term] should be protected
+[vi] Bẫy: chữ by ở câu này có nghĩa là bằng, bằng cách, bằng công cụ gì, chứ không phải người làm. Data should be protected by strict laws, được bảo vệ bằng luật. Một bẫy nữa là dấu sở hữu: patients' personal data, dấu nháy đặt sau s vì patients là số nhiều. Nếu một bệnh nhân thì viết patient's, dấu nháy trước s.
+[term] patients' data, a patient's data
+[vi] Từ vựng: data là dữ liệu, trong văn hiện đại thường đi với động từ số ít: the data is. Personal là cá nhân, riêng tư, còn personnel, nhấn âm cuối, là nhân sự, nhân viên. Strict là nghiêm ngặt, chặt chẽ. Gần nghĩa có tough và rigorous.
+[term] data, personal, personnel, strict, rigorous
+
+[vi] Câu số bảy: Những người chỉ trích cảnh báo rằng phần mềm có thể bị lạm dụng nếu nó không được quản lý đúng cách.
+[en] Critics warn that the software can be misused if it is not properly regulated.
+[vi] Ngữ pháp: câu này có hai bị động. Can be misused, có thể bị lạm dụng, bị động với can. Is not regulated, không được quản lý, bị động hiện tại đơn phủ định. Vế if dùng hiện tại đơn, theo đúng quy tắc của câu điều kiện loại một.
+[term] can be misused, is not properly regulated
+[vi] So sánh: cùng là bị động, nhưng tiếng Việt dịch là được khi việc đó tốt, và dịch là bị khi việc đó xấu. Được bảo vệ, được phát hiện, nhưng bị lạm dụng, bị đánh cắp. Tiếng Anh không phân biệt, chỉ có một cấu trúc be cộng động từ cột ba. Vì vậy khi dịch đề, hãy chọn được hay bị theo nghĩa của câu.
+[term] be protected, be misused
+[vi] Từ vựng: misuse là dùng sai mục đích, lạm dụng. Tiền tố mis mang nghĩa sai: misunderstand là hiểu lầm, mislead là gây hiểu lầm, misinform là đưa tin sai. Regulate là điều tiết, quản lý bằng quy định, danh từ là regulation. Critic là người chỉ trích, nhà phê bình. Criticise là chỉ trích, criticism là lời chỉ trích.
+[term] misuse, misunderstand, mislead, regulate, regulation, critic, criticise
+
+[vi] Câu số tám: Một chương trình đào tạo quốc gia cho bác sĩ đang được Bộ Y tế xây dựng.
+[en] A national training programme for doctors is being developed by the Ministry of Health.
+[vi] Ngữ pháp: bị động hiện tại tiếp diễn, is being developed, đang được xây dựng. Công thức: am, is, are cộng being cộng động từ cột ba. Being là dấu hiệu của tiếp diễn trong câu bị động.
+[term] is being developed
+[vi] Bẫy: is developed và is being developed khác nhau. Is developed là được xây dựng, nói chung hoặc thường xuyên. Is being developed là đang được xây dựng ngay trong giai đoạn này, chưa xong. Has been developed là đã được xây dựng xong. Trong đề trắc nghiệm, nếu có now, currently, at the moment, hãy chọn dạng có being.
+[term] is developed, is being developed, has been developed
+[vi] Từ vựng: develop là phát triển, xây dựng. Development là sự phát triển. Developed country là nước phát triển, developing country là nước đang phát triển. Programme là chương trình theo kiểu Anh, người Mỹ viết program. Ministry là bộ, ministry of health là bộ y tế, minister là bộ trưởng.
+[term] develop, development, developed, developing, ministry, minister
+
+[vi] Câu số chín: Các hướng dẫn mới dự kiến sẽ được công bố vào năm tới.
+[en] New guidelines are expected to be published next year.
+[vi] Ngữ pháp: be expected to be cộng động từ cột ba, được dự kiến sẽ được làm gì. Câu này có hai lớp bị động: are expected, được dự kiến, và to be published, được công bố.
+[term] are expected to be published
+[vi] So sánh: hai cách nói cùng nghĩa. New guidelines are expected to be published next year. Và It is expected that new guidelines will be published next year. Đây chính là dạng câu viết lại rất hay gặp trong đề thi: chuyển từ It is expected that sang chủ ngữ cộng be expected to.
+[term] It is expected that new guidelines will be published
+[vi] Từ vựng: guideline là hướng dẫn, quy tắc chỉ đạo, thường dùng ở số nhiều. Publish là công bố, xuất bản. Gần nghĩa có release, phát hành, và issue, ban hành, hay dùng cho văn bản của cơ quan nhà nước: the ministry issued new rules.
+[term] guidelines, publish, release, issue
+
+[chapter] Phần 2: Nghe lại bản tin và Dùng lại cho chủ đề công nghệ
+[vi] Mời bạn nghe lại toàn bộ bản tin.
+[read] Artificial intelligence is now used in many hospitals across Vietnam.
+[read] Last year, more than two million X-ray images were analysed by AI software.
+[read] Thanks to this technology, many early cases of lung cancer have been detected.
+[read] However, the final diagnosis must still be made by a human doctor.
+[read] It is believed that AI will be widely adopted in rural clinics within the next decade.
+[read] Patients' personal data should be protected by strict laws.
+[read] Critics warn that the software can be misused if it is not properly regulated.
+[read] A national training programme for doctors is being developed by the Ministry of Health.
+[read] New guidelines are expected to be published next year.
+[vi] Khi gặp chủ đề công nghệ, AI, mạng xã hội trong bài Viết hoặc bài Nói, bạn dùng lại được năm khung câu sau.
+[vi] Thứ nhất, mở bài bằng bị động hiện tại đơn với widely: chủ đề, cộng is widely used in, cộng lĩnh vực.
+[term] Social media is widely used by young people.
+[vi] Thứ hai, nêu quan điểm khách quan bằng It is widely believed that.
+[term] It is widely believed that technology makes our lives easier.
+[vi] Thứ ba, nêu mặt trái bằng can be misused hoặc can be abused.
+[term] Personal information can be misused by online companies.
+[vi] Thứ tư, đề xuất giải pháp bằng should be cộng động từ cột ba.
+[term] Children's screen time should be limited by parents.
+[vi] Thứ năm, kêu gọi hành động bằng must be taken. Đây là câu kết bài rất mạnh.
+[term] Immediate action must be taken to protect users.
+[vi] Và kho từ vựng của chủ đề này: artificial intelligence, analyse, detect, diagnosis, data, misuse, regulate, regulation, critic, guidelines. Khung câu thứ năm, Immediate action must be taken, dùng được cho gần như mọi chủ đề có vấn đề cần giải quyết: môi trường, sức khỏe, giáo dục.
+[term] artificial intelligence, detect, misuse, regulate, guidelines
+
+[chapter] Phần 3: Học ngữ pháp qua tên bài hát
+[vi] Đến phần thư giãn. Bốn bài hát hôm nay có tên chứa động từ khuyết thiếu và bị động. Mình chỉ phân tích tên bài, không phát nhạc gốc. Danh sách và đường dẫn nghe bản gốc nằm trong phần mô tả của tập.
+[song] Can't Help Falling in Love | Elvis Presley
+[vi] Bài đầu tiên là bản tình ca bất hủ của Elvis Presley năm 1961.
+[term] Can't Help Falling in Love
+[vi] Can't help cộng động từ thêm ing là một cấu trúc cố định, nghĩa là không thể không, không kìm được: I can't help falling in love with you, anh không thể không yêu em. Bẫy: help ở đây không mang nghĩa giúp đỡ. Và sau can't help là ing, không phải to. Viết I can't help to laugh là sai, phải là I can't help laughing.
+[term] can't help falling, can't help laughing
+
+[song] Should I Stay or Should I Go | The Clash
+[vi] Bài thứ hai là một ca khúc punk rock của ban nhạc The Clash năm 1982.
+[term] Should I Stay or Should I Go
+[vi] Should dùng trong câu hỏi để xin lời khuyên, giống câu Should I pay for that now ở Tập A. Đảo should lên trước chủ ngữ, động từ sau should để nguyên mẫu: should I stay, should I go. Câu hỏi lựa chọn với or, và ngữ điệu lên ở lựa chọn thứ nhất, xuống ở lựa chọn thứ hai.
+[term] Should I stay, should I go
+
+[song] It Must Have Been Love | Roxette
+[vi] Bài thứ ba là bản tình ca của nhóm Roxette, nổi tiếng khắp thế giới năm 1990 nhờ bộ phim Pretty Woman, và rất quen thuộc với khán giả Việt Nam.
+[term] It Must Have Been Love
+[vi] Must have cộng động từ cột ba là phỏng đoán chắc chắn về một việc trong quá khứ: hẳn là đã từng là tình yêu. Đây là must mang nghĩa suy luận, không phải nghĩa bắt buộc. Cặp đối lập là can't have cộng động từ cột ba, chắc chắn đã không: He can't have seen me, chắc chắn anh ấy đã không nhìn thấy tôi. Còn might have cộng động từ cột ba là có lẽ đã, không chắc chắn.
+[term] must have been, can't have seen, might have been
+
+[song] Born This Way | Lady Gaga
+[vi] Bài cuối cùng là một bản pop sôi động của Lady Gaga năm 2011.
+[term] Born This Way
+[vi] Câu đầy đủ là I was born this way, tôi sinh ra đã như thế này. Be born luôn ở dạng bị động. Đây là lỗi người Việt mắc rất nhiều: I born in 1995 là sai, phải là I was born in 1995. Bạn có thể nhớ đơn giản: không ai tự sinh ra mình, nên sinh ra luôn là bị động.
+[term] I was born in 1995
+
+[chapter] Tổng kết từ vựng Tập B
+[vi] Chúng ta cùng ôn lại các nhóm từ trong tập hôm nay.
+[vi] 1. Nhân tạo: artificial. Trí thông minh: intelligence. Trên khắp: across, throughout.
+[term] artificial, intelligence, across, throughout
+[vi] 2. Phân tích: analyse. Sự phân tích: analysis. Nhà phân tích: analyst.
+[term] analyse, analysis, analyst
+[vi] 3. Nhờ có, tích cực: thanks to. Do, vì, trung tính: due to. Phát hiện: detect.
+[term] thanks to, due to, detect
+[vi] 4. Chẩn đoán: diagnosis. Được chẩn đoán mắc bệnh: be diagnosed with. Nhân đạo: humane.
+[term] diagnosis, be diagnosed with, humane
+[vi] 5. Đưa ra quyết định: make a decision. Làm nghiên cứu: do research.
+[term] make a decision, do research
+[vi] 6. Được dùng rộng rãi: widely used. Thập kỷ: decade.
+[term] widely used, decade
+[vi] 7. Cá nhân: personal. Nhân sự: personnel. Nghiêm ngặt: strict, rigorous.
+[term] personal, personnel, strict, rigorous
+[vi] 8. Lạm dụng: misuse. Hiểu lầm: misunderstand. Quản lý bằng quy định: regulate.
+[term] misuse, misunderstand, regulate
+[vi] 9. Nước phát triển: developed country. Nước đang phát triển: developing country.
+[term] developed country, developing country
+[vi] 10. Hướng dẫn: guidelines. Công bố: publish. Ban hành: issue.
+[term] guidelines, publish, issue
+[vi] Bài một chấm bốn đến đây là kết thúc. Bài tiếp theo, một chấm năm, là bài cuối của Module 1: các dạng so sánh, từ so sánh bằng, so sánh hơn, đến so sánh nhất. Hẹn gặp lại các bạn.

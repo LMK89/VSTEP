@@ -1,31 +1,170 @@
-[intro]
-[vi] Chào các bạn! Chào mừng đến với tập 1.5A của VSTEP Podcast. Hôm nay chúng ta sẽ bắt đầu tìm hiểu về Cấu trúc So sánh.
+[chapter] Mở đầu và Ôn nền: so sánh bằng, hơn và nhất
+[vi] Chào mừng các bạn đến với chuỗi podcast ngữ pháp thực chiến cho kỳ thi VSTEP. Đây là bài một chấm năm, phần A: Các dạng so sánh. Đây cũng là bài cuối cùng của Module 1.
+[vi] So sánh là thứ chúng ta làm mỗi ngày: chọn nhà, chọn điện thoại, chọn đường đi. Trong bài thi, so sánh xuất hiện ở bài Nói phần hai, khi bạn phải chọn một giải pháp tốt nhất, và trong bài Viết, khi bạn so sánh ưu nhược điểm.
+[vi] Trước hết, chúng ta ôn nhanh phần nền. Nếu bạn đã nhớ chắc, hãy bấm sang chương tiếp theo.
+[vi] So sánh bằng: as cộng tính từ cộng as. Ví dụ: Căn hộ này rộng bằng căn hộ của tôi.
+[en] This flat is as big as mine.
+[vi] Phủ định của so sánh bằng là not as cộng tính từ cộng as, hoặc not so cộng tính từ cộng as, nghĩa là không bằng.
+[term] not as big as, not so big as
+[vi] So sánh hơn với tính từ ngắn, tức là tính từ có một âm tiết: thêm er rồi cộng than. Ví dụ: Tom cao hơn anh trai.
+[en] Tom is taller than his brother.
+[vi] Lưu ý chính tả. Tính từ kết thúc bằng một nguyên âm và một phụ âm thì gấp đôi phụ âm: big thành bigger, hot thành hotter. Tính từ kết thúc bằng y thì đổi y thành i: happy thành happier, easy thành easier.
+[term] bigger, hotter, happier, easier
+[vi] So sánh hơn với tính từ dài, từ hai âm tiết trở lên: more cộng tính từ cộng than. Ví dụ: Chiếc điện thoại này đắt hơn chiếc kia.
+[en] This phone is more expensive than that one.
+[vi] So sánh nhất: the cộng tính từ ngắn thêm est, hoặc the most cộng tính từ dài. Ví dụ: Đây là ngày nóng nhất trong năm.
+[en] This is the hottest day of the year.
+[vi] Và nhóm bất quy tắc phải học thuộc. Good và well thành better, best. Bad và badly thành worse, worst. Far thành farther hoặc further, farthest hoặc furthest. Little thành less, least. Much và many thành more, most.
+[term] good better best, bad worse worst, far further furthest, little less least
+[vi] Cuối cùng, để nhấn mạnh mức độ so sánh hơn, ta đặt much, far hoặc a lot trước nó, nghĩa là hơn nhiều. Để nói hơn một chút, dùng a bit hoặc slightly. Không dùng very trước so sánh hơn. Very bigger là sai, phải là much bigger.
+[term] much bigger, far better, a bit cheaper, slightly more expensive
 
-[vi] 0. Ôn nền (Foundation Review)
-[vi] Trước khi vào bài, cùng ôn lại các kiến thức cơ bản. So sánh bằng dùng "as + adj/adv + as". So sánh hơn dùng đuôi "-er" (ngắn) hoặc "more" (dài). So sánh nhất dùng "the -est" (ngắn) hoặc "the most" (dài). Ngoài ra có các từ bất quy tắc như good, bad.
+[chapter] Khung bài: nghe gì trong cuộc bàn chuyện thuê nhà
+[vi] Tình huống đời sống hôm nay: Hoa vừa đi xem hai căn hộ cho thuê, và đang gọi cho bạn là Long để hỏi ý kiến. Một căn ở Quận Ba, một căn ở gần chỗ làm của Hoa. Giọng nữ là Hoa, giọng nam là Long.
+[vi] Cuộc trò chuyện có mười câu, chứa đủ cả ba dạng so sánh, các tính từ bất quy tắc, và một số cấu trúc nâng cao như twice as long as, gấp đôi thời gian.
+[vi] Lần nghe đầu, hãy thử trả lời một câu hỏi: cuối cùng Hoa chọn căn nào, và vì sao?
 
-[vi] Phần I: So sánh bằng
-[vi] So sánh bằng thường dùng "as...as" hoặc "the same as". Hãy xem ví dụ thực tế trong VSTEP:
-[vi] Lao động di cư qua biên giới không có cùng mức độ bảo vệ như những người khác.
-[en] Cross-border migrant workers don’t have the same level of protection as others.
-[vi] Phân tích: Dùng "the same + Noun + as" để so sánh danh từ bằng nhau.
-[term] the same level of protection as
-[vi] Từ mới: Lao động di cư qua biên giới.
-[term] cross-border migrant workers
+[chapter] Phần 1: Đời sống. Nghe trọn cuộc bàn chuyện thuê nhà
+[vi] Mời bạn nghe cuộc trò chuyện giữa Hoa và Long.
+[read] I've seen two flats today. The one in District 3 is bigger than the one near my office.
+[read2] Which one is cheaper?
+[read] The District 3 flat is a bit more expensive, but it's much quieter.
+[read2] How far is it from your office?
+[read] It's further away. The journey takes twice as long as from the other flat.
+[read2] Hmm. Traffic is getting worse and worse these days.
+[read] True. But the other flat isn't as bright as this one, and its kitchen is the smallest I've ever seen.
+[read2] Then the District 3 flat is probably the best choice.
+[read] I think so. It's not the cheapest option, but it's the most comfortable.
+[read2] And you can work from home more often. That's less stressful than sitting in traffic.
 
-[vi] Phần II: So sánh hơn
-[vi] Ta có thể nhấn mạnh so sánh hơn bằng "far", "much", "significantly".
-[vi] Trong những năm gần đây, việc sống một mình đã trở nên phổ biến hơn nhiều.
-[en] In recent years, it has become far more normal for people to live alone.
-[vi] Phân tích: Dùng "far more + adj" để nhấn mạnh tính phổ biến hơn rất nhiều.
-[term] far more normal
-[vi] Từ mới: Việc sống một mình.
-[term] living alone
+[chapter] Phần 1: Mổ xẻ từng câu, so sánh hai căn hộ
+[vi] Câu số một. Hoa nói: Hôm nay mình đã xem hai căn hộ. Căn ở Quận Ba rộng hơn căn gần chỗ làm của mình.
+[en] I've seen two flats today. The one in District 3 is bigger than the one near my office.
+[vi] Ngữ pháp: so sánh hơn với tính từ ngắn, bigger than. Big kết thúc bằng một nguyên âm và một phụ âm, nên gấp đôi chữ g. Câu đầu dùng hiện tại hoàn thành, I've seen, vì today chưa kết thúc.
+[term] bigger than, I've seen
+[vi] Bẫy: the one ở đây thay cho the flat, để không lặp lại danh từ. Số nhiều thì dùng the ones. Một lỗi rất hay gặp khi so sánh là so sánh lệch đối tượng. The kitchen of this flat is bigger than that flat là sai logic, vì đang so cái bếp với cả căn hộ. Phải viết: bigger than that of that flat, hoặc bigger than the one in that flat. That of và those of là cách thay thế danh từ rất ăn điểm trong bài Viết.
+[term] the one, the ones, that of, those of
+[vi] Từ vựng: flat là căn hộ theo kiểu Anh, người Mỹ nói apartment. District là quận, huyện. Gần nghĩa có area, khu vực nói chung, và neighbourhood, khu dân cư xung quanh nơi mình ở.
+[term] flat, apartment, district, area, neighbourhood
 
-[vi] Kết thúc tập A, chúng ta cùng tổng kết từ vựng nhé.
-[vi] Tổng kết từ vựng:
-[term] cross-border migrant workers
-[term] the same level of protection as
-[term] far more normal
-[term] living alone
-[outro]
+[vi] Câu số hai. Long hỏi: Căn nào rẻ hơn?
+[en2] Which one is cheaper?
+[vi] Ngữ pháp: câu hỏi so sánh hơn với which, cái nào. Cheap là tính từ ngắn, nên thêm er. Không cần than, vì đối tượng so sánh đã rõ trong ngữ cảnh.
+[term] Which one is cheaper
+[vi] So sánh: which và what. Which dùng khi chọn trong một nhóm có giới hạn, đã biết: which one, căn nào trong hai căn. What dùng khi lựa chọn không giới hạn: What kind of flat do you want? Bạn muốn loại căn hộ nào?
+[term] Which one, What kind of
+[vi] Từ vựng: cheap là rẻ, đôi khi mang nghĩa rẻ tiền, như đã học ở bài một chấm một. Các cách nói lịch sự hơn: inexpensive, affordable, reasonably priced. Trái nghĩa là expensive, costly, và trong văn nói là pricey.
+[term] cheap, inexpensive, reasonably priced, costly, pricey
+
+[vi] Câu số ba. Hoa trả lời: Căn Quận Ba đắt hơn một chút, nhưng yên tĩnh hơn nhiều.
+[en] The District 3 flat is a bit more expensive, but it's much quieter.
+[vi] Ngữ pháp: hai so sánh hơn trong một câu. More expensive, vì expensive là tính từ dài, ba âm tiết. Quieter, vì quiet tuy có hai âm tiết nhưng thường thêm er như tính từ ngắn. A bit đứng trước so sánh để nói hơn một chút. Much đứng trước để nói hơn nhiều.
+[term] a bit more expensive, much quieter
+[vi] Bẫy: có ba bẫy. Thứ nhất, không dùng very trước so sánh hơn: very quieter là sai. Thứ hai, không dùng cả more và er cùng lúc: more quieter là sai. Thứ ba là bẫy chính tả rất hay gặp: quiet, có hai âm tiết, là yên tĩnh. Quite, một âm tiết, là khá. Hai từ chỉ đổi vị trí chữ e và chữ t.
+[term] much quieter, quiet, quite
+[vi] Từ vựng: quiet trái nghĩa với noisy, ồn ào. Peaceful là yên bình, nhấn mạnh cảm giác thư thái. Calm là bình tĩnh, êm ả, dùng cho cả người và biển. Cụm a bit có thể thay bằng slightly, trang trọng hơn, hoặc a little.
+[term] quiet, noisy, peaceful, calm, slightly
+
+[vi] Câu số bốn. Long hỏi: Căn đó cách chỗ làm của bạn bao xa?
+[en2] How far is it from your office?
+[vi] Ngữ pháp: how far dùng để hỏi khoảng cách. Câu trả lời thường là It's about five kilometres, hoặc It takes twenty minutes by motorbike.
+[term] How far is it from
+[vi] So sánh: how far, how long và how often. How far hỏi khoảng cách. How long hỏi thời gian kéo dài, mất bao lâu. How often hỏi tần suất, bao lâu một lần. Trong bài thi Nghe phần một, ba câu hỏi này rất hay xuất hiện, và người nói thường đưa cả khoảng cách lẫn thời gian để gây nhiễu.
+[term] how far, how long, how often
+[vi] Từ vựng: office là văn phòng, workplace là nơi làm việc nói chung. Commute là đi lại hằng ngày giữa nhà và nơi làm việc, vừa là động từ, vừa là danh từ: a long commute, quãng đường đi làm dài. Người đi làm hằng ngày gọi là commuter.
+[term] office, workplace, commute, commuter
+
+[vi] Câu số năm. Hoa đáp: Xa hơn. Quãng đường đi mất gấp đôi thời gian so với từ căn kia.
+[en] It's further away. The journey takes twice as long as from the other flat.
+[vi] Ngữ pháp: further là so sánh hơn bất quy tắc của far. Vế sau là so sánh gấp nhiều lần: twice as long as, gấp đôi. Công thức: twice, hoặc three times, four times, cộng as cộng tính từ cộng as.
+[term] further away, twice as long as
+[vi] Bẫy: so sánh gấp nhiều lần dùng cấu trúc so sánh bằng, as cộng as, chứ không phải so sánh hơn. Twice longer than là cách nói nhiều người dùng nhưng bị coi là thiếu chuẩn trong bài thi. Hãy viết twice as long as, three times as expensive as. Và farther với further: khi nói về khoảng cách, cả hai đều đúng. Nhưng chỉ further mới có nghĩa là thêm nữa, sâu hơn: further information, thông tin thêm, further education, giáo dục sau phổ thông.
+[term] three times as expensive as, farther, further information
+[vi] Từ vựng: journey là quãng đường di chuyển, đã học ở bài một chấm một. Away đi với khoảng cách: five kilometres away, cách năm cây số. Twice là hai lần, gấp đôi. Double là gấp đôi, dùng như động từ: prices doubled. Half là một nửa: half as long as, chỉ bằng một nửa thời gian.
+[term] five kilometres away, twice, double, half as long as
+
+[chapter] Phần 1: Mổ xẻ từng câu, căn nào tốt nhất
+[vi] Câu số sáu. Long nói: Ừm. Dạo này giao thông ngày càng tệ.
+[en2] Hmm. Traffic is getting worse and worse these days.
+[vi] Ngữ pháp: so sánh kép tăng tiến, so sánh hơn cộng and cộng so sánh hơn, nghĩa là ngày càng. Worse là so sánh hơn bất quy tắc của bad. Đi với get hoặc become ở thì tiếp diễn để diễn tả sự thay đổi đang diễn ra.
+[term] getting worse and worse
+[vi] So sánh: với tính từ ngắn, lặp lại dạng er: bigger and bigger, hotter and hotter. Với tính từ dài, lặp lại chữ more, tính từ chỉ viết một lần: more and more expensive, không viết more expensive and more expensive. Cấu trúc này cực kỳ hữu ích khi mô tả xu hướng trong bài Viết: Housing is becoming more and more expensive.
+[term] bigger and bigger, more and more expensive
+[vi] Từ vựng: traffic là giao thông, danh từ không đếm được, nên không nói a traffic hay traffics. Traffic jam là tắc đường, đếm được. Heavy traffic là đường đông xe, không nói big traffic. Rush hour là giờ cao điểm.
+[term] traffic, traffic jam, heavy traffic, rush hour
+
+[vi] Câu số bảy. Hoa nói: Đúng thế. Nhưng căn kia không sáng bằng căn này, và bếp của nó nhỏ nhất mà mình từng thấy.
+[en] True. But the other flat isn't as bright as this one, and its kitchen is the smallest I've ever seen.
+[vi] Ngữ pháp: câu có hai dạng so sánh. Isn't as bright as là so sánh không bằng. The smallest là so sánh nhất. Sau so sánh nhất thường đi kèm hiện tại hoàn thành với ever: the smallest I've ever seen, nhỏ nhất mà tôi từng thấy.
+[term] isn't as bright as, the smallest I've ever seen
+[vi] So sánh: not as bright as có thể viết lại bằng so sánh hơn: This flat is brighter than the other one, hoặc The other flat is less bright than this one. Đây là dạng viết lại câu kinh điển trong đề thi. Ở trình độ C1, có cách nói nhấn mạnh: nowhere near as bright as, kém xa về độ sáng.
+[term] brighter than, less bright than, nowhere near as bright as
+[vi] Từ vựng: bright là sáng sủa, nhiều ánh sáng, cũng có nghĩa là thông minh khi nói về người: a bright student. Trái nghĩa là dark. Its, không có dấu nháy, là của nó. It's, có dấu nháy, là it is. Đây là lỗi chính tả rất phổ biến trong bài Viết.
+[term] bright, a bright student, dark, its, it's
+
+[vi] Câu số tám. Long kết luận: Vậy thì căn Quận Ba có lẽ là lựa chọn tốt nhất.
+[en2] Then the District 3 flat is probably the best choice.
+[vi] Ngữ pháp: the best là so sánh nhất bất quy tắc của good. So sánh nhất luôn có the đứng trước.
+[term] the best choice
+[vi] Bẫy: quên the trước so sánh nhất là lỗi rất hay gặp: it is best choice là sai. Một bẫy khác: khi chỉ có hai đối tượng, về mặt chuẩn mực nên dùng so sánh hơn: the better of the two, cái tốt hơn trong hai cái. Trong văn nói, người bản xứ vẫn dùng the best cho hai lựa chọn, như Long ở đây, nhưng trong bài thi trắc nghiệm, cụm of the two đi với so sánh hơn.
+[term] the better of the two
+[vi] Từ vựng: choice là sự lựa chọn, động từ là choose, chose, chosen. Option là phương án, lựa chọn có sẵn. Alternative là phương án thay thế. Trong bài Nói phần hai, khi phải chọn giải pháp, câu In my opinion, the best option is là câu mở đầu rất an toàn.
+[term] choice, choose, option, alternative, the best option is
+
+[vi] Câu số chín. Hoa đồng ý: Mình nghĩ vậy. Nó không phải lựa chọn rẻ nhất, nhưng là thoải mái nhất.
+[en] I think so. It's not the cheapest option, but it's the most comfortable.
+[vi] Ngữ pháp: hai so sánh nhất. The cheapest, tính từ ngắn thêm est. The most comfortable, tính từ dài thêm the most. Cấu trúc not the cheapest, but the most comfortable là cách cân nhắc ưu nhược điểm rất gọn.
+[term] the cheapest, the most comfortable
+[vi] So sánh: tính từ hai âm tiết là vùng dễ nhầm. Tính từ hai âm tiết tận cùng bằng y thường thêm er, est: easy, easier, easiest. Còn đa số tính từ hai âm tiết khác dùng more, most: more modern, the most careful. Một số từ dùng được cả hai cách: quiet, clever, simple, narrow. Nếu không chắc, dùng more và most thường an toàn hơn trong bài Viết.
+[term] easiest, the most modern, quieter, more quiet
+[vi] Từ vựng: comfortable là thoải mái, tiện nghi, trái nghĩa là uncomfortable. Phân biệt với convenient, thuận tiện, thường dùng cho vị trí, thời gian, dịch vụ: The flat is in a convenient location. Một người cảm thấy thoải mái thì dùng comfortable, không dùng convenient.
+[term] comfortable, uncomfortable, convenient, a convenient location
+
+[vi] Câu số mười, câu cuối. Long nói thêm: Và bạn có thể làm việc ở nhà thường xuyên hơn. Như thế đỡ căng thẳng hơn ngồi kẹt xe.
+[en2] And you can work from home more often. That's less stressful than sitting in traffic.
+[vi] Ngữ pháp: more often là so sánh hơn của trạng từ often. Less stressful than là so sánh kém, ít hơn: less cộng tính từ cộng than. Sitting in traffic là động từ thêm ing làm danh từ, đã học ở bài một chấm ba.
+[term] more often, less stressful than
+[vi] So sánh: less và fewer. Less đi với danh từ không đếm được: less traffic, less money. Fewer đi với danh từ đếm được số nhiều: fewer cars, fewer people. Viết less cars là lỗi bị trừ điểm trong bài Viết. Ngược lại, more dùng được cho cả hai loại: more traffic, more cars.
+[term] less traffic, fewer cars, more cars
+[vi] Từ vựng: stressful là gây căng thẳng, dùng cho sự việc: a stressful job. Stressed là cảm thấy căng thẳng, dùng cho người: I feel stressed. Cặp tương tự: boring và bored, tiring và tired. Tính từ có ing mô tả sự việc gây ra cảm giác, tính từ có ed mô tả cảm giác của người. Work from home là làm việc tại nhà, gần nghĩa với work remotely.
+[term] stressful, stressed, boring, bored, work from home, work remotely
+
+[chapter] Phần 1: Nghe lại trọn cuộc trò chuyện
+[vi] Mời bạn nghe lại toàn bộ cuộc trò chuyện giữa Hoa và Long.
+[read] I've seen two flats today. The one in District 3 is bigger than the one near my office.
+[read2] Which one is cheaper?
+[read] The District 3 flat is a bit more expensive, but it's much quieter.
+[read2] How far is it from your office?
+[read] It's further away. The journey takes twice as long as from the other flat.
+[read2] Hmm. Traffic is getting worse and worse these days.
+[read] True. But the other flat isn't as bright as this one, and its kitchen is the smallest I've ever seen.
+[read2] Then the District 3 flat is probably the best choice.
+[read] I think so. It's not the cheapest option, but it's the most comfortable.
+[read2] And you can work from home more often. That's less stressful than sitting in traffic.
+[vi] Bạn đã trả lời được câu hỏi ban đầu chưa? Hoa chọn căn ở Quận Ba. Nó đắt hơn một chút và xa hơn, nhưng rộng hơn, yên tĩnh hơn, sáng hơn, và thoải mái nhất.
+[vi] Mẹo áp dụng: trong bài thi Nói phần hai, giám khảo đưa ra một tình huống và ba phương án, yêu cầu bạn chọn một. Cuộc trò chuyện này chính là khung trả lời mẫu. Nêu lựa chọn bằng the best option is. Thừa nhận nhược điểm bằng It's not the cheapest. Rồi so sánh với các phương án còn lại bằng much, far, less, not as as.
+[term] The best option is, It's not the cheapest, but it's the most
+
+[chapter] Tổng kết từ vựng Tập A
+[vi] Chúng ta cùng ôn lại các nhóm từ trong tập hôm nay.
+[vi] 1. Căn hộ: flat, apartment. Khu dân cư: neighbourhood.
+[term] flat, apartment, neighbourhood
+[vi] 2. Giá phải chăng: inexpensive, reasonably priced. Đắt: costly, pricey.
+[term] inexpensive, reasonably priced, costly, pricey
+[vi] 3. Yên tĩnh: quiet. Khá: quite. Yên bình: peaceful. Ồn ào: noisy.
+[term] quiet, quite, peaceful, noisy
+[vi] 4. Đi lại hằng ngày giữa nhà và chỗ làm: commute. Người đi làm hằng ngày: commuter.
+[term] commute, commuter
+[vi] 5. Thông tin thêm: further information. Gấp đôi: twice as long as.
+[term] further information, twice as long as
+[vi] 6. Giao thông: traffic. Tắc đường: traffic jam. Đường đông: heavy traffic. Giờ cao điểm: rush hour.
+[term] traffic jam, heavy traffic, rush hour
+[vi] 7. Sáng sủa, thông minh: bright. Của nó: its. Nó là: it's.
+[term] bright, its, it's
+[vi] 8. Lựa chọn: choice. Phương án: option. Phương án thay thế: alternative.
+[term] choice, option, alternative
+[vi] 9. Thoải mái: comfortable. Thuận tiện: convenient.
+[term] comfortable, convenient
+[vi] 10. Gây căng thẳng: stressful. Cảm thấy căng thẳng: stressed. Ít hơn với danh từ đếm được: fewer.
+[term] stressful, stressed, fewer
+[vi] Tập A đến đây là kết thúc. Trong Tập B, chúng ta dùng các dạng so sánh để đọc một bản tin về xu hướng du lịch của giới trẻ, một chủ đề vừa văn hóa vừa thời thượng. Cuối tập là phần thư giãn với tên những bài hát có chứa so sánh hơn và so sánh nhất. Hẹn gặp lại các bạn.

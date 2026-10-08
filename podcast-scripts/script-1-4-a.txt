@@ -1,57 +1,180 @@
-[vi] 0. Ôn nền (Foundation Review).
-[vi] Chào các bạn, chúng ta cùng ôn lại kiến thức nền. Câu chủ động là khi chủ ngữ thực hiện hành động. Ví dụ: Mọi người nói tiếng Anh ở đây.
+[chapter] Mở đầu và Ôn nền: câu bị động và động từ khuyết thiếu
+[vi] Chào mừng các bạn đến với chuỗi podcast ngữ pháp thực chiến cho kỳ thi VSTEP. Đây là bài một chấm bốn, phần A: Câu bị động và động từ khuyết thiếu.
+[vi] Câu bị động có mặt ở khắp nơi trong đời sống: biển báo, nội quy, thông báo ở sân bay, khách sạn, bệnh viện. Trong bài thi, nó là công cụ giúp văn viết khách quan và trang trọng hơn. Hôm nay chúng ta học nó qua một tình huống rất quen: nhận phòng khách sạn.
+[vi] Trước hết, chúng ta ôn nhanh phần nền. Nếu bạn đã nhớ chắc, hãy bấm sang chương tiếp theo.
+[vi] Câu chủ động: chủ ngữ là người hoặc vật thực hiện hành động. Ví dụ: Người ta nói tiếng Anh ở đây.
 [en] People speak English here.
-[vi] Phân tích: Chủ ngữ 'People' thực hiện hành động 'speak'.
-[term] Active Voice
-[vi] Từ mới: Không có.
-[term] None
-
-[vi] Ngược lại, câu bị động nhấn mạnh đối tượng chịu tác động. Ví dụ: Tiếng Anh được nói ở đây.
+[vi] Câu bị động: chủ ngữ là đối tượng chịu tác động. Công thức: chủ ngữ cộng động từ to be chia theo thì, cộng động từ cột ba. Nếu cần nói ai làm, thêm by và người làm ở cuối. Ví dụ: Tiếng Anh được nói ở đây.
 [en] English is spoken here.
-[vi] Phân tích: Chủ ngữ 'English' nhận hành động, cấu trúc to be + V3.
-[term] Passive Voice
-[vi] Từ mới: Không có.
-[term] None
+[vi] Mẹo quan trọng nhất: khi chuyển sang bị động, thì của câu nằm ở động từ to be, còn động từ chính luôn ở cột ba. Speak ở hiện tại đơn, nên bị động là is spoken.
+[vi] Bị động hiện tại đơn: am, is, are cộng động từ cột ba, dùng cho quy trình, việc lặp lại. Ví dụ: Căn phòng được dọn mỗi ngày.
+[en] The room is cleaned every day.
+[vi] Bị động quá khứ đơn: was, were cộng động từ cột ba. Ví dụ: Ngôi nhà này được xây năm 1990.
+[en] This house was built in 1990.
+[vi] Bị động hiện tại hoàn thành: have been hoặc has been cộng động từ cột ba. Ví dụ: Xe đạp của tôi đã được sửa xong.
+[en] My bike has been repaired.
+[vi] Bị động với động từ khuyết thiếu: can, must, should, will, may, cộng be, cộng động từ cột ba. Sau động từ khuyết thiếu luôn là be nguyên mẫu, không chia. Ví dụ: Điện thoại phải được tắt.
+[en] Phones must be turned off.
+[vi] Và ôn nhanh nghĩa của các động từ khuyết thiếu. Can là có thể, hoặc được phép. Must là phải, bắt buộc, thường do quy định hoặc do người nói tự thấy cần. Have to cũng là phải, nhưng do hoàn cảnh bên ngoài. Should là nên, lời khuyên. May và might là có lẽ, có thể, chỉ khả năng xảy ra.
+[term] can, must, have to, should, may, might
 
-[vi] Tiếp theo là các thì bị động cơ bản. Hiện tại đơn bị động diễn tả quy trình, sự thật. Ví dụ: Rác được nén lại trước khi ném xuống hố.
-[en] Garbage is compacted before it is thrown into the hole.
-[vi] Phân tích: Cấu trúc am/is/are + V3/ed.
-[term] Present Simple Passive
-[vi] Từ mới: nén lại, hố
-[term] compact, hole
+[chapter] Khung bài: nghe gì ở quầy lễ tân
+[vi] Tình huống đời sống hôm nay: anh Nam đến nhận phòng ở một khách sạn và trò chuyện với cô lễ tân. Giọng nữ là cô lễ tân, giọng nam là anh Nam.
+[vi] Đoạn hội thoại có mười một câu, gần như câu nào cũng có bị động hoặc động từ khuyết thiếu. Lần nghe đầu, hãy để ý cụm be cộng động từ cột ba, và các chữ can, must, should, have to.
+[vi] Có một câu hỏi bạn nên tự đặt ra mỗi khi gặp câu bị động: tại sao người nói không nhắc đến người làm? Thường là vì người làm không quan trọng, hoặc ai cũng biết là ai.
 
-[vi] Quá khứ đơn bị động dùng cho sự việc đã xảy ra trong quá khứ. Ví dụ: Ngôi nhà Salter được xây bởi ngài Joshua Salter vào năm 1765.
-[en] Salter house was built by Sir Joshua Salter in 1765.
-[vi] Phân tích: Cấu trúc was/were + V3/ed.
-[term] Past Simple Passive
-[vi] Từ mới: xây dựng
-[term] build
+[chapter] Phần 1: Đời sống. Nghe trọn cuộc trò chuyện ở quầy lễ tân
+[vi] Mời bạn nghe cuộc trò chuyện ở quầy lễ tân.
+[read] Good evening, sir. Your room has been cleaned, and your key card is ready.
+[read2] Thanks. Is breakfast included in the price?
+[read] Yes, it is. Breakfast is served from six to ten in the restaurant on the first floor.
+[read2] Great. Can I leave my bike outside? Mine was stolen at another hotel last year.
+[read] I'm afraid bikes must be kept in the garage at night.
+[read2] No problem. Oh, and my suit needs to be ironed before tomorrow's meeting.
+[read] Of course. It will be returned to your room by seven a.m.
+[read2] Should I pay for that now?
+[read] You don't have to. All extra services can be charged to your room.
+[read2] Perfect. And smoking isn't allowed in the rooms, right?
+[read] That's right. Guests who smoke in the rooms may be fined fifty dollars.
 
-[vi] Hiện tại hoàn thành bị động cho việc đã hoàn tất, kết quả còn ở hiện tại. Ví dụ: Những nỗ lực đã bị cản trở bởi sự phổ biến của thói quen này.
-[en] Efforts have been hampered by the habit's popularity.
-[vi] Phân tích: Cấu trúc have/has been + V3/ed.
-[term] Present Perfect Passive
-[vi] Từ mới: nỗ lực, cản trở
-[term] effort, hamper
+[chapter] Phần 1: Mổ xẻ từng câu, nhận phòng
+[vi] Câu số một. Cô lễ tân nói: Chào buổi tối anh. Phòng của anh đã được dọn xong, và thẻ phòng đã sẵn sàng.
+[en] Good evening, sir. Your room has been cleaned, and your key card is ready.
+[vi] Ngữ pháp: bị động hiện tại hoàn thành, has been cleaned. Căn phòng không tự dọn, nó được nhân viên dọn. Hiện tại hoàn thành vì việc dọn đã xong và kết quả là bây giờ phòng sạch.
+[term] has been cleaned
+[vi] So sánh: tại sao không nói The cleaner has cleaned your room? Vì khách không quan tâm ai dọn, chỉ quan tâm phòng đã sạch chưa. Khi người làm không quan trọng, không rõ, hoặc ai cũng biết, ta dùng bị động và bỏ luôn phần by. Viết your room has been cleaned by someone là thừa.
+[term] The cleaner has cleaned your room
+[vi] Từ vựng: key card là thẻ khóa phòng. Ready là sẵn sàng, get ready là chuẩn bị. Clean là lau dọn cho sạch, còn tidy là sắp xếp gọn gàng. Một căn phòng có thể gọn nhưng chưa sạch.
+[term] key card, get ready, clean, tidy
 
-[vi] Tương lai đơn bị động dùng cho sự việc sẽ xảy ra. Ví dụ: Vấn đề sẽ được "giải quyết", ít nhất là trong lúc này.
-[en] The problem will be "solved", at least for the moment.
-[vi] Phân tích: Cấu trúc will be + V3/ed.
-[term] Future Simple Passive
-[vi] Từ mới: giải quyết
-[term] solve
+[vi] Câu số hai. Anh Nam hỏi: Cảm ơn. Bữa sáng có bao gồm trong giá phòng không?
+[en2] Thanks. Is breakfast included in the price?
+[vi] Ngữ pháp: câu hỏi ở bị động hiện tại đơn. Đưa động từ to be lên đầu câu: is breakfast included. Không cần mượn do hay does như câu chủ động.
+[term] Is breakfast included
+[vi] Bẫy: Does breakfast included là sai, vì câu bị động đã có to be, không dùng thêm does. Một cách nói tương đương rất hay gặp trong văn bản: Breakfast is included, hoặc ngắn gọn là breakfast included, ghi trên bảng giá.
+[term] Breakfast is included
+[vi] Từ vựng: include và contain đều là bao gồm, chứa. Include là bao gồm như một phần trong tổng thể: the price includes breakfast. Contain là chứa bên trong một vật: this box contains books, this drink contains sugar. Ngược nghĩa với include là exclude, không bao gồm.
+[term] include, contain, exclude
 
-[vi] Cuối cùng, thể bị động với động từ khuyết thiếu diễn tả khả năng, bắt buộc. Ví dụ: Sự tin tưởng vào kỹ năng của họ chỉ có thể đạt được thông qua đạo đức.
-[en] Confidence in their skills can only be achieved through ethics.
-[vi] Phân tích: Cấu trúc Modal + be + V3/ed.
-[term] Modal Passive
-[vi] Từ mới: sự tin tưởng, đạt được
-[term] confidence, achieve
+[vi] Câu số ba. Cô lễ tân đáp: Có ạ. Bữa sáng được phục vụ từ sáu đến mười giờ tại nhà hàng ở tầng một.
+[en] Yes, it is. Breakfast is served from six to ten in the restaurant on the first floor.
+[vi] Ngữ pháp: bị động hiện tại đơn, is served, vì đây là lịch phục vụ lặp lại mỗi ngày. Câu trả lời ngắn Yes, it is lặp lại đúng động từ to be của câu hỏi.
+[term] is served, Yes, it is
+[vi] Bẫy: first floor là bẫy rất hay gặp trong bài thi Nghe. Theo cách nói của người Anh, tầng trệt là ground floor, và first floor là tầng ngay trên đó, tức là tầng hai theo cách đếm của người Việt. Theo cách nói của người Mỹ, first floor lại là tầng trệt. Đề VSTEP dùng nhiều tiếng Anh Anh, nên khi nghe ground floor, hãy hiểu là tầng trệt.
+[term] ground floor, first floor
+[vi] Từ vựng: serve là phục vụ món ăn, đồ uống. Service là dịch vụ, sự phục vụ. Waiter và waitress là người phục vụ bàn. Còn from cộng thời gian to cộng thời gian là từ mấy giờ đến mấy giờ, tương đương between six and ten.
+[term] serve, service, waiter, from six to ten, between six and ten
 
-[vi] Tổng kết từ vựng phần A:
-[term] compact (v): nén lại
-[term] hamper (v): cản trở
-[term] effort (n): nỗ lực
-[term] solve (v): giải quyết
-[term] confidence (n): sự tin tưởng
-[term] achieve (v): đạt được
+[vi] Câu số bốn. Anh Nam hỏi: Tuyệt. Tôi có thể để xe đạp ở ngoài không? Xe của tôi đã bị trộm ở một khách sạn khác năm ngoái.
+[en2] Great. Can I leave my bike outside? Mine was stolen at another hotel last year.
+[vi] Ngữ pháp: can I dùng để xin phép, có được phép không. Vế sau là bị động quá khứ đơn, was stolen, vì có mốc last year. Steal là động từ bất quy tắc: steal, stole, stolen.
+[term] Can I leave, was stolen
+[vi] So sánh: can, could và may đều dùng để xin phép. Can I là thân mật, thông dụng. Could I lịch sự hơn. May I trang trọng nhất, hay dùng với người lạ hoặc trong thư từ. Trong bài thi Nói, dùng could I hoặc may I sẽ ghi điểm về sự lịch sự.
+[term] Can I, Could I, May I
+[vi] Từ vựng: steal và rob là cặp bẫy kinh điển. Steal đi với đồ vật bị lấy: someone stole my bike, my bike was stolen. Rob đi với người hoặc nơi bị cướp: someone robbed me, the bank was robbed. Không nói my bike was robbed. Kẻ trộm là thief, kẻ cướp là robber. Còn mine là đại từ sở hữu, thay cho my bike.
+[term] steal, rob, thief, robber, mine
+
+[vi] Câu số năm. Cô lễ tân nói: Tôi e là xe đạp phải được cất trong nhà xe vào ban đêm.
+[en] I'm afraid bikes must be kept in the garage at night.
+[vi] Ngữ pháp: bị động với động từ khuyết thiếu, must be kept. Công thức: must cộng be cộng động từ cột ba. Keep là bất quy tắc: keep, kept, kept. Đây là câu nội quy, nên dùng must.
+[term] must be kept
+[vi] So sánh: nội quy thường viết bằng bị động với must để nghe khách quan, không chỉ thẳng vào ai: Bikes must be kept in the garage, Phones must be switched off, Bags must be left at the entrance. Trong bài thi Nghe, những câu nội quy này thường được đổi cách nói. Bài nghe nói You have to leave your bags here, còn đáp án lại viết Bags must be left at the entrance. Hãy nhận ra hai câu này cùng nghĩa.
+[term] Bags must be left at the entrance
+[vi] Từ vựng: I'm afraid ở đây không có nghĩa là tôi sợ, mà là cách mở đầu lịch sự trước khi báo tin không vui, như rất tiếc là. Garage ở đây là nhà để xe. Keep là giữ, cất, gần nghĩa có store, cất giữ, lưu trữ.
+[term] I'm afraid, garage, keep, store
+
+[vi] Câu số sáu. Anh Nam nói: Không sao. À, bộ com lê của tôi cần được là trước cuộc họp ngày mai.
+[en2] No problem. Oh, and my suit needs to be ironed before tomorrow's meeting.
+[vi] Ngữ pháp: need cộng to be cộng động từ cột ba, needs to be ironed. Bộ com lê không tự là, nó cần được là, nên dùng bị động.
+[term] needs to be ironed
+[vi] So sánh: như đã học ở bài trước, khi chủ ngữ là đồ vật, need cộng ing cũng mang nghĩa bị động: my suit needs ironing. Hai câu my suit needs to be ironed và my suit needs ironing có cùng nghĩa. Nhưng nếu chủ ngữ là người thì phải dùng to cộng động từ chủ động: I need to iron my suit, tôi cần tự là bộ com lê.
+[term] my suit needs ironing, I need to iron my suit
+[vi] Từ vựng: suit là bộ com lê, bộ vest. Bẫy: suite, viết thêm chữ e, đọc giống chữ sweet, lại là phòng hạng sang trong khách sạn. Iron vừa là động từ là ủi, vừa là danh từ cái bàn là, và cũng là sắt. Tomorrow's meeting dùng sở hữu cách với thời gian: tomorrow's meeting, today's news.
+[term] suit, suite, iron, tomorrow's meeting
+
+[chapter] Phần 1: Mổ xẻ từng câu, dịch vụ và nội quy
+[vi] Câu số bảy. Cô lễ tân đáp: Tất nhiên rồi. Bộ đồ sẽ được trả về phòng anh trước bảy giờ sáng.
+[en] Of course. It will be returned to your room by seven a.m.
+[vi] Ngữ pháp: bị động tương lai đơn, will be returned. Công thức: will cộng be cộng động từ cột ba. By seven a.m. là trước bảy giờ sáng, hạn chót.
+[term] will be returned, by seven a.m.
+[vi] Bẫy: chữ by trong câu này chỉ hạn chót, không phải by chỉ người làm trong câu bị động. Cùng một chữ by có thể có hai vai trò. By seven a.m. là trước bảy giờ. By the hotel staff là bởi nhân viên khách sạn. Hãy nhìn từ đứng sau by để biết nghĩa: sau by là thời gian thì nghĩa là trước, hạn chót.
+[term] by seven a.m., by the hotel staff
+[vi] Từ vựng: return là trả lại, quay lại. Return something to someone là trả cái gì cho ai, gần nghĩa với give back. Bẫy: return đã mang nghĩa quay lại, nên return back là thừa chữ, không nên viết. A.m. là buổi sáng, p.m. là buổi chiều tối.
+[term] return, give back, a.m., p.m.
+
+[vi] Câu số tám. Anh Nam hỏi: Tôi có nên trả tiền dịch vụ đó luôn bây giờ không?
+[en2] Should I pay for that now?
+[vi] Ngữ pháp: should dùng trong câu hỏi để xin lời khuyên, hỏi điều nên làm. Sau should là động từ nguyên mẫu, pay.
+[term] Should I pay
+[vi] So sánh: should, ought to và had better đều là nên. Should thông dụng nhất. Ought to cùng nghĩa, trang trọng hơn một chút. Had better mạnh hơn, mang ý cảnh báo, nếu không làm sẽ có hậu quả: You had better hurry, or you will miss the bus. Sau had better là động từ nguyên mẫu không to.
+[term] should, ought to, had better
+[vi] Từ vựng: pay for something là trả tiền cho cái gì, nhớ giới từ for. Pay someone là trả tiền cho ai. Pay in cash là trả bằng tiền mặt, pay by card là trả bằng thẻ.
+[term] pay for, pay in cash, pay by card
+
+[vi] Câu số chín. Cô lễ tân đáp: Anh không cần phải trả bây giờ. Tất cả các dịch vụ thêm có thể được tính vào tiền phòng.
+[en] You don't have to. All extra services can be charged to your room.
+[vi] Ngữ pháp: vế đầu là don't have to, không cần phải. Vế sau là bị động với can: can be charged, có thể được tính tiền.
+[term] don't have to, can be charged
+[vi] Bẫy: đây là bẫy nghĩa quan trọng nhất của bài. Must và have to ở thể khẳng định gần nghĩa nhau, đều là phải. Nhưng ở thể phủ định thì khác hẳn. Mustn't là cấm, không được làm. Don't have to là không cần phải làm, làm cũng được, không làm cũng được. You mustn't pay now là anh không được trả bây giờ. You don't have to pay now là anh không cần trả bây giờ. Trong bài thi Nghe, nhầm hai chữ này là chọn sai đáp án.
+[term] mustn't, don't have to
+[vi] Từ vựng: charge là tính phí, và cũng là danh từ phí. Charge something to your room là tính vào tiền phòng. Phân biệt các loại phí: fee là phí dịch vụ, học phí. Fare là tiền vé tàu xe. Fine là tiền phạt. Free of charge là miễn phí.
+[term] charge, fee, fare, fine, free of charge
+
+[vi] Câu số mười. Anh Nam hỏi: Tuyệt. Và không được hút thuốc trong phòng, phải không?
+[en2] Perfect. And smoking isn't allowed in the rooms, right?
+[vi] Ngữ pháp: bị động hiện tại đơn phủ định, isn't allowed. Chủ ngữ smoking là động từ thêm ing, học ở bài trước, nên đi với is.
+[term] smoking isn't allowed
+[vi] So sánh: có nhiều cách nói cấm. Smoking isn't allowed và smoking is not permitted là không được phép, lịch sự. Smoking is prohibited và smoking is forbidden mạnh hơn, hay gặp trên biển báo. Và cách gọn nhất: No smoking. Trong bài thi Đọc, các biển báo này thường được hỏi lại bằng một cách nói khác, như you mustn't smoke here.
+[term] isn't allowed, is not permitted, is prohibited, is forbidden
+[vi] Từ vựng: allow và permit đi với tân ngữ và to: allow guests to smoke. Ở bị động: guests are allowed to smoke. Right ở cuối câu là câu hỏi đuôi trong văn nói, nghĩa là phải không, tương tự isn't it.
+[term] allow guests to smoke, guests are allowed to smoke
+
+[vi] Câu số mười một, câu cuối. Cô lễ tân nói: Đúng vậy. Khách hút thuốc trong phòng có thể bị phạt năm mươi đô la.
+[en] That's right. Guests who smoke in the rooms may be fined fifty dollars.
+[vi] Ngữ pháp: bị động với may, may be fined, có thể bị phạt. May chỉ khả năng, không chắc chắn trăm phần trăm. Chủ ngữ là guests who smoke in the rooms, một cụm có mệnh đề quan hệ, sẽ học ở Module 2.
+[term] may be fined
+[vi] So sánh: may, might và will đi với bị động cho ba mức độ chắc chắn khác nhau. Guests will be fined là chắc chắn sẽ bị phạt. Guests may be fined là có thể bị phạt. Guests might be fined là có thể bị phạt nhưng khả năng thấp hơn. Trong bài Viết, dùng may và might giúp lập luận thận trọng hơn, tránh khẳng định quá mức.
+[term] will be fined, may be fined, might be fined
+[vi] Từ vựng: fine vừa là danh từ tiền phạt, vừa là động từ phạt tiền: be fined fifty dollars. Phân biệt với punish, là trừng phạt nói chung, và penalty, là hình phạt, mức phạt, cũng là quả phạt đền trong bóng đá.
+[term] fine, be fined, punish, penalty
+
+[chapter] Phần 1: Nghe lại trọn cuộc trò chuyện
+[vi] Mời bạn nghe lại toàn bộ cuộc trò chuyện ở quầy lễ tân.
+[read] Good evening, sir. Your room has been cleaned, and your key card is ready.
+[read2] Thanks. Is breakfast included in the price?
+[read] Yes, it is. Breakfast is served from six to ten in the restaurant on the first floor.
+[read2] Great. Can I leave my bike outside? Mine was stolen at another hotel last year.
+[read] I'm afraid bikes must be kept in the garage at night.
+[read2] No problem. Oh, and my suit needs to be ironed before tomorrow's meeting.
+[read] Of course. It will be returned to your room by seven a.m.
+[read2] Should I pay for that now?
+[read] You don't have to. All extra services can be charged to your room.
+[read2] Perfect. And smoking isn't allowed in the rooms, right?
+[read] That's right. Guests who smoke in the rooms may be fined fifty dollars.
+[vi] Tóm tắt: chỉ trong một lần nhận phòng, bạn đã gặp bị động ở đủ các thì. Has been cleaned, hiện tại hoàn thành. Is included, is served, isn't allowed, hiện tại đơn. Was stolen, quá khứ đơn. Will be returned, tương lai. Và bị động với động từ khuyết thiếu: must be kept, needs to be ironed, can be charged, may be fined.
+[vi] Mẹo áp dụng: khi viết thư yêu cầu trong Writing Task 1, bị động giúp lời yêu cầu lịch sự hơn, vì không chỉ thẳng vào người đọc. Thay vì viết You must repair the air conditioner, hãy viết The air conditioner needs to be repaired as soon as possible.
+[term] The air conditioner needs to be repaired as soon as possible.
+
+[chapter] Tổng kết từ vựng Tập A
+[vi] Chúng ta cùng ôn lại các nhóm từ trong tập hôm nay.
+[vi] 1. Lau dọn: clean. Sắp xếp gọn: tidy. Thẻ phòng: key card.
+[term] clean, tidy, key card
+[vi] 2. Bao gồm: include. Chứa bên trong: contain. Không bao gồm: exclude.
+[term] include, contain, exclude
+[vi] 3. Tầng trệt: ground floor. Tầng ngay trên tầng trệt, theo kiểu Anh: first floor.
+[term] ground floor, first floor
+[vi] 4. Lấy trộm đồ: steal. Cướp người, cướp nơi: rob. Kẻ trộm: thief. Kẻ cướp: robber.
+[term] steal, rob, thief, robber
+[vi] 5. Rất tiếc là: I'm afraid. Cất giữ: keep, store.
+[term] I'm afraid, keep, store
+[vi] 6. Bộ com lê: suit. Phòng hạng sang: suite. Là ủi: iron.
+[term] suit, suite, iron
+[vi] 7. Trả lại: return, give back. Nên: should, ought to. Tốt hơn hết là: had better.
+[term] return, give back, ought to, had better
+[vi] 8. Cấm: mustn't. Không cần phải: don't have to.
+[term] mustn't, don't have to
+[vi] 9. Phí dịch vụ: fee. Tiền vé tàu xe: fare. Tiền phạt: fine. Miễn phí: free of charge.
+[term] fee, fare, fine, free of charge
+[vi] 10. Bị cấm: is prohibited, is forbidden. Trừng phạt: punish. Hình phạt: penalty.
+[term] is prohibited, is forbidden, punish, penalty
+[vi] Tập A đến đây là kết thúc. Trong Tập B, chúng ta dùng bị động để đọc một bản tin về trí tuệ nhân tạo trong bệnh viện, một chủ đề công nghệ rất thời sự, và học cách viết câu khách quan kiểu It is believed that. Cuối tập là phần thư giãn với tên những bài hát có chứa can, should và must. Hẹn gặp lại các bạn.

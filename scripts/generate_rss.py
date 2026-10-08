@@ -4,6 +4,7 @@ import glob
 import json
 import subprocess
 from datetime import datetime, timedelta
+from urllib.parse import quote_plus
 
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
@@ -61,13 +62,24 @@ def generate_podcast_xml(out_path="podcast.xml"):
             title_str += " (bản ngắn)"
             
         with open(script_path, 'r', encoding='utf-8') as f:
-            first_lines = f.read().split('\n')[:5]
+            all_lines = f.read().split('\n')
+            first_lines = all_lines[:5]
             desc = f"Tập {parts[0]}.{parts[1]}{parts[2].upper()} của VSTEP Podcast."
             # try to find a chapter or vi
             for l in first_lines:
                 if l.startswith('[vi]'):
                     desc = l[5:]
                     break
+            # Bài hát được nhắc trong tập: chỉ ghi tên + ca sĩ + link tìm kiếm, không phát bản gốc
+            songs = [l[len('[song]'):].strip() for l in all_lines if l.startswith('[song]')]
+            if songs:
+                song_items = []
+                for s in songs:
+                    title, artist = [p.strip() for p in s.split('|', 1)]
+                    q = quote_plus(f"{title} {artist} official")
+                    song_items.append(f'<li>{title} – {artist} (<a href="https://www.youtube.com/results?search_query={q}">nghe bản gốc</a>)</li>')
+                desc += ("<p>Bài hát nhắc tới trong tập (chỉ phân tích tên bài, nghe bản gốc trên nền tảng chính thức):</p><ul>"
+                         + "".join(song_items) + "</ul>")
         
         season = int(parts[0]) if len(parts) >= 1 else 1
         lesson = int(parts[1]) if len(parts) >= 2 else 1

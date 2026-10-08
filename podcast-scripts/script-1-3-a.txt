@@ -1,111 +1,174 @@
-[chapter] Phần 1: Ôn nền nhanh - 6 Cấu trúc V-ing và To-V cơ bản
-[vi] Chào mừng các bạn đến với chuỗi podcast chuyên sâu về ngữ pháp thực chiến VSTEP. Hôm nay, chúng ta cùng phân tích chuyên đề trọng tâm Bài một chấm ba: Phân biệt Danh động từ (V-ing) và Động từ nguyên mẫu.
-[vi] Trước khi vào bài, cùng ôn lại nhanh các kiến thức nền sẽ dùng trong bài này qua 6 cấu trúc cơ bản.
-[vi] Cấu trúc số 1: V-ing làm chủ ngữ. Hành động đóng vai trò danh từ, đứng đầu câu. Ví dụ: Việc bơi lội thì tốt cho sức khỏe.
+[chapter] Mở đầu và Ôn nền: động từ thêm ing và to cộng động từ
+[vi] Chào mừng các bạn đến với chuỗi podcast ngữ pháp thực chiến cho kỳ thi VSTEP. Đây là bài một chấm ba, phần A: Danh động từ và động từ nguyên mẫu.
+[vi] Câu hỏi của bài hôm nay rất đơn giản: khi hai động từ đứng cạnh nhau, động từ thứ hai có dạng gì? Thêm ing, có to phía trước, hay để nguyên không có to? Đây là dạng câu hỏi xuất hiện trong hầu hết các đề trắc nghiệm ngữ pháp.
+[vi] Trước khi vào tình huống, chúng ta ôn nhanh sáu quy tắc nền. Nếu bạn đã nhớ chắc, hãy bấm sang chương tiếp theo.
+[vi] Quy tắc một: động từ thêm ing có thể làm chủ ngữ, đứng đầu câu như một danh từ. Khi đó động từ chính chia số ít. Ví dụ: Bơi lội tốt cho sức khỏe.
 [en] Swimming is good for your health.
-[vi] Ở đây ta dùng Swimming và động từ to be chia số ít là is.
-[term] Swimming is
-[vi] Cấu trúc số 2: Động từ cộng V-ing. Dùng sau một số động từ chỉ sở thích, né tránh. Ví dụ: Tôi thích đọc sách.
+[vi] Swimming là chủ ngữ, nên động từ là is, số ít.
+[vi] Quy tắc hai: sau một số động từ, động từ tiếp theo phải thêm ing. Nhóm hay gặp nhất là enjoy, avoid, finish, mind, keep, give up, suggest.
+[term] enjoy, avoid, finish, mind, keep, give up, suggest
+[vi] Ví dụ: Tôi thích đọc sách.
 [en] I enjoy reading books.
-[vi] Ta dùng động từ reading sau enjoy.
-[term] reading
-[vi] Cấu trúc số 3: Giới từ cộng V-ing. Sau giới từ, động từ luôn ở dạng V-ing. Ví dụ: Cô ấy giỏi việc nấu ăn.
+[vi] Quy tắc ba: sau giới từ, động từ luôn thêm ing. Giới từ là những chữ như in, on, at, of, about, for, without.
+[term] in, on, at, of, about, for, without
+[vi] Ví dụ: Cô ấy nấu ăn giỏi.
 [en] She is good at cooking.
-[vi] Từ cooking đi ngay sau giới từ at.
-[term] at cooking
-[vi] Cấu trúc số 4: Động từ cộng To-V. Diễn tả dự định, mong muốn, quyết định. Ví dụ: Tôi muốn học tiếng Anh.
+[vi] Quy tắc bốn: sau một nhóm động từ khác, động từ tiếp theo dùng to cộng động từ nguyên mẫu. Nhóm này thường nói về dự định, mong muốn, quyết định, hướng tới tương lai: want, decide, plan, hope, agree, refuse, promise.
+[term] want, decide, plan, hope, agree, refuse, promise
+[vi] Ví dụ: Tôi muốn học tiếng Anh.
 [en] I want to learn English.
-[vi] Sau want, ta dùng to learn.
-[term] want to learn
-[vi] Cấu trúc số 5: To-V chỉ mục đích, giải thích để làm gì. Ví dụ: Anh ấy tiết kiệm tiền để mua một chiếc xe.
+[vi] Quy tắc năm: to cộng động từ dùng để nói mục đích, nghĩa là để làm gì. Ví dụ: Anh ấy tiết kiệm tiền để mua xe hơi.
 [en] He saves money to buy a car.
-[vi] Cụm to buy chỉ mục đích mua xe.
-[term] to buy
-[vi] Cấu trúc số 6: Động từ nguyên mẫu không to. Đứng sau động từ khuyết thiếu và sau make, let. Ví dụ: Mẹ tôi cho phép tôi đi chơi.
+[vi] Quy tắc sáu: động từ nguyên mẫu không có to đứng sau các động từ khuyết thiếu như can, must, should, và sau cấu trúc make hoặc let, cộng tân ngữ, cộng động từ. Ví dụ: Mẹ tôi cho phép tôi ra ngoài chơi.
 [en] My mom let me go out.
-[vi] Động từ go giữ nguyên dạng sau let.
-[term] let me go
+[vi] Một mẹo để nhớ: động từ thêm ing thường gắn với việc đang làm, đã làm, mang tính trải nghiệm. To cộng động từ thường hướng về phía trước, việc chưa làm, sắp làm. Mẹo này không đúng tuyệt đối, nhưng giúp bạn đoán đúng phần lớn các trường hợp.
 
-[chapter] Phần 2: Danh động từ (V-ing)
-[vi] Bây giờ, chúng ta sẽ đi sâu vào phần Danh động từ, hay còn gọi là Gerund. Danh động từ thường làm chủ ngữ hoặc tân ngữ trong câu.
-[vi] Câu ví dụ số 1: Tìm kiếm một công việc sau tuổi 50 không nhất thiết phải nản lòng như người ta thường mô tả.
-[en] Finding a job after 50 doesn’t have to be as discouraging as it is often portrayed to be.
-[vi] Phân tích: Ở đây, cụm finding a job đóng vai trò là chủ ngữ của câu, nên ta dùng danh động từ finding.
-[term] finding
-[vi] Từ mới trong câu: tính từ discouraging mang nghĩa nản lòng. Động từ portray nghĩa là mô tả, khắc họa.
-[term] discouraging, portray
+[chapter] Khung bài: nghe gì trong cuộc trò chuyện hôm nay
+[vi] Tình huống đời sống hôm nay là cuộc trò chuyện giữa hai đồng nghiệp, Anna và Ben, trong giờ nghỉ trưa ở văn phòng. Ben vừa quyết định bỏ cà phê, và đang rất buồn ngủ.
+[vi] Giọng nữ là Anna, giọng nam là Ben. Cuộc trò chuyện có mười câu. Ngoài sáu quy tắc nền, bạn sẽ gặp những động từ đổi nghĩa tùy theo đi với ing hay đi với to, như stop, try và remember. Đây chính là phần đề thi thích gài bẫy nhất.
+[term] stop, try, remember
+[vi] Lần nghe đầu, mỗi khi thấy hai động từ đứng cạnh nhau, hãy để ý động từ thứ hai có ing hay có to.
 
-[vi] Có một số nhóm động từ phổ biến trong bài thi VSTEP luôn đi kèm với V-ing như give up, avoid, enjoy, suggest.
-[vi] Câu ví dụ số 2: Cô ấy tránh tiếp xúc gần với vị đầu bếp đáng sợ trong bếp.
-[en] She avoided making close contact with the scary chef in the kitchen.
-[vi] Phân tích: Sau động từ avoid, ta bắt buộc dùng danh động từ, nên động từ make được chia là making.
-[term] making
-[vi] Từ mới trong câu: cụm từ make close contact nghĩa là tiếp xúc gần.
-[term] make close contact
+[chapter] Phần 1: Đời sống. Nghe trọn cuộc trò chuyện giờ nghỉ trưa
+[vi] Mời bạn nghe cuộc trò chuyện giữa Anna và Ben.
+[read] You look tired, Ben. Have you stopped drinking coffee?
+[read2] Yes. I decided to quit two weeks ago, but I keep falling asleep at my desk.
+[read] Giving up coffee is hard at first.
+[read2] I know. My doctor advised me to cut down slowly, but I wanted to stop at once.
+[read] Why don't you try going for a walk after lunch? It really helps me stay awake.
+[read2] Good idea. I'm not used to exercising in the middle of the day, though.
+[read] You'll get used to it. Our manager lets us take a short break at three, too.
+[read2] Really? I must remember to ask him about that.
+[read] And on the way back, we can stop to buy some green tea.
+[read2] Deal. I'm looking forward to feeling normal again!
 
-[vi] Câu ví dụ số 3: Nghiên cứu đề xuất giảm lượng phát thải khí nhà kính từ nhiều nguồn khác nhau.
-[en] Research suggests reducing greenhouse gas emissions from a variety of sources.
-[vi] Phân tích: Động từ suggest đi kèm với danh động từ để chỉ việc đề xuất làm gì, nên ta dùng reducing.
-[term] reducing
-[vi] Từ mới trong câu: cụm từ greenhouse gas emissions nghĩa là lượng phát thải khí nhà kính.
-[term] greenhouse gas emission
+[chapter] Phần 1: Mổ xẻ từng câu, chuyện bỏ cà phê
+[vi] Câu số một. Anna hỏi: Trông anh mệt quá, Ben. Anh bỏ uống cà phê rồi à?
+[en] You look tired, Ben. Have you stopped drinking coffee?
+[vi] Ngữ pháp: stop cộng động từ thêm ing, stopped drinking, nghĩa là ngừng hẳn một việc đang làm, bỏ một thói quen. Câu hỏi dùng hiện tại hoàn thành, have you stopped, vì Anna quan tâm đến kết quả bây giờ.
+[term] stopped drinking
+[vi] So sánh: stop là động từ đổi nghĩa. Stop cộng ing là ngừng hẳn việc đó: I stopped drinking coffee, tôi bỏ cà phê. Stop cộng to là dừng việc đang làm lại để làm một việc khác: I stopped to drink coffee, tôi dừng lại để uống cà phê. Chỉ khác một chữ, nghĩa ngược hẳn. Chúng ta sẽ gặp lại stop to ở câu số chín.
+[term] stop drinking, stop to drink
+[vi] Từ vựng: look cộng tính từ nghĩa là trông có vẻ: you look tired. Sau look là tính từ, không phải trạng từ, nên không nói you look tiredly. Tương tự với seem, sound, feel: you sound happy, nghe giọng bạn có vẻ vui.
+[term] look tired, seem, sound happy, feel
 
-[chapter] Phần 3: Động từ nguyên mẫu có To (To-V)
-[vi] Chuyển sang phần tiếp theo, Động từ nguyên mẫu có To thường thể hiện hành động hướng tới tương lai, mục đích, hoặc đi sau các động từ chỉ ý định, quyết định.
-[vi] Câu ví dụ số 4: Bang đã cắt giảm các bệ ga để đáp ứng vừa vặn toa xe lửa sang trọng.
-[en] The state cut down station platforms to accommodate the luxurious railway car.
-[vi] Phân tích: Động từ accommodate đứng sau mệnh đề chính để chỉ mục đích, nghĩa là để đáp ứng. Vậy nên ta dùng to accommodate.
-[term] to accommodate
-[vi] Từ mới trong câu: động từ accommodate nghĩa là cung cấp chỗ, đáp ứng vừa vặn.
-[term] accommodate
+[vi] Câu số hai. Ben đáp: Ừ. Tôi quyết định bỏ từ hai tuần trước, nhưng tôi cứ ngủ gật ở bàn làm việc.
+[en2] Yes. I decided to quit two weeks ago, but I keep falling asleep at my desk.
+[vi] Ngữ pháp: câu này có hai cấu trúc đối lập. Decide đi với to: decided to quit, vì quyết định là việc hướng tới tương lai. Keep đi với ing: keep falling asleep, nghĩa là cứ liên tục, lặp đi lặp lại.
+[term] decided to quit, keep falling asleep
+[vi] Bẫy: keep cộng ing là cứ làm gì mãi. Nhưng keep cộng tân ngữ cộng tính từ lại là giữ cho cái gì ở trạng thái nào: keep the room clean, giữ phòng sạch. Và keep someone waiting là bắt ai phải chờ. Trong đề trắc nghiệm, thấy keep thì đáp án gần như không bao giờ là to cộng động từ.
+[term] keep the room clean, keep someone waiting
+[vi] Từ vựng: fall asleep là ngủ thiếp đi, chìm vào giấc ngủ, thường là không chủ ý. Go to sleep là đi ngủ, có chủ ý. Oversleep là ngủ quên, dậy muộn. Còn quit, give up và stop đều là bỏ, ngừng. Quit và give up thường dùng cho thói quen xấu và công việc: quit smoking, quit my job.
+[term] fall asleep, go to sleep, oversleep, quit, give up
 
-[vi] Câu ví dụ số 5: Bố tôi quyết định biến một nhà nghỉ cũ thành một khách sạn sang trọng.
-[en] My father decided to turn an old hostel into a luxury hotel.
-[vi] Phân tích: Sau động từ decide, ta luôn dùng To-V để chỉ quyết định thực hiện một hành động, là to turn.
-[term] to turn
-[vi] Từ mới trong câu: cụm từ turn into nghĩa là biến thành.
-[term] turn into
+[vi] Câu số ba. Anna nói: Bỏ cà phê lúc đầu khó lắm.
+[en] Giving up coffee is hard at first.
+[vi] Ngữ pháp: động từ thêm ing làm chủ ngữ. Cả cụm giving up coffee là một chủ ngữ, và chủ ngữ này là số ít, nên động từ chính là is.
+[term] Giving up coffee is
+[vi] Bẫy: vì chữ coffee đứng sát động từ, nhiều bạn chọn are hoặc chia theo danh từ gần nhất. Hãy nhớ, chủ ngữ là cả hành động giving up, không phải coffee. Tương tự: Learning foreign languages is useful, không phải are useful, dù languages là số nhiều.
+[term] Learning foreign languages is useful
+[vi] Từ vựng: at first là lúc đầu, ban đầu, ngụ ý sau đó tình hình thay đổi. Firstly hoặc first of all là thứ nhất, dùng để liệt kê ý. Đây là cặp từ người Việt rất hay nhầm trong bài Viết. Viết at first, I will discuss the advantages là sai, phải là firstly.
+[term] at first, firstly, first of all
 
-[vi] Trong VSTEP, một cấu trúc rất hay gặp là Động từ cộng Tân ngữ cộng To-V, như allow, encourage, advise.
-[vi] Câu ví dụ số 6: Quy định thư viện nghiêm ngặt cho phép sinh viên xem các cuốn sách quý hiếm chỉ khi có sự giám sát.
-[en] The strict library rules allow students to view rare books only under supervision.
-[vi] Phân tích: Cấu trúc allow cộng tân ngữ students cộng to-V, nghĩa là cho phép ai làm gì, nên ta dùng to view.
-[term] to view
-[vi] Từ mới trong câu: cụm từ under supervision nghĩa là dưới sự giám sát.
-[term] under supervision
+[vi] Câu số bốn. Ben nói: Tôi biết. Bác sĩ khuyên tôi nên giảm từ từ, nhưng tôi muốn bỏ ngay lập tức.
+[en2] I know. My doctor advised me to cut down slowly, but I wanted to stop at once.
+[vi] Ngữ pháp: advise cộng tân ngữ cộng to: advised me to cut down. Khi có tân ngữ là người được khuyên, động từ sau dùng to. Want cũng đi với to: wanted to stop.
+[term] advised me to cut down, wanted to stop
+[vi] Bẫy: advise có hai cấu trúc. Có tân ngữ thì dùng to: advise me to cut down. Không có tân ngữ thì dùng ing: The doctor advised cutting down slowly. Nhóm động từ cùng kiểu là allow, recommend, permit. Allow me to go, nhưng allow going ít gặp hơn. Đây là bẫy có tân ngữ hay không có tân ngữ, rất hay xuất hiện.
+[term] advise me to cut down, advise cutting down, allow me to go
+[vi] Từ vựng: cut down on something là cắt giảm, dùng ít đi: cut down on sugar, cut down on coffee. Cut out là bỏ hẳn. At once là ngay lập tức, gần nghĩa với immediately và right away. Lưu ý advise là động từ, chữ s đọc như z, còn advice là danh từ, lời khuyên, và không đếm được: a piece of advice.
+[term] cut down on, cut out, at once, advise, advice
 
-[chapter] Phần 4: Động từ nguyên mẫu không To (Bare V)
-[vi] Động từ nguyên mẫu không To được dùng sau các động từ khuyết thiếu hoặc cấu trúc make, let, help.
-[vi] Câu ví dụ số 7: Nam thanh niên phải thực hiện nhiều bước hơn để đảm bảo có được việc làm trong thị trường cạnh tranh.
-[en] Young men must take more steps to secure employment in competitive markets.
-[vi] Phân tích: Động từ take đứng sau động từ khuyết thiếu must, nên giữ nguyên dạng nguyên thể.
-[term] take
-[vi] Từ mới trong câu: cụm từ secure employment nghĩa là đảm bảo việc làm.
-[term] secure employment
+[vi] Câu số năm. Anna gợi ý: Sao anh không thử đi dạo sau bữa trưa? Việc đó thật sự giúp tôi tỉnh táo.
+[en] Why don't you try going for a walk after lunch? It really helps me stay awake.
+[vi] Ngữ pháp: try cộng ing, try going, nghĩa là thử làm một việc xem có hiệu quả không. Help cộng tân ngữ cộng động từ, helps me stay, có thể bỏ to: help me stay hoặc help me to stay đều đúng.
+[term] try going, helps me stay
+[vi] So sánh: try cũng là động từ đổi nghĩa. Try cộng ing là thử một cách làm để xem kết quả: try going for a walk, thử đi dạo xem có đỡ buồn ngủ không. Try cộng to là cố gắng làm một việc khó: I tried to stay awake, but I couldn't, tôi đã cố thức nhưng không được. Mẹo: nếu dịch được là cố gắng, dùng to. Nếu dịch được là thử, dùng ing.
+[term] try going, try to stay awake
+[vi] Từ vựng: stay awake là giữ tỉnh táo, không ngủ. Wake up là thức dậy. Awake là tính từ, tỉnh, còn awaken là động từ trang trọng hơn. Why don't you, cộng động từ nguyên mẫu, là cách gợi ý lịch sự, giống how about, nhưng how about lại đi với ing: How about going for a walk?
+[term] stay awake, wake up, Why don't you go, How about going
 
-[vi] Câu ví dụ số 8: Công việc nặng nhọc không nên làm cho bạn cảm thấy kiệt sức.
-[en] Heavy work shouldn't make you feel exhausted.
-[vi] Phân tích: Cấu trúc make cộng tân ngữ you cộng động từ nguyên mẫu, mang nghĩa làm cho ai đó như thế nào, ta dùng feel.
-[term] feel
-[vi] Từ mới trong câu: tính từ exhausted nghĩa là kiệt sức.
-[term] exhausted
+[chapter] Phần 1: Mổ xẻ từng câu, những bẫy chữ to
+[vi] Câu số sáu. Ben đáp: Ý hay đấy. Nhưng tôi không quen tập thể dục vào giữa ngày.
+[en2] Good idea. I'm not used to exercising in the middle of the day, though.
+[vi] Ngữ pháp: be used to cộng ing, nghĩa là quen với việc gì. Chữ to ở đây là giới từ, không phải to của động từ nguyên mẫu, nên động từ sau phải thêm ing: used to exercising.
+[term] I'm not used to exercising
+[vi] Bẫy: đây là bẫy chữ to nổi tiếng nhất. Có ba cấu trúc nhìn rất giống nhau. Used to cộng động từ nguyên mẫu là thói quen trong quá khứ, nay không còn: I used to drink coffee, tôi từng uống cà phê. Be used to cộng ing là đang quen với việc gì. Get used to cộng ing là dần trở nên quen. Các cụm khác cũng có chữ to là giới từ: look forward to, be accustomed to, object to, when it comes to. Sau tất cả các cụm này, động từ đều thêm ing.
+[term] used to drink, be used to drinking, get used to drinking
+[vi] Từ vựng: exercise là tập thể dục, vừa là động từ, vừa là danh từ. Work out là tập luyện, thường ở phòng gym. Though đứng cuối câu trong văn nói, nghĩa là dù vậy, nhưng mà, tương đương however trong văn viết.
+[term] exercise, work out, though, however
 
-[chapter] Phần 5: Tổng kết từ vựng
-[vi] Để kết thúc Tập A, chúng ta cùng ôn lại nhanh danh sách các từ vựng đã học trong bài.
-[vi] 1. Nản lòng: discouraging. Mô tả: portray.
-[term] discouraging, portray
-[vi] 2. Tiếp xúc gần: make close contact.
-[term] make close contact
-[vi] 3. Phát thải khí nhà kính: greenhouse gas emission.
-[term] greenhouse gas emission
-[vi] 4. Đáp ứng vừa vặn: accommodate.
-[term] accommodate
-[vi] 5. Biến thành: turn into.
-[term] turn into
-[vi] 6. Dưới sự giám sát: under supervision.
-[term] under supervision
-[vi] 7. Đảm bảo việc làm: secure employment.
-[term] secure employment
-[vi] 8. Kiệt sức: exhausted.
-[term] exhausted
-[vi] Bài học Tập A hôm nay đến đây là kết thúc. Hẹn gặp lại các bạn trong Tập B nhé!
+[vi] Câu số bảy. Anna nói: Rồi anh sẽ quen thôi. Quản lý của chúng ta còn cho phép nghỉ giải lao ngắn lúc ba giờ nữa.
+[en] You'll get used to it. Our manager lets us take a short break at three, too.
+[vi] Ngữ pháp: let cộng tân ngữ cộng động từ nguyên mẫu không to: lets us take. Let thêm s vì chủ ngữ là our manager. Vế đầu là get used to cộng một đại từ, it, cũng đúng, vì sau giới từ to có thể là danh từ hoặc đại từ.
+[term] lets us take, get used to it
+[vi] So sánh: let, make, allow và permit. Let và make đi với động từ nguyên mẫu không to: let us take, make us work. Allow và permit cùng nghĩa với let nhưng đi với to: allow us to take, permit us to take. Một bẫy nữa: let không có dạng bị động. Muốn nói chúng tôi được phép, phải dùng we are allowed to take a break, không nói we are let.
+[term] let us take, make us work, allow us to take, we are allowed to
+[vi] Từ vựng: break là giờ nghỉ giải lao ngắn trong lúc làm việc, học tập. Rest là sự nghỉ ngơi nói chung, cho cơ thể. Holiday là kỳ nghỉ dài theo kiểu Anh, người Mỹ gọi là vacation. Take a break là cụm cố định, không nói make a break.
+[term] take a break, rest, holiday, vacation
+
+[vi] Câu số tám. Ben nói: Thật à? Tôi phải nhớ hỏi anh ấy về việc đó.
+[en2] Really? I must remember to ask him about that.
+[vi] Ngữ pháp: remember cộng to, remember to ask, nghĩa là nhớ phải làm một việc chưa làm. Must là động từ khuyết thiếu, nên remember đứng sau nó ở dạng nguyên mẫu không to.
+[term] must remember to ask
+[vi] So sánh: remember và forget cũng là động từ đổi nghĩa. Remember cộng to là nhớ phải làm việc gì, việc đó chưa xảy ra. Remember cộng ing là nhớ lại đã làm việc gì, việc đó đã xảy ra rồi: I remember asking him, tôi nhớ là đã hỏi anh ấy rồi. Tương tự: Don't forget to lock the door, đừng quên khóa cửa. I'll never forget meeting you, tôi sẽ không bao giờ quên lần gặp bạn.
+[term] remember to ask, remember asking, forget to lock, forget meeting
+[vi] Từ vựng: remember và remind là cặp hay nhầm. Remember là tự mình nhớ. Remind là nhắc người khác nhớ, và đi với tân ngữ: Remind me to ask him, nhắc tôi hỏi anh ấy nhé. Remind someone of something là làm ai nhớ đến điều gì: You remind me of my sister.
+[term] remember, remind me to, remind someone of
+
+[vi] Câu số chín. Anna nói: Và trên đường về, mình có thể dừng lại mua ít trà xanh.
+[en] And on the way back, we can stop to buy some green tea.
+[vi] Ngữ pháp: stop cộng to, stop to buy, nghĩa là dừng việc đang làm, ở đây là đang đi bộ, để làm một việc khác là mua trà. Đây chính là cặp đối lập với câu số một: stopped drinking là bỏ hẳn, stop to buy là dừng lại để mua.
+[term] stop to buy
+[vi] Bẫy: trong đề thi, câu dạng We stopped, chỗ trống, a coffee because we were tired, thì đáp án là to have, dừng lại để uống. Còn câu dạng He stopped, chỗ trống, because it was bad for his health, thì đáp án là smoking, bỏ hút thuốc. Hãy dựa vào lý do trong câu để chọn.
+[term] stopped to have a coffee, stopped smoking
+[vi] Từ vựng: on the way back là trên đường về, giống on the way home đã học ở bài một chấm một. Some đi với danh từ không đếm được như tea, water, money, và với danh từ đếm được số nhiều: some cups of tea.
+[term] on the way back, some green tea
+
+[vi] Câu số mười, câu cuối. Ben nói: Chốt nhé. Tôi rất mong được cảm thấy bình thường trở lại!
+[en2] Deal. I'm looking forward to feeling normal again!
+[vi] Ngữ pháp: look forward to cộng ing, looking forward to feeling. Đây lại là chữ to giới từ, cùng nhóm với be used to ở câu số sáu.
+[term] looking forward to feeling
+[vi] Bẫy: I look forward to hear from you là lỗi rất phổ biến trong phần kết thư Writing Task 1. Câu đúng là I look forward to hearing from you. Mẹo kiểm tra: thử đặt một danh từ vào sau to. Nếu câu vẫn đúng, như I look forward to the weekend, thì to là giới từ, và động từ sau nó phải thêm ing.
+[term] I look forward to hearing from you
+[vi] Từ vựng: deal ở đây là văn nói, nghĩa là chốt, đồng ý. Đây cũng là danh từ vụ thỏa thuận, và động từ deal with là xử lý, giải quyết: deal with a problem. Gần nghĩa với deal with có handle và cope with.
+[term] deal, deal with, handle, cope with
+
+[chapter] Phần 1: Nghe lại trọn cuộc trò chuyện
+[vi] Mời bạn nghe lại toàn bộ cuộc trò chuyện. Lần này hãy để ý từng động từ thứ hai.
+[read] You look tired, Ben. Have you stopped drinking coffee?
+[read2] Yes. I decided to quit two weeks ago, but I keep falling asleep at my desk.
+[read] Giving up coffee is hard at first.
+[read2] I know. My doctor advised me to cut down slowly, but I wanted to stop at once.
+[read] Why don't you try going for a walk after lunch? It really helps me stay awake.
+[read2] Good idea. I'm not used to exercising in the middle of the day, though.
+[read] You'll get used to it. Our manager lets us take a short break at three, too.
+[read2] Really? I must remember to ask him about that.
+[read] And on the way back, we can stop to buy some green tea.
+[read2] Deal. I'm looking forward to feeling normal again!
+[vi] Tóm tắt cuộc trò chuyện theo nhóm. Đi với ing: keep, giving up ở đầu câu, be used to, get used to, look forward to. Đi với to: decide, want, advise someone, remember khi nói việc chưa làm. Không có to: help me stay, let us take, sau must. Và ba động từ đổi nghĩa: stop, try, remember.
+[vi] Mẹo áp dụng: trong bài Nói, khi giám khảo hỏi về thói quen hoặc sức khỏe, bạn có thể dùng ngay các khung câu như I've decided to, I'm trying to, I've stopped, I'm not used to. Chỉ cần một câu trả lời có hai, ba cấu trúc như vậy là giám khảo đã thấy bạn có độ đa dạng ngữ pháp.
+
+[chapter] Tổng kết từ vựng Tập A
+[vi] Chúng ta cùng ôn lại các nhóm từ trong tập hôm nay.
+[vi] 1. Trông có vẻ: look, seem, sound, cộng tính từ.
+[term] look tired, seem, sound happy
+[vi] 2. Ngủ thiếp đi: fall asleep. Đi ngủ: go to sleep. Ngủ quên: oversleep.
+[term] fall asleep, go to sleep, oversleep
+[vi] 3. Bỏ thói quen: quit, give up. Cắt giảm: cut down on. Bỏ hẳn: cut out.
+[term] quit, give up, cut down on, cut out
+[vi] 4. Lúc đầu: at first. Thứ nhất, khi liệt kê: firstly.
+[term] at first, firstly
+[vi] 5. Khuyên, động từ: advise. Lời khuyên, danh từ không đếm được: advice.
+[term] advise, advice
+[vi] 6. Giữ tỉnh táo: stay awake. Thức dậy: wake up.
+[term] stay awake, wake up
+[vi] 7. Tập thể dục: exercise. Tập luyện ở phòng gym: work out.
+[term] exercise, work out
+[vi] 8. Nghỉ giải lao: take a break. Nghỉ ngơi: rest. Kỳ nghỉ: holiday, vacation.
+[term] take a break, rest, holiday, vacation
+[vi] 9. Tự nhớ: remember. Nhắc ai đó: remind. Làm ai nhớ đến: remind someone of.
+[term] remember, remind, remind someone of
+[vi] 10. Xử lý, giải quyết: deal with, handle, cope with.
+[term] deal with, handle, cope with
+[vi] Tập A đến đây là kết thúc. Trong Tập B, chúng ta dùng các cấu trúc này để đọc một bản tin về rác thải nhựa, một chủ đề môi trường rất hay gặp. Cuối tập là phần thư giãn với tên những bài hát có chứa to, ing và let. Hẹn gặp lại các bạn.

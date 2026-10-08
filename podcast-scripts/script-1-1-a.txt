@@ -1,72 +1,193 @@
-[vi] Chào mừng các bạn đến với tập 1.1A. Hôm nay chúng ta sẽ bước vào phần: 0. Ôn nền (Foundation Review).
-[vi] Trước khi vào bài, cùng ôn lại nhanh các kiến thức nền sẽ dùng trong bài này.
-[vi] Hiện tại đơn (Present Simple), công thức là S cộng V(s/es), dùng cho thói quen, sự thật hiển nhiên.
+[chapter] Mở đầu và Ôn nền: 5 thì cốt lõi
+[vi] Chào mừng các bạn đến với chuỗi podcast ngữ pháp thực chiến cho kỳ thi VSTEP. Đây là bài một chấm một, phần A: Các thì trọng tâm.
+[vi] Từ bài này, mỗi bài học sẽ đi qua ba tình huống, từ dễ đến khó. Tập A là một tình huống đời sống quen thuộc. Tập B là một bản tin theo chủ đề hay gặp trong đề thi, và cuối Tập B là phần học qua tên những bài hát tiếng Anh nổi tiếng.
+[vi] Hôm nay, tình huống đời sống là một cuộc gọi điện thoại giữa hai người bạn. Nhưng trước khi nghe, chúng ta dành vài phút ôn lại năm thì cốt lõi. Nếu bạn đã nhớ chắc, bạn có thể bấm sang chương tiếp theo.
+[vi] Thì thứ nhất là hiện tại đơn.
+[term] Present Simple
+[vi] Công thức: chủ ngữ cộng động từ nguyên mẫu. Nếu chủ ngữ là ngôi thứ ba số ít, như he, she, it, hay một danh từ số ít, thì động từ thêm s hoặc es. Câu phủ định mượn do not hoặc does not, câu hỏi đưa do hoặc does lên đầu câu.
+[term] do not, does not
+[vi] Hiện tại đơn dùng cho thói quen, sự thật hiển nhiên và lịch trình cố định như giờ tàu xe. Dấu hiệu thường gặp là always, usually, often, every day.
+[term] always, usually, often, every day
+[vi] Ví dụ: Tôi uống cà phê mỗi sáng.
 [en] I drink coffee every morning.
-[vi] Hiện tại tiếp diễn (Present Continuous), công thức S cộng am/is/are cộng V-ing, dùng cho hành động đang xảy ra.
+[vi] Every morning là thói quen, nên dùng hiện tại đơn, drink.
+[vi] Thì thứ hai là hiện tại tiếp diễn.
+[term] Present Continuous
+[vi] Công thức: chủ ngữ cộng am, is hoặc are, cộng động từ thêm ing. Dùng cho việc đang xảy ra ngay lúc nói, hoặc một xu hướng đang thay đổi trong giai đoạn hiện nay. Dấu hiệu là now, right now, at the moment, currently.
+[term] now, at the moment, currently
+[vi] Ví dụ: Ngay lúc này tôi đang học tiếng Anh.
 [en] I am studying English right now.
-[vi] Hiện tại hoàn thành (Present Perfect), S cộng have/has cộng V3/ed, kéo dài đến hiện tại.
-[en] I have learned English for 3 years.
-[vi] Quá khứ đơn (Past Simple), S cộng V2/ed, sự việc đã kết thúc trong quá khứ.
+[vi] Thì thứ ba là hiện tại hoàn thành.
+[term] Present Perfect
+[vi] Công thức: chủ ngữ cộng have hoặc has, cộng động từ cột ba, tức là quá khứ phân từ. Thì này nối quá khứ với hiện tại: việc bắt đầu trước đây và còn kéo dài đến bây giờ, hoặc việc đã xảy ra mà kết quả còn ở hiện tại. Dấu hiệu là since, for, already, yet, recently, so far.
+[term] since, for, already, yet, so far
+[vi] Ví dụ: Tôi đã học tiếng Anh được ba năm, và đến giờ vẫn đang học.
+[en] I have learned English for three years.
+[vi] Thì thứ tư là quá khứ đơn.
+[term] Past Simple
+[vi] Công thức: chủ ngữ cộng động từ cột hai, tức là động từ thêm ed hoặc dạng bất quy tắc. Câu phủ định và câu hỏi mượn did, và động từ quay về nguyên mẫu. Dùng cho việc đã kết thúc tại một thời điểm xác định trong quá khứ. Dấu hiệu là yesterday, last week, ago, in 2019.
+[term] yesterday, last week, ago
+[vi] Ví dụ: Hôm qua tôi đã xem một bộ phim.
 [en] I watched a movie yesterday.
-[vi] Tương lai đơn (Future Simple), S cộng will cộng V_bare, quyết định lúc nói hoặc dự đoán.
+[vi] Thì thứ năm là tương lai đơn.
+[term] Future Simple
+[vi] Công thức: chủ ngữ cộng will cộng động từ nguyên mẫu. Dùng cho quyết định ngay lúc nói, lời hứa, và dự đoán. Dấu hiệu là tomorrow, next week, soon, và các cụm như I think, I'm sure.
+[term] tomorrow, next week, I think, I'm sure
+[vi] Ví dụ: Tôi sẽ giúp bạn làm việc này.
 [en] I will help you with this task.
----
-[vi] Bây giờ chúng ta sẽ vào phần phân tích chi tiết các thì hiện tại. Đầu tiên là Hiện tại đơn.
-[vi] Cách dùng chính trong VSTEP là diễn tả sự thật hiển nhiên hoặc thông tin thực tế, thói quen.
-[vi] Ví dụ 1:
-[vi] Thuốc kháng sinh ngăn chặn chu kỳ sống của vi khuẩn xâm nhập vào cơ thể con người.
-[en] Antibiotics block the life cycle of bacteria that invade the human body.
-[vi] Ở đây ta thấy dùng hiện tại đơn để diễn tả chân lý khoa học.
-[term] block, invade
-[vi] Từ mới đáng chú ý là invade.
-[term] invade (v): xâm nhập, tấn công
-[vi] Ví dụ 2:
-[vi] Ở nhiều vùng của Trung Quốc, các bữa ăn thường theo một mô hình quen thuộc, và các thương hiệu bình dân thì phù hợp túi tiền của tất cả mọi người.
-[en] In many parts of China, meals often fit a comfortable pattern, and ordinary brands are affordable to all.
-[vi] Câu này dùng hiện tại đơn để tả sự thật.
-[term] fit, are
-[vi] Từ mới B2 trong câu.
-[term] affordable (adj): có giá cả phải chăng, hợp túi tiền
----
-[vi] Tiếp theo là Hiện tại tiếp diễn.
-[vi] Diễn tả hành động đang diễn ra, hoặc mục đích viết thư.
-[vi] Ví dụ 1:
-[vi] Tôi đang viết thư này để bày tỏ sự không hài lòng đối với một sản phẩm bị lỗi mà tôi đã mua gần đây.
-[en] I am writing to express my dissatisfaction with a faulty product I purchased recently.
-[vi] Hiện tại tiếp diễn thể hiện mục đích viết thư.
-[term] am writing
-[vi] Từ vựng cần nhớ.
-[term] dissatisfaction (n): sự không hài lòng; faulty (adj): bị lỗi, hỏng hóc
-[vi] Ví dụ 2:
-[vi] Ngày nay nhiều người đang lựa chọn sống một mình thay vì sống cùng với các thành viên trong gia đình.
-[en] Many people are choosing to live alone nowadays rather than living with family members.
-[vi] Diễn tả xu hướng đang tiến triển.
-[term] are choosing
-[vi] Từ mới trong bài.
-[term] solely / alone (adv): một mình, đơn độc
----
-[vi] Thứ ba là Hiện tại hoàn thành.
-[vi] Hành động xảy ra trong quá khứ, kéo dài đến hiện tại.
-[vi] Ví dụ 1:
-[vi] Kể từ năm 2014, phòng khám miễn phí đã điều trị cho khoảng 8.500 bệnh nhân bằng thái độ cảm thông sâu sắc.
-[en] Since 2014, the free clinic has treated about 8,500 patients with a compassionate attitude.
-[vi] Dùng thì này với mốc thời gian since 2014.
-[term] has treated
-[vi] Từ vựng nổi bật.
-[term] compassionate (adj): lòng nhân ái, cảm thông
-[vi] Ví dụ 2:
-[vi] Trong những năm gần đây, việc các cá nhân phụ thuộc vào tin tức trực tuyến đã trở nên phổ biến hơn nhiều.
-[en] In recent years, it has become far more normal for individuals to rely on online news.
-[vi] Diễn tả bối cảnh xã hội trong Writing.
-[term] has become
-[vi] Cụm từ hay gặp.
-[term] rely on (v): phụ thuộc vào, dựa vào
----
-[vi] Chương cuối: Tổng kết từ vựng.
-[term] invade (v): xâm nhập, tấn công
-[term] affordable (adj): có giá cả phải chăng
-[term] dissatisfaction (n): sự không hài lòng
-[term] faulty (adj): bị lỗi, hỏng hóc
-[term] alone (adv): một mình, đơn độc
-[term] compassionate (adj): lòng nhân ái, cảm thông
-[term] rely on (v): phụ thuộc vào
+[vi] Một mẹo nhỏ để nhớ: hiện tại hoàn thành là chiếc cầu. Một đầu cầu nằm ở quá khứ, đầu kia chạm tới hiện tại. Còn quá khứ đơn là một hòn đảo, đã tách rời khỏi hiện tại.
+
+[chapter] Khung bài: nghe gì trong cuộc gọi hôm nay
+[vi] Tình huống hôm nay: Mai gọi điện cho Tom để bàn về chuyến đi Đà Lạt cuối tuần. Xe của Mai vừa bị hỏng, nên hai người phải tìm cách khác.
+[vi] Giọng nữ là Mai, giọng nam là Tom. Cuộc gọi có mười một câu, và cả năm thì chúng ta vừa ôn đều xuất hiện.
+[vi] Lần nghe đầu tiên, bạn đừng cố hiểu từng chữ. Hãy thử làm một việc: mỗi khi nghe một động từ, đoán xem người nói đang dùng thì nào. Sau phần mổ xẻ, chúng ta sẽ nghe lại cả cuộc gọi, và bạn sẽ thấy mình nghe rõ hơn nhiều.
+
+[chapter] Phần 1: Đời sống. Nghe trọn cuộc gọi
+[vi] Mời bạn nghe cuộc gọi giữa Mai và Tom.
+[read] Hi Tom, it's Mai. I'm calling about our trip to Da Lat this weekend.
+[read2] Hi Mai! I'm cooking dinner, but I can talk. Is everything OK?
+[read] Not really. My car broke down on the way home yesterday.
+[read2] Oh no! Have you taken it to a garage yet?
+[read] Yes, I have. The mechanic says it needs a new part, and that usually takes a week.
+[read2] So we can't drive there. What about the bus?
+[read] I've already checked the timetable.
+[read] A night bus leaves at ten every Friday.
+[read2] Perfect. I'll book two seats online tonight.
+[read] Thanks, Tom. You're a lifesaver. I'll pay you back on Friday.
+[read2] Don't worry. I'm sure we'll have a great trip.
+
+[chapter] Phần 1: Mổ xẻ từng câu, đầu cuộc gọi
+[vi] Bây giờ chúng ta đi từng câu. Mỗi câu sẽ có ba phần: ngữ pháp, so sánh hoặc bẫy, và từ vựng.
+[vi] Câu số một. Mai mở đầu cuộc gọi: Chào Tom, Mai đây. Mình gọi để bàn về chuyến đi Đà Lạt cuối tuần này.
+[en] I'm calling about our trip to Da Lat this weekend.
+[vi] Ngữ pháp: hiện tại tiếp diễn, am calling. Việc gọi điện đang diễn ra đúng lúc Mai nói, nên dùng am cộng động từ thêm ing.
+[term] I'm calling
+[vi] So sánh: nếu nói I call about our trip, câu sai nghĩa, vì hiện tại đơn là thói quen, nghe như Mai lúc nào cũng gọi về chuyện này. Cấu trúc này giống hệt câu mở đầu thư trong Writing Task 1: I am writing to complain about, tôi đang viết thư này để phàn nàn về. Viết thư hay gọi điện, việc đang làm thì dùng tiếp diễn.
+[term] I am writing to complain about
+[vi] Từ vựng: phân biệt ba từ cùng nghĩa là đi. Trip là một chuyến đi ngắn có đi có về, như chuyến Đà Lạt cuối tuần. Journey là quãng đường di chuyển từ điểm này đến điểm khác, thường dài, như the journey took eight hours. Còn travel thường là động từ, hoặc danh từ không đếm được chỉ việc du lịch nói chung. Không nói a travel.
+[term] trip, journey, travel
+
+[vi] Câu số hai. Tom trả lời: Chào Mai! Mình đang nấu bữa tối, nhưng vẫn nói chuyện được. Mọi chuyện ổn chứ?
+[en2] I'm cooking dinner, but I can talk.
+[vi] Ngữ pháp: lại là hiện tại tiếp diễn, am cooking, vì Tom đang nấu ăn đúng lúc nghe máy.
+[term] I'm cooking
+[vi] So sánh: I cook dinner every evening, mình nấu bữa tối mỗi tối, là thói quen nên dùng hiện tại đơn. Câu của Tom chỉ nói về lúc này, nên dùng tiếp diễn.
+[vi] Bẫy: có một nhóm động từ trạng thái gần như không dùng ở thể tiếp diễn, như know, want, like, need, believe. Viết I am knowing hay I am needing là lỗi rất hay bị trừ điểm. Phải nói I know, I need.
+[term] know, want, like, need, believe
+[vi] Từ vựng: đây là một bẫy từ vựng kinh điển. Cook là động từ nấu, và cũng là danh từ chỉ người nấu ăn. Còn cooker, nghe tưởng là người nấu, thật ra lại là cái bếp, cái nồi nấu. Đầu bếp chuyên nghiệp ở nhà hàng thì gọi là chef.
+[term] cook, cooker, chef
+
+[vi] Câu số ba. Mai báo tin xấu: Không ổn lắm. Xe của mình bị hỏng trên đường về nhà hôm qua.
+[en] My car broke down on the way home yesterday.
+[vi] Ngữ pháp: quá khứ đơn, broke down. Có mốc yesterday, việc hỏng xe đã xảy ra và kết thúc trong quá khứ. Break là động từ bất quy tắc, cột hai là broke.
+[term] broke down, yesterday
+[vi] So sánh: nếu Mai nói My car has broken down, không kèm yesterday, thì người nghe hiểu là xe đang hỏng ngay lúc này, nhấn vào kết quả hiện tại. Khi đã có mốc quá khứ cụ thể như yesterday, bắt buộc dùng quá khứ đơn.
+[vi] Bẫy: on the way home, không có to trước home. Nói on the way to home là sai. Tương tự: go home, come home, không có to. Nhưng nếu là nơi khác thì vẫn có to: on the way to school, on the way to work.
+[term] on the way home, on the way to work
+[vi] Từ vựng: break down là hỏng máy, dùng cho xe cộ và máy móc. Break là làm vỡ, làm gãy, như break a glass. Còn out of order là hỏng, không hoạt động, thường dán trên máy công cộng như thang máy hay máy bán hàng.
+[term] break down, break, out of order
+
+[vi] Câu số bốn. Tom hỏi: Ôi không! Bạn đã mang xe tới gara chưa?
+[en2] Oh no! Have you taken it to a garage yet?
+[vi] Ngữ pháp: hiện tại hoàn thành ở dạng câu hỏi. Have đứng đầu câu, sau đó là chủ ngữ you, rồi động từ cột ba taken. Tom không quan tâm Mai mang xe đi lúc mấy giờ, chỉ quan tâm đến bây giờ việc đó đã xong chưa.
+[term] Have you taken, yet
+[vi] So sánh: yet, already và still. Yet nghĩa là chưa, đứng cuối câu hỏi và câu phủ định: Have you finished yet? I haven't finished yet. Already nghĩa là rồi, thường đứng giữa câu khẳng định: I have already finished. Still nghĩa là vẫn, vẫn còn, và trong câu phủ định thì still đứng trước haven't: I still haven't finished, tôi vẫn chưa làm xong.
+[term] yet, already, still
+[vi] Từ vựng: garage là xưởng sửa xe, hoặc nhà để xe. Lưu ý cách đọc của người Anh và người Mỹ khác nhau. Nếu muốn đổ xăng thì nói petrol station theo kiểu Anh, hoặc gas station theo kiểu Mỹ.
+[term] garage, petrol station, gas station
+
+[vi] Câu số năm. Mai đáp: Rồi. Thợ máy nói xe cần một phụ tùng mới, và việc đó thường mất một tuần.
+[en] The mechanic says it needs a new part, and that usually takes a week.
+[vi] Ngữ pháp: ba động từ đều ở hiện tại đơn, và đều thêm s vì chủ ngữ số ít. Says, vì the mechanic là một người. Needs, vì it là chiếc xe. Takes, vì that là việc thay phụ tùng. Usually là dấu hiệu của thói quen, sự việc thường lệ.
+[term] says, needs, takes
+[vi] Bẫy: need là động từ trạng thái, nên không nói it is needing. Và đây là lỗi rất nhiều người Việt mắc khi nói nhanh: quên s ở ngôi thứ ba số ít. The mechanic say là sai. Trong bài thi Nói, giám khảo nghe rất rõ lỗi này.
+[vi] Từ vựng: phân biệt mechanic, technician và engineer. Mechanic là thợ máy, sửa xe, sửa máy móc. Technician là kỹ thuật viên, làm việc với thiết bị, máy tính, phòng thí nghiệm. Engineer là kỹ sư, người thiết kế và tính toán. Thêm cấu trúc take cộng thời gian: việc gì đó mất bao lâu. Chủ ngữ là sự việc: it takes a week. Còn nếu chủ ngữ là người thì dùng spend: I spend a week.
+[term] mechanic, technician, engineer
+[term] it takes a week, I spend a week
+
+[chapter] Phần 1: Mổ xẻ từng câu, cuối cuộc gọi
+[vi] Câu số sáu là câu của Tom: So we can't drive there. What about the bus? Vậy là mình không lái xe đi được. Thế đi xe buýt thì sao? Câu này dùng can't, là động từ khuyết thiếu, sẽ học ở bài sau, nên chúng ta đi tiếp sang câu số bảy.
+[vi] Câu số bảy. Mai nói: Mình đã xem lịch xe rồi.
+[en] I've already checked the timetable.
+[vi] Ngữ pháp: hiện tại hoàn thành, have checked, viết gọn là I've checked. Already chen vào giữa have và động từ cột ba. Việc xem lịch đã xong, và kết quả là bây giờ Mai đã biết giờ xe.
+[term] I've already checked
+[vi] So sánh: nếu thêm mốc thời gian, như I checked the timetable this morning, thì phải chuyển sang quá khứ đơn. Quy tắc đơn giản: có mốc thời gian đã qua thì dùng quá khứ đơn. Không có mốc, chỉ quan tâm kết quả bây giờ thì dùng hiện tại hoàn thành.
+[term] I checked the timetable this morning
+[vi] Từ vựng: timetable và schedule. Timetable là bảng giờ tàu xe, hoặc thời khóa biểu ở trường, hay dùng trong tiếng Anh Anh. Schedule là lịch trình, lịch làm việc, và người Mỹ dùng schedule cho cả lịch tàu xe. Trong đề thi Nghe, hai từ này có thể thay nhau.
+[term] timetable, schedule
+
+[vi] Câu số tám. Mai nói tiếp: Có một chuyến xe đêm khởi hành lúc mười giờ mỗi tối thứ Sáu.
+[en] A night bus leaves at ten every Friday.
+[vi] Ngữ pháp: hiện tại đơn, leaves. Đây là lịch trình cố định của nhà xe. Dù Mai đang nói về chuyến xe thứ Sáu tới, tức là tương lai, lịch tàu xe vẫn dùng hiện tại đơn.
+[term] leaves at ten every Friday
+[vi] Bẫy: đây chính là kiểu bẫy hay gặp trong VSTEP Listening Part 1. Người nói đưa ra giờ thường lệ bằng hiện tại đơn, rồi đổi ngay sau đó. Ví dụ: The bus usually leaves at ten, but this Friday it's leaving at eleven. Chuyến xe thường đi lúc mười giờ, nhưng thứ Sáu này sẽ đi lúc mười một giờ. Đáp án đúng là mười một giờ, phần nằm sau chữ but.
+[term] usually leaves, but this Friday
+[vi] Từ vựng: leave và depart cùng nghĩa là rời đi, khởi hành. Leave là từ thông dụng. Depart trang trọng hơn, hay gặp trên bảng giờ tàu ở sân bay, nhà ga, và danh từ của nó là departure. Ngược lại là arrive và arrival.
+[term] leave, depart, departure, arrival
+
+[vi] Câu số chín. Tom quyết định ngay: Tuyệt. Tối nay mình sẽ đặt hai chỗ trên mạng.
+[en2] Perfect. I'll book two seats online tonight.
+[vi] Ngữ pháp: tương lai đơn, I'll book, viết đầy đủ là I will book. Tom vừa nghe thông tin xong và quyết định ngay lúc nói, nên dùng will.
+[term] I'll book
+[vi] So sánh: nếu Tom đã tính từ trước khi gọi, thì nói I'm going to book two seats. Will là quyết định bột phát lúc nói. Be going to là kế hoạch đã có từ trước. Trong bài thi trắc nghiệm, nếu ngữ cảnh có câu như Oh, the phone is ringing, thì đáp án thường là will: I'll get it.
+[term] I'm going to book, I'll get it
+[vi] Từ vựng: book và reserve đều là đặt trước. Book thông dụng, dùng cho vé, phòng khách sạn, bàn ăn. Reserve trang trọng hơn, hay gặp trong thư từ. Danh từ tương ứng là booking và reservation. Còn seat là chỗ ngồi, ticket là tấm vé.
+[term] book, reserve, booking, reservation
+
+[vi] Câu số mười. Mai cảm ơn: Cảm ơn Tom. Bạn đúng là cứu tinh. Thứ Sáu mình sẽ trả lại tiền cho bạn.
+[en] I'll pay you back on Friday.
+[vi] Ngữ pháp: tương lai đơn dùng cho lời hứa. Mai hứa sẽ trả tiền. Câu trước đó, You're a lifesaver, là hiện tại đơn với động từ to be, nêu nhận xét về Tom.
+[term] I'll pay you back, You're a lifesaver
+[vi] So sánh: cách dùng will để hứa này chính là câu kết thư trong Writing Task 1. Ví dụ trong thư xin lỗi hàng xóm: I will make sure it does not happen again, tôi sẽ đảm bảo việc này không lặp lại.
+[term] I will make sure it does not happen again
+[vi] Từ vựng: ba từ đều liên quan đến trả tiền lại. Pay back là trả lại tiền đã mượn, thân mật, dùng với bạn bè. Repay trang trọng hơn, như repay a loan, trả một khoản vay. Còn refund là cửa hàng hoàn tiền cho khách, rất hay dùng trong thư phàn nàn: I would like a full refund.
+[term] pay back, repay, refund
+
+[vi] Câu số mười một, câu cuối. Tom nói: Đừng lo. Mình chắc là chúng ta sẽ có một chuyến đi tuyệt vời.
+[en2] I'm sure we'll have a great trip.
+[vi] Ngữ pháp: tương lai đơn dùng để dự đoán. Sau những cụm như I'm sure, I think, I believe, I hope, ta thường dùng will.
+[term] I'm sure, I think, I hope
+[vi] So sánh: dự đoán bằng will là dựa vào niềm tin, cảm nhận của người nói. Còn dự đoán bằng be going to là dựa vào dấu hiệu nhìn thấy ngay trước mắt. Ví dụ: Look at those dark clouds. It's going to rain. Nhìn mây đen kìa, trời sắp mưa.
+[term] It's going to rain
+[vi] Từ vựng: have a great trip gần nghĩa với have a good time và enjoy ourselves. Có một bẫy với enjoy: động từ này cần tân ngữ. Không nói we enjoyed, mà phải nói we enjoyed ourselves, hoặc we enjoyed the trip.
+[term] have a good time, enjoy ourselves
+
+[chapter] Phần 1: Nghe lại trọn cuộc gọi
+[vi] Bây giờ, mời bạn nghe lại toàn bộ cuộc gọi. Lần này, mỗi câu bạn đều đã biết nó dùng thì nào và vì sao.
+[read] Hi Tom, it's Mai. I'm calling about our trip to Da Lat this weekend.
+[read2] Hi Mai! I'm cooking dinner, but I can talk. Is everything OK?
+[read] Not really. My car broke down on the way home yesterday.
+[read2] Oh no! Have you taken it to a garage yet?
+[read] Yes, I have. The mechanic says it needs a new part, and that usually takes a week.
+[read2] So we can't drive there. What about the bus?
+[read] I've already checked the timetable.
+[read] A night bus leaves at ten every Friday.
+[read2] Perfect. I'll book two seats online tonight.
+[read] Thanks, Tom. You're a lifesaver. I'll pay you back on Friday.
+[read2] Don't worry. I'm sure we'll have a great trip.
+[vi] Tóm lại, chỉ trong một cuộc gọi ngắn đã có đủ năm thì. Hiện tại tiếp diễn cho việc đang làm: I'm calling, I'm cooking. Quá khứ đơn cho chuyện hôm qua: broke down. Hiện tại hoàn thành cho việc đã xong và còn kết quả: have taken, have checked. Hiện tại đơn cho thói quen và lịch xe: takes, leaves. Tương lai đơn cho quyết định, lời hứa và dự đoán: I'll book, I'll pay, we'll have.
+[vi] Mẹo áp dụng: khi kể một sự cố trong thư Writing Task 1 hoặc trong bài Nói, bạn có thể đi đúng thứ tự như cuộc gọi này. Mở đầu bằng tiếp diễn để nói mục đích, kể sự cố bằng quá khứ đơn, nêu tình trạng hiện tại bằng hiện tại hoàn thành hoặc hiện tại đơn, và kết bằng will.
+
+[chapter] Tổng kết từ vựng Tập A
+[vi] Chúng ta cùng ôn lại các nhóm từ trong tập hôm nay.
+[vi] 1. Chuyến đi ngắn: trip. Quãng đường di chuyển: journey. Việc đi lại nói chung: travel.
+[term] trip, journey, travel
+[vi] 2. Nấu ăn và người nấu: cook. Cái bếp: cooker. Đầu bếp nhà hàng: chef.
+[term] cook, cooker, chef
+[vi] 3. Hỏng máy: break down. Làm vỡ: break. Hỏng, không hoạt động: out of order.
+[term] break down, break, out of order
+[vi] 4. Xưởng sửa xe: garage. Cây xăng: petrol station hoặc gas station.
+[term] garage, petrol station, gas station
+[vi] 5. Thợ máy: mechanic. Kỹ thuật viên: technician. Kỹ sư: engineer.
+[term] mechanic, technician, engineer
+[vi] 6. Bảng giờ tàu xe: timetable. Lịch trình: schedule.
+[term] timetable, schedule
+[vi] 7. Khởi hành: leave, trang trọng hơn là depart. Sự khởi hành: departure.
+[term] leave, depart, departure
+[vi] 8. Đặt trước: book, trang trọng hơn là reserve.
+[term] book, reserve
+[vi] 9. Trả lại tiền mượn: pay back. Trả nợ, trả khoản vay: repay. Hoàn tiền: refund.
+[term] pay back, repay, refund
+[vi] 10. Đi chơi vui vẻ: have a good time, hoặc enjoy ourselves.
+[term] have a good time, enjoy ourselves
+[vi] Tập A đến đây là kết thúc. Trong Tập B, chúng ta sẽ dùng chính năm thì này để đọc hiểu một bản tin về một phòng khám miễn phí, một chủ đề rất hay gặp trong đề thi. Cuối tập là phần thư giãn với tên những bài hát tiếng Anh quen thuộc. Hẹn gặp lại các bạn.

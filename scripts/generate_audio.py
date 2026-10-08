@@ -33,6 +33,7 @@ FFMPEG_BIN, FFPROBE_BIN = get_ffmpeg_bin()
 
 VOICE_VI = "vi-VN-NamMinhNeural"
 VOICE_EN = "en-US-JennyNeural"
+VOICE_EN2 = "en-US-GuyNeural"  # giọng nam cho người nói thứ hai trong hội thoại
 
 CACHE_DIR = "output/.cache"
 os.makedirs(CACHE_DIR, exist_ok=True)
@@ -117,13 +118,22 @@ async def process_episode(script_path, output_mp3_path, episode_title, sem):
     for l in lines:
         if l.startswith("[chapter] "):
             current_chapter = l[10:].strip()
-            tokens.append(("chapter", current_chapter))
+            tokens.append(("chapter", current_chapter, None))
         elif l.startswith("[vi] "):
-            tokens.append(("vi", l[5:].strip()))
+            tokens.append(("vi", l[5:].strip(), VOICE_VI))
         elif l.startswith("[term] "):
-            tokens.append(("term", l[7:].strip()))
+            tokens.append(("term", l[7:].strip(), VOICE_EN))
         elif l.startswith("[en] "):
-            tokens.append(("en", l[5:].strip()))
+            tokens.append(("en", l[5:].strip(), VOICE_EN))
+        elif l.startswith("[en2] "):
+            tokens.append(("en", l[6:].strip(), VOICE_EN2))
+        elif l.startswith("[lyric] "):
+            tokens.append(("en", l[8:].strip(), VOICE_EN))
+        elif l.startswith("[read] "):
+            tokens.append(("read", l[7:].strip(), VOICE_EN))
+        elif l.startswith("[read2] "):
+            tokens.append(("read", l[8:].strip(), VOICE_EN2))
+        # [song] là metadata (tên bài | ca sĩ), không đọc thành tiếng
 
     chapters = []
     chunk_files = []
@@ -138,7 +148,7 @@ async def process_episode(script_path, output_mp3_path, episode_title, sem):
 
     # First pass: Create generation tasks
     idx = 0
-    for tag, val in tokens:
+    for tag, val, voice in tokens:
         idx += 1
         if tag == "chapter":
             if current_chap_start_ms < running_ms:
@@ -153,27 +163,33 @@ async def process_episode(script_path, output_mp3_path, episode_title, sem):
             
         if tag == "vi":
             f_out = os.path.join(temp_dir, f"chunk_{idx:03d}_vi.mp3")
-            tasks.append(generate_chunk(val, VOICE_VI, None, f_out, sem))
+            tasks.append(generate_chunk(val, voice, None, f_out, sem))
             task_metadata.append(("single", f_out, None, None))
             
         elif tag == "term":
             f_out = os.path.join(temp_dir, f"chunk_{idx:03d}_term.mp3")
-            tasks.append(generate_chunk(val, VOICE_EN, None, f_out, sem))
+            tasks.append(generate_chunk(val, voice, None, f_out, sem))
             task_metadata.append(("term", f_out, f_silence_05s, dur_silence_05s))
             
         elif tag == "en":
             f_en1 = os.path.join(temp_dir, f"chunk_{idx:03d}_en1_slow.mp3")
             f_en2 = os.path.join(temp_dir, f"chunk_{idx:03d}_en2_norm.mp3")
-            tasks.append(generate_chunk(val, VOICE_EN, "-10%", f_en1, sem))
-            tasks.append(generate_chunk(val, VOICE_EN, None, f_en2, sem))
+            tasks.append(generate_chunk(val, voice, "-10%", f_en1, sem))
+            tasks.append(generate_chunk(val, voice, None, f_en2, sem))
             task_metadata.append(("en", f_en1, f_en2, None))
+
+        elif tag == "read":
+            # Đọc trọn đoạn / hội thoại: mỗi câu đọc 1 lần, tốc độ thường
+            f_out = os.path.join(temp_dir, f"chunk_{idx:03d}_read.mp3")
+            tasks.append(generate_chunk(val, voice, None, f_out, sem))
+            task_metadata.append(("term", f_out, f_silence_05s, dur_silence_05s))
 
     logging.info(f"Generating {len(tasks)} audio chunks...")
     await asyncio.gather(*tasks)
 
     # Second pass: Compute durations & build timeline
     idx = 0
-    for tag, val in tokens:
+    for tag, val, voice in tokens:
         if tag == "chapter":
             continue
             

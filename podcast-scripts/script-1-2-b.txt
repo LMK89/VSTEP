@@ -1,150 +1,183 @@
-[chapter] Phần 1: Ôn lại nguyên tắc phối thì cốt lõi Tập A
-[vi] Chào mừng các bạn quay trở lại với chuỗi podcast ôn luyện VSTEP thực chiến. Trong phần trước của Tập một chấm hai A, chúng ta đã nắm chắc bản chất và công thức của các liên từ thời gian.
-[vi] Chúng ta cùng điểm lại nhanh ba nguyên tắc cốt lõi:
-[vi] Thứ nhất, tuyệt đối không dùng trợ động từ tương lai will trong mệnh đề trạng ngữ chỉ thời gian.
-[term] will
-[vi] Thứ hai, với liên từ By the time, nếu mốc ở quá khứ đơn thì vế chính chia quá khứ hoàn thành; nếu mốc ở hiện tại đơn thì vế chính chia tương lai hoàn thành.
-[term] By the time
-[vi] Và thứ ba, Before đi với mốc xảy ra sau, còn After đi với sự việc hoàn thành trước.
-[term] Before, After
-[vi] Trong Tập một chấm hai B hôm nay, chúng ta sẽ thực chiến với hai nội dung: Một là vạch trần các cạm bẫy gài mốc thời gian trong bài thi Nghe và Đọc. Hai là ứng dụng quy tắc phối thì vào bài viết luận và bài thi Nói.
+[chapter] Ôn nhanh Tập A
+[vi] Chào mừng các bạn quay lại với bài một chấm hai, phần B: Quy tắc phối thì và mốc thời gian.
+[vi] Trong Tập A, qua email báo sự cố của Linh, chúng ta đã học tám liên từ thời gian. Nhắc lại ba quy tắc quan trọng nhất.
+[vi] Một, sau liên từ thời gian không dùng will. Việc ở tương lai thì vế liên từ dùng hiện tại đơn: As soon as the plumber arrives, I will show him the problem.
+[term] As soon as the plumber arrives, I will show him
+[vi] Hai, before đứng trước việc xảy ra sau, after đứng trước việc xảy ra trước. Quá khứ hoàn thành dùng cho việc xảy ra trước, nhưng với before và after thì không bắt buộc.
+[term] Before I called you, I had turned off
+[vi] Ba, by the time nhấn mạnh việc đã xong trước mốc. Mốc ở quá khứ thì vế chính dùng quá khứ hoàn thành. Mốc ở tương lai thì vế chính dùng tương lai hoàn thành.
+[term] By the time you read this, I will have moved
+[vi] Hôm nay, chúng ta đặt tám liên từ này vào một bản tin về giáo dục, một trong những chủ đề xuất hiện nhiều nhất trong bài thi Viết và Nói. Cuối tập là phần thư giãn với tên những bài hát có chứa chính các liên từ này.
 
-[chapter] Phần 2: Mổ xẻ Bẫy đề thi Listening và Reading
-[vi] Dưới đây là các tình huống mô phỏng theo dạng đề VSTEP chuẩn giúp các bạn nhận diện bẫy phòng thi. Trước hết là các cạm bẫy trong kỹ năng Nghe.
-[vi] Cạm bẫy Listening số một: Bẫy thay đổi lịch trình thường lệ bằng các từ nối phản bác. Trong phần thi Listening Part 1, người nói thường đưa ra một mốc thời gian quen thuộc ngay từ đầu câu. Nhưng ngay sau đó, họ sẽ dùng các từ chuyển hướng như but, however, actually hoặc instead để thay đổi kế hoạch.
-[term] but, however, actually, instead
-[vi] Tình huống mô phỏng số 1: Lớp học bơi thường được xếp lịch lúc 5 giờ 15 phút, nhưng tối nay nó sẽ bắt đầu sớm hơn nửa tiếng do công tác bảo trì.
-[en] The swimming class is usually scheduled at a quarter past five, but this evening it will start half an hour earlier due to maintenance work.
-[vi] Phân tích: Động từ lừa là is scheduled, chỉ lịch trình thường lệ, và sự kiện chốt là will start. Mốc thường lệ là 5 giờ 15 phút, nhưng người nói chêm vào cụm earlier mang nghĩa sớm hơn, nên mốc chính xác là 4 giờ 45 phút.
-[term] is scheduled, will start
-[vi] Từ mới trong câu: danh từ maintenance mang nghĩa sự bảo trì, bảo dưỡng.
-[term] maintenance
+[chapter] Phần 2: Đề thi. Nghe trọn bản tin về học trực tuyến
+[vi] Bản tin hôm nay nói về việc học trực tuyến ở Việt Nam sau đại dịch. Đây là bản tin được viết riêng cho bài học, các con số chỉ mang tính minh họa. Bản tin có chín câu. Lần đầu nghe, bạn hãy để ý các liên từ thời gian và các mốc như 2020, since then, by 2030.
+[read] When the pandemic hit in 2020, thousands of schools in Vietnam closed overnight.
+[read] While teachers were preparing online lessons, many families were struggling to buy laptops for their children.
+[read] Before the pandemic started, few students had ever attended a class on the internet.
+[read] By the time schools reopened, many students had fallen behind in maths and reading.
+[read] Since then, the government has invested heavily in digital education.
+[read] While online learning saves time and money, it cannot fully replace face-to-face teaching.
+[read] As soon as the new budget is approved, every rural school will receive high-speed internet.
+[read] However, experts warn that the digital gap will not close until every child has a device.
+[read] By 2030, most secondary schools will have adopted a blended learning model.
 
-[vi] Cạm bẫy Listening số hai: Bẫy chậm trễ so với dự kiến.
-[vi] Tình huống mô phỏng số 2: Chuyến tàu tốc hành lẽ ra khởi hành lúc 7 giờ 15 phút, nhưng điều kiện thời tiết khắc nghiệt đã gây ra sự chậm trễ một tiếng.
-[en] The express train should depart at seven fifteen, but severe weather conditions have caused a delay of one hour.
-[vi] Phân tích: Kế hoạch ban đầu là should depart lúc 7 giờ 15 phút, nhưng đã bị can thiệp bởi have caused. Kế hoạch đã bị lùi lại, nghĩa là tàu sẽ khởi hành lúc 8 giờ 15 phút.
-[term] should depart, have caused
-[vi] Từ mới trong câu: tính từ severe mang nghĩa nghiêm trọng, khắc nghiệt. Danh từ delay nghĩa là sự chậm trễ, sự trì hoãn.
-[term] severe, delay
+[chapter] Phần 2: Mổ xẻ từng câu, chuyện năm 2020
+[vi] Câu số một: Khi đại dịch bùng phát năm 2020, hàng nghìn trường học ở Việt Nam đóng cửa chỉ sau một đêm.
+[en] When the pandemic hit in 2020, thousands of schools in Vietnam closed overnight.
+[vi] Ngữ pháp: when cộng quá khứ đơn, quá khứ đơn. Hit và closed đều là quá khứ đơn vì hai sự việc xảy ra gần như cùng lúc và nối tiếp nhau, tại một mốc rõ ràng là năm 2020. Hit là động từ bất quy tắc, ba cột đều là hit.
+[term] When the pandemic hit, schools closed
+[vi] Bẫy: động từ bất quy tắc có ba cột giống nhau như hit, put, cut, cost, spread rất dễ làm bạn tưởng là hiện tại đơn. Hãy dựa vào chủ ngữ và mốc thời gian. The pandemic hit in 2020: có mốc 2020, và nếu là hiện tại đơn thì phải là hits với s. Vậy đây chắc chắn là quá khứ.
+[term] hit, put, cut, cost, spread
+[vi] Từ vựng: pandemic là đại dịch trên toàn cầu. Epidemic là dịch bệnh trong một khu vực. Outbreak là sự bùng phát. Overnight là chỉ sau một đêm, nghĩa bóng là rất nhanh, đột ngột.
+[term] pandemic, epidemic, outbreak, overnight
 
-[vi] Cạm bẫy Listening số ba: Lẫn lộn giữa sự kiện quá khứ và triệu chứng hiện tại trong Listening Part 2.
-[vi] Tình huống mô phỏng số 3: Năm ngoái tôi đã nghỉ học trọn một tuần khi tôi bị gãy tay, nhưng ngay lúc này tôi đang bị một cơn sốt cao dai dẳng.
-[en] Last year I missed an entire week of school when I fractured my arm, but right now I am suffering from a persistent high fever.
-[vi] Phân tích: Sự việc trong quá khứ dùng missed và fractured, sự việc đang diễn ra ngay lúc nói dùng am suffering. Nếu câu hỏi hỏi nguyên nhân nghỉ học hiện tại, đáp án phải nằm ở phần hiện tại tiếp diễn.
-[term] missed, fractured, am suffering
-[vi] Từ mới trong câu: động từ fracture mang nghĩa làm gãy, nứt xương. Tính từ persistent mang nghĩa dai dẳng, liên tục.
-[term] fracture, persistent
+[vi] Câu số hai: Trong khi giáo viên đang chuẩn bị bài giảng trực tuyến, nhiều gia đình đang chật vật mua máy tính xách tay cho con.
+[en] While teachers were preparing online lessons, many families were struggling to buy laptops for their children.
+[vi] Ngữ pháp: cả hai vế đều dùng quá khứ tiếp diễn, were preparing và were struggling, vì hai việc kéo dài song song trong cùng một giai đoạn. Công thức: while cộng quá khứ tiếp diễn, quá khứ tiếp diễn.
+[term] were preparing, were struggling
+[vi] So sánh: so với câu của Linh ở Tập A, While I was cooking, the light went out, thì vế sau là quá khứ đơn vì đó là việc ngắn xen vào. Ở câu này, hai việc đều kéo dài, nên cả hai đều tiếp diễn. Câu hỏi để tự kiểm tra: việc ở vế chính kéo dài hay xảy ra trong tích tắc?
+[vi] Từ vựng: struggle to do something là chật vật, vất vả mới làm được việc gì. Gần nghĩa có find it hard to, và have difficulty, nhưng have difficulty đi với động từ thêm ing: have difficulty buying laptops. Đây là cặp cấu trúc rất hay gặp trong bài Viết.
+[term] struggle to buy, find it hard to buy, have difficulty buying
 
-[vi] Chuyển sang các cạm bẫy trong kỹ năng Đọc hiểu Reading.
-[vi] Bẫy Reading số một: Trục thời gian phi tuyến tính. Người viết thường không kể chuyện theo đúng thứ tự thời gian, mà hay kể sự việc đang xảy ra rồi mới dùng quá khứ hoàn thành để giải thích nguyên nhân trước đó.
-[vi] Tình huống mô phỏng số 4: Các nhà điều tra phát hiện ra rằng ngọn lửa đã bắt nguồn từ một lỗi chập điện ở tầng hầm nhiều giờ trước khi hệ thống báo động reo lên.
-[en] Investigators discovered that the fire had originated from an electrical fault in the basement hours before the alarm system went off.
-[vi] Phân tích: Sự việc had originated xảy ra đầu tiên, sau đó chuông báo động went off, và cuối cùng các nhà điều tra mới discovered. Quá khứ hoàn thành giúp xác định chính xác nguyên nhân gốc rễ.
-[term] had originated, went off, discovered
-[vi] Từ mới trong câu: động từ originate mang nghĩa bắt nguồn, khởi nguồn.
-[term] originate
+[vi] Câu số ba: Trước khi đại dịch bắt đầu, rất ít học sinh từng tham gia một lớp học qua mạng.
+[en] Before the pandemic started, few students had ever attended a class on the internet.
+[vi] Ngữ pháp: before cộng quá khứ đơn, started, và vế chính dùng quá khứ hoàn thành, had ever attended, để nói về trải nghiệm tính đến một mốc trong quá khứ. Ever trong câu này nghĩa là từng, đã bao giờ.
+[term] Before the pandemic started, few students had ever attended
+[vi] So sánh: few và a few. Few students nghĩa là rất ít học sinh, gần như không có, mang nghĩa tiêu cực. A few students nghĩa là một vài học sinh, vẫn có, mang nghĩa tích cực. Chỉ khác nhau một chữ a mà nghĩa ngược hẳn. Tương tự với little và a little cho danh từ không đếm được.
+[term] few, a few, little, a little
+[vi] Từ vựng: attend là tham dự, tham gia, đi thẳng với tân ngữ, không có to: attend a class, attend a meeting. Viết attend to a class là sai, vì attend to lại mang nghĩa khác là chú ý, xử lý một việc. Gần nghĩa có take part in và participate in, nghĩa là tham gia tích cực vào một hoạt động.
+[term] attend a class, take part in, participate in
 
-[vi] Bẫy Reading số hai: Lệch thì giữa số liệu quá khứ và dự báo tương lai.
-[vi] Tình huống mô phỏng số 5: Số lượng ca tử vong do các bệnh liên quan đến thuốc lá đứng ở mức một triệu vào năm 2010, nhưng các nhà nghiên cứu cảnh báo rằng con số này sẽ tăng gấp đôi vào năm 2030.
-[en] The number of deaths from smoking-related diseases stood at one million in 2010, but researchers warn that this figure will double by 2030.
-[vi] Phân tích: Sự kiện quá khứ đi với năm 2010 dùng động từ stood. Sự kiện dự báo đi với mốc 2030 dùng will double. Đề bài rất hay đánh lừa người đọc chọn số liệu dự báo làm số liệu thực tế trong quá khứ.
-[term] stood, will double
-[vi] Từ mới trong câu: danh từ death nghĩa là cái chết, ca tử vong do bệnh tật. Cần lưu ý không dùng fatality ở đây vì fatality thường dùng cho ca tử vong do tai nạn hoặc thảm họa.
-[term] death, fatality
+[vi] Câu số bốn: Tính đến lúc các trường mở cửa trở lại, nhiều học sinh đã bị tụt lại phía sau ở môn toán và môn đọc.
+[en] By the time schools reopened, many students had fallen behind in maths and reading.
+[vi] Ngữ pháp: by the time với mốc ở quá khứ. Vế by the time dùng quá khứ đơn, reopened. Vế chính dùng quá khứ hoàn thành, had fallen behind, vì việc tụt lại đã xảy ra xong trước lúc mở cửa lại. Fall là động từ bất quy tắc: fall, fell, fallen.
+[term] By the time schools reopened, students had fallen behind
+[vi] Bẫy: đây là câu trắc nghiệm ngữ pháp gặp rất thường xuyên. Thấy by the time cộng quá khứ đơn, thì vế còn lại gần như luôn là quá khứ hoàn thành. Đáp án many students fell behind thường là bẫy. Và nhớ cặp đối xứng: by the time cộng hiện tại đơn thì vế chính là will have cộng động từ cột ba.
+[vi] Từ vựng: fall behind là bị tụt lại, chậm hơn so với người khác hoặc so với kế hoạch. Ngược lại là catch up with, đuổi kịp. Keep up with là theo kịp, không bị tụt lại. Ba cụm này rất hay dùng trong chủ đề giáo dục.
+[term] fall behind, catch up with, keep up with
 
-[chapter] Phần 3: Khung kỹ năng Writing Task 1 và Task 2
-[vi] Phần tiếp theo, chúng ta ứng dụng phối thì để giải quyết bài thi Viết. Đầu tiên là Writing Task 1: Viết thư phàn nàn và xin lỗi.
-[vi] Cấu trúc viết thư phàn nàn thường yêu cầu kể lại sự việc đã xảy ra, sau đó mô tả tình trạng hiện tại, và đưa ra yêu cầu ở tương lai.
-[vi] Câu ví dụ số 6: Tuần trước, tôi đã mua một chiếc máy tính xách tay từ cửa hàng của bạn. Tuy nhiên, nó hiện không khởi động được, vì vậy tôi sẽ yêu cầu hoàn tiền toàn bộ.
-[en] Last week, I purchased a laptop from your store. However, it currently does not turn on, so I will request a full refund.
-[vi] Phân tích: Quá khứ đơn purchased để kể lại giao dịch mua bán, hiện tại đơn does not turn on để nói về lỗi, và tương lai will request để đề xuất hướng giải quyết.
-[term] purchased, does not turn on, will request
-[vi] Từ mới trong câu: động từ purchase đồng nghĩa với buy, mang nghĩa mua sắm. Cụm refund nghĩa là sự hoàn tiền.
-[term] purchase, refund
+[chapter] Phần 2: Mổ xẻ từng câu, từ hôm nay đến năm 2030
+[vi] Câu số năm: Kể từ đó, chính phủ đã đầu tư mạnh vào giáo dục số.
+[en] Since then, the government has invested heavily in digital education.
+[vi] Ngữ pháp: since then nghĩa là kể từ đó, tức là kể từ năm 2020. Vế chính dùng hiện tại hoàn thành, has invested, vì việc đầu tư bắt đầu từ mốc đó và còn tiếp tục đến nay.
+[term] Since then, has invested
+[vi] Bẫy: since then là cụm cố định, then thay cho một mốc thời gian đã nhắc trước đó. Câu có since then mà dùng quá khứ đơn, như the government invested since then, là sai. Một bẫy khác trong bài Đọc: đoạn văn không kể theo thứ tự thời gian. Người viết có thể nói chuyện hiện tại trước, rồi mới dùng quá khứ hoàn thành để kể chuyện xảy ra trước đó. Khi câu hỏi hỏi việc gì xảy ra đầu tiên, hãy tìm động từ có had.
+[vi] Từ vựng: invest in là đầu tư vào, luôn đi với in. Danh từ là investment, nhà đầu tư là investor. Heavily trong cụm invest heavily nghĩa là đầu tư mạnh, nhiều tiền, không phải nặng. Gần nghĩa có invest significantly, hoặc pour money into, đổ tiền vào.
+[term] invest heavily in, investment, investor
 
-[vi] Đối với thư xin lỗi trong Task 1, ta thường dùng quá khứ để xin lỗi sự việc đã qua và tương lai để hứa hẹn.
-[vi] Câu ví dụ số 7: Tôi thành thật xin lỗi vì tôi đã không tham dự cuộc họp hôm qua. Tôi đảm bảo rằng điều này sẽ không xảy ra nữa trong tương lai.
-[en] I sincerely apologize that I failed to attend the meeting yesterday. I assure you that this will not happen again in the future.
-[vi] Phân tích: Lời xin lỗi ở hiện tại apologize, sự việc gây lỗi dùng quá khứ đơn failed to attend, và lời hứa hẹn dùng tương lai đơn will not happen.
-[term] apologize, failed to attend, will not happen
-[vi] Từ mới trong câu: động từ assure mang nghĩa cam đoan, đảm bảo.
-[term] assure
+[vi] Câu số sáu: Mặc dù học trực tuyến tiết kiệm thời gian và tiền bạc, nó không thể thay thế hoàn toàn việc dạy học trực tiếp.
+[en] While online learning saves time and money, it cannot fully replace face-to-face teaching.
+[vi] Ngữ pháp: ở câu này, while không còn nghĩa là trong khi về thời gian, mà mang nghĩa đối lập, mặc dù, tương tự whereas và although. Cả hai vế dùng hiện tại đơn vì đây là nhận định chung.
+[term] While online learning saves time, it cannot replace
+[vi] So sánh: làm sao biết while mang nghĩa thời gian hay nghĩa đối lập? Nếu hai vế mô tả hai hành động diễn ra cùng lúc, thường ở thì tiếp diễn, thì đó là nghĩa thời gian. Nếu hai vế là hai ý trái ngược nhau, một mặt tốt, một mặt xấu, thì đó là nghĩa đối lập. Ở trình độ B2 và C1, while mang nghĩa đối lập là cấu trúc rất ăn điểm khi mở đầu đoạn văn so sánh trong bài Viết.
+[term] while, whereas, although
+[vi] Từ vựng: replace là thay thế, cấu trúc là replace A with B, thay A bằng B. Danh từ là replacement. Face-to-face là trực tiếp, mặt đối mặt, trái nghĩa với online hoặc remote. Gần nghĩa với face-to-face teaching có in-person teaching.
+[term] replace A with B, replacement, face-to-face, in-person, remote
 
-[vi] Chuyển sang Writing Task 2. Khung cấu trúc phổ biến nhất để đối chiếu xu hướng xã hội là so sánh quá khứ và những năm gần đây.
-[vi] Câu ví dụ số 8: Trong quá khứ, các tài liệu in ấn đóng vai trò là nguồn thông tin chính. Tuy nhiên, trong những năm gần đây, phương tiện truyền thông kỹ thuật số đã thống trị bối cảnh giáo dục.
-[en] In the past, printed materials served as the primary source of information. However, in recent years, digital media has dominated the educational landscape.
-[vi] Phân tích: Cụm In the past bắt buộc đi với quá khứ đơn served. Cụm in recent years bắt buộc đi với hiện tại hoàn thành has dominated.
-[term] served, has dominated
-[vi] Từ mới trong câu: động từ dominate mang nghĩa áp đảo, thống trị. Danh từ landscape khi dùng nghĩa bóng mang nghĩa bối cảnh, toàn cảnh.
-[term] dominate, landscape
+[vi] Câu số bảy: Ngay khi ngân sách mới được phê duyệt, mọi trường học ở nông thôn sẽ được lắp internet tốc độ cao.
+[en] As soon as the new budget is approved, every rural school will receive high-speed internet.
+[vi] Ngữ pháp: quy tắc vàng, nhưng ở dạng bị động. Việc phê duyệt nằm ở tương lai, nhưng sau as soon as dùng hiện tại đơn bị động: is approved, không phải will be approved. Vế chính dùng tương lai đơn, will receive.
+[term] As soon as the budget is approved, schools will receive
+[vi] Bẫy: trong bài thi Nghe, các câu dạng này thường đi kèm điều kiện thay đổi. Ví dụ: The work will start as soon as the budget is approved, but that may take another month. Nếu câu hỏi hỏi khi nào công việc bắt đầu, đáp án không phải là ngay lập tức, mà phụ thuộc vào thông tin sau but. Thêm một bẫy về chủ ngữ: every đi với danh từ số ít và động từ số ít, every rural school, không phải every rural schools.
+[term] every rural school
+[vi] Từ vựng: approve là phê duyệt, đồng ý chính thức. Approve of lại mang nghĩa tán thành, thấy đúng: My parents don't approve of my plan. Budget là ngân sách. High-speed là tốc độ cao, gạch nối vì đó là tính từ ghép đứng trước danh từ.
+[term] approve, approve of, budget, high-speed
 
-[vi] Ứng dụng đưa ra dự báo tương lai hoặc giải pháp trong Task 2.
-[vi] Câu ví dụ số 9: Ngay khi chính phủ triển khai các khoản trợ cấp toàn diện, các năng lượng thay thế bền vững sẽ thay thế nhiên liệu hóa thạch độc hại.
-[en] As soon as the government implements comprehensive subsidies, sustainable alternative energies will replace hazardous fossil fuels.
-[vi] Phân tích: Mệnh đề As soon as chia ở hiện tại đơn implements, trong khi vế chính dự báo kết quả dùng tương lai đơn will replace.
-[term] implements, will replace
-[vi] Từ mới trong câu: danh từ subsidy nghĩa là tiền trợ cấp. Tính từ hazardous là từ vựng C1 mang nghĩa độc hại, nguy hiểm.
-[term] subsidy, hazardous
+[vi] Câu số tám: Tuy nhiên, các chuyên gia cảnh báo rằng khoảng cách số sẽ không được thu hẹp cho đến khi mọi trẻ em đều có một thiết bị.
+[en] However, experts warn that the digital gap will not close until every child has a device.
+[vi] Ngữ pháp: not cộng until nghĩa là mãi đến khi, chỉ khi. Vế chính will not close là tương lai đơn phủ định, vế until dùng hiện tại đơn, has, vì vẫn là liên từ thời gian.
+[term] will not close until every child has
+[vi] So sánh: cấu trúc not until rất hay được viết lại trong đề thi viết lại câu. The gap will not close until every child has a device, có nghĩa giống It is only when every child has a device that the gap will close. Ở bài ba chấm ba, chúng ta sẽ học dạng đảo ngữ của nó: Not until every child has a device will the gap close.
+[term] It is only when, Not until
+[vi] Từ vựng: warn là cảnh báo. Warn someone about something, cảnh báo ai về điều gì, và warn someone not to do something, cảnh báo ai đừng làm gì. Gap là khoảng cách, chênh lệch. Digital gap, hay digital divide, là khoảng cách số giữa người có và người không có công nghệ.
+[term] warn, warn someone not to, digital gap, digital divide
 
-[chapter] Phần 4: Khung kỹ năng Speaking Part 1, 2, 3
-[vi] Trong phần thi Speaking Part 1, giao tiếp xã hội, chúng ta thường mô tả các thói quen.
-[vi] Câu ví dụ số 10: Trước khi mạng xã hội trở nên phổ biến khắp nơi, thanh thiếu niên đã từng tham gia vào các hoạt động ngoài trời.
-[en] Before social media became ubiquitous, teenagers used to engage in outdoor activities.
-[vi] Phân tích: Cả 2 vế đều mô tả sự việc đã kết thúc trong quá khứ. Đặc biệt, vế chính dùng cấu trúc used to engage để nhấn mạnh một thói quen trong quá khứ, không đơn thuần chỉ là quá khứ đơn.
-[term] became, used to engage
-[vi] Từ mới trong câu: tính từ ubiquitous là từ vựng C1, mang nghĩa có mặt ở khắp mọi nơi, rất phổ biến.
-[term] ubiquitous
+[vi] Câu số chín: Đến năm 2030, phần lớn các trường trung học sẽ áp dụng xong mô hình học kết hợp.
+[en] By 2030, most secondary schools will have adopted a blended learning model.
+[vi] Ngữ pháp: by cộng một mốc thời gian trong tương lai, 2030, đi với tương lai hoàn thành, will have adopted. Việc áp dụng sẽ hoàn thành trước năm 2030.
+[term] By 2030, will have adopted
+[vi] So sánh: by 2030 và in 2030. In 2030 là vào năm 2030, việc xảy ra trong năm đó, dùng tương lai đơn: In 2030, the law will change. By 2030 là trước hoặc chậm nhất là năm 2030, việc đã xong, dùng tương lai hoàn thành. Đây là cách rất hay để viết câu dự báo trong phần kết bài.
+[term] in 2030, by 2030
+[vi] Từ vựng: adopt và adapt là cặp từ hay nhầm vì viết gần giống nhau. Adopt là áp dụng, chọn dùng một phương pháp, hoặc nhận con nuôi. Adapt là thích nghi, điều chỉnh cho phù hợp: adapt to a new environment. Blended learning là học kết hợp giữa trực tuyến và trực tiếp.
+[term] adopt, adapt to, blended learning
 
-[vi] Trong Speaking Part 2, thảo luận và chọn giải pháp, thí sinh cần đưa ra quyết định giả định.
-[vi] Câu ví dụ số 11: Nếu tôi được trao cơ hội để quyết định ngay bây giờ, tôi chắc chắn sẽ chọn một kỳ nghỉ thân thiện với môi trường ở nông thôn.
-[en] If I were granted the opportunity to decide right now, I would undoubtedly choose an eco-friendly holiday in the countryside.
-[vi] Phân tích: Cấu trúc giả định câu điều kiện loại hai dùng were granted kết hợp với would choose giúp đẩy điểm ngữ pháp lên mức cao.
-[term] were granted, would choose
-[vi] Từ mới trong câu: trạng từ undoubtedly đồng nghĩa với definitely, mang nghĩa chắc chắn, không thể bàn cãi.
-[term] undoubtedly
+[chapter] Phần 2: Nghe lại bản tin và Dùng lại cho chủ đề giáo dục
+[vi] Mời bạn nghe lại toàn bộ bản tin.
+[read] When the pandemic hit in 2020, thousands of schools in Vietnam closed overnight.
+[read] While teachers were preparing online lessons, many families were struggling to buy laptops for their children.
+[read] Before the pandemic started, few students had ever attended a class on the internet.
+[read] By the time schools reopened, many students had fallen behind in maths and reading.
+[read] Since then, the government has invested heavily in digital education.
+[read] While online learning saves time and money, it cannot fully replace face-to-face teaching.
+[read] As soon as the new budget is approved, every rural school will receive high-speed internet.
+[read] However, experts warn that the digital gap will not close until every child has a device.
+[read] By 2030, most secondary schools will have adopted a blended learning model.
+[vi] Khi gặp chủ đề giáo dục, hoặc bất kỳ chủ đề nào về một sự thay đổi lớn trong xã hội, bạn dùng lại được những khung câu sau.
+[vi] Thứ nhất, kể bối cảnh quá khứ bằng when: When, cộng sự kiện, cộng quá khứ đơn. Ví dụ: When smartphones became popular, students started to study online.
+[term] When smartphones became popular, students started to study online.
+[vi] Thứ hai, so sánh trước và sau bằng since then: Since then, cộng hiện tại hoàn thành. Ví dụ: Since then, online learning has become a normal part of education.
+[term] Since then, online learning has become a normal part of education.
+[vi] Thứ ba, mở đoạn so sánh ưu và nhược điểm bằng while mang nghĩa đối lập. Ví dụ: While online learning is convenient, it reduces social interaction.
+[term] While online learning is convenient, it reduces social interaction.
+[vi] Thứ tư, nêu điều kiện cho giải pháp bằng not until: The problem will not be solved until, cộng hiện tại đơn.
+[term] The problem will not be solved until every school has enough teachers.
+[vi] Thứ năm, kết bài bằng một dự báo với by và tương lai hoàn thành. Ví dụ: By 2030, most universities will have offered online degrees.
+[term] By 2030, most universities will have offered online degrees.
+[vi] Và kho từ vựng của chủ đề này: pandemic, fall behind, catch up with, attend, invest in, replace, face-to-face, budget, digital divide, adopt, blended learning. Khung câu thứ ba với while rất phù hợp cho dạng đề nêu ưu nhược điểm trong Writing Task 2, còn khung thứ năm dùng làm câu kết bài rất gọn.
+[term] fall behind, catch up with, invest in, digital divide, blended learning
 
-[vi] Trong Speaking Part 3, phát triển chủ đề chuyên sâu, chúng ta có thể sử dụng các liên từ thời gian để lập luận chặt chẽ.
-[vi] Câu ví dụ số 12: Sau khi sinh viên tốt nghiệp đại học hoàn thành các chương trình học thuật khắt khe, họ sẽ sở hữu một lợi thế cạnh tranh trong việc tìm kiếm việc làm.
-[en] After university graduates have completed their rigorous academic programs, they will possess a competitive edge in securing employment.
-[vi] Phân tích: Dùng hiện tại hoàn thành have completed để nhấn mạnh việc hoàn tất chương trình, và tương lai đơn will possess để chỉ hệ quả.
-[term] have completed, will possess
-[vi] Từ mới trong câu: tính từ rigorous mang nghĩa khắt khe, nghiêm ngặt. Cụm từ competitive edge nghĩa là lợi thế cạnh tranh.
-[term] rigorous, competitive edge
+[chapter] Phần 3: Học ngữ pháp qua tên bài hát
+[vi] Đến phần thư giãn. Hôm nay mình chọn năm bài hát có tên chứa đúng các liên từ thời gian vừa học. Mình chỉ phân tích tên bài, không phát nhạc gốc. Danh sách và đường dẫn nghe bản gốc nằm trong phần mô tả của tập.
+[song] Wake Me Up When September Ends | Green Day
+[vi] Bài đầu tiên là một bản rock ballad của ban nhạc Green Day, phát hành năm 2005.
+[term] Wake Me Up When September Ends
+[vi] Đây là ví dụ hoàn hảo cho quy tắc vàng. Tháng Chín kết thúc là việc ở tương lai, nhưng sau when dùng hiện tại đơn, ends, không phải will end. Vế chính là câu mệnh lệnh, wake me up, hãy đánh thức tôi dậy. Mỗi khi phân vân có dùng will sau when hay không, hãy nhớ đến tên bài hát này.
+[term] when September ends
 
-[chapter] Phần 5: Chuyên mục Tự hỏi Tự đáp (Q and A)
-[vi] Chào mừng các bạn đến với Chuyên mục Tự hỏi Tự đáp để giải quyết các thắc mắc thường gặp.
-[vi] Câu hỏi số một: Tại sao trong mệnh đề sau By the time chỉ sự việc tương lai, chúng ta lại chia động từ ở hiện tại đơn mà không dùng tương lai đơn?
-[vi] Trả lời: Các liên từ thời gian đã mang sẵn ý niệm về thời gian. Quy tắc ngữ pháp quy định mệnh đề trạng ngữ thời gian phải dùng thì hiện tại đơn để làm điểm tựa tham chiếu cho mệnh đề chính. Vì vậy, By the time the next decade begins là chuẩn mực, tuyệt đối không dùng will begin.
-[vi] Câu hỏi số hai: Làm thế nào để phân biệt khi nào dùng When và khi nào dùng While?
-[vi] Trả lời: Điểm mấu chốt nằm ở độ dài hành động. Liên từ When thường đứng trước hành động chen ngang ngắn ngủi, ví dụ như When the alarm went off. Ngược lại, liên từ While thường đứng trước hành động bối cảnh kéo dài, ví dụ như While I was sleeping.
-[vi] Câu hỏi số ba: Sự khác biệt giữa việc dùng Quá khứ đơn hay Quá khứ hoàn thành sau liên từ Before và After là gì?
-[vi] Trả lời: Bản thân Before và After đã chỉ rõ trình tự thời gian sự việc nào xảy ra trước, sự việc nào xảy ra sau. Do đó, việc chia cả hai vế ở Quá khứ đơn là hoàn toàn chính xác. Việc sử dụng Quá khứ hoàn thành không phải vì văn nói hay văn viết, mà chỉ đơn thuần dùng để nhấn mạnh sự hoàn tất triệt để của một hành động trước khi hành động kia bắt đầu. Ví dụ, After he had finished the project nhấn mạnh việc dự án đã được xong xuôi hoàn toàn.
+[song] Before He Cheats | Carrie Underwood
+[vi] Bài thứ hai là một bản nhạc đồng quê nổi tiếng của Carrie Underwood năm 2006.
+[term] Before He Cheats
+[vi] Before cộng hiện tại đơn, cheats, có s vì chủ ngữ là he. Câu này cũng nói về một việc có thể xảy ra trong tương lai, nhưng vì nằm sau before nên vẫn dùng hiện tại đơn. Từ vựng: cheat là gian lận, lừa dối. Cheat in an exam là gian lận trong thi cử, cheat on someone là lừa dối người yêu.
+[term] before he cheats, cheat in an exam, cheat on someone
 
-[chapter] Phần 6: Tổng kết từ vựng
-[vi] Để kết thúc Tập B, chúng ta cùng điểm lại các từ vựng B2, C1 quan trọng xuất hiện trong bài.
-[vi] 1. Sự bảo trì: maintenance.
-[term] maintenance
-[vi] 2. Nghiêm trọng, khắc nghiệt: severe. Sự chậm trễ: delay.
-[term] severe, delay
-[vi] 3. Làm gãy, nứt: fracture. Dai dẳng: persistent.
-[term] fracture, persistent
-[vi] 4. Bắt nguồn: originate.
-[term] originate
-[vi] 5. Cái chết, ca tử vong bệnh tật: death. Ca tử vong do tai nạn, thảm họa: fatality.
-[term] death, fatality
-[vi] 6. Mua sắm: purchase. Sự hoàn tiền: refund.
-[term] purchase, refund
-[vi] 7. Cam đoan, đảm bảo: assure.
-[term] assure
-[vi] 8. Thống trị: dominate. Bối cảnh: landscape.
-[term] dominate, landscape
-[vi] 9. Tiền trợ cấp: subsidy. Độc hại, nguy hiểm: hazardous.
-[term] subsidy, hazardous
-[vi] 10. Có mặt ở khắp nơi: ubiquitous.
-[term] ubiquitous
-[vi] 11. Chắc chắn, không thể bàn cãi: undoubtedly.
-[term] undoubtedly
-[vi] 12. Khắt khe, nghiêm ngặt: rigorous. Lợi thế cạnh tranh: competitive edge.
-[term] rigorous, competitive edge
-[vi] Bài một chấm hai về Quy tắc Phối Thì và Mốc thời gian kết thúc ở đây. Thời lượng học lý thuyết và thực hành của bài học này kéo dài trong khoảng 50 phút. Hẹn gặp lại các bạn trong bài một chấm ba về Danh động từ và Động từ nguyên mẫu.
+[song] After the Love Has Gone | Earth, Wind & Fire
+[vi] Bài thứ ba là một bản tình ca kinh điển của nhóm Earth, Wind and Fire năm 1979.
+[term] After the Love Has Gone
+[vi] Ở đây after đi với hiện tại hoàn thành, has gone. Sau liên từ thời gian, hiện tại hoàn thành được dùng thay cho hiện tại đơn khi muốn nhấn mạnh việc đã xong hẳn. Ví dụ trong bài thi: I will call you after I have finished the report, tôi sẽ gọi sau khi làm xong hẳn báo cáo. Vẫn không có will trong vế after.
+[term] after I have finished
+
+[song] Until I Found You | Stephen Sanchez
+[vi] Bài thứ tư là một bản tình ca theo phong cách cổ điển của Stephen Sanchez, rất nổi tiếng trên mạng xã hội từ năm 2022.
+[term] Until I Found You
+[vi] Until cộng quá khứ đơn, found, vì đây là chuyện đã xảy ra. Nghĩa là cho đến khi tôi tìm thấy em. Câu đầy đủ thường có dạng: tôi đã không biết tình yêu là gì cho đến khi tôi gặp em. Cấu trúc này giống câu bản tin: not cộng until, mãi đến khi. Và lưu ý found là quá khứ của find, tìm thấy. Đừng nhầm với found là động từ thành lập, có quá khứ là founded.
+[term] until I found you, find found found, found founded
+
+[song] Since U Been Gone | Kelly Clarkson
+[vi] Bài cuối cùng là một bản pop rock rất sôi động của Kelly Clarkson năm 2004.
+[term] Since U Been Gone
+[vi] Đây là mục trong bài hát thì được, trong bài thi thì không. Tên bài viết U thay cho you, và bỏ mất trợ động từ have. Câu đúng ngữ pháp phải là Since you have been gone, hoặc viết gọn since you've been gone, kể từ khi anh ra đi. Nhưng còn một điểm thú vị: ở đây since lại đi với hiện tại hoàn thành, chứ không phải quá khứ đơn như quy tắc. Đó là vì been gone mô tả một trạng thái vẫn còn kéo dài đến bây giờ, anh vẫn chưa quay lại. Trong bài thi, bạn cứ dùng quy tắc an toàn: since cộng quá khứ đơn.
+[term] since you have been gone, since you left
+
+[chapter] Tổng kết từ vựng Tập B
+[vi] Chúng ta cùng ôn lại các nhóm từ trong tập hôm nay.
+[vi] 1. Đại dịch toàn cầu: pandemic. Dịch bệnh khu vực: epidemic. Sự bùng phát: outbreak.
+[term] pandemic, epidemic, outbreak
+[vi] 2. Chật vật làm gì: struggle to. Gặp khó khăn khi làm gì: have difficulty, cộng động từ thêm ing.
+[term] struggle to, have difficulty
+[vi] 3. Rất ít: few. Một vài: a few. Tham dự: attend. Tham gia: take part in, participate in.
+[term] few, a few, attend, take part in, participate in
+[vi] 4. Bị tụt lại: fall behind. Đuổi kịp: catch up with. Theo kịp: keep up with.
+[term] fall behind, catch up with, keep up with
+[vi] 5. Đầu tư mạnh vào: invest heavily in. Khoản đầu tư: investment.
+[term] invest heavily in, investment
+[vi] 6. Thay A bằng B: replace A with B. Trực tiếp: face-to-face, in-person. Từ xa: remote.
+[term] replace A with B, face-to-face, in-person, remote
+[vi] 7. Phê duyệt: approve. Tán thành: approve of. Ngân sách: budget.
+[term] approve, approve of, budget
+[vi] 8. Cảnh báo: warn. Khoảng cách số: digital gap, digital divide.
+[term] warn, digital divide
+[vi] 9. Áp dụng: adopt. Thích nghi: adapt to. Học kết hợp: blended learning.
+[term] adopt, adapt to, blended learning
+[vi] 10. Gian lận trong thi: cheat in an exam. Thành lập: found, quá khứ là founded.
+[term] cheat in an exam, found, founded
+[vi] Bài một chấm hai đến đây là kết thúc. Bài tiếp theo, một chấm ba, chúng ta học danh động từ và động từ nguyên mẫu: khi nào dùng động từ thêm ing, khi nào dùng to cộng động từ. Hẹn gặp lại các bạn.
