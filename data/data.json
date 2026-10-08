@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "title": "VSTEP B1-B2-C1 Mastery Hub",
-  "updated_at": "2026-10-07T10:35:56.358352",
+  "updated_at": "2026-10-08T09:45:40.659998",
   "modules": [
     {
       "id": "1-2",
@@ -10,16 +10,16 @@
       "episodes": [
         {
           "id": "1-2-a",
-          "title": "Tập 1.2A: Bản Chất Ngôn Ngữ & Từ Vựng Học Thuật",
+          "title": "Tập 1.2A: Email báo sự cố và 8 liên từ thời gian",
           "audio_file": "lesson-1-2-a.mp3",
-          "duration_target": "15-20 mins",
+          "duration_target": "20-30 mins",
           "script_path": "./podcast-scripts/script-1-2-a.txt"
         },
         {
           "id": "1-2-b",
-          "title": "Tập 1.2B: Bẫy Đề Thi & Kỹ Năng Sản Xuất Writing/Speaking",
+          "title": "Tập 1.2B: Bản tin học trực tuyến và học qua bài hát",
           "audio_file": "lesson-1-2-b.mp3",
-          "duration_target": "15-20 mins",
+          "duration_target": "20-30 mins",
           "script_path": "./podcast-scripts/script-1-2-b.txt"
         }
       ],

@@ -15,26 +15,26 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
-      <title><![CDATA[Bài 1.1A (bản ngắn)]]></title>
-      <description><![CDATA[Chào mừng các bạn đến với tập 1.1A. Hôm nay chúng ta sẽ bước vào phần: 0. Ôn nền (Foundation Review).]]></description>
+      <title><![CDATA[Bài 1.1A]]></title>
+      <description><![CDATA[Chào mừng các bạn đến với chuỗi podcast ngữ pháp thực chiến cho kỳ thi VSTEP. Đây là bài một chấm một, phần A: Các thì trọng tâm.]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
-      <guid isPermaLink="false">1-1-a-v0.3.0-module1</guid>
-      <pubDate>Thu, 17 Sep 2026 10:49:59 +0700</pubDate>
-      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-1-a.mp3" length="2932145" type="audio/mpeg"/>
-      <itunes:duration>06:06</itunes:duration>
+      <guid isPermaLink="false">1-1-a-v0.4.0-module1</guid>
+      <pubDate>Fri, 18 Sep 2026 10:26:08 +0700</pubDate>
+      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.4.0-module1/lesson-1-1-a.mp3" length="11178182" type="audio/mpeg"/>
+      <itunes:duration>23:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.1B (bản ngắn)]]></title>
-      <description><![CDATA[Chào mừng các bạn đến với tập 1.1B. Chúng ta sẽ tiếp tục với các thì Quá khứ đơn và Tương lai đơn, cùng các ứng dụng và bẫy trong VSTEP.]]></description>
+      <title><![CDATA[Bài 1.1B]]></title>
+      <description><![CDATA[Chào mừng các bạn quay lại với bài một chấm một, phần B: Các thì trọng tâm.<p>Bài hát nhắc tới trong tập (chỉ phân tích tên bài, nghe bản gốc trên nền tảng chính thức):</p><ul><li>I Will Always Love You – Whitney Houston (<a href="https://www.youtube.com/results?search_query=I+Will+Always+Love+You+Whitney+Houston+official">nghe bản gốc</a>)</li><li>We Are Never Ever Getting Back Together – Taylor Swift (<a href="https://www.youtube.com/results?search_query=We+Are+Never+Ever+Getting+Back+Together+Taylor+Swift+official">nghe bản gốc</a>)</li><li>I Still Haven't Found What I'm Looking For – U2 (<a href="https://www.youtube.com/results?search_query=I+Still+Haven%27t+Found+What+I%27m+Looking+For+U2+official">nghe bản gốc</a>)</li><li>We Don't Talk Anymore – Charlie Puth (<a href="https://www.youtube.com/results?search_query=We+Don%27t+Talk+Anymore+Charlie+Puth+official">nghe bản gốc</a>)</li><li>Nothing's Gonna Change My Love for You – George Benson (<a href="https://www.youtube.com/results?search_query=Nothing%27s+Gonna+Change+My+Love+for+You+George+Benson+official">nghe bản gốc</a>)</li></ul>]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
-      <guid isPermaLink="false">1-1-b-v0.3.0-module1</guid>
-      <pubDate>Fri, 18 Sep 2026 10:49:59 +0700</pubDate>
-      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-1-b.mp3" length="3696497" type="audio/mpeg"/>
-      <itunes:duration>07:41</itunes:duration>
+      <guid isPermaLink="false">1-1-b-v0.4.0-module1</guid>
+      <pubDate>Sat, 19 Sep 2026 10:26:08 +0700</pubDate>
+      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.4.0-module1/lesson-1-1-b.mp3" length="10516550" type="audio/mpeg"/>
+      <itunes:duration>21:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
@@ -42,12 +42,12 @@
     </item>
     <item>
       <title><![CDATA[Bài 1.2A]]></title>
-      <description><![CDATA[Chào mừng các bạn đến với chuỗi podcast chuyên sâu về ngữ pháp thực chiến dành riêng cho kỳ thi VSTEP từ trình độ B1 lên B2 và C1. Hôm nay, chúng ta cùng phân tích chuyên đề trọng tâm của Module 1: Bài một chấm hai, Quy tắc phối thì và xác định mốc thời gian.]]></description>
+      <description><![CDATA[Chào mừng các bạn đến với chuỗi podcast ngữ pháp thực chiến cho kỳ thi VSTEP. Đây là bài một chấm hai, phần A: Quy tắc phối thì và mốc thời gian.]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
-      <guid isPermaLink="false">1-2-a-v0.2.0-pilot</guid>
-      <pubDate>Sat, 19 Sep 2026 10:49:59 +0700</pubDate>
-      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.2.0-pilot/lesson-1-2-a.mp3" length="8341576" type="audio/mpeg"/>
-      <itunes:duration>17:22</itunes:duration>
+      <guid isPermaLink="false">1-2-a-v0.4.0-module1</guid>
+      <pubDate>Sun, 20 Sep 2026 10:26:08 +0700</pubDate>
+      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.4.0-module1/lesson-1-2-a.mp3" length="10002758" type="audio/mpeg"/>
+      <itunes:duration>20:50</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
@@ -55,90 +55,90 @@
     </item>
     <item>
       <title><![CDATA[Bài 1.2B]]></title>
-      <description><![CDATA[Chào mừng các bạn quay trở lại với chuỗi podcast ôn luyện VSTEP thực chiến. Trong phần trước của Tập một chấm hai A, chúng ta đã nắm chắc bản chất và công thức của các liên từ thời gian.]]></description>
+      <description><![CDATA[Chào mừng các bạn quay lại với bài một chấm hai, phần B: Quy tắc phối thì và mốc thời gian.<p>Bài hát nhắc tới trong tập (chỉ phân tích tên bài, nghe bản gốc trên nền tảng chính thức):</p><ul><li>Wake Me Up When September Ends – Green Day (<a href="https://www.youtube.com/results?search_query=Wake+Me+Up+When+September+Ends+Green+Day+official">nghe bản gốc</a>)</li><li>Before He Cheats – Carrie Underwood (<a href="https://www.youtube.com/results?search_query=Before+He+Cheats+Carrie+Underwood+official">nghe bản gốc</a>)</li><li>After the Love Has Gone – Earth, Wind & Fire (<a href="https://www.youtube.com/results?search_query=After+the+Love+Has+Gone+Earth%2C+Wind+%26+Fire+official">nghe bản gốc</a>)</li><li>Until I Found You – Stephen Sanchez (<a href="https://www.youtube.com/results?search_query=Until+I+Found+You+Stephen+Sanchez+official">nghe bản gốc</a>)</li><li>Since U Been Gone – Kelly Clarkson (<a href="https://www.youtube.com/results?search_query=Since+U+Been+Gone+Kelly+Clarkson+official">nghe bản gốc</a>)</li></ul>]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
-      <guid isPermaLink="false">1-2-b-v0.2.0-pilot</guid>
-      <pubDate>Sun, 20 Sep 2026 10:49:59 +0700</pubDate>
-      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.2.0-pilot/lesson-1-2-b.mp3" length="8130760" type="audio/mpeg"/>
-      <itunes:duration>16:56</itunes:duration>
+      <guid isPermaLink="false">1-2-b-v0.4.0-module1</guid>
+      <pubDate>Mon, 21 Sep 2026 10:26:08 +0700</pubDate>
+      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.4.0-module1/lesson-1-2-b.mp3" length="11374982" type="audio/mpeg"/>
+      <itunes:duration>23:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>4</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.3A (bản ngắn)]]></title>
-      <description><![CDATA[Chào mừng các bạn đến với chuỗi podcast chuyên sâu về ngữ pháp thực chiến VSTEP. Hôm nay, chúng ta cùng phân tích chuyên đề trọng tâm Bài một chấm ba: Phân biệt Danh động từ (V-ing) và Động từ nguyên mẫu.]]></description>
+      <title><![CDATA[Bài 1.3A]]></title>
+      <description><![CDATA[Chào mừng các bạn đến với chuỗi podcast ngữ pháp thực chiến cho kỳ thi VSTEP. Đây là bài một chấm ba, phần A: Danh động từ và động từ nguyên mẫu.]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
-      <guid isPermaLink="false">1-3-a-v0.3.0-module1</guid>
-      <pubDate>Mon, 21 Sep 2026 10:49:59 +0700</pubDate>
-      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-3-a.mp3" length="4386760" type="audio/mpeg"/>
-      <itunes:duration>09:08</itunes:duration>
+      <guid isPermaLink="false">1-3-a-v0.4.0-module1</guid>
+      <pubDate>Tue, 22 Sep 2026 10:26:08 +0700</pubDate>
+      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.4.0-module1/lesson-1-3-a.mp3" length="11088902" type="audio/mpeg"/>
+      <itunes:duration>23:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>5</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.3B (bản ngắn)]]></title>
-      <description><![CDATA[Chào mừng các bạn trở lại với Tập B của bài học Danh động từ và Động từ nguyên mẫu. Hôm nay, chúng sẽ tìm hiểu nhóm kiến thức khó nhất: Các động từ đổi nghĩa tùy theo đi với V-ing hay To-V, bao gồm Stop, Remember, Forget, Try và Regret.]]></description>
+      <title><![CDATA[Bài 1.3B]]></title>
+      <description><![CDATA[Chào mừng các bạn quay lại với bài một chấm ba, phần B: Danh động từ và động từ nguyên mẫu.<p>Bài hát nhắc tới trong tập (chỉ phân tích tên bài, nghe bản gốc trên nền tảng chính thức):</p><ul><li>I Want to Hold Your Hand – The Beatles (<a href="https://www.youtube.com/results?search_query=I+Want+to+Hold+Your+Hand+The+Beatles+official">nghe bản gốc</a>)</li><li>I Just Called to Say I Love You – Stevie Wonder (<a href="https://www.youtube.com/results?search_query=I+Just+Called+to+Say+I+Love+You+Stevie+Wonder+official">nghe bản gốc</a>)</li><li>Let It Go – Idina Menzel (<a href="https://www.youtube.com/results?search_query=Let+It+Go+Idina+Menzel+official">nghe bản gốc</a>)</li><li>Make You Feel My Love – Adele (<a href="https://www.youtube.com/results?search_query=Make+You+Feel+My+Love+Adele+official">nghe bản gốc</a>)</li><li>Don't Stop Believin' – Journey (<a href="https://www.youtube.com/results?search_query=Don%27t+Stop+Believin%27+Journey+official">nghe bản gốc</a>)</li></ul>]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
-      <guid isPermaLink="false">1-3-b-v0.3.0-module1</guid>
-      <pubDate>Tue, 22 Sep 2026 10:49:59 +0700</pubDate>
-      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-3-b.mp3" length="3009736" type="audio/mpeg"/>
-      <itunes:duration>06:16</itunes:duration>
+      <guid isPermaLink="false">1-3-b-v0.4.0-module1</guid>
+      <pubDate>Wed, 23 Sep 2026 10:26:08 +0700</pubDate>
+      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.4.0-module1/lesson-1-3-b.mp3" length="10863494" type="audio/mpeg"/>
+      <itunes:duration>22:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>6</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.4A (bản ngắn)]]></title>
-      <description><![CDATA[0. Ôn nền (Foundation Review).]]></description>
+      <title><![CDATA[Bài 1.4A]]></title>
+      <description><![CDATA[Chào mừng các bạn đến với chuỗi podcast ngữ pháp thực chiến cho kỳ thi VSTEP. Đây là bài một chấm bốn, phần A: Câu bị động và động từ khuyết thiếu.]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
-      <guid isPermaLink="false">1-4-a-v0.3.0-module1</guid>
-      <pubDate>Wed, 23 Sep 2026 10:49:59 +0700</pubDate>
-      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-4-a.mp3" length="1982129" type="audio/mpeg"/>
-      <itunes:duration>04:07</itunes:duration>
+      <guid isPermaLink="false">1-4-a-v0.4.0-module1</guid>
+      <pubDate>Thu, 24 Sep 2026 10:26:08 +0700</pubDate>
+      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.4.0-module1/lesson-1-4-a.mp3" length="11522822" type="audio/mpeg"/>
+      <itunes:duration>24:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>7</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.4B (bản ngắn)]]></title>
-      <description><![CDATA[Chào các bạn, tiếp nối phần A, phần B sẽ nói về bẫy nhận diện và cách ứng dụng bị động. Đầu tiên là bẫy mệnh đề quan hệ rút gọn trong bài Đọc. Ví dụ: Một nghiên cứu mới, được thực hiện bởi các nhà khoa học, đã cảnh báo rằng...]]></description>
+      <title><![CDATA[Bài 1.4B]]></title>
+      <description><![CDATA[Chào mừng các bạn quay lại với bài một chấm bốn, phần B: Câu bị động và động từ khuyết thiếu.<p>Bài hát nhắc tới trong tập (chỉ phân tích tên bài, nghe bản gốc trên nền tảng chính thức):</p><ul><li>Can't Help Falling in Love – Elvis Presley (<a href="https://www.youtube.com/results?search_query=Can%27t+Help+Falling+in+Love+Elvis+Presley+official">nghe bản gốc</a>)</li><li>Should I Stay or Should I Go – The Clash (<a href="https://www.youtube.com/results?search_query=Should+I+Stay+or+Should+I+Go+The+Clash+official">nghe bản gốc</a>)</li><li>It Must Have Been Love – Roxette (<a href="https://www.youtube.com/results?search_query=It+Must+Have+Been+Love+Roxette+official">nghe bản gốc</a>)</li><li>Born This Way – Lady Gaga (<a href="https://www.youtube.com/results?search_query=Born+This+Way+Lady+Gaga+official">nghe bản gốc</a>)</li></ul>]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
-      <guid isPermaLink="false">1-4-b-v0.3.0-module1</guid>
-      <pubDate>Thu, 24 Sep 2026 10:49:59 +0700</pubDate>
-      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-4-b.mp3" length="1373297" type="audio/mpeg"/>
-      <itunes:duration>02:51</itunes:duration>
+      <guid isPermaLink="false">1-4-b-v0.4.0-module1</guid>
+      <pubDate>Fri, 25 Sep 2026 10:26:08 +0700</pubDate>
+      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.4.0-module1/lesson-1-4-b.mp3" length="10800134" type="audio/mpeg"/>
+      <itunes:duration>22:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>8</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.5A (bản ngắn)]]></title>
-      <description><![CDATA[Chào các bạn! Chào mừng đến với tập 1.5A của VSTEP Podcast. Hôm nay chúng ta sẽ bắt đầu tìm hiểu về Cấu trúc So sánh.]]></description>
+      <title><![CDATA[Bài 1.5A]]></title>
+      <description><![CDATA[Chào mừng các bạn đến với chuỗi podcast ngữ pháp thực chiến cho kỳ thi VSTEP. Đây là bài một chấm năm, phần A: Các dạng so sánh. Đây cũng là bài cuối cùng của Module 1.]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
-      <guid isPermaLink="false">1-5-a-v0.3.0-module1</guid>
-      <pubDate>Fri, 25 Sep 2026 10:49:59 +0700</pubDate>
-      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-5-a.mp3" length="1079537" type="audio/mpeg"/>
-      <itunes:duration>02:14</itunes:duration>
+      <guid isPermaLink="false">1-5-a-v0.4.0-module1</guid>
+      <pubDate>Sat, 26 Sep 2026 10:26:08 +0700</pubDate>
+      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.4.0-module1/lesson-1-5-a.mp3" length="10959302" type="audio/mpeg"/>
+      <itunes:duration>22:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>9</itunes:episode>
     </item>
     <item>
-      <title><![CDATA[Bài 1.5B (bản ngắn)]]></title>
-      <description><![CDATA[Chào các bạn đến với tập 1.5B của VSTEP Podcast. Tiếp nối phần trước, hôm nay chúng ta sẽ tìm hiểu so sánh nhất và ứng dụng của chúng trong bài thi VSTEP.]]></description>
+      <title><![CDATA[Bài 1.5B]]></title>
+      <description><![CDATA[Chào mừng các bạn quay lại với bài một chấm năm, phần B: Các dạng so sánh. Đây là tập cuối cùng của Module 1.<p>Bài hát nhắc tới trong tập (chỉ phân tích tên bài, nghe bản gốc trên nền tảng chính thức):</p><ul><li>Harder, Better, Faster, Stronger – Daft Punk (<a href="https://www.youtube.com/results?search_query=Harder%2C+Better%2C+Faster%2C+Stronger+Daft+Punk+official">nghe bản gốc</a>)</li><li>Stronger (What Doesn't Kill You) – Kelly Clarkson (<a href="https://www.youtube.com/results?search_query=Stronger+%28What+Doesn%27t+Kill+You%29+Kelly+Clarkson+official">nghe bản gốc</a>)</li><li>Greatest Love of All – Whitney Houston (<a href="https://www.youtube.com/results?search_query=Greatest+Love+of+All+Whitney+Houston+official">nghe bản gốc</a>)</li><li>Nothing Compares 2 U – Sinéad O'Connor (<a href="https://www.youtube.com/results?search_query=Nothing+Compares+2+U+Sin%C3%A9ad+O%27Connor+official">nghe bản gốc</a>)</li></ul>]]></description>
       <link>https://lmk89.github.io/VSTEP/</link>
-      <guid isPermaLink="false">1-5-b-v0.3.0-module1</guid>
-      <pubDate>Sat, 26 Sep 2026 10:49:59 +0700</pubDate>
-      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.3.0-module1/lesson-1-5-b.mp3" length="1108337" type="audio/mpeg"/>
-      <itunes:duration>02:18</itunes:duration>
+      <guid isPermaLink="false">1-5-b-v0.4.0-module1</guid>
+      <pubDate>Sun, 27 Sep 2026 10:26:08 +0700</pubDate>
+      <enclosure url="https://github.com/LMK89/VSTEP/releases/download/v0.4.0-module1/lesson-1-5-b.mp3" length="11194694" type="audio/mpeg"/>
+      <itunes:duration>23:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>

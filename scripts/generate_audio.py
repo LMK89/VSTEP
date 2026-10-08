@@ -55,7 +55,7 @@ def make_silence(duration_sec, out_path):
         ]
         subprocess.run(cmd, capture_output=True, check=True)
 
-async def generate_chunk(text, voice, rate_str, out_path, sem, max_retries=3):
+async def generate_chunk(text, voice, rate_str, out_path, sem, max_retries=5):
     import edge_tts
     # Determine cache hash
     hash_input = f"{text}_{voice}_{rate_str or ''}"
@@ -85,7 +85,7 @@ async def generate_chunk(text, voice, rate_str, out_path, sem, max_retries=3):
                 if attempt == max_retries - 1:
                     logging.error(f"Error on chunk [{text[:30]}...]: {e}")
                     raise e
-                await asyncio.sleep(1.5)
+                await asyncio.sleep(2.0 * (attempt + 1))
 
 def compute_file_hash(filepath):
     hasher = hashlib.md5()

@@ -9,7 +9,7 @@ from urllib.parse import quote_plus
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
 
-RELEASE_TAG = "v0.3.0-module1"
+RELEASE_TAG = "v0.4.0-module1"
 BASE_URL = f"https://github.com/LMK89/VSTEP/releases/download/{RELEASE_TAG}"
 SITE_URL = "https://lmk89.github.io/VSTEP/"
 
@@ -58,8 +58,6 @@ def generate_podcast_xml(out_path="podcast.xml"):
         
         # Build Title
         title_str = f"Bài {parts[0]}.{parts[1]}{parts[2].upper()}"
-        if parts[1] in ["1", "3", "4", "5"]:
-            title_str += " (bản ngắn)"
             
         with open(script_path, 'r', encoding='utf-8') as f:
             all_lines = f.read().split('\n')
@@ -88,14 +86,13 @@ def generate_podcast_xml(out_path="podcast.xml"):
         
         pub_date = (base_date + timedelta(days=idx)).strftime("%a, %d %b %Y %H:%M:%S +0700")
         
-        current_release = "v0.2.0-pilot" if parts[1] == "2" else RELEASE_TAG
-        mp3_url = f"https://github.com/LMK89/VSTEP/releases/download/{current_release}/{mp3_name}"
+        mp3_url = f"https://github.com/LMK89/VSTEP/releases/download/{RELEASE_TAG}/{mp3_name}"
         
         item = f'''    <item>
       <title><![CDATA[{title_str}]]></title>
       <description><![CDATA[{desc}]]></description>
       <link>{SITE_URL}</link>
-      <guid isPermaLink="false">{ep_id}-{current_release}</guid>
+      <guid isPermaLink="false">{ep_id}-{RELEASE_TAG}</guid>
       <pubDate>{pub_date}</pubDate>
       <enclosure url="{mp3_url}" length="{size}" type="audio/mpeg"/>
       <itunes:duration>{dur}</itunes:duration>

@@ -109,16 +109,16 @@ def main():
                 "episodes": [
                     {
                         "id": "1-2-a",
-                        "title": "Tập 1.2A: Bản Chất Ngôn Ngữ & Từ Vựng Học Thuật",
+                        "title": "Tập 1.2A: Email báo sự cố và 8 liên từ thời gian",
                         "audio_file": "lesson-1-2-a.mp3",
-                        "duration_target": "15-20 mins",
+                        "duration_target": "20-30 mins",
                         "script_path": "./podcast-scripts/script-1-2-a.txt"
                     },
                     {
                         "id": "1-2-b",
-                        "title": "Tập 1.2B: Bẫy Đề Thi & Kỹ Năng Sản Xuất Writing/Speaking",
+                        "title": "Tập 1.2B: Bản tin học trực tuyến và học qua bài hát",
                         "audio_file": "lesson-1-2-b.mp3",
-                        "duration_target": "15-20 mins",
+                        "duration_target": "20-30 mins",
                         "script_path": "./podcast-scripts/script-1-2-b.txt"
                     }
                 ],
