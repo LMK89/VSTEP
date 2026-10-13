@@ -33,3 +33,12 @@ Hệ sinh thái tài liệu ôn thi VSTEP thực chiến chất lượng cao tí
 - [ ] [**Bài 3.1: Cấu Trúc Đề Xuất, Tác Động & Ngăn Chặn**](./docs/3-1-cau-truc-de-xuat-tac-dong-ngan-chan.md) – *Bộ khung mẫu câu Writing Task 2 dạng Problem/Solution.*
 - [ ] [**Bài 3.2: Bị Động Khách Quan & So Sánh Kép**](./docs/3-2-bi-dong-khach-quan-va-so-sanh-kep.md) – *Cấu trúc The more..., the more... & It is asserted that...*
 - [ ] [**Bài 3.3: Đảo Ngữ Nâng Cao và Bộ Liên Từ Điều Hướng Bài Luận**](./docs/3-3-dao-ngu-nang-cao-va-bo-lien-tu-dieu-huong.md) – *Not only, Hardly/No sooner, Only when, Under no circumstances.*
+
+---
+
+## 🎯 Tài Liệu Chuyên Đề (Cross-Cutting Reference)
+
+Tài liệu không thuộc bài ngữ pháp nào, dùng xuyên suốt cả lộ trình:
+
+- [**Bộ Bẫy Kỹ Thuật Làm Bài VSTEP**](./docs/BAY-DE-THI.md) – *17 bẫy Listening/Reading/Writing về kỹ năng thi (lặp từ, tự sửa lời, NOT GIVEN, đổi mức độ, phủ định ẩn...) kèm bài tập có lời giải.*
+- [**Quy Chuẩn Định Dạng Tài Liệu**](./docs/STYLE.md) – *Style guide cho mọi file trong `docs/`.*
