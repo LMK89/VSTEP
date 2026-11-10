@@ -199,6 +199,43 @@
     <!-- Right Column: Episodes Player & Study Document -->
     <section class="lg:col-span-7 flex flex-col gap-5">
 
+      <!-- TRIẾT HỌC CAO HỌC UIT (DÙNG TẠM 1 TUẦN) -->
+      <div class="bg-gradient-to-br from-amber-950/40 via-slate-900 to-slate-900 border border-amber-500/40 rounded-3xl p-5 sm:p-6 shadow-xl">
+        <div class="flex flex-wrap items-center justify-between gap-2 mb-4">
+          <div>
+            <span class="text-xs font-bold text-amber-400 uppercase tracking-wide">🔥 ÔN THI CẤP TỐC 1 TUẦN • ĐỀ ĐÓNG 90 PHÚT • TS. BÙI VĂN MƯA</span>
+            <h2 class="text-base sm:text-lg font-bold text-white mt-0.5">Podcast Triết Học Cao Học UIT (10 Câu: Sườn Ý Chính + Đáp Án Chi Tiết)</h2>
+          </div>
+          <span class="text-xs bg-amber-950/80 border border-amber-700/50 text-amber-300 px-2.5 py-1 rounded-full font-semibold">
+            Âm lượng X2 • 2 Giọng AI
+          </span>
+        </div>
+
+        <!-- Sticky Audio Controller -->
+        <div class="bg-slate-950/90 border border-amber-500/30 rounded-2xl p-4 mb-4">
+          <div class="flex flex-wrap items-center justify-between gap-2 mb-2">
+            <div class="text-xs sm:text-sm font-bold text-amber-300 truncate" id="trietNowPlayingTitle">
+              🎧 Chọn 1 câu bên dưới để bắt đầu nghe & xem sườn bài
+            </div>
+            <div class="flex items-center gap-1.5">
+              <button onclick="setTrietSpeed(1.0)" id="spd-1" class="px-2 py-0.5 rounded text-[11px] font-bold bg-amber-600 text-white">1.0x</button>
+              <button onclick="setTrietSpeed(1.15)" id="spd-115" class="px-2 py-0.5 rounded text-[11px] font-bold bg-slate-800 text-slate-300 hover:bg-slate-700">1.15x</button>
+              <button onclick="setTrietSpeed(1.25)" id="spd-125" class="px-2 py-0.5 rounded text-[11px] font-bold bg-slate-800 text-slate-300 hover:bg-slate-700">1.25x</button>
+              <button onclick="setTrietSpeed(1.5)" id="spd-15" class="px-2 py-0.5 rounded text-[11px] font-bold bg-slate-800 text-slate-300 hover:bg-slate-700">1.5x</button>
+              <button onclick="toggleTrietLoop()" id="btnTrietLoop" class="px-2.5 py-0.5 rounded text-[11px] font-semibold bg-slate-800 text-slate-300 border border-slate-700 hover:bg-slate-700 ml-1">
+                🔁 Tự chuyển câu
+              </button>
+            </div>
+          </div>
+          <audio id="trietAudioPlayer" controls class="w-full h-10 rounded-lg"></audio>
+        </div>
+
+        <!-- 10 Questions List -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5" id="trietEpisodeList">
+          <!-- Populated dynamically from TRIET_DATA -->
+        </div>
+      </div>
+
       <!-- Module 1 Episodes Player -->
       <div class="bg-slate-900/90 border border-slate-800 rounded-3xl p-5 sm:p-6 shadow-xl">
         <div class="flex items-center justify-between mb-4">

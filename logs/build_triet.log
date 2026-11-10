@@ -1,0 +1,59 @@
+2026-11-10 21:34:28,856 [INFO] Đã đọc 10 câu hỏi từ file Word.
+2026-11-10 21:34:28,857 [INFO] Đã tạo Markdown: docs/triet-cau-02.md
+2026-11-10 21:34:28,858 [INFO] Đã tạo Markdown: docs/triet-cau-03.md
+2026-11-10 21:34:28,858 [INFO] Đã tạo Markdown: docs/triet-cau-04.md
+2026-11-10 21:34:28,858 [INFO] Đã tạo Markdown: docs/triet-cau-05.md
+2026-11-10 21:34:28,859 [INFO] Đã tạo Markdown: docs/triet-cau-06.md
+2026-11-10 21:34:28,859 [INFO] Đã tạo Markdown: docs/triet-cau-07.md
+2026-11-10 21:34:28,859 [INFO] Đã tạo Markdown: docs/triet-cau-08.md
+2026-11-10 21:34:28,859 [INFO] Đã tạo Markdown: docs/triet-cau-09.md
+2026-11-10 21:34:28,860 [INFO] Đã tạo Markdown: docs/triet-cau-10.md
+2026-11-10 21:34:28,860 [INFO] Đã tạo Markdown: docs/triet-cau-11.md
+2026-11-10 21:34:28,952 [INFO] Đang tổng hợp giọng nói cho Câu 2 (24 đoạn)...
+2026-11-10 21:35:23,312 [ERROR] Lỗi TTS [Quá trình phát triển mang bốn tính chất ...]: No audio was received. Please verify that your parameters are correct.
+2026-11-10 21:41:09,945 [INFO] Đang tạo Audio Câu 2 (6 khối giọng đọc)...
+2026-11-10 21:43:49,025 [INFO] Đang xử lý Câu 2 (6 khối giọng đọc)...
+2026-11-10 21:43:49,027 [WARNING] Lỗi gọi edge-tts cli 1/5: [Errno 2] No such file or directory: '/Users/lekhang/.local/bin/edge-tts'
+2026-11-10 21:43:51,034 [WARNING] Lỗi gọi edge-tts cli 2/5: [Errno 2] No such file or directory: '/Users/lekhang/.local/bin/edge-tts'
+2026-11-10 21:43:55,040 [WARNING] Lỗi gọi edge-tts cli 3/5: [Errno 2] No such file or directory: '/Users/lekhang/.local/bin/edge-tts'
+2026-11-10 21:44:01,049 [WARNING] Lỗi gọi edge-tts cli 4/5: [Errno 2] No such file or directory: '/Users/lekhang/.local/bin/edge-tts'
+2026-11-10 21:45:06,433 [INFO] Đang xử lý Câu 2 (6 khối giọng đọc)...
+2026-11-10 21:45:23,963 [WARNING] Thử lại 1/5 cho đoạn (548 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:45:31,203 [WARNING] Thử lại 2/5 cho đoạn (548 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:46:17,248 [WARNING] Thử lại 1/5 cho đoạn (1049 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:46:23,084 [WARNING] Thử lại 2/5 cho đoạn (1049 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:46:33,158 [WARNING] Thử lại 3/5 cho đoạn (1049 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:46:44,446 [WARNING] Thử lại 4/5 cho đoạn (1049 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:47:47,192 [WARNING] Thử lại 1/5 cho đoạn (906 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:47:54,741 [WARNING] Thử lại 2/5 cho đoạn (906 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:48:56,283 [INFO] Đang xử lý Câu 2 (27 phân đoạn an toàn)...
+2026-11-10 21:49:04,669 [WARNING] Thử lại 1/5 cho đoạn (920 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:49:11,208 [WARNING] Thử lại 2/5 cho đoạn (920 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:49:22,529 [WARNING] Thử lại 3/5 cho đoạn (920 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:49:35,484 [WARNING] Thử lại 4/5 cho đoạn (920 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:50:40,811 [INFO] Đang xử lý Câu 2 (45 phân đoạn an toàn)...
+2026-11-10 21:50:48,303 [WARNING] Thử lại 1/5 [Nội dung câu hỏi đề bài....]: Traceback (most recent call last):
+  File "/Users/lekhang/.l
+2026-11-10 21:51:20,229 [WARNING] Thử lại 1/5 cho đoạn (234 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:51:26,880 [WARNING] Thử lại 2/5 cho đoạn (234 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:51:35,456 [WARNING] Thử lại 3/5 cho đoạn (234 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:51:47,222 [WARNING] Thử lại 4/5 cho đoạn (234 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:52:00,192 [WARNING] Thử lại 5/5 cho đoạn (234 ký tự): Traceback (most recent call last):
+  File "/Users/lekhang/.local/bin/edge-tts", 
+2026-11-10 21:53:03,108 [INFO] Đang tạo Audio cho Câu 2 (18 phần)...
