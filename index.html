@@ -516,7 +516,102 @@
   </div>
 
   <!-- Logic Script -->
+  <script src="./data/triet_bundle.js"></script>
   <script>
+    let currentTrietIdx = 0;
+    let isTrietLoop = false;
+
+    function renderTrietUI() {
+      const listEl = document.getElementById('trietEpisodeList');
+      if (!listEl || !window.TRIET_DATA) return;
+      listEl.innerHTML = window.TRIET_DATA.map((ep, idx) => `
+        <div onclick="playTrietEpisode(${idx})" id="triet-card-${idx}" class="cursor-pointer bg-slate-950/70 border border-slate-800/80 hover:border-amber-500/50 rounded-2xl p-3.5 transition flex flex-col justify-between">
+          <div>
+            <div class="flex items-center justify-between text-[11px] font-semibold text-amber-400 mb-1">
+              <span>CÂU ${ep.num} • ${ep.duration}</span>
+              <span class="text-slate-500"><i class="fa-solid fa-volume-high"></i> X2 Vol</span>
+            </div>
+            <h4 class="text-xs font-bold text-white line-clamp-1 mb-1">${ep.short_title}</h4>
+            <p class="text-[11px] text-slate-400 line-clamp-2">${ep.question}</p>
+          </div>
+          <div class="flex items-center justify-between pt-2.5 mt-2 border-t border-slate-900 text-[11px]">
+            <span class="text-slate-400 font-medium hover:text-amber-300">
+              <i class="fa-solid fa-play text-amber-400 mr-1"></i> Bấm để nghe
+            </span>
+            <span class="text-slate-500"><i class="fa-solid fa-book-open mr-1"></i> Xem đáp án</span>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function playTrietEpisode(idx) {
+      if (!window.TRIET_DATA || !window.TRIET_DATA[idx]) return;
+      currentTrietIdx = idx;
+      const ep = window.TRIET_DATA[idx];
+      const player = document.getElementById('trietAudioPlayer');
+      const titleEl = document.getElementById('trietNowPlayingTitle');
+      
+      titleEl.innerHTML = `<span class="text-amber-400 animate-pulse mr-1.5">▶ Đang phát:</span> Câu ${ep.num}: ${ep.short_title} (${ep.duration})`;
+      player.src = ep.audio_file;
+      player.play().catch(e => console.log('Autoplay handled:', e));
+
+      // Highlight active card
+      window.TRIET_DATA.forEach((_, i) => {
+        const card = document.getElementById(`triet-card-${i}`);
+        if (card) {
+          if (i === idx) {
+            card.classList.add('border-amber-500', 'bg-amber-950/20');
+            card.classList.remove('border-slate-800/80', 'bg-slate-950/70');
+          } else {
+            card.classList.remove('border-amber-500', 'bg-amber-950/20');
+            card.classList.add('border-slate-800/80', 'bg-slate-950/70');
+          }
+        }
+      });
+
+      // Load Markdown text below
+      loadGrammar(ep.slug);
+
+      // Setup ended event for auto-next
+      player.onended = () => {
+        if (isTrietLoop) {
+          playTrietEpisode(idx);
+        } else if (idx + 1 < window.TRIET_DATA.length) {
+          playTrietEpisode(idx + 1);
+        }
+      };
+    }
+
+    function setTrietSpeed(rate) {
+      const player = document.getElementById('trietAudioPlayer');
+      if (player) player.playbackRate = rate;
+      [1.0, 1.15, 1.25, 1.5].forEach(r => {
+        const id = 'spd-' + String(r).replace('.', '');
+        const btn = document.getElementById(id);
+        if (btn) {
+          if (r === rate) {
+            btn.className = "px-2 py-0.5 rounded text-[11px] font-bold bg-amber-600 text-white";
+          } else {
+            btn.className = "px-2 py-0.5 rounded text-[11px] font-bold bg-slate-800 text-slate-300 hover:bg-slate-700";
+          }
+        }
+      });
+    }
+
+    function toggleTrietLoop() {
+      isTrietLoop = !isTrietLoop;
+      const btn = document.getElementById('btnTrietLoop');
+      if (btn) {
+        if (isTrietLoop) {
+          btn.innerHTML = "🔂 Lặp 1 câu này";
+          btn.className = "px-2.5 py-0.5 rounded text-[11px] font-semibold bg-amber-600/80 text-white border border-amber-500 ml-1";
+        } else {
+          btn.innerHTML = "🔁 Tự chuyển câu";
+          btn.className = "px-2.5 py-0.5 rounded text-[11px] font-semibold bg-slate-800 text-slate-300 border border-slate-700 hover:bg-slate-700 ml-1";
+        }
+      }
+    }
+
     let cards = [
       {
         title: "CARD 1: BY THE TIME",
@@ -557,7 +652,12 @@
 
     window.addEventListener('DOMContentLoaded', () => {
       displayCard(0);
-      loadGrammar('1-2-quy-tac-phoi-thi-va-moc-thoi-gian');
+      renderTrietUI();
+      if (window.TRIET_DATA && window.TRIET_DATA.length > 0) {
+        loadGrammar(window.TRIET_DATA[0].slug);
+      } else {
+        loadGrammar('1-2-quy-tac-phoi-thi-va-moc-thoi-gian');
+      }
     });
 
     function displayCard(idx) {
